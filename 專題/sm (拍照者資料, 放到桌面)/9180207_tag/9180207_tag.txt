@@ -1,0 +1,338 @@
+photo#2 URL: http://farm8.static.flickr.com/7576/15469978830_277c587650.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.20452 latitude=40.80279 accuracy=16] Direction: 292.5 Date: 2014:10:25 14:32:15 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#3 URL: http://farm4.static.flickr.com/3903/15240188296_6cbfd6696d.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21467 latitude=40.792923 accuracy=16] Direction: 22.5 Date: 2014:09:14 14:24:31 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#4 URL: http://farm4.static.flickr.com/3845/14920974381_6acd1afedd.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.181366 latitude=40.824265 accuracy=16] Direction: 292.5 Date: 2014:08:09 08:38:46 TAGS: [Tag [value=theta360, count=0], Tag [value=360, count=0], Tag [value=equirectangular, count=0], Tag [value=planet, count=0]]
+
+photo#5 URL: http://farm6.static.flickr.com/5567/14920975121_3c84f49e4c.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.18137 latitude=40.824318 accuracy=16] Direction: 315 Date: 2014:08:09 08:39:37 TAGS: [Tag [value=theta360, count=0], Tag [value=360, count=0], Tag [value=equirectangular, count=0], Tag [value=planet, count=0]]
+
+photo#6 URL: http://farm4.static.flickr.com/3916/14901063916_38fdcbd7ec.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.18089 latitude=40.824818 accuracy=16] Direction: 202.5 Date: 2014:08:09 08:47:13 TAGS: [Tag [value=theta360, count=0], Tag [value=360, count=0], Tag [value=equirectangular, count=0], Tag [value=planet, count=0]]
+
+photo#7 URL: http://farm4.static.flickr.com/3876/14737387300_7bfb8669bb.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.181435 latitude=40.824177 accuracy=16] Direction: 0 Date: 2014:08:09 08:38:03 TAGS: [Tag [value=theta360, count=0], Tag [value=360, count=0], Tag [value=equirectangular, count=0], Tag [value=planet, count=0]]
+
+photo#8 URL: http://farm6.static.flickr.com/5530/14282268118_0d6f8aaf50.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.31212 latitude=40.61198 accuracy=16] Direction: 157.5 Date: 2014:06:19 19:22:32 TAGS: [Tag [value=theta360, count=0]]
+
+photo#9 URL: http://farm3.static.flickr.com/2923/14445745136_713cc6fa61.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.40767 latitude=40.51295 accuracy=16] Direction: 270 Date: 2014:06:19 20:08:57 TAGS: [Tag [value=theta360, count=0]]
+
+photo#10 URL: http://farm4.static.flickr.com/3890/14369298264_ff8004b8e5.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21494 latitude=40.79306 accuracy=16] Direction: 56.5775 Date: 2014:06:07 10:48:31 TAGS: []
+
+photo#11 URL: http://farm3.static.flickr.com/2899/14064990070_5003b5139e.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.062706 latitude=41.049686 accuracy=16] Direction: 67.5 Date: 2014:05:22 09:11:10 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#12 URL: http://farm6.static.flickr.com/5272/14203719556_9b885192c8.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.18699 latitude=40.828335 accuracy=16] Direction: 112.5 Date: 2014:05:19 21:16:54 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#13 URL: http://farm6.static.flickr.com/5471/14039174559_f8a2275959.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.215065 latitude=40.792973 accuracy=16] Direction: 225 Date: 2014:05:19 18:19:21 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#14 URL: http://farm6.static.flickr.com/5237/14237911803_9237e82445.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.14111 latitude=41.071762 accuracy=16] Direction: 180 Date: 2014:05:18 14:26:31 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#15 URL: http://farm3.static.flickr.com/2915/14194578746_2c02566ec3.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.141106 latitude=41.07174 accuracy=16] Direction: 292.5 Date: 2014:05:18 14:17:16 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#16 URL: http://farm3.static.flickr.com/2904/14031124140_e88332e94c.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.141106 latitude=41.071587 accuracy=16] Direction: 180 Date: 2014:05:18 13:03:59 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#17 URL: http://farm6.static.flickr.com/5559/14021278369_b8a557166f.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.20996 latitude=40.792988 accuracy=16] Direction: 315 Date: 2014:05:17 12:35:52 TAGS: [Tag [value=theta, count=0]]
+
+photo#18 URL: http://farm6.static.flickr.com/5181/13970297189_05953b2c33.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.20567 latitude=40.799805 accuracy=16] Direction: 337.5 Date: 2014:05:10 11:19:46 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#19 URL: http://farm6.static.flickr.com/5592/14173911863_45dd1c6f7e.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.20459 latitude=40.800556 accuracy=16] Direction: 315 Date: 2014:05:10 10:37:03 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#20 URL: http://farm3.static.flickr.com/2906/13940139250_763f98179b.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21315 latitude=40.78903 accuracy=16] Direction: 22.5 Date: 2014:05:02 08:15:25 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#21 URL: http://farm3.static.flickr.com/2927/13939990718_2ac3b038b4.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21454 latitude=40.793034 accuracy=16] Direction: 337.5 Date: 2014:05:03 09:23:03 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#22 URL: http://farm6.static.flickr.com/5530/13911907150_2bf493d8c9.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21454 latitude=40.79306 accuracy=16] Direction: 270 Date: 2014:05:03 11:20:32 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#23 URL: http://farm6.static.flickr.com/5569/14112550543_e4fa53ecbf.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.2129 latitude=40.789253 accuracy=16] Direction: 45 Date: 2014:05:02 07:45:13 TAGS: [Tag [value=theta360, count=0]]
+
+photo#24 URL: http://farm3.static.flickr.com/2917/13902873290_d9dfb16316.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.212875 latitude=40.789185 accuracy=16] Direction: 292.5 Date: 2014:05:02 08:05:02 TAGS: []
+
+photo#25 URL: http://farm3.static.flickr.com/2929/14020692522_cd801b0616.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21465 latitude=40.79298 accuracy=16] Direction: 315 Date: 2014:04:26 14:30:40 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#26 URL: http://farm8.static.flickr.com/7086/13918405731_06e8c9ab25.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21444 latitude=40.792927 accuracy=16] Direction: 202.5 Date: 2014:04:19 11:22:37 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#27 URL: http://farm8.static.flickr.com/7276/13906304472_07b927b8cf.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.205 latitude=40.803596 accuracy=16] Direction: 337.5 Date: 2014:04:18 15:15:10 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#28 URL: http://farm4.static.flickr.com/3674/13929865084_d05a0036e2.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.17373 latitude=40.787086 accuracy=16] Direction: 337.5 Date: 2014:04:18 14:23:50 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#29 URL: http://farm3.static.flickr.com/2847/13887328645_844124bb7a.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.284035 latitude=41.042343 accuracy=16] Direction: 157.5 Date: 2014:04:14 17:50:36 TAGS: [Tag [value=theta, count=0], Tag [value=equirectangular, count=0]]
+
+photo#30 URL: http://farm8.static.flickr.com/7385/13887728794_0ffdd7ca82.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.28396 latitude=41.042408 accuracy=16] Direction: 0 Date: 2014:04:14 19:25:35 TAGS: [Tag [value=theta, count=0], Tag [value=equirectangular, count=0]]
+
+photo#31 URL: http://farm8.static.flickr.com/7244/13887327025_db3876db68.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.28344 latitude=41.04283 accuracy=16] Direction: 202.5 Date: 2014:04:14 18:48:48 TAGS: [Tag [value=theta, count=0], Tag [value=equirectangular, count=0]]
+
+photo#32 URL: http://farm8.static.flickr.com/7155/13887730194_7af8564e17.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.283455 latitude=41.04283 accuracy=16] Direction: 0 Date: 2014:04:14 18:48:09 TAGS: [Tag [value=theta, count=0], Tag [value=equirectangular, count=0]]
+
+photo#33 URL: http://farm3.static.flickr.com/2830/13887396753_a4f2cb025f.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.28347 latitude=41.04273 accuracy=16] Direction: 202.5 Date: 2014:04:14 18:43:55 TAGS: [Tag [value=theta, count=0], Tag [value=equirectangular, count=0]]
+
+photo#34 URL: http://farm8.static.flickr.com/7358/13854623564_0c79ab0108.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.16879 latitude=40.787476 accuracy=16] Direction: 270 Date: 2014:04:14 13:44:09 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#35 URL: http://farm4.static.flickr.com/3827/13854250355_e66f9a28c4.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.16036 latitude=40.783813 accuracy=16] Direction: 225 Date: 2014:04:14 13:31:14 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#36 URL: http://farm3.static.flickr.com/2940/13768917645_c9e61c695d.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.20859 latitude=40.84119 accuracy=16] Direction: 0 Date: 2014:04:10 18:16:36 TAGS: [Tag [value=theta360, count=0]]
+
+photo#37 URL: http://farm3.static.flickr.com/2840/13634437633_4564d17308.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.214806 latitude=40.793076 accuracy=16] Direction: 157.5 Date: 2014:04:04 21:10:04 TAGS: [Tag [value=nomoredentist, count=0], Tag [value=theta360, count=0]]
+
+photo#38 URL: http://farm4.static.flickr.com/3666/13416525943_d3622727f8.jpg User: 9180207@N03 GEO: GeoData[longitude=-73.9806 latitude=40.759663 accuracy=16] Direction:  Date: 2014:03:23 09:54:41 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#39 URL: http://farm8.static.flickr.com/7199/13416412955_87faabaf6d.jpg User: 9180207@N03 GEO: GeoData[longitude=-73.9806 latitude=40.759663 accuracy=16] Direction:  Date: 2014:03:23 09:54:41 TAGS: [Tag [value=theta360, count=0]]
+
+photo#40 URL: http://farm8.static.flickr.com/7369/13368773603_a3f2158860.jpg User: 9180207@N03 GEO: GeoData[longitude=-73.98582 latitude=40.757587 accuracy=16] Direction:  Date: 2014:03:23 09:59:24 TAGS: [Tag [value=theta360, count=0]]
+
+photo#41 URL: http://farm4.static.flickr.com/3681/13368774703_b234b2a741.jpg User: 9180207@N03 GEO: GeoData[longitude=-73.98582 latitude=40.757587 accuracy=16] Direction:  Date: 2014:03:23 09:59:24 TAGS: [Tag [value=theta360, count=0]]
+
+photo#42 URL: http://farm4.static.flickr.com/3795/13369010834_3786de934b.jpg User: 9180207@N03 GEO: GeoData[longitude=-73.98582 latitude=40.757587 accuracy=16] Direction:  Date: 2014:03:23 09:59:24 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#43 URL: http://farm4.static.flickr.com/3777/13368777923_07e15ac3b8.jpg User: 9180207@N03 GEO: GeoData[longitude=-73.98473 latitude=40.75906 accuracy=16] Direction:  Date: 2014:03:23 09:58:47 TAGS: [Tag [value=theta360, count=0]]
+
+photo#44 URL: http://farm8.static.flickr.com/7318/13368638635_f3ec255708.jpg User: 9180207@N03 GEO: GeoData[longitude=-73.98473 latitude=40.75906 accuracy=16] Direction:  Date: 2014:03:23 09:58:47 TAGS: [Tag [value=theta360, count=0]]
+
+photo#45 URL: http://farm4.static.flickr.com/3671/13368781623_b7a4d19da6.jpg User: 9180207@N03 GEO: GeoData[longitude=-73.98473 latitude=40.75906 accuracy=16] Direction:  Date: 2014:03:23 09:58:47 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#46 URL: http://farm8.static.flickr.com/7230/13328811044_7435aa2eef.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.06439 latitude=41.052437 accuracy=16] Direction:  Date: 2014:03:21 09:52:18 TAGS: [Tag [value=theta360, count=0]]
+
+photo#47 URL: http://farm8.static.flickr.com/7127/13328812094_e9455de236.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.06439 latitude=41.052437 accuracy=16] Direction:  Date: 2014:03:21 09:52:18 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#48 URL: http://farm8.static.flickr.com/7332/13328812384_59257a3e39.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.06448 latitude=41.052414 accuracy=16] Direction: 270 Date: 2014:03:21 09:39:48 TAGS: [Tag [value=theta360, count=0]]
+
+photo#49 URL: http://farm4.static.flickr.com/3824/13328590873_69f7a95155.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.06448 latitude=41.052414 accuracy=16] Direction: 270 Date: 2014:03:21 09:39:48 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#50 URL: http://farm4.static.flickr.com/3741/13328435115_7c66397f75.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.06443 latitude=41.05239 accuracy=16] Direction: 157.5 Date: 2014:03:21 09:39:04 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#51 URL: http://farm8.static.flickr.com/7407/13328593043_5af99c768e.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.064476 latitude=41.05239 accuracy=16] Direction: 202.5 Date: 2014:03:21 09:34:10 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#52 URL: http://farm8.static.flickr.com/7387/13328436945_c6dd6d9799.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.06445 latitude=41.052353 accuracy=16] Direction: 202.5 Date: 2014:03:21 09:33:19 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#53 URL: http://farm4.static.flickr.com/3752/13328817024_7216998d12.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.06449 latitude=41.052406 accuracy=16] Direction: 157.5 Date: 2014:03:21 09:31:14 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#54 URL: http://farm4.static.flickr.com/3751/13119014505_5c31043d50.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.20387 latitude=40.790787 accuracy=16] Direction: 292.5 Date: 2014:03:08 15:54:52 TAGS: [Tag [value=theta360, count=0], Tag [value=color, count=0]]
+
+photo#55 URL: http://farm8.static.flickr.com/7298/13119015275_22588bc2aa.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.20387 latitude=40.790787 accuracy=16] Direction: 292.5 Date: 2014:03:08 15:54:52 TAGS: [Tag [value=theta360, count=0], Tag [value=color, count=0]]
+
+photo#56 URL: http://farm4.static.flickr.com/3281/12995942193_d18470b717.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.1534 latitude=40.7858 accuracy=16] Direction:  Date:  TAGS: [Tag [value=theta360, count=0]]
+
+photo#57 URL: http://farm8.static.flickr.com/7328/12996216764_b7675eddd8.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.1534 latitude=40.7858 accuracy=16] Direction: 45 Date: 2014:03:07 12:41:57 TAGS: [Tag [value=equirectangular, count=0], Tag [value=theta360, count=0]]
+
+photo#58 URL: http://farm3.static.flickr.com/2076/12961613783_a68cc46069.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21111 latitude=40.81703 accuracy=16] Direction: 247.5 Date: 2014:03:05 19:45:45 TAGS: [Tag [value=theta360, count=0]]
+
+photo#59 URL: http://farm8.static.flickr.com/7295/12961470205_3752870875.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21111 latitude=40.81703 accuracy=16] Direction: 247.5 Date: 2014:03:05 19:45:45 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#60 URL: http://farm4.static.flickr.com/3741/12865929205_1f9995ae9f.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.20712 latitude=40.84099 accuracy=16] Direction: 270 Date: 2014:03:01 17:30:18 TAGS: [Tag [value=theta360, count=0]]
+
+photo#61 URL: http://farm3.static.flickr.com/2809/12866353574_0de418cec3.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.20712 latitude=40.84099 accuracy=16] Direction: 270 Date: 2014:03:01 17:30:18 TAGS: [Tag [value=theta360, count=0]]
+
+photo#62 URL: http://farm3.static.flickr.com/2807/12784900445_f4c86a5be9.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.17896 latitude=40.733772 accuracy=16] Direction: 90 Date: 2014:02:25 12:04:42 TAGS: [Tag [value=theta360, count=0]]
+
+photo#63 URL: http://farm8.static.flickr.com/7451/12785009153_e8c2dd6e8e.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.17896 latitude=40.733772 accuracy=16] Direction: 90 Date: 2014:02:25 12:04:42 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#64 URL: http://farm3.static.flickr.com/2858/12673995205_7cbf308249.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05543 latitude=41.049088 accuracy=16] Direction:  Date:  TAGS: [Tag [value=theta360, count=0]]
+
+photo#65 URL: http://farm4.static.flickr.com/3787/12674123733_24d5626c37.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05543 latitude=41.049088 accuracy=16] Direction: 292.5 Date: 2014:02:20 13:38:29 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#66 URL: http://farm4.static.flickr.com/3790/12645785095_8c3f9ef30b.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.09263 latitude=40.82875 accuracy=16] Direction:  Date:  TAGS: [Tag [value=theta360, count=0]]
+
+photo#67 URL: http://farm4.static.flickr.com/3809/12646265344_a8641c19ee.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.09263 latitude=40.82875 accuracy=16] Direction: 0 Date: 2014:02:19 12:56:13 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#68 URL: http://farm6.static.flickr.com/5476/12645783125_cba989f502.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.08831 latitude=40.833744 accuracy=16] Direction: 67.5 Date: 2014:02:19 12:31:45 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#69 URL: http://farm4.static.flickr.com/3771/12592488934_71acfc9fb4.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21488 latitude=40.792645 accuracy=16] Direction:  Date:  TAGS: [Tag [value=theta360, count=0]]
+
+photo#70 URL: http://farm3.static.flickr.com/2849/12591980113_0e68834ac2.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21488 latitude=40.792645 accuracy=16] Direction: 67.5 Date: 2014:02:17 10:29:23 TAGS: [Tag [value=theta360, count=0]]
+
+photo#71 URL: http://farm4.static.flickr.com/3824/12591868755_15f459bdab.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21488 latitude=40.792645 accuracy=16] Direction: 67.5 Date: 2014:02:17 10:29:23 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#72 URL: http://farm3.static.flickr.com/2880/12576154244_64e649609d.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17319 latitude=36.112556 accuracy=16] Direction:  Date:  TAGS: [Tag [value=theta360, count=0]]
+
+photo#73 URL: http://farm8.static.flickr.com/7439/12575802283_5d7e08057e.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17319 latitude=36.112556 accuracy=16] Direction: 315 Date: 2014:02:16 13:57:06 TAGS: [Tag [value=theta360, count=0]]
+
+photo#74 URL: http://farm8.static.flickr.com/7356/12575694255_781feee16f.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17319 latitude=36.112556 accuracy=16] Direction: 315 Date: 2014:02:16 13:57:06 TAGS: [Tag [value=equirectangular, count=0], Tag [value=theta360, count=0]]
+
+photo#75 URL: http://farm8.static.flickr.com/7291/12329133463_ef06d27a16.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21498 latitude=40.793102 accuracy=16] Direction: 90 Date: 2014:02:05 11:47:43 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#76 URL: http://farm4.static.flickr.com/3726/12294370144_ebd1358bec.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21491 latitude=40.792515 accuracy=16] Direction: 67.5 Date: 2014:02:03 12:04:12 TAGS: [Tag [value=equirectangular, count=0], Tag [value=theta360, count=0]]
+
+photo#77 URL: http://farm8.static.flickr.com/7385/12293941915_031be4bd45.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.215096 latitude=40.792755 accuracy=16] Direction: 45 Date: 2014:02:03 11:59:09 TAGS: [Tag [value=equirectangular, count=0], Tag [value=theta360, count=0]]
+
+photo#78 URL: http://farm8.static.flickr.com/7387/12261303646_2445d9c299.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.132965 latitude=40.7882 accuracy=16] Direction: 22.5 Date: 2014:02:01 18:31:37 TAGS: [Tag [value=equirectangular, count=0], Tag [value=theta360, count=0]]
+
+photo#79 URL: http://farm6.static.flickr.com/5475/12215747464_db19b90ba1.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.06329 latitude=41.0494 accuracy=16] Direction: 247.5 Date: 2014:01:29 14:46:49 TAGS: [Tag [value=equirectangular, count=0], Tag [value=theta360, count=0]]
+
+photo#80 URL: http://farm3.static.flickr.com/2839/12200296433_810fc6ca62.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.176895 latitude=36.11704 accuracy=16] Direction:  Date:  TAGS: [Tag [value=equirectangular, count=0]]
+
+photo#81 URL: http://farm3.static.flickr.com/2879/12165757015_708aef86b9.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17642 latitude=36.115814 accuracy=16] Direction:  Date: 2014:01:19 20:41:18 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#82 URL: http://farm6.static.flickr.com/5527/12160154485_691172cbe0.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21517 latitude=40.79331 accuracy=16] Direction: 135 Date: 2014:01:26 13:17:39 TAGS: [Tag [value=equirectangular, count=0], Tag [value=theta360, count=0]]
+
+photo#83 URL: http://farm8.static.flickr.com/7349/12157656863_1e8ee4aed2.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.13952 latitude=36.08153 accuracy=16] Direction:  Date: 2014:01:24 20:17:17 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#84 URL: http://farm3.static.flickr.com/2862/12157658013_abfebff74c.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17333 latitude=36.115356 accuracy=16] Direction: 67.5 Date: 2014:01:24 13:37:15 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#85 URL: http://farm3.static.flickr.com/2814/12158092286_28ffacbc64.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17288 latitude=36.117867 accuracy=16] Direction: 225 Date: 2014:01:23 18:45:23 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#86 URL: http://farm3.static.flickr.com/2809/12157818974_4dd163385a.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17084 latitude=36.12091 accuracy=16] Direction: 0 Date: 2014:01:23 17:34:18 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#87 URL: http://farm4.static.flickr.com/3760/12157414165_54de3e5efc.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17529 latitude=36.116245 accuracy=16] Direction: 67.5 Date: 2014:01:23 16:36:25 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#88 URL: http://farm6.static.flickr.com/5496/12157667633_d98a6490f3.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17529 latitude=36.116245 accuracy=16] Direction: 270 Date: 2014:01:23 08:58:53 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#89 URL: http://farm4.static.flickr.com/3725/12157826214_a451b5844d.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17529 latitude=36.116245 accuracy=16] Direction: 225 Date: 2014:01:23 08:56:54 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#90 URL: http://farm4.static.flickr.com/3703/12157669193_63000f6085.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17529 latitude=36.116245 accuracy=16] Direction: 337.5 Date: 2014:01:23 08:55:20 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#91 URL: http://farm8.static.flickr.com/7290/12157670063_410cec5e58.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17529 latitude=36.116245 accuracy=16] Direction: 112.5 Date: 2014:01:23 08:54:57 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#92 URL: http://farm4.static.flickr.com/3764/12157828894_e214137d9a.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17529 latitude=36.116245 accuracy=16] Direction: 157.5 Date: 2014:01:23 08:51:56 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#93 URL: http://farm6.static.flickr.com/5480/12158104996_f1dfc1babb.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.176254 latitude=36.11595 accuracy=16] Direction: 180 Date: 2014:01:23 07:28:27 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#94 URL: http://farm3.static.flickr.com/2820/12157814174_136ebe1249.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.176926 latitude=36.116997 accuracy=16] Direction: 180 Date: 2014:01:22 14:39:27 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#95 URL: http://farm4.static.flickr.com/3784/12158108946_4680d7d4f3.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.1805 latitude=36.114338 accuracy=16] Direction: 247.5 Date: 2014:01:22 09:41:07 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#96 URL: http://farm4.static.flickr.com/3749/12157852134_27a79e79c2.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17344 latitude=36.115 accuracy=16] Direction: 157.5 Date: 2014:01:21 07:41:02 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#97 URL: http://farm6.static.flickr.com/5533/12157835474_6672a105c4.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.18301 latitude=36.11502 accuracy=16] Direction: 90 Date: 2014:01:22 09:33:36 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#98 URL: http://farm6.static.flickr.com/5538/12157836174_7fba0eeb8d.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.18301 latitude=36.11502 accuracy=16] Direction: 90 Date: 2014:01:22 09:32:20 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#99 URL: http://farm4.static.flickr.com/3670/12158111776_8ba98c3dcd.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.1805 latitude=36.114338 accuracy=16] Direction: 315 Date: 2014:01:22 08:05:53 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#100 URL: http://farm6.static.flickr.com/5511/12158122986_28bc996d37.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17236 latitude=36.119556 accuracy=16] Direction:  Date: 2014:01:21 19:57:46 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#101 URL: http://farm4.static.flickr.com/3675/12157443205_1fc2d5354b.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17643 latitude=36.115932 accuracy=16] Direction: 67.5 Date: 2014:01:20 21:07:30 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#102 URL: http://farm6.static.flickr.com/5489/12157695923_ed39b1307f.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17407 latitude=36.116024 accuracy=16] Direction: 180 Date: 2014:01:20 21:04:12 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#103 URL: http://farm8.static.flickr.com/7300/12158133486_db7ab2e589.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.1729 latitude=36.10871 accuracy=16] Direction: 270 Date: 2014:01:20 19:46:13 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#104 URL: http://farm3.static.flickr.com/2854/12157462445_484c10c3cf.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17529 latitude=36.116245 accuracy=16] Direction: 180 Date: 2014:01:20 18:35:38 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#105 URL: http://farm3.static.flickr.com/2825/12157851084_2e413ca3fe.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17623 latitude=36.116062 accuracy=16] Direction: 22.5 Date: 2014:01:21 08:01:07 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#106 URL: http://farm8.static.flickr.com/7426/12157729963_993fbd148f.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17599 latitude=36.11604 accuracy=16] Direction: 292.5 Date: 2014:01:19 20:37:55 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#107 URL: http://farm8.static.flickr.com/7422/12158153456_20b627afcf.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.176895 latitude=36.11704 accuracy=16] Direction: 67.5 Date: 2014:01:19 20:52:48 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#108 URL: http://farm4.static.flickr.com/3834/12157674153_fac97177c3.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17569 latitude=36.116093 accuracy=16] Direction: 157.5 Date: 2014:01:22 21:31:18 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#109 URL: http://farm6.static.flickr.com/5498/12157479555_ee226099bc.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17577 latitude=36.116077 accuracy=16] Direction: 90 Date: 2014:01:19 20:19:28 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#110 URL: http://farm8.static.flickr.com/7340/12157480795_402fb2d063.jpg User: 9180207@N03 GEO: GeoData[longitude=-115.17593 latitude=36.116066 accuracy=16] Direction: 90 Date: 2014:01:19 20:18:31 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#111 URL: http://farm6.static.flickr.com/5503/12157745463_0aabfcc447.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.16206 latitude=40.70836 accuracy=16] Direction:  Date: 2014:01:19 12:34:56 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#112 URL: http://farm4.static.flickr.com/3689/12157495205_4ccbf4221f.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.17404 latitude=40.694912 accuracy=16] Direction: 315 Date: 2014:01:19 11:29:54 TAGS: [Tag [value=equirectangular, count=0], Tag [value=las, count=0], Tag [value=vegas, count=0], Tag [value=theta360, count=0], Tag [value=panorama, count=0], Tag [value=lasvegas, count=0]]
+
+photo#113 URL: http://farm8.static.flickr.com/7456/11911924133_7d607eb8bc.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.215 latitude=40.79312 accuracy=16] Direction: 247.5 Date: 2014:01:12 11:09:45 TAGS: [Tag [value=equirectangular, count=0]]
+
+photo#114 URL: http://farm8.static.flickr.com/7329/11895050636_ece3ef3c4d.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.068886 latitude=40.956486 accuracy=16] Direction: 180 Date: 2014:01:11 14:00:35 TAGS: [Tag [value=equirectangular, count=0]]
+
+photo#115 URL: http://farm4.static.flickr.com/3682/11894200355_d92813d650.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.068855 latitude=40.95644 accuracy=16] Direction: 247.5 Date: 2014:01:11 13:51:50 TAGS: [Tag [value=equirectangular, count=0]]
+
+photo#116 URL: http://farm4.static.flickr.com/3779/11894480313_31f53d2aee.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.06887 latitude=40.95645 accuracy=16] Direction: 225 Date: 2014:01:11 13:45:12 TAGS: [Tag [value=equirectangular, count=0]]
+
+photo#117 URL: http://farm4.static.flickr.com/3796/11879738903_625fe5874f.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.06352 latitude=41.04947 accuracy=16] Direction: 90 Date: 2014:01:10 15:10:47 TAGS: [Tag [value=equirectangular, count=0], Tag [value=theta360, count=0]]
+
+photo#118 URL: http://farm4.static.flickr.com/3813/11866018476_b67c470556.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21495 latitude=40.793118 accuracy=16] Direction:  Date: 2014:01:05 16:08:27 TAGS: [Tag [value=equirectangular, count=0]]
+
+photo#119 URL: http://farm8.static.flickr.com/7327/11831376593_6f4e9136c4.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.214966 latitude=40.793102 accuracy=16] Direction: 67.5 Date: 2014:01:07 23:59:07 TAGS: [Tag [value=theta360, count=0], Tag [value=equirectangular, count=0]]
+
+photo#120 URL: http://farm4.static.flickr.com/3772/11811069245_b61926dcc6.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.062706 latitude=41.049747 accuracy=16] Direction:  Date:  TAGS: [Tag [value=equirectangular, count=0], Tag [value=theta360, count=0]]
+
+photo#121 URL: http://farm4.static.flickr.com/3732/11787865744_904e464bf8.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.21494 latitude=40.79309 accuracy=16] Direction: 315 Date: 2014:01:05 13:59:47 TAGS: [Tag [value=theta, count=0], Tag [value=equirectangular, count=0], Tag [value=theta360, count=0]]
+
+photo#122 URL: http://farm8.static.flickr.com/7336/9385321627_ea90a5834f.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.215 latitude=40.793 accuracy=16] Direction: 231.4061303 Date: 2013:07:27 00:44:30 TAGS: []
+
+photo#123 URL: http://farm8.static.flickr.com/7286/8739076861_51b55469e7.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.01648 latitude=40.77079 accuracy=16] Direction:  Date: 2011:08:06 04:26:25 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0]]
+
+photo#124 URL: http://farm9.static.flickr.com/8380/8534841719_d516d5a241.jpg User: 9180207@N03 GEO: GeoData[longitude=-73.98144 latitude=40.575546 accuracy=16] Direction:  Date: 2011:07:30 08:16:41 TAGS: [Tag [value=nathans, count=0], Tag [value=famous, count=0], Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=smart, count=0], Tag [value=car, count=0]]
+
+photo#125 URL: http://farm9.static.flickr.com/8099/8510947619_03c2f31d70.jpg User: 9180207@N03 GEO: GeoData[longitude=-73.9778 latitude=40.575516 accuracy=16] Direction:  Date: 2011:07:30 07:50:38 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=smart, count=0], Tag [value=car, count=0], Tag [value=cyclone, count=0], Tag [value=roller, count=0], Tag [value=coaster, count=0]]
+
+photo#126 URL: http://farm9.static.flickr.com/8446/8001842334_31ea055253.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.13804 latitude=40.78184 accuracy=16] Direction:  Date: 2011:08:06 08:16:48 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=pizzaland, count=0], Tag [value=sopranos, count=0], Tag [value=smart, count=0], Tag [value=smartcar, count=0]]
+
+photo#127 URL: http://farm8.static.flickr.com/7109/7738635000_72c07a8075.jpg User: 9180207@N03 GEO: GeoData[longitude=-73.98073 latitude=40.5755 accuracy=16] Direction:  Date: 2011:07:30 08:56:59 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0]]
+
+photo#128 URL: http://farm9.static.flickr.com/8293/7729962406_88f99c48fd.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.03502 latitude=40.7082 accuracy=15] Direction:  Date: 2011:08:06 06:20:59 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0]]
+
+photo#129 URL: http://farm8.static.flickr.com/7122/7729965316_2f710fb7d4.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.035194 latitude=40.7081 accuracy=15] Direction:  Date: 2011:08:06 06:20:46 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0]]
+
+photo#130 URL: http://farm9.static.flickr.com/8430/7729968268_d35c7ea558.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.0351 latitude=40.708134 accuracy=15] Direction:  Date: 2011:08:06 06:20:09 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0]]
+
+photo#131 URL: http://farm9.static.flickr.com/8427/7729971008_848decbc36.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.0351 latitude=40.708134 accuracy=15] Direction:  Date: 2011:08:06 06:19:07 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0]]
+
+photo#132 URL: http://farm9.static.flickr.com/8284/7729973840_de82086883.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.035194 latitude=40.708134 accuracy=15] Direction:  Date: 2011:08:06 06:18:33 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0]]
+
+photo#133 URL: http://farm9.static.flickr.com/8427/7729976776_257ac86b27.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.0351 latitude=40.7081 accuracy=15] Direction:  Date: 2011:08:06 06:16:43 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0]]
+
+photo#134 URL: http://farm8.static.flickr.com/7113/7690417734_040ebbf1ce.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.06266 latitude=41.057026 accuracy=16] Direction:  Date: 2011:07:24 09:35:19 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=smart, count=0], Tag [value=fivetwo, count=0], Tag [value=for, count=0], Tag [value=two, count=0]]
+
+photo#135 URL: http://farm4.static.flickr.com/3267/2745238809_85020c90bc.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.261055 latitude=40.89509 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=amusements, count=0], Tag [value=rides, count=0]]
+
+photo#136 URL: http://farm4.static.flickr.com/3226/2746072284_d8a643d778.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.261055 latitude=40.89509 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=amusements, count=0], Tag [value=rides, count=0]]
+
+photo#137 URL: http://farm4.static.flickr.com/3295/2745237039_cdf16d65d1.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.261055 latitude=40.89509 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=amusements, count=0], Tag [value=rides, count=0]]
+
+photo#138 URL: http://farm4.static.flickr.com/3233/2746070350_630d14b19a.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.261055 latitude=40.89509 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=amusements, count=0], Tag [value=rides, count=0]]
+
+photo#139 URL: http://farm4.static.flickr.com/3130/2746069476_0e622336c9.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.261055 latitude=40.89509 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=amusements, count=0], Tag [value=rides, count=0]]
+
+photo#140 URL: http://farm4.static.flickr.com/3024/2708515830_647d93914b.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.90461 latitude=41.023556 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=camp, count=0], Tag [value=nejeda, count=0]]
+
+photo#141 URL: http://farm4.static.flickr.com/3191/2708508772_3cbd85d36c.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.90461 latitude=41.023556 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=camp, count=0], Tag [value=nejeda, count=0]]
+
+photo#142 URL: http://farm4.static.flickr.com/3197/2707688877_77f9fc77d3.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.90461 latitude=41.023556 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=camp, count=0], Tag [value=nejeda, count=0]]
+
+photo#143 URL: http://farm4.static.flickr.com/3048/2707685983_943a14c359.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.90461 latitude=41.023556 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=camp, count=0], Tag [value=nejeda, count=0]]
+
+photo#144 URL: http://farm4.static.flickr.com/3229/2707683529_d3edeb180d.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.90461 latitude=41.023556 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=camp, count=0], Tag [value=nejeda, count=0]]
+
+photo#145 URL: http://farm4.static.flickr.com/3036/2708500774_3558b1426b.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.90461 latitude=41.023556 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=camp, count=0], Tag [value=nejeda, count=0]]
+
+photo#146 URL: http://farm4.static.flickr.com/3062/2708499788_cd11581863.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.90461 latitude=41.023556 accuracy=12] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=anaglyph, count=0], Tag [value=camp, count=0], Tag [value=nejeda, count=0]]
+
+photo#147 URL: http://farm2.static.flickr.com/1201/1307865257_2e321dd59e.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#148 URL: http://farm2.static.flickr.com/1181/1308748992_eac64841d1.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#149 URL: http://farm2.static.flickr.com/1156/1308747678_7ff91b7934.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#150 URL: http://farm2.static.flickr.com/1079/1308735582_e01b39b928.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#151 URL: http://farm2.static.flickr.com/1190/1307846027_9d0d00d8c6.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#152 URL: http://farm2.static.flickr.com/1335/1307841687_758bc7d5d5.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#153 URL: http://farm2.static.flickr.com/1138/1307838337_a454f1fd82.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#154 URL: http://farm2.static.flickr.com/1160/1307809711_8ffd0e9f0e.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#155 URL: http://farm2.static.flickr.com/1197/1307805277_f2d681ce56.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#156 URL: http://farm2.static.flickr.com/1131/1308687090_b2b0acd898.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#157 URL: http://farm2.static.flickr.com/1381/1308675322_36e7c26346.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#158 URL: http://farm2.static.flickr.com/1208/1307777043_50d0b6ecfe.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#159 URL: http://farm2.static.flickr.com/1131/1308660454_6c5db80711.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#160 URL: http://farm2.static.flickr.com/1149/1308654614_79d55714ac.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#161 URL: http://farm2.static.flickr.com/1315/1308634972_90e0ada4fb.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#162 URL: http://farm2.static.flickr.com/1334/1307749455_0cbb49da80.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.05467 latitude=40.708385 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=libertysciencecenter, count=0], Tag [value=science, count=0], Tag [value=museum, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=kids, count=0], Tag [value=learn, count=0], Tag [value=fun, count=0]]
+
+photo#163 URL: http://farm2.static.flickr.com/1072/747725526_c75bc8a464.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.153015 latitude=40.837337 accuracy=15] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=hdr, count=0], Tag [value=tick, count=0], Tag [value=tock, count=0], Tag [value=diner, count=0], Tag [value=new, count=0], Tag [value=jersey, count=0], Tag [value=6exp, count=0]]
+
+photo#164 URL: http://farm2.static.flickr.com/1058/689972528_1851923daa.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.2044 latitude=40.80071 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=steroscopic, count=0], Tag [value=crossview, count=0], Tag [value=glen, count=0], Tag [value=ridge, count=0]]
+
+photo#165 URL: http://farm2.static.flickr.com/1105/668284538_8b7e97dac5.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.19093 latitude=40.8342 accuracy=13] Direction:  Date: 2007:06:29 09:52:18 TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=fireworks, count=0]]
+
+photo#166 URL: http://farm2.static.flickr.com/1057/668284514_e61aab6878.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.19093 latitude=40.8342 accuracy=13] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=bubbles, count=0]]
+
+photo#167 URL: http://farm2.static.flickr.com/1355/594956618_cb651432dc.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.19093 latitude=40.8342 accuracy=13] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereo, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=loreolens, count=0], Tag [value=crosseye, count=0], Tag [value=stereophotography, count=0]]
+
+photo#168 URL: http://farm2.static.flickr.com/1327/594951588_c1e09b2351.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.19093 latitude=40.8342 accuracy=13] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereo, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=loreolens, count=0], Tag [value=crosseye, count=0], Tag [value=stereophotography, count=0]]
+
+photo#169 URL: http://farm2.static.flickr.com/1020/594693955_f21b96a989.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.268875 latitude=40.93603 accuracy=16] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereo, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=loreolens, count=0], Tag [value=crosseye, count=0], Tag [value=stereophotography, count=0]]
+
+photo#170 URL: http://farm2.static.flickr.com/1100/594947156_0909d802b8.jpg User: 9180207@N03 GEO: GeoData[longitude=-74.20996 latitude=40.792976 accuracy=15] Direction:  Date:  TAGS: [Tag [value=3d, count=0], Tag [value=stereo, count=0], Tag [value=stereoscopic, count=0], Tag [value=crossview, count=0], Tag [value=loreolens, count=0], Tag [value=crosseye, count=0], Tag [value=stereophotography, count=0]]
+

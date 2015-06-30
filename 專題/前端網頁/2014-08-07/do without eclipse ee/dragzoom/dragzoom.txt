@@ -1,0 +1,9 @@
+http://google-maps-utility-library-v3.googlecode.com/svn/tags/keydragzoom/1.0/docs/reference.html
+
+http://google-maps-utility-library-v3.googlecode.com/svn/tags/keydragzoom/2.0.5/docs/examples.html
+
+http://google-maps-utility-library-v3.googlecode.com/svn/tags/keydragzoom/2.0.5/examples/events.html
+
+http://google-maps-utility-library-v3.googlecode.com/svn/tags/keydragzoom/1.0/docs/examples.html
+
+https://developers.google.com/maps/documentation/javascript/reference

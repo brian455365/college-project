@@ -1,0 +1,13 @@
+0 #SUP: 43
+1 #SUP: 6
+3 #SUP: 46
+4 #SUP: 16
+5 #SUP: 22
+6 #SUP: 50
+7 #SUP: 7
+8 #SUP: 32
+9 #SUP: 30
+1 6  #SUP: 2
+3 4  #SUP: 3
+3 5  #SUP: 3
+3 8  #SUP: 3

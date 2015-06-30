@@ -1,0 +1,30 @@
+0 #SUP: 39
+1 #SUP: 5
+2 #SUP: 5
+3 #SUP: 137
+4 #SUP: 27
+5 #SUP: 119
+6 #SUP: 78
+7 #SUP: 33
+8 #SUP: 87
+9 #SUP: 99
+0 5  #SUP: 3
+0 6  #SUP: 3
+3 5  #SUP: 4
+3 8  #SUP: 5
+3 9  #SUP: 5
+4 6  #SUP: 4
+4 9  #SUP: 3
+5 6  #SUP: 8
+5 7  #SUP: 5
+5 8  #SUP: 4
+5 9  #SUP: 7
+6 7  #SUP: 4
+6 8  #SUP: 9
+6 9  #SUP: 9
+7 8  #SUP: 4
+7 9  #SUP: 5
+8 9  #SUP: 6
+5 7 9  #SUP: 3
+6 7 8  #SUP: 3
+6 8 9  #SUP: 3

@@ -1,0 +1,11 @@
+3 5  #SUP: 3
+Category:0	count:0
+Category:1	count:0
+Category:2	count:0
+Category:3	count:3
+Category:4	count:0
+Category:5	count:0
+Category:6	count:0
+Category:7	count:0
+Category:8	count:0
+Category:9	count:0

@@ -1,0 +1,26 @@
+﻿整合:
+
+高斯:
+	eclipse 必須引入 json-simple-1.1.1 library
+
+	input.txt -> txtAnalysis_Gauss.java(刪除不要的資料) ->  txtAnalysis_Gauss.txt(有direction,有date,無venue id)
+	
+	txtAnalysis_Gauss.txt 和 Gauss(已經得知的值) ->  nn2_Gauss.java -> venueID_Gauss.txt(每張相片的POI的venue id) 和 category_Gauss.txt(每張相片的POI的子類別)  
+	注意: nn2_Gauss.java 的 Gauss值 已固定, 每個拍照者的 Gauss值 都不相同
+	
+	
+	venueID_Gauss.txt 和 category_Gauss.txt 解釋:
+												(連續的子類別並未刪除)
+												(txtAnalysis_Gauss.txt 和 venueID_Gauss.txt 和 category_Gauss.txt 資料筆數相同)
+	
+	category_Gauss.txt->  categoryAnalysis_Gauss.java->  categoryAnalysis_Gauss.txt(每張相片的POI的母類別)
+	
+	combine.java 解釋:
+		將 categoryAnalysis_Gauss.txt 和 categoryAnalysis_venueID.txt 合併
+		將 txtAnalysis_Gauss.txt      和 txtAnalysis_venueID.txt      合併
+		將 venueID_Gauss.txt          和 venueID_venueID.txt          合併
+		
+		產生 categoryAnalysis.txt 和 txtAnalysis.txt 和 venueID.txt
+	
+	跑 sequenceAndpreference.java
+		產生 output.txt 和 preference.txt

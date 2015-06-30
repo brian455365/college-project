@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>jQuery UI Slider - Default functionality</title>
+  <style type="text/css">
+	#map_canvas{
+		width: 400px; 
+		height: 300px;
+	}
+	.contextmenu{
+		visibility:hidden;
+		background:#ffffff;
+		border:1px solid #8888FF;
+		z-index: 10;  
+		position: relative;
+		width: 140px;
+	}
+	.contextmenu div{
+		padding-left: 5px
+    }
+  </style>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script type="text/javascript">
+var map;
+function initialize() {
+    var latlng = new google.maps.LatLng(51.47,-0.025956);
+    var myOptions = {
+        zoom: 12,
+        center: latlng,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+	map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+	google.maps.event.addListener(map, "rightclick",function(event){showContextMenu(event.latLng);});
+}
+ 
+function getCanvasXY(caurrentLatLng){
+    var scale = Math.pow(2, map.getZoom());
+    var nw = new google.maps.LatLng(
+        map.getBounds().getNorthEast().lat(),
+        map.getBounds().getSouthWest().lng()
+    );
+    var worldCoordinateNW = map.getProjection().fromLatLngToPoint(nw);
+    var worldCoordinate = map.getProjection().fromLatLngToPoint(caurrentLatLng);
+    var caurrentLatLngOffset = new google.maps.Point(
+        Math.floor((worldCoordinate.x - worldCoordinateNW.x) * scale),
+        Math.floor((worldCoordinate.y - worldCoordinateNW.y) * scale)
+    );
+    return caurrentLatLngOffset;
+}
+
+function setMenuXY(caurrentLatLng){
+    var mapWidth = $('#map_canvas').width();
+    var mapHeight = $('#map_canvas').height();
+    var menuWidth = $('.contextmenu').width();
+    var menuHeight = $('.contextmenu').height();
+    var clickedPosition = getCanvasXY(caurrentLatLng);
+    var x = clickedPosition.x ;
+    var y = clickedPosition.y ;
+
+    if((mapWidth - x ) < menuWidth)
+        x = x - menuWidth;
+    if((mapHeight - y ) < menuHeight)
+        y = y - menuHeight;
+
+    $('.contextmenu').css('left',x  );
+    $('.contextmenu').css('top',y );
+}
+	
+function showContextMenu(caurrentLatLng  ) {
+    var contextmenuDir;
+    $('.contextmenu').remove();
+    contextmenuDir = document.createElement("div");
+    contextmenuDir.className  = 'contextmenu';
+    contextmenuDir.innerHTML = "<a id='menu1'><div>menu item 1</div></a><a id='menu2'><div>menu item 2</div></a>";
+    $("#map_canvas").append(contextmenuDir);       
+    setMenuXY(caurrentLatLng);
+    contextmenuDir.style.visibility = "visible";
+}
+	   
+$(document).ready(function(){
+	initialize();
+});
+</script>
+
+<body>
+<div id="map_canvas"></div>
+</body>
+</html>

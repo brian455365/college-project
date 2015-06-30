@@ -1,0 +1,113 @@
+總地點數:1307
+Category0:
+Name:"嘉年華影城 Carnival Cinema"		checkinsCount:296		lat: 23.478042356764426	lng:120.4419207995319	Category:4bf58dd8d48988d180941735
+Name:"新榮戲院"		checkinsCount:82		lat: 23.474078577413508	lng:120.44471122831301	Category:4bf58dd8d48988d17f941735
+Name:"嘉義文化產業創意園區 Chiayi Cultural & Creative Industries Park"		checkinsCount:64		lat: 23.477220725945244	lng:120.44030052280935	Category:4bf58dd8d48988d1e2931735
+Name:"臺灣嘉義監獄"		checkinsCount:40		lat: 23.485921823199337	lng:120.45841495576977	Category:4deefb944765f83613cdba6e
+Name:"嘉義市立體育場 Chiayi Municipal Stadium"		checkinsCount:38		lat: 23.471944482014667	lng:120.46109815012473	Category:4bf58dd8d48988d187941735
+Name:"嘉義市棒球場 Chiayi Baseball Field"		checkinsCount:38		lat: 23.481570370984265	lng:120.46438878367798	Category:4bf58dd8d48988d18c941735
+Name:"史蹟資料館 | Historical Relic Museum"		checkinsCount:30		lat: 23.481247336254963	lng:120.46760058571873	Category:4bf58dd8d48988d190941735
+Name:"太陽パチンコ Sun Pachinko"		checkinsCount:27		lat: 23.479009018701607	lng:120.44621893482146	Category:4bf58dd8d48988d17c941735
+Name:"嘉義錢櫃"		checkinsCount:24		lat: 23.47718081678374	lng:120.44057057034557	Category:4bf58dd8d48988d1f1931735
+Name:"天主教嘉義教區聖若望主教座堂"		checkinsCount:20		lat: 23.484072205802427	lng:120.4609518977882	Category:4bf58dd8d48988d181941735
+
+Category1:
+Name:"國立嘉義大學 | National Chiayi University"		checkinsCount:56		lat: 23.463336674071574	lng:120.44081811342292	Category:4bf58dd8d48988d1a8941735
+Name:"嘉義大學新民校區體育場"		checkinsCount:12		lat: 23.464505	lng:120.443598	Category:4bf58dd8d48988d1b6941735
+Name:"National Chiayi University"		checkinsCount:7		lat: 23.463699851278015	lng:120.44107690794961	Category:4bf58dd8d48988d198941735
+Name:"中美美容補習班 | Chuong Mei Beauty Academy"		checkinsCount:4		lat: 23.481223	lng:120.452611	Category:4bf58dd8d48988d1ad941735
+Name:"國力嘉義大學獸醫學系系館"		checkinsCount:4		lat: 23.462923	lng:120.443844	Category:4bf58dd8d48988d198941735
+Name:"嘉南幼稚園"		checkinsCount:2		lat: 23.4653996845613	lng:120.4560973507747	Category:4bf58dd8d48988d1a0941735
+Name:"嘉義高中雨豆樹下"		checkinsCount:2		lat: 23.474353497289428	lng:120.46301629035796	Category:4bf58dd8d48988d1ab941735
+Name:"嘉義高中"		checkinsCount:1		lat: 23.4772	lng:120.4665	Category:4bf58dd8d48988d1ab941735
+Name:"chiayi university"		checkinsCount:1		lat: 23.463545244242805	lng:120.44099251848718	Category:4bf58dd8d48988d19b941735
+Name:"愛樺美學Spa館"		checkinsCount:1		lat: 23.479433	lng:120.431448	Category:4bf58dd8d48988d1b3941735
+
+Category2:
+Name:"wake up festival 2014嘉義文化園區"		checkinsCount:4		lat: 23.47521	lng:120.437564	Category:5267e4d9e4b0ec79466e48d1
+Name:"KANO 電影首映會"		checkinsCount:3		lat: 23.47989	lng:120.44952	Category:52741d85e4b0d5d1e3c6a6d9
+
+Category3:
+Name:"楊記牛肉麵"		checkinsCount:171		lat: 23.481335154642586	lng:120.46001812894565	Category:4bf58dd8d48988d1d1941735
+Name:"御香屋"		checkinsCount:148		lat: 23.480001456285557	lng:120.44927929968487	Category:4bf58dd8d48988d112941735
+Name:"林聰明沙鍋魚頭"		checkinsCount:141		lat: 23.478933281177564	lng:120.45016814201482	Category:4bf58dd8d48988d142941735
+Name:"樂檸漢堡 | THEFREEN BURGER"		checkinsCount:140		lat: 23.48138936965113	lng:120.4529415156265	Category:4bf58dd8d48988d16c941735
+Name:"Starbucks 嘉邑門市"		checkinsCount:139		lat: 23.474943565827676	lng:120.46143002980935	Category:4bf58dd8d48988d1e0931735
+Name:"郭家雞肉飯"		checkinsCount:132		lat: 23.47832385	lng:120.449782	Category:52af3b813cf9994f4e043c04
+Name:"Starbucks"		checkinsCount:123		lat: 23.479524158043667	lng:120.42895238863785	Category:4bf58dd8d48988d1e0931735
+Name:"Daisy的雜貨店"		checkinsCount:115		lat: 23.481617588421443	lng:120.45885372094257	Category:4bf58dd8d48988d16d941735
+Name:"阿娥豆花"		checkinsCount:112		lat: 23.476853	lng:120.450175	Category:4bf58dd8d48988d1d0941735
+Name:"Starbucks 垂楊門市"		checkinsCount:109		lat: 23.472920397057923	lng:120.4410982131958	Category:4bf58dd8d48988d1e0931735
+
+Category4:
+Name:"嘉樂福夜市"		checkinsCount:88		lat: 23.47176622091626	lng:120.43180498837096	Category:53e510b7498ebcb1801b55d4
+Name:"夜貓族鋼琴酒吧"		checkinsCount:67		lat: 23.472385765544914	lng:120.4388039991158	Category:4bf58dd8d48988d11f941735
+Name:"錢櫃 Party World"		checkinsCount:48		lat: 23.477201707679203	lng:120.44205582167183	Category:4bf58dd8d48988d120941735
+Name:"蔓閣鋼琴酒吧 Margaux Piano Pub"		checkinsCount:43		lat: 23.47230242401855	lng:120.43852269572822	Category:4bf58dd8d48988d1d5941735
+Name:"卡加利美式餐飲 Calgary American Restaurant"		checkinsCount:34		lat: 23.48396358521175	lng:120.44712467538805	Category:4bf58dd8d48988d11b941735
+Name:"CaOLi Lounge"		checkinsCount:11		lat: 23.476961424541884	lng:120.44670837306214	Category:4bf58dd8d48988d121941735
+Name:"黑洞制服辣妹會館"		checkinsCount:9		lat: 23.481684458076497	lng:120.44443556364614	Category:4bf58dd8d48988d1d6941735
+Name:"花漾年華歌友會"		checkinsCount:7		lat: 23.465255654968647	lng:120.43596843285682	Category:4bf58dd8d48988d120941735
+Name:"酒窩嘻哈音樂坊"		checkinsCount:6		lat: 23.477177	lng:120.446389	Category:4bf58dd8d48988d1d6941735
+Name:"老爺俱樂部"		checkinsCount:6		lat: 23.47782259802932	lng:120.44978560303065	Category:4bf58dd8d48988d1d6941735
+
+Category5:
+Name:"嘉義公園 Chiayi Park"		checkinsCount:262		lat: 23.48268841554904	lng:120.46382628818935	Category:4bf58dd8d48988d163941735
+Name:"West District 嘉義市西區"		checkinsCount:178		lat: 23.462602307479685	lng:120.43233949214743	Category:4f2a25ac4b909258e854f55f
+Name:"嘉義 Jiayi"		checkinsCount:96		lat: 23.4624428743989	lng:120.46028250996928	Category:50aa9e094b90af0d42d5de0d
+Name:"嘉義市 | Chiayi City"		checkinsCount:88		lat: 23.483500445086456	lng:120.44044117263844	Category:50aa9e094b90af0d42d5de0d
+Name:"Willow Park Basketball Court East"		checkinsCount:63		lat: 23.471496788045965	lng:120.43858458252622	Category:4bf58dd8d48988d1e1941735
+Name:"文化公園"		checkinsCount:62		lat: 23.474977151709698	lng:120.45053958892822	Category:4bf58dd8d48988d163941735
+Name:"北回歸線天文廣場"		checkinsCount:57		lat: 23.45404570040799	lng:120.41629216114876	Category:4bf58dd8d48988d162941735
+Name:"中正公園"		checkinsCount:46		lat: 23.48139323290122	lng:120.4477071762085	Category:4bf58dd8d48988d163941735
+Name:"八掌溪親水公園"		checkinsCount:43		lat: 23.456849023300016	lng:120.46283629014621	Category:4bf58dd8d48988d163941735
+Name:"Willow Park"		checkinsCount:36		lat: 23.471687624772482	lng:120.43828077432354	Category:4bf58dd8d48988d1e7941735
+
+Category6:
+Name:"北回歸線 Tropic of Cancer"		checkinsCount:134		lat: 23.454213501339602	lng:120.4166129022434	Category:4bf58dd8d48988d12d941735
+Name:"中央噴水池 Central Fountain"		checkinsCount:118		lat: 23.479941419738772	lng:120.44957745634082	Category:4bf58dd8d48988d12d941735
+Name:"臺灣圖書室"		checkinsCount:77		lat: 23.48066419474929	lng:120.45122574387426	Category:4bf58dd8d48988d12f941735
+Name:"國立嘉義女子高級中學 National Chiayi Girls' Senior High School"		checkinsCount:74		lat: 23.47387960844425	lng:120.45005000509701	Category:4bf58dd8d48988d13d941735
+Name:"嘉義市政府 | Chiayi City Hall | 嘉義巿役所"		checkinsCount:69		lat: 23.48158196771354	lng:120.45393721529399	Category:4bf58dd8d48988d129941735
+Name:"國立嘉義高級中學 National Chiayi Senior High School"		checkinsCount:61		lat: 23.47693691030965	lng:120.46422003529004	Category:4bf58dd8d48988d13d941735
+Name:"臺中榮總嘉義分院"		checkinsCount:41		lat: 23.465724610764198	lng:120.42334828115979	Category:4bf58dd8d48988d196941735
+Name:"嘉義中山路郵局 Chiayi Zhongshan Rd. Post Office"		checkinsCount:40		lat: 23.482016340892304	lng:120.45783555843879	Category:4bf58dd8d48988d172941735
+Name:"新高大飯店 Shinkao Hotel"		checkinsCount:36		lat: 23.478993660684385	lng:120.44242150592306	Category:4d4b7105d754a06375d81259
+Name:"嘉義公園射日塔"		checkinsCount:32		lat: 23.48144196061799	lng:120.4683824307986	Category:4bf58dd8d48988d12d941735
+
+Category7:
+Name:"Lin's"		checkinsCount:354		lat: 23.45483081676314	lng:120.41847824913474	Category:4bf58dd8d48988d103941735
+Name:"外婆家"		checkinsCount:51		lat: 23.482045469691993	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Name:"Maison De Chine"		checkinsCount:15		lat: 23.47957052150486	lng:120.45304558629154	Category:4bf58dd8d48988d103941735
+Name:"Bess's Home"		checkinsCount:14		lat: 23.47132649067253	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Name:"老爸，老媽，Fufu，有時還有我"		checkinsCount:13		lat: 23.4556602682889	lng:120.46456596924666	Category:4bf58dd8d48988d103941735
+Name:"Lee's Home"		checkinsCount:11		lat: 23.46307992224117	lng:120.43000172506923	Category:4bf58dd8d48988d103941735
+Name:"嘉義賴家豪宅"		checkinsCount:8		lat: 23.476272503201187	lng:120.41847824913474	Category:4bf58dd8d48988d103941735
+Name:"阿拉和姨丈的家"		checkinsCount:8		lat: 23.46060742164083	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Name:"Haha Home"		checkinsCount:5		lat: 23.458134203486285	lng:120.45304558629154	Category:4bf58dd8d48988d103941735
+Name:"嘉義的家"		checkinsCount:4		lat: 23.46060742164083	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+
+Category8:
+Name:"文化路夜市 Wenhua Road Night Market"		checkinsCount:313		lat: 23.477679274785554	lng:120.44987561230576	Category:50be8ee891d4fa8dcc7199a7
+Name:"新光三越 Shin Kong Mitsukoshi"		checkinsCount:249		lat: 23.473104405656965	lng:120.44133570195615	Category:4bf58dd8d48988d1f6941735
+Name:"FE21' 嘉義遠東百貨"		checkinsCount:135		lat: 23.472941758266657	lng:120.44072247183581	Category:4bf58dd8d48988d1f6941735
+Name:"駿美健身中心 Libra Gym"		checkinsCount:120		lat: 23.474337002503898	lng:120.4629994153488	Category:4bf58dd8d48988d176941735
+Name:"佐登妮絲 | Jourdeness"		checkinsCount:111		lat: 23.48126	lng:120.460077	Category:4bf58dd8d48988d1ed941735
+Name:"家樂福 Carrefour"		checkinsCount:100		lat: 23.471395031992664	lng:120.4310131072998	Category:4bf58dd8d48988d118951735
+Name:"大潤發嘉義店"		checkinsCount:71		lat: 23.478283637432096	lng:120.4372787475586	Category:4bf58dd8d48988d1fd941735
+Name:"張理髮"		checkinsCount:38		lat: 23.48045853049132	lng:120.44466059607151	Category:4bf58dd8d48988d110951735
+Name:"亞法西服"		checkinsCount:38		lat: 23.47699029677125	lng:120.44760285883014	Category:4bf58dd8d48988d106951735
+Name:"原型髮砌"		checkinsCount:38		lat: 23.48206014436605	lng:120.4583137020556	Category:4bf58dd8d48988d110951735
+
+Category9:
+Name:"臺鐵嘉義車站 TRA Chiayi Station"		checkinsCount:1242		lat: 23.479237485319278	lng:120.44133570195615	Category:4bf58dd8d48988d129951735
+Name:"嘉義商旅 DAY+ Boutique Hotel"		checkinsCount:307		lat: 23.473230443655538	lng:120.43795446101142	Category:4bf58dd8d48988d1fa931735
+Name:"嘉義轉運站"		checkinsCount:142		lat: 23.479842511937484	lng:120.44000234466365	Category:4bf58dd8d48988d1fe931735
+Name:"兆品酒店 Maison de Chine"		checkinsCount:138		lat: 23.483320746913872	lng:120.44882925059363	Category:4bf58dd8d48988d1fa931735
+Name:"鈺通大飯店 Yuh Tong Hotel"		checkinsCount:112		lat: 23.479752960883616	lng:120.45916873091203	Category:4bf58dd8d48988d1fa931735
+Name:"Hotel Hi"		checkinsCount:95		lat: 23.47013798434469	lng:120.44024988883326	Category:4bf58dd8d48988d1fa931735
+Name:"皇爵大飯店 King Hotel"		checkinsCount:36		lat: 23.47997909774844	lng:120.44406425928413	Category:4bf58dd8d48988d1fa931735
+Name:"嘉義市先期交通轉運中心"		checkinsCount:31		lat: 23.479993902745257	lng:120.43972666991476	Category:4bf58dd8d48988d1fe931735
+Name:"國園商務 Country Garden Business Hotel"		checkinsCount:30		lat: 23.47754269828617	lng:120.44225835461621	Category:4bf58dd8d48988d1fa931735
+Name:"嘉義後站 Chiayi Rear Rail Station"		checkinsCount:25		lat: 23.479977398313927	lng:120.4398335642752	Category:4bf58dd8d48988d129951735
+

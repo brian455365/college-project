@@ -1,0 +1,2201 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Place Autocomplete</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body{
+        margin: 0px;
+        padding: 0px;
+		height: 100%;
+		width: 100%;
+      }	  
+	  
+	  #Panel1{						/* 標題panel */
+		position: absolute;
+		top:0;
+		left:0;
+		height: 70px;
+		width: 100%;
+		background-color: #4d90fe;
+		color: #fff;
+		font-family: Roboto;
+        font-size: 45px;
+        font-weight: 700;		
+		padding: 10px 0 0 10px;
+	  }
+	  
+	  #Panel1 #text-input1{ 			/* 標題panel的 輸入位址的欄位 */
+		position: absolute;
+		top:23px;
+		right: 30px;
+		font-family: Roboto;
+        font-size: 15px;
+        font-weight: 400;
+        text-overflow: ellipsis;
+		background-color: #fff;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.7);  
+		border: 1px solid transparent;
+        border-radius: 10px 10px 10px 10px;
+		padding: 0 11px 0 13px;
+		height: 32px;
+        width: 250px;
+      }
+	  
+	  #text-input1:focus {
+        border-color: #4d90fe;
+        padding-left: 14px; 
+      }
+	  
+	  #Panel1 #text-input2{ 					/* 標題panel的 輸入使用者ID的欄位 */
+		position: absolute;
+		top:23px;
+		right: 320px;
+		font-family: Roboto;
+        font-size: 15px;
+        font-weight: 400;
+        text-overflow: ellipsis;
+		background-color: #fff;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.7);  
+		border: 1px solid transparent;
+        border-radius: 10px 10px 10px 10px;
+		padding: 0 11px 0 13px;
+		height: 32px;
+        width: 250px;
+      }
+	  
+	  #text-input2:focus {
+        border-color: #4d90fe;
+        padding-left: 14px; 
+      }
+	  
+	  #Panel1 #PersonalDataButton{
+		position: absolute;
+		top: 23px;
+		right: 610px;
+		font-family: Roboto;
+        font-size: 15px;
+        font-weight: 700;
+		text-overflow: ellipsis;
+		height: 32px;
+        width: 150px;
+		background-color: #CFCFDF;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.7);
+		border-radius: 10px 10px 10px 10px;
+		border: 1px solid transparent;
+		text-align: center;      
+		line-height: 220%;
+		cursor: default;
+	  }
+	  
+	  
+	  .contextmenu{								/* 地圖上點選右鍵出現的選單 */
+	    position: absolute;
+		z-index: 5;
+		visibility:hidden;
+		background-color:#fff;
+		border: 1px solid transparent;
+        border-radius: 2px 0 0 2px;
+		border-color: #4d90fe;
+		width: 140px;
+		font-family: Roboto;
+        font-size: 15px;
+        font-weight: 350;
+        text-overflow: ellipsis;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+		cursor: default;
+	  }
+	  
+	  .contextmenu div{
+		padding: 5px 11px 5px 13px;
+      }
+	  
+	  #Panel2{    	  /* 左邊方框 */
+		position: absolute;
+		top:80px;
+		left:0;
+		width: 500px;
+		height: 0;    /* 動態變更 */
+	  }
+	  
+	  #Panel7{	  	  /* 右邊方框 */
+		position: absolute;
+		top:80px;
+		left:500px;
+		width: 0;     /* 動態變更 */
+		height: 0;    /* 動態變更 */
+	  }
+
+	  #Panel7 #map-canvas{
+	    height: 100%;
+		width: 100%;
+        margin: 0px;
+        padding: 0px;	
+		z-index: 0;			
+	  }
+	  
+	  #Panel8{		    /* 顯示經緯度和位址的方框 */
+		position: absolute;         
+		top: 0px;         
+        right: 0px; 
+		z-index: 5;	
+		width: 450px;
+		height: 60px;
+		cursor: default;
+	  }
+	  
+	  #Panel8 #show_LatLng_and_Address{
+		font-family: Roboto;
+        font-size: 15px;
+        font-weight: 350;
+		text-overflow: ellipsis;
+		background-color: #fff;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+		border: 1px solid #4d90fe;
+        border-radius: 2px 0 0 2px;
+        width: 88%;
+		height: 100%;
+		float : left;              
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+	  }
+	
+	  #show_LatLng_and_Address div{
+		padding: 4px 0px 5px 13px;
+	  }
+	
+	  #Panel8 #exit{	
+		background-color: #4d90fe; 
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+		border: 1px solid transparent;
+		border-radius: 0 2px 2px 0;
+		width: 12%;
+		height: 100%;
+		float : left;              
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+	  }
+	  
+	  #Panel8 #exit img{
+	  	padding: 8px 0 8px 6px;
+	  }
+	   
+	  #Panel3,#Panel4,#Panel5{    			/* 左邊方框的上半部分, 分3個panel */
+		width: 100%;
+		height: 30%;
+		cursor: default;		
+		border: 1px solid #4d90fe;
+		background: rgba(77, 144, 254, .3);		
+		float: left;
+		box-sizing: border-box;
+        -moz-box-sizing: border-box;
+	  }
+
+	  #Panel6{    					/* 左邊方框的下半部分 */
+		width: 100%;
+		height: 70%;
+		cursor: default;		
+		background: rgba(77, 144, 254, .3);		
+		float: left;
+		box-sizing: border-box;
+        -moz-box-sizing: border-box;
+		overflow: auto;
+	  }
+	  
+	  #Panel6 #categoryResultList{
+		width: 100%;     
+	  }
+  
+	  #categoryResultList .block{
+		width: 100%;
+		height: 150px; 
+		border-bottom: 1px solid #4d90fe;
+		float : left;              
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        overflow: auto;
+	  }
+	  
+	  .block .text{
+		width: 75%;
+		height: 170px; 
+		float : left;              
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+	  }
+	  
+	  .text .categoryName{
+		width: 98%;
+		padding: 5px 5px 0 5px;
+		font-size: 15px;
+		font-weight: 700;
+		font-family: Roboto;
+		float : left;   
+	  }
+	  
+	  .text .subcategoryName{
+		width: 98%;
+		padding: 0 5px 0 5px;
+		font-size: 15px;
+		font-weight: 500;
+		font-family: Roboto;
+		float : left;   
+	  }
+	  
+	  .text .locationName{
+	  	width: 98%;
+		padding: 0 5px 0 5px;
+		font-size: 20px;
+		font-weight: 700;
+		font-family: Roboto;
+		float : left;   
+	  }
+	  
+	   .text .rating{
+	  	width: 98%;
+		padding: 0 5px 0 5px;
+		font-size: 10px;
+		font-weight: 500;
+		font-family: Roboto;
+		float : left;   
+	  }
+	  
+	  .text .locationComment{
+	  	color: #708090; 
+		padding: 5px 5px 0 5px;
+		font-size: 10px;
+		font-weight: 500;
+		font-family: Roboto;
+		float : left;   
+	  }
+	  
+	  .block .picture{
+		width: 25%;
+		height: 150px; 
+		float : left;              
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+		margin-top: 20px;
+	  }
+	  
+	  #Panel3 #title,#Panel4 #title,#Panel5 #title{
+		width: 100%;
+		float: left;
+		box-sizing: border-box;
+        -moz-box-sizing: border-box;
+		padding: 5px 0px 0px 0px;
+		font-family: arial;
+        font-size: 25px;
+        font-weight: 700;
+		color: #0000CD;
+	  }
+
+	  #Panel3 #type-selector2{   						 /* panel3 的 #type-selector2 : 顯示文字的方框 */
+		font-family: Roboto;
+        font-size: 20px;
+        font-weight: 700;
+		width: 100%;
+		padding: 5px 11px 0px 11px;
+		float: left;
+		box-sizing: border-box;
+        -moz-box-sizing: border-box;
+      }
+  
+	  #Panel3 #type-selector2 div{ 
+		height: 35px;
+		width: 50%;
+		float: left;
+	  }
+	  
+	  #Panel4 #type-selector2,#Panel5 #type-selector2{					/* panel5 的 #type-selector2 : 顯示可拉的類別的方框 */
+		width: 100%;
+		padding: 5px 11px 0px 11px;
+		float: left;
+		box-sizing: border-box;
+        -moz-box-sizing: border-box;
+      }
+	  
+	  #Panel4 #type-selector2 div,#Panel5 #type-selector2 div{ 
+		height: 30px;
+		width: 145px;
+		text-align: center;      
+		line-height: 150%;
+		font-family: impact;
+        font-size: 20px;
+		float: left;
+		border: 1px solid black;
+		margin-right: 10px;
+		margin-bottom: 5px;
+		border-radius: 5px 5px 5px 5px;
+		z-index: 5;		/* 為了地圖 */
+	  }
+	  
+	  #Panel3 #button,#Panel4 #button,#Panel5 #button{
+		font-family: Roboto;
+        font-size: 15px;
+        font-weight: 700;
+		width: 100%;
+		float: left;
+		box-sizing: border-box;
+        -moz-box-sizing: border-box;
+	  }
+	  
+	  #Panel4 #button,#Panel5 #button{
+		padding: 5px 0 0 0;
+	  }
+	  
+	  #button div,#button input{
+		border: 1px solid #4d90fe;
+		border-radius: 2px 2px 2px 2px;
+		background-color: #CFCFDF;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+		text-align: center;      
+		line-height: 160%;
+		float: left;
+		box-sizing: border-box;
+        -moz-box-sizing: border-box;
+		margin-left: 12px;
+      }
+	  
+	  #Panel3 #button div#next{
+		height: 30px;
+		width: 45%;
+	  }
+	  
+	  #Panel3 #button input#recommendNum{
+		height: 30px;
+		width: 45%;
+		background-color: #fff;
+		font-family: Roboto;
+        font-size: 15px;
+        font-weight: 700;
+	  }
+	    
+	  #Panel4 #button div{
+		height: 30px;
+		width: 30%;
+	  }
+	  
+	  #Panel5 #button div{
+		height: 30px;
+		width: 46%;
+	  }
+	  
+	  #Panel9,#Panel10{							/* 顯示類別規則的方框 */
+		position: absolute;
+		top:80px;
+		left:500px;
+		z-index: 5;	
+		cursor: default;		
+		border: 1px solid #4d90fe;
+		background: rgba(77, 144, 254, .3);	  
+	  }
+	  
+	  #Panel9 .text,#Panel10 .text2{
+		margin-left: 5px;
+		font-family: Roboto;
+        font-size: 30px;
+        font-weight: 700;
+	  }
+	  
+	  #Panel9 .jQuerySortable,#Panel10 .jQuerySortable2{			/* 一條規則, 一個.jQuerySortable */
+		border: 2px solid black;
+		background-color: #eee;
+		min-width: 80px;
+		min-height: 25px;
+		float: left;
+		margin-left: 5px;
+	  }  
+  
+	  .jQuerySortable div,.jQuerySortable2 div{				 /* 在.jQuerySortable內的一個類別方框 */
+		width: 80px;
+		text-align: center;      
+		line-height: 160%;
+		margin: 5px 5px 5px 5px;
+		border: 1px solid black;
+	  }
+  
+	  .highlight {
+		border: 1px solid red;
+		background-color: lightyellow;
+		height: 20px;
+	  }
+	  
+	  #testpanel3{
+		position: absolute;
+		left: 500px;	   /* the same as #Panel7 */   
+		top: 0;			   /* 動態變更 */
+		width: 0;          /* 動態變更 */
+		height: 0;	  	   /* 動態變更 */
+		z-index: -5;
+		background: rgba(255, 255, 255, .0);
+	  }
+	  
+	  #testpanel4{
+		position: absolute;
+		right: 0;	      
+		top: 80px;		   /* the same as #Panel1 */
+		width: 0;          /* 動態變更 */
+		height: 0;	  	   /* 動態變更 */
+		z-index: -5;
+		background: rgba(255, 255, 255, .0);
+	  }
+	  
+.loaderClass{
+  position: absolute;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0,0,0, .7);
+  z-index: 6;
+}
+	  
+.loader {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #ccc;
+  width: 150px;
+  height: 150px;
+  line-height: 150px;
+  margin-top: 10%;
+  margin-left: 45%;
+  position: absolute;
+  top:0;
+  left:0;
+  box-sizing: border-box;
+  text-align: center;
+  z-index: 0;
+  text-transform: uppercase;
+}
+
+.loader:before,
+.loader:after {
+  opacity: 0;
+  box-sizing: border-box;
+  content: "\0020";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 100px;
+  border: 5px solid #fff;
+  box-shadow: 0 0 50px #fff, inset 0 0 50px #fff;
+}
+
+.loader:after {
+  z-index: 1;
+  -webkit-animation: gogoloader 2s infinite 1s;
+}
+
+.loader:before {
+  z-index: 2;
+  -webkit-animation: gogoloader 2s infinite;
+}
+
+@-webkit-keyframes gogoloader {
+  0% {
+    -webkit-transform: scale(0);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: scale(1);
+    opacity: 0;
+  }
+}
+	 
+	  
+	</style>
+	<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&language=en"></script>
+    <script src="lightbox/js/lightbox.min.js"></script>
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="lightbox/css/lightbox.css" type="text/css" media="screen" />
+    <script src="./flot/excanvas.min.js"></script>
+	<script src="./flot/jquery.flot.min.js"></script>
+	<script src="./flot/jquery.flot.pie.min.js"></script>
+    <script> 
+function LatLngControl(map) {
+  this.setMap(map);
+}
+LatLngControl.prototype = new google.maps.OverlayView();
+LatLngControl.prototype.draw = function() {}; 
+
+var map;
+var Geocoders;
+var DirectionDisplay;
+var DirectionService;
+var MapRegion;	
+function initialize() {
+	var mapOptions = {
+		center: new google.maps.LatLng(40.647,-73.971),
+		zoom: 13,
+		panControl: false,
+		mapTypeControl: false,
+		zoomControl: false,
+		streetViewControl: false
+	};
+	map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);	
+	
+	/* latlng to address; address to latlng */	
+	Geocoders = new google.maps.Geocoder();
+			
+	/* shortest path route */
+	DirectionService = new google.maps.DirectionsService();
+	DirectionDisplay = new google.maps.DirectionsRenderer({
+		suppressMarkers: true
+		//infoWindow: new google.maps.InfoWindow({
+		//	content: "iiiiiiiii"
+		//})
+	});
+	DirectionDisplay.setMap(map);
+	
+	/* get Map region*/
+	MapRegion = new LatLngControl(map);
+	
+	/* use autocomplete */
+	var input = document.getElementById('text-input1');
+	var options = {
+//		componentRestrictions: {country: 'tw'}
+	};
+	var autocomplete = new google.maps.places.Autocomplete(input,options);
+	autocomplete.bindTo('bounds', map); 
+	
+	/* if autocomplete change */
+	google.maps.event.addListener(autocomplete, 'place_changed', function(){
+		var place = autocomplete.getPlace();
+		if (!place.geometry) {
+			return;
+		}
+		map.setCenter(place.geometry.location);
+		map.setZoom(17);
+		clearMarker("blue-marker");                     //  消除之前的 marker
+		setMarker(place.geometry.location,"blue-marker");
+	});
+	
+	
+	/* if right click on the map */
+	google.maps.event.addListener(map, "rightclick",function(event){
+		$('.contextmenu').remove();			//   消除右鍵選單	
+		showContextMenu(event.latLng);      //   出現右鍵選單
+	});
+	
+	/* if left click on the map */
+	google.maps.event.addListener(map, 'click', function(event) {	
+		$('.contextmenu').remove();			//   消除右鍵選單
+		fade(event.latLng);             	//   左鍵資訊
+	});
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+
+	
+
+function fade(location){
+	clearMarker("green-marker");	    //   消除之前的 marker
+	$("#Panel8").css('display',"initial" );
+	$("#Panel8 #show_LatLng_and_Address").fadeOut(10);
+	$("#Panel8 #show_LatLng_and_Address").empty();
+	show_latlng(location);	
+	show_address(location);
+	$("#Panel8 #show_LatLng_and_Address").fadeIn(500);
+	$("#Panel8 #exit").fadeIn(500);
+}
+
+
+
+function show_latlng(location){
+	$("#show_LatLng_and_Address").append("<div id='show_LatLng'>" + location + "</div>");
+	$("#show_LatLng").hover(function(){
+		$("#show_LatLng").css("background-color","#4d90fe");
+		setMarker(location,"green-pin-marker");
+	},
+	function(){
+		$("#show_LatLng").css("background-color","#ffffff");
+		clearMarker("green-pin-marker");
+	});	
+	$("#show_LatLng").click(function(){
+		$("#show_LatLng").css("background-color","#4169e1");
+		clearMarker("green-pin-marker");
+		setMarker(location,"green-marker");
+	});	
+}
+
+
+
+function show_address(location){
+	Geocoders.geocode( { 'latLng': location}, function(results, status) {
+		if (status == google.maps.GeocoderStatus.OK) {
+			var address = results[0].formatted_address;
+			$("#show_LatLng_and_Address").append("<div id='show_address'>" + address + "</div>");
+			//if(parseInt(address[0])>=0 && parseInt(address[0])<10){            //  刪除郵遞區號
+			//	address = address.substring(3, address.length);	
+			//}
+			Geocoders.geocode( { 'address': address}, function(results, status) {        
+				if (status == google.maps.GeocoderStatus.OK) {
+					$("#show_address").hover(function(){
+						$("#show_address").css("background-color","#4d90fe");
+						setMarker(results[0].geometry.location,"green-pin-marker");
+					},
+					function(){
+						$("#show_address").css("background-color","#ffffff");
+						clearMarker("green-pin-marker");	
+					});
+					$("#show_address").click(function(){
+						$("#show_address").css("background-color","#4169e1");
+						clearMarker("green-pin-marker");
+						setMarker(results[0].geometry.location,"green-marker");
+					});					
+				} 
+				else {
+					alert('Geocode was not successful for the following reason: ' + status);
+				}
+			});		
+		}
+		else{
+//			alert('Geocode was not successful for the following reason: ' + status);
+			alert("click too quick");
+		}
+	});	
+}
+	
+	
+
+var BlueMarker = new google.maps.Marker({
+	position: new google.maps.LatLng(0, 0),
+	map: map
+});
+var RedStartRouteMarker = new google.maps.Marker({
+	position: new google.maps.LatLng(0, 0),
+	map: map
+});
+var RedEndRouteMarker = new google.maps.Marker({
+	position: new google.maps.LatLng(0, 0),
+	map: map
+});
+var GreenPinMarker = new google.maps.Marker({
+	position: new google.maps.LatLng(0, 0),
+	map: map
+});
+var GreenMarker = [];
+var MiddleLocationMarker = [];
+var MiddlePathMarker = [];
+var RouteStartLocation="",RouteEndLocation="";
+
+
+
+function setMarker(location,str,info){
+	var marker = new google.maps.Marker({
+		position: location,
+		map: map
+	});
+	if(str=="blue-marker"){
+		marker.setIcon({
+			url: "pic1.png",
+			scaledSize: new google.maps.Size(35, 35)
+		});
+		BlueMarker = marker;
+	}
+	else if(str=="red-marker-A"){
+		marker.setIcon({
+			url: "pic3.png",
+			scaledSize: new google.maps.Size(35, 35)
+		});
+		RedStartRouteMarker = marker;
+		RouteStartLocation = location;
+	}
+	else if(str=="red-marker-B"){
+		marker.setIcon({
+			url: "pic4.png",
+			scaledSize: new google.maps.Size(35, 35)
+		});
+		RedEndRouteMarker = marker;
+		RouteEndLocation = location;
+	}
+	else if(str=="green-pin-marker"){
+		marker.setIcon({
+			url: "grn-pushpin.png",
+			scaledSize: new google.maps.Size(35, 35)
+		});
+		GreenPinMarker = marker;
+	}
+	else if(str=="green-marker"){
+		marker.setIcon({
+			url: "pic2.png",
+			scaledSize: new google.maps.Size(35, 35)
+		});
+		GreenMarker.push(marker);
+	}
+	else if(str=="middle-location-marker"){
+		marker.setIcon({
+			url: "middle.png",
+			scaledSize: new google.maps.Size(35, 35)
+		});
+		MiddleLocationMarker.push(marker);
+		google.maps.event.addListener(marker, 'mouseover', function() {
+			info.open(map,marker);
+		});
+		google.maps.event.addListener(marker, 'mouseout', function() {
+			info.close();
+		});
+	}
+	else if(str=="middle-path-marker"){
+		marker.setIcon({
+			url: "middlepath.png",
+			scaledSize: new google.maps.Size(35, 35)
+		});
+		MiddlePathMarker.push(marker);
+		google.maps.event.addListener(marker, 'click', function() {
+			info.open(map,marker);
+		});
+	}
+}
+
+
+
+function clearMarker(str) {
+	if(str=="blue-marker"){
+		BlueMarker.setMap(null);
+	}
+	else if(str=="red-marker-A"){
+		RedStartRouteMarker.setMap(null);
+	}
+	else if(str=="red-marker-B"){
+		RedEndRouteMarker.setMap(null);
+	}
+	else if(str=="green-pin-marker"){
+		GreenPinMarker.setMap(null);
+	}
+	else if(str=="green-marker"){
+		for (var i = 0; i < GreenMarker.length; i++) {
+			GreenMarker[i].setMap(null);
+		}
+	}
+	else if(str=="middle-location-marker"){
+		for (var i = 0; i < MiddleLocationMarker.length; i++) {
+			MiddleLocationMarker[i].setMap(null);
+		}
+		MiddleLocationMarker=[];
+	}
+	else if(str=="middle-path-marker"){
+		for (var i = 0; i < MiddlePathMarker.length; i++) {
+			MiddlePathMarker[i].setMap(null);
+		}
+		MiddlePathMarker=[];
+	}
+}
+
+
+
+function getCanvasXY(caurrentLatLng){
+    var scale = Math.pow(2, map.getZoom());
+    var nw = new google.maps.LatLng(
+        map.getBounds().getNorthEast().lat(),
+        map.getBounds().getSouthWest().lng()
+    );
+    var worldCoordinateNW = map.getProjection().fromLatLngToPoint(nw);
+    var worldCoordinate = map.getProjection().fromLatLngToPoint(caurrentLatLng);
+    var caurrentLatLngOffset = new google.maps.Point(
+        Math.floor((worldCoordinate.x - worldCoordinateNW.x) * scale),
+        Math.floor((worldCoordinate.y - worldCoordinateNW.y) * scale)
+    );
+    return caurrentLatLngOffset;
+}
+
+
+
+function setMenuXY(caurrentLatLng){
+    var mapWidth = $('#map-canvas').width();
+    var mapHeight = $('#map-canvas').height();
+    var menuWidth = $('.contextmenu').width();
+    var menuHeight = $('.contextmenu').height();
+    var clickedPosition = getCanvasXY(caurrentLatLng);
+    var x = clickedPosition.x + $("#Panel2").width();
+    var y = clickedPosition.y + $("#Panel1").innerHeight();
+    if((mapWidth - x ) < menuWidth)
+        x = x - menuWidth;
+    if((mapHeight - y ) < menuHeight)
+        y = y - menuHeight;
+    $('.contextmenu').css('left',x  );
+    $('.contextmenu').css('top',y );
+}
+
+
+
+function showContextMenu(location) {
+	var contextmenuDir;
+    contextmenuDir = document.createElement("div");
+    contextmenuDir.className  = 'contextmenu';
+    if(Panel3show==true){
+    	contextmenuDir.innerHTML = "<div id='menu1'>這是起點</div><div id='menu2'>這是終點</div><div id='menu4'>reset</div>";
+    }
+    else{
+    	contextmenuDir.innerHTML = "<div id='menu4'>reset</div>";
+    }
+	$("body").append(contextmenuDir);   
+	$("#menu1").hover(function(){
+		$("#menu1").css("background-color","#4d90fe");
+	},
+	function(){
+		$("#menu1").css("background-color","#ffffff");
+	});	
+	$("#menu1").click(function(){
+		$("#menu1").css("background-color","#4169e1");
+		clearMarker("red-marker-A");
+		setMarker(location,"red-marker-A");
+		if(RouteEndLocation != ""){
+			drawRectangle(RouteStartLocation,RouteEndLocation);
+		}
+		$('.contextmenu').remove();
+	});					
+	$("#menu2").hover(function(){
+		$("#menu2").css("background-color","#4d90fe");
+	},
+	function(){
+		$("#menu2").css("background-color","#ffffff");
+	});	
+	$("#menu2").click(function(){
+		$("#menu2").css("background-color","#4169e1");
+		clearMarker("red-marker-B");
+		setMarker(location,"red-marker-B");
+		if(RouteStartLocation != ""){
+			drawRectangle(RouteStartLocation,RouteEndLocation);
+		}
+		$('.contextmenu').remove();
+	});		
+	$("#menu4").hover(function(){
+		$("#menu4").css("background-color","#4d90fe");
+	},
+	function(){
+		$("#menu4").css("background-color","#ffffff");
+	});	
+	$("#menu4").click(function(){
+		$("#menu4").css("background-color","#4169e1");
+		if(RouteStartLocation==""){
+			alert("please choose a start location");
+		}
+		else if(RouteEndLocation==""){
+			alert("please choose a destination location");
+		}
+		else{
+			$('.contextmenu').remove();
+
+			$("#Panel9").css("display","none");   //  顯示規則的方框消失
+			$("#Panel9 #sort").empty();			  //  清除所有規則
+			$("#Panel10").css("display","none");   
+			$("#Panel10 #sort2").empty();			
+			$("#Panel4").slideUp("slow");
+			$("#Panel5").slideUp("slow");
+			$("#Panel3").slideDown("slow");
+			
+			Panel3show = true;
+		}
+	});
+    setMenuXY(location);
+    contextmenuDir.style.visibility = "visible";     // only when everything is done, appear menu
+}
+
+
+
+var Infowindow=[];
+var PathInfo=[];
+var MiddleClickInfo="",MiddleOverInfo="";
+var RouteJudge=true;
+function calcRoute(start,end,middle,categoryandname) {
+	if(middle.length!=0){
+		clearMarker("middle-location-marker");	
+		Infowindow=[];
+		var b=[];
+		for(var i=0,j=0; i<middle.length; i++){
+			var a = {
+				location: middle[i],
+				stopover:true
+			};
+			var str = "<div style='width:300px;'><h5>Place" + (i+1) + ": " + categoryandname[j++] + "<br>" + "Name: " + categoryandname[j++] + "</h5></div>";
+			Infowindow.push(
+				new google.maps.InfoWindow({
+					content: str
+				})
+			);
+			setMarker(middle[i],"middle-location-marker",Infowindow[Infowindow.length-1]);
+			b.push(a);
+		}
+	}
+	var request = {
+		origin: start,
+		destination: end,
+		waypoints: b,
+		travelMode: google.maps.TravelMode.WALKING 
+	};
+	DirectionService.route(request, function(response, status) {
+		if (status == google.maps.DirectionsStatus.OK) {
+			RouteJudge = true;
+			if(middle.length!=0){
+				DirectionDisplay.setMap(map);
+				DirectionDisplay.setDirections(response);
+				clearMarker("middle-path-marker");	
+				PathInfo=[];	
+				for(var i=0,j=1; i<response.routes[0].legs.length-1; i++,j=j+2){
+					var location = response.routes[0].legs[i].end_location;
+					var str = "<div style='width:300px;'><h5>Name: " + categoryandname[j] + "<br>" + "Route address: " +  response.routes[0].legs[i].end_address + "</h5></div>";
+					PathInfo.push(
+						new google.maps.InfoWindow({
+							content: str
+						})
+					);
+					setMarker(location,"middle-path-marker",PathInfo[PathInfo.length-1]);
+				}
+			}
+		}
+		else{
+			RouteJudge = false;
+			alert("can not form a route");
+			if(middle.length!=0){
+				DirectionDisplay.setMap(null);
+			}
+		}
+	});
+}
+
+
+
+var Linetemp=[];
+function drawRectangle(RouteStartLocation,RouteEndLocation){
+	for(var i=0; i<Linetemp.length; i++){
+		Linetemp[i].setMap(null);
+	}
+	
+	var startLat = RouteStartLocation.lat();
+	var startLng = RouteStartLocation.lng();
+	var endLat = RouteEndLocation.lat();
+	var endLng = RouteEndLocation.lng();
+	var a = new google.maps.LatLng(startLat, endLng);
+	var b = new google.maps.LatLng(endLat, endLng);
+	
+	var lineSymbol = {
+		path: 'M 0,-1 0,1',
+		strokeOpacity: 1,
+		scale: 3
+	};
+	var lineCoord = [
+		a,
+		b
+	];
+	var line = new google.maps.Polyline({
+		path: lineCoord,
+		geodesic: true,
+		strokeColor: '#5B5B5B',
+		strokeOpacity: 0,
+		strokeWeight: 2,
+		icons: [{
+			icon: lineSymbol,
+			offset: '0',
+			repeat: '20px'
+		}],
+	});
+	line.setMap(map);
+	Linetemp.push(line);
+	
+	a = new google.maps.LatLng(startLat, startLng);
+	b = new google.maps.LatLng(endLat, startLng);
+	lineCoord = [
+		a,
+		b
+	];
+	line = new google.maps.Polyline({
+		path: lineCoord,
+		geodesic: true,
+		strokeColor: '#5B5B5B',
+		strokeOpacity: 0,
+		strokeWeight: 2,
+		icons: [{
+			icon: lineSymbol,
+			offset: '0',
+			repeat: '20px'
+		}],
+	});
+	line.setMap(map);
+	Linetemp.push(line);
+	
+	a = new google.maps.LatLng(startLat, startLng);
+	b = new google.maps.LatLng(startLat, endLng);
+	lineCoord = [
+		a,
+		b
+	];
+	line = new google.maps.Polyline({
+		path: lineCoord,
+		geodesic: true,
+		strokeColor: '#5B5B5B',
+		strokeOpacity: 0,
+		strokeWeight: 2,
+		icons: [{
+			icon: lineSymbol,
+			offset: '0',
+			repeat: '20px'
+		}],
+	});
+	line.setMap(map);
+	Linetemp.push(line);
+	
+	a = new google.maps.LatLng(endLat, startLng);
+	b = new google.maps.LatLng(endLat, endLng);
+	lineCoord = [
+		a,
+		b
+	 ];
+	line = new google.maps.Polyline({
+		path: lineCoord,
+		geodesic: true,
+		strokeColor: '#5B5B5B',
+		strokeOpacity: 0,
+		strokeWeight: 2,
+		icons: [{
+			icon: lineSymbol,
+			offset: '0',
+			repeat: '20px'
+		}],
+	});
+	line.setMap(map);
+	Linetemp.push(line);
+}
+
+
+
+var Panel3show = true;	
+$(document).ready(function(){
+	var a = $("body").width() - 10;     //  10 : #Panel1 padding-left:10px
+	$("#Panel1").css("width",a);  	
+	a = $("body").width() - $("#Panel2").width();   
+	$("#Panel7").css("width",a);
+	a = $("body").height() - $("#Panel1").innerHeight();
+	$("#Panel7").css("height",a);
+	$("#Panel2").css("height",a);		
+	
+	
+	
+	$(window).resize(function(){
+		if($("#Panel9").css("display") == "none"){
+			$("#testpanel3").css("top",$("#Panel10").outerHeight()+$("#Panel1").outerHeight()+20);
+			$("#testpanel3").css("height",$("body").height()-$("#Panel10").outerHeight()-$("#Panel1").outerHeight()-20);
+			$("#testpanel3").css("width",$("body").width()-$("#Panel2").width());
+			$("#testpanel4").css("height",$("#Panel10").outerHeight());
+			$("#testpanel4").css("width",$("body").width()-$("#Panel2").outerWidth()-$("#Panel10").outerWidth());
+		}
+		else{
+			$("#testpanel3").css("top",$("#Panel9").outerHeight()+$("#Panel1").outerHeight()+20);
+			$("#testpanel3").css("height",$("body").height()-$("#Panel9").outerHeight()-$("#Panel1").outerHeight()-20);
+			$("#testpanel3").css("width",$("body").width()-$("#Panel2").width());
+			$("#testpanel4").css("height",$("#Panel9").outerHeight());
+			$("#testpanel4").css("width",$("body").width()-$("#Panel2").outerWidth()-$("#Panel9").outerWidth());
+		}
+		
+
+		var a = $("body").width() - 10;     //  10 : #Panel1 padding-left:10px
+		$("#Panel1").css("width",a);
+		a = $("body").width() - $("#Panel2").width();   
+		$("#Panel7").css("width",a); 		
+		a = $("body").height() - $("#Panel1").innerHeight();
+		$("#Panel7").css("height",a);
+		$("#Panel2").css("height",a);
+	});
+	
+	
+	$("#Panel8 #show_LatLng_and_Address").fadeOut();
+	$("#Panel8 #exit").fadeOut();	
+	$("#Panel8 #exit").hover(function(){
+		$("#out").css("display","none");
+		$("#on").css("display","initial");
+		$("#Panel8 #exit").css("background-color","#4169e1");
+    },
+	function(){
+    	$("#on").css("display","none");
+		$("#out").css("display","initial");
+		$("#Panel8 #exit").css("background-color","#4d90fe");
+    });	
+	$("#Panel8 #exit").click(function(){
+		$("#Panel8 #show_LatLng_and_Address").fadeOut();
+		$("#Panel8 #exit").fadeOut();
+	});
+
+
+	var RecordCategory = [];
+	var MaxPathPattern=0;
+	var UserID="";
+	var AbleID=[];
+	AbleID.push("7735863");	
+	AbleID.push("9036889");	
+	AbleID.push("10563630");
+	AbleID.push("22602880");	
+	AbleID.push("31623674");
+	AbleID.push("32121816");	
+	AbleID.push("33607538");	
+	AbleID.push("67093054");
+	AbleID.push("67093054");
+	AbleID.push("7448869");
+	AbleID.push("23344533");
+	AbleID.push("23919060");
+	AbleID.push("34869895");
+	AbleID.push("38351631");
+	AbleID.push("39156069");
+	AbleID.push("41138825");
+	AbleID.push("41808955");
+	AbleID.push("71679757");
+	AbleID.push("87161881");
+	AbleID.push("98334721");
+	AbleID.push("95881098");
+	AbleID.push("51481409");
+	AbleID.push("53405303");
+	AbleID.push("79123642");
+	AbleID.push("32628129");
+	AbleID.push("79773537");
+	AbleID.push("76277389");
+	AbleID.push("25262413");
+	AbleID.push("32524944");
+	AbleID.push("64102204");
+	AbleID.push("121323918");
+	AbleID.push("70929657");
+	AbleID.push("42151838");
+	AbleID.push("36521982700");
+	AbleID.push("27403767");
+	$("#Panel4").slideUp();
+	$("#Panel3 #next").hover(function(){		  
+		$("#Panel3 #next").css("background-color","#B1B1CB");
+	},
+	function(){
+    	$("#Panel3 #next").css("background-color","#CFCFDF");
+    });	
+	$("#Panel3 #next").click(function(){     
+		$("#Panel3 #next").css("background-color","#9393B7");
+		$('.contextmenu').remove();
+		
+		if( $("#text-input2").val()== "" ){
+			alert("please enter your user flickr id");
+		}
+		else if( RouteStartLocation == "" ){
+			alert("please choose a start location");
+		}
+		else if( RouteEndLocation == "" ){
+			alert("please choose a destination location");
+		}
+		else if(RouteStartLocation==RouteEndLocation){
+			alert("please do not choose the same location");
+		}
+		else{		
+			calcRoute(RouteStartLocation,RouteEndLocation,[],[]);
+			setTimeout(function(){ 
+				if(RouteJudge==false){
+					//alert("can not form a route");
+				}
+				else{
+					for( var i = 0; i < AbleID.length; i++ ){
+						if(AbleID[i]==$("#text-input2").val()){
+							UserID = $("#text-input2").val();
+							break;
+						}
+					}
+					if(i==AbleID.length){
+						alert("please input a useful user ID");
+					}
+					else{
+						/* -----將使用者點選過的類別全部歸零----- */
+						RecordCategory = [];							 //   RecordCategory : 記錄使用者點選那些地點類別
+						/*-----------------------------------------*/	
+						var category = ["Art","Education","Event","Food","Nightlife Spot","Recreation","Professional","Residence","Service","Transport"];
+						var a = document.getElementsByClassName("checkbox");
+						for( var i = 0; i < a.length; i++ ){
+							if( a[i].checked == true ){
+								RecordCategory.push(category[i]);	  	
+							}
+						}
+						var sum = 0;
+						if( $("#Panel3 #recommendNum").val() == "" ){
+							sum = RecordCategory.length;
+						}
+						else{
+							sum = RecordCategory.length + parseInt($("#Panel3 #recommendNum").val());
+						}
+						if( sum < 1 ){
+							alert("Error: choose too few");
+						}
+						else if( sum > 6 ){
+							alert("Error: choose too much");
+						}
+						else{
+							$("#Panel3").slideUp("slow");
+							$("#Panel4 #type-selector2").empty();    //   清空 "#Panel4" 之內使用者選擇的類別
+							for( var i = 0; i < RecordCategory.length; i++ ){
+								var str = "<div class='ui-state-default drag'>" + RecordCategory[i] + "</div>";
+								$("#Panel4 #type-selector2").append(str);  	
+							}	
+							$(".drag").draggable({
+								connectToSortable: ".jQuerySortable",
+								helper: "clone",
+								revert: "invalid",
+								containment: "body",
+								scroll: false,
+								stop: function(event, ui) {
+									setTimeout(function(){ 
+										$("#testpanel3").css("top",$("#Panel9").outerHeight()+$("#Panel1").outerHeight()+20);
+										$("#testpanel3").css("height",$("body").height()-$("#Panel9").outerHeight()-$("#Panel1").outerHeight()-20);
+										$("#testpanel3").css("width",$("body").width()-$("#Panel2").width());
+										$("#testpanel4").css("height",$("#Panel9").outerHeight());
+										$("#testpanel4").css("width",$("body").width()-$("#Panel2").outerWidth()-$("#Panel9").outerWidth());
+									},300);
+								}
+							});	
+							$("#Panel4 #type-selector2 div").hover(function(){		  
+								$(this).css("box-shadow","0 2px 6px rgba(0, 0, 0, 0.3)");
+							},
+							function(){
+								$(this).css("box-shadow","0 0px 0px rgba(0, 0, 0, 0)");
+							});	
+							$("#Panel4 #type-selector2 div").click(function(){     
+								$(this).css("box-shadow","0 2px 6px rgba(0, 0, 0, 0.8)");
+							});
+							$("#Panel4").slideDown("slow");
+							$("#Panel4").css("display","initial");
+							CategoryName=[];
+							RuleSum=0;
+							MaxPathPattern=sum;
+							Panel3show=false;
+						}
+					}
+				}
+			}, 200);
+		}
+	});	
+	
+	
+	$("#Panel3 #recommendNum").blur(function(){
+		if( $("#Panel3 #recommendNum").val() >= 1 && $("#Panel3 #recommendNum").val() <= 6 );	
+		else if( $("#Panel3 #recommendNum").val() > 6 ){
+			$("#Panel3 #recommendNum").val("6");
+		}
+		else if( $("#Panel3 #recommendNum").val() < 1 ){
+			$("#Panel3 #recommendNum").val("");
+		}
+		else{
+			$("#Panel3 #recommendNum").val("");
+		}
+	});
+	
+	
+	var Explored=[],Loopjudge=false;;
+	function detectloop(dimension2,dimension1){
+		if(dimension1.length==0){
+			Explored.pop();
+		}
+		else{
+			for(var j=0; j<dimension1.length; j++){
+				var temp = dimension1[j];
+				for(var k=0; k<Explored.length; k++){
+					if(temp==Explored[k]){
+						Loopjudge = true;
+						break;
+					}
+				}
+				if(Loopjudge==true){
+					break;
+				}
+				else{
+					Explored.push(temp);
+					var l;
+					for(var k=0; k<dimension2.length; k++){
+						if(k==temp){
+							l = k;
+							break;
+						}
+					}
+					detectloop(dimension2,dimension2[l]);
+				}
+			}
+			if(j==dimension1.length){
+				Explored.pop();
+			}
+		}
+	}
+	
+	
+	$("#Panel4 #next").hover(function(){		  
+		$("#Panel4 #next").css("background-color","#B1B1CB");
+	},
+	function(){
+    	$("#Panel4 #next").css("background-color","#CFCFDF");
+    });	
+	$("#Panel4 #next").click(function(){
+		$("#Panel4 #next").css("background-color","#9393B7");	
+		for(var i=0; i<CategoryName.length; i++){
+			CategoryName[i] = [];
+		}
+		var rulesum = $("#Panel9 #sort .jQuerySortable").get().length;
+		for(var i=0; i<rulesum; i++){
+			var evenjudge = false;
+			var tempcategory = [];
+			var str = $("#Panel9 #sort .jQuerySortable").get(i).innerHTML.split(">");
+
+			for(var j=1; j<str.length; j=j+2){
+				var s = str[j].split("<");
+				for(var k=0; k<tempcategory.length; k++){
+					if(tempcategory[k] == s[0]){
+						alert("Error: the same category in the same rule");
+						evenjudge = true;
+						break;
+					}
+				}
+				if(evenjudge == true){
+					break;
+				}
+				else{
+					tempcategory.push(s[0]);
+					CategoryName[i].push(s[0]);
+				}
+			}
+			if(evenjudge == true){
+				break;
+			}
+		}
+		if(i==rulesum){
+			var category = ["Art","Education","Event","Food","Nightlife Spot","Recreation","Professional","Residence","Service","Transport"];
+			for(var i=0; i<CategoryName.length; i++){
+				for(var j=0; j<CategoryName[i].length; j++){
+					for(var k=0; k<category.length; k++){
+						if(CategoryName[i][j] == category[k]){
+							CategoryName[i][j] = k;
+							break;
+						}
+					}
+				}
+			}	
+			var record=[];
+			for(var i=0; i<CategoryName.length; i++){
+				for(var j=0; j<CategoryName[i].length-1; j++){
+					for(var k=j; k<CategoryName[i].length-1; k++){
+						record.push(CategoryName[i][j] + ":" + CategoryName[i][k+1]);
+					}
+				}
+			}
+			var record2=[];
+			for(var i=0; i<category.length; i++){
+				record2[i] = [];
+			}
+			for(var i=0; i<record.length; i++){
+				var s = record[i].split(":");
+				for(var j=0; j<category.length; j++){
+					if(parseInt(s[0])==j){
+						for(var k=0; k<record2[j].length; k++){
+							if(parseInt(s[1]) == record2[j][k]){
+								break;
+							}
+						}
+						if(k==record2[j].length){
+							record2[j][record2[j].length] = parseInt(s[1]);
+						}
+						break;
+					}
+				}
+			}
+			Loopjudge = false;
+			for(var i=0; i<record2.length; i++){
+				if(Loopjudge==true){
+					alert("rule contradiction");
+					break;
+				}
+				else if(record2[i].length==0);
+				else{
+					Explored = [];
+					Explored.push(i);
+					detectloop(record2,record2[i]);
+				}
+			}
+			if(Loopjudge==false){
+				var str="";
+				str = str + "FlickrID:" + UserID + "&";
+				str = str + "UserRule:";
+				var Pavel4category = $("#Panel4 #type-selector2").get(0).innerHTML.split(">");
+				if(Pavel4category.length != 1){
+					var categorydone=[];
+					for(var i=1; i<Pavel4category.length; i=i+2){
+						var a = Pavel4category[i].split("<");
+						categorydone.push(a[0]);
+					}
+					for(var i=0; i<CategoryName.length; i++){
+						if(CategoryName[i].length != 0){
+							for(var j=0; j<CategoryName[i].length-1; j++){
+								str = str + CategoryName[i][j] + "->" + CategoryName[i][j+1] + " ";
+								for(var k=0; k<category.length; k++){
+									if(k == CategoryName[i][j] || k == CategoryName[i][j+1]){
+										for(var l=0; l<categorydone.length; l++){
+											if(categorydone[l] == category[k]){
+												categorydone[l] = "done";
+												break;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					for(var i=0; i<categorydone.length; i++){
+						if(categorydone[i] != "done"){
+							for(var l=0; l<category.length; l++){
+								if(categorydone[i]==category[l]){
+									str = str + l + "->" + l + " ";
+									break;
+								}
+							}
+						}
+					}
+					str = str.substring(0,str.length-1); 
+				}
+				str = str + "&";
+				str = str + "StartLatLng:" + RouteStartLocation.lat() + "," + RouteStartLocation.lng() + "&";
+				str = str + "EndLatLng:" + RouteEndLocation.lat() + "," + RouteEndLocation.lng() + "&";
+				str = str + "MaxPathPattern:" + MaxPathPattern;
+				
+				//-----------------query--------------------//
+				//alert(str);
+				
+				$(".loaderClass").css("display","initial");
+				$("#button_test").css("display","initial");
+				$.post("../ServerCategoryRecommend", { 
+					QueryString : str
+				},
+				function(data) {
+					var array = data.split(":");
+					
+					judge=false;
+					if(array[1].length==1){    //  只有一個category
+						array = array[1];
+						judge = true;
+					}
+					else{
+						array = array[1].split("->");
+						if(array.length==1){
+							//alert("some error happens when query1");
+							alert(data);
+						}
+						else{
+							judge = true;
+						}
+					}
+			
+					if(judge == true){	
+						$("#Panel9").css("display","none");   //  顯示規則的方框消失
+						$("#Panel4").slideUp("slow");
+						$("#Panel5").slideDown("slow");
+						$("#Panel5").css("display","initial");
+						$("#Panel10").css("display","initial");
+				
+						$("#Panel10 #sort2").prepend("<div class='jQuerySortable2'></div>");
+						$( ".jQuerySortable2" ).sortable({
+							connectWith: ".jQuerySortable2",
+							placeholder: "highlight",
+							containment: "body",
+							scroll: false,
+							start: function (event, ui) {
+								ui.item.toggleClass("highlight");
+							},
+							stop: function (event, ui) {
+								ui.item.toggleClass("highlight");
+							}
+						}).disableSelection();
+				
+						$("#Panel2,#Panel1,#testpanel3,#testpanel4").droppable({
+							accept: "#Panel10 .drag2",
+							drop: function(event, ui) {
+								ui.draggable.remove();
+								setTimeout(function(){ 
+									$("#testpanel3").css("top",$("#Panel10").outerHeight()+$("#Panel1").outerHeight()+20);
+									$("#testpanel3").css("height",$("body").height()-$("#Panel10").outerHeight()-$("#Panel1").outerHeight()-20);
+									$("#testpanel3").css("width",$("body").width()-$("#Panel2").width());
+									$("#testpanel4").css("height",$("#Panel10").outerHeight());
+									$("#testpanel4").css("width",$("body").width()-$("#Panel2").outerWidth()-$("#Panel10").outerWidth());
+								},300);
+							}
+						});
+					
+						for(var i=0; i<array.length; i++){
+								$(".jQuerySortable2").append("<div class='ui-state-default drag2'>" + category[array[i]] + "</div>");
+						}
+		
+						setTimeout(function(){ 
+							$("#testpanel3").css("top",$("#Panel10").outerHeight()+$("#Panel1").outerHeight()+20);
+							$("#testpanel3").css("height",$("body").height()-$("#Panel10").outerHeight()-$("#Panel1").outerHeight()-20);
+							$("#testpanel3").css("width",$("body").width()-$("#Panel2").width());
+							$("#testpanel4").css("height",$("#Panel10").outerHeight());
+							$("#testpanel4").css("width",$("body").width()-$("#Panel2").outerWidth()-$("#Panel10").outerWidth());
+						},300);	
+					}
+					$(".loaderClass").css("display","none");
+					$("#button_test").css("display","none");
+				});
+			}
+		}
+	});	
+	
+
+	
+	
+	var CategoryName=[];
+	var RuleSum=0;
+	$("#Panel4 #addRule").hover(function(){		  
+		$("#Panel4 #addRule").css("background-color","#B1B1CB");
+	},
+	function(){
+    	$("#Panel4 #addRule").css("background-color","#CFCFDF");
+    });	
+	$( "#Panel4 #addRule" ).click(function(){
+		$("#Panel4 #addRule").css("background-color","#9393B7");
+		
+		if(RuleSum<7){
+			$("#Panel9").css("display","initial");
+			$("#Panel9 #sort").prepend("<div class='jQuerySortable'></div>");
+			$( ".jQuerySortable" ).sortable({
+				connectWith: ".jQuerySortable",
+				placeholder: "highlight",
+				containment: "body",
+				scroll: false,
+				start: function (event, ui) {
+					ui.item.toggleClass("highlight");
+				},
+				stop: function (event, ui) {
+					ui.item.toggleClass("highlight");
+				}
+			}).disableSelection();
+			
+			$("#Panel2,#Panel1,#testpanel3,#testpanel4").droppable({
+				accept: "#Panel9 .drag",
+				drop: function(event, ui) {
+					//RecordCategory.splice(ui.draggable.index(),1);
+					ui.draggable.remove();
+					setTimeout(function(){ 
+						$("#testpanel3").css("top",$("#Panel9").outerHeight()+$("#Panel1").outerHeight()+20);
+						$("#testpanel3").css("height",$("body").height()-$("#Panel9").outerHeight()-$("#Panel1").outerHeight()-20);
+						$("#testpanel3").css("width",$("body").width()-$("#Panel2").width());
+						$("#testpanel4").css("height",$("#Panel9").outerHeight());
+						$("#testpanel4").css("width",$("body").width()-$("#Panel2").outerWidth()-$("#Panel9").outerWidth());
+					},300);
+				}
+			});
+			
+			$("#testpanel3").css("top",$("#Panel9").outerHeight()+$("#Panel1").outerHeight()+20);
+			$("#testpanel3").css("height",$("body").height()-$("#Panel9").outerHeight()-$("#Panel1").outerHeight()-20);
+			$("#testpanel3").css("width",$("body").width()-$("#Panel2").width());
+			$("#testpanel4").css("height",$("#Panel9").outerHeight());
+			$("#testpanel4").css("width",$("body").width()-$("#Panel2").outerWidth()-$("#Panel9").outerWidth());
+			
+			CategoryName.push([]);
+			RuleSum++;
+		}
+	});
+	
+	
+	$("#Panel4 #reset").hover(function(){		  
+		$("#Panel4 #reset").css("background-color","#B1B1CB");
+	},
+	function(){
+    	$("#Panel4 #reset").css("background-color","#CFCFDF");
+    });	
+	$( "#Panel4 #reset" ).click(function(){
+		$("#Panel4 #reset").css("background-color","#9393B7");
+
+		$("#Panel9").css("display","none");   //  顯示規則的方框消失
+		$("#Panel9 #sort").empty();			  //  清除所有規則
+		$("#Panel10").css("display","none");   
+		$("#Panel10 #sort2").empty();
+		$("#Panel4").slideUp("slow");
+		$("#Panel3").slideDown("slow");
+		
+		Panel3show = true;
+	});
+	
+	
+	$("#Panel5 #next").hover(function(){		  
+		$("#Panel5 #next").css("background-color","#B1B1CB");
+	},
+	function(){
+    	$("#Panel5 #next").css("background-color","#CFCFDF");
+    });	
+	$("#Panel5 #next").click(function(){
+		$("#Panel5 #next").css("background-color","#9393B7");
+		var str="";
+		str = str + "FlickrID:" + UserID + "&";
+		str = str + "UserPath:";
+		var tempcategory = [];
+		var temps = $("#Panel10 #sort2 .jQuerySortable2").get(0).innerHTML.split(">");
+		
+		if(temps.length == 1){
+			alert("please choose at least a category");
+		}
+		else if($("#Panel10 #sort2 .jQuerySortable2 .drag2").length>6){
+			alert("choose too much, please remove some categories in the list");
+		}	
+		else{
+			for(var i=1; i<temps.length; i=i+2){
+				var s = temps[i].split("<");
+				tempcategory.push(s[0]);
+			}
+			var category = ["Art","Education","Event","Food","Nightlife Spot","Recreation","Professional","Residence","Service","Transport"];
+			for(var i=0; i<tempcategory.length; i++){
+				for(var j=0; j<category.length; j++){
+					if(category[j] == tempcategory[i]){
+						str = str + j;
+						if(i != tempcategory.length-1){
+							str = str + "->";
+						}
+						break;
+					}
+				}
+			}		
+
+			//-----------------query--------------------//
+			$(".loaderClass").css("display","initial");
+			$("#button_test").css("display","initial");
+			$.post("../ServerPathRecommend", { 
+				QueryString : str
+			},
+			function(data) {	
+				var detecterror = data.split(":");
+				if(detecterror[0]=="Error"){
+					alert(data);
+				}
+				else{	
+					var array = data.split("&");
+					var lat = [];
+					var lng = [];
+					var venueid = [];
+					for(var i=0; i<array.length; i++){
+						var space = array[i].split(" ");
+						var semicolon = space[0].split(":");
+						venueid.push(semicolon[1]);		
+						for(var j=1; j<space.length; j=j+2){
+							var semicolon = space[j].split(":");
+							for(var k=1; k<semicolon.length; k=k+2){
+								var comma = semicolon[k].split(",");
+								lat.push(comma[0]);
+								lng.push(comma[1]);	
+							}
+						}
+					}
+					var middle=[];
+					for(var i=0; i<lat.length; i++){
+						middle.push(new google.maps.LatLng(lat[i],lng[i]));
+						//alert(venueid[i] + "\n" + middle[i]);
+					}	
+					
+					$("#Panel6 #categoryResultList").empty();
+					var categoryandname=[];
+					var recifyvenueid=[];
+					for(var i=0; i<tempcategory.length; i++){
+						$.ajax({
+							url: "https://api.foursquare.com/v2/venues/explore?ll=" + lat[i] + "," + lng[i] + "&radius=1&oauth_token=QSOXXGB55LGVWYV5ALYP1ZA45JBBTGC51R5BWA5GWXM45PXF&v=20141218",
+							type:"GET",
+							dataType:'json',
+							async: false,
+							success: function(msg){
+								if(typeof(msg.response.groups[0].items[0])!=="undefined"){
+									recifyvenueid.push(msg.response.groups[0].items[0].venue.id);
+								}
+								else{
+									recifyvenueid.push("");
+								}
+							},
+							error:function(xhr, ajaxOptions, thrownError){ 
+								alert(xhr.status); 
+								alert(thrownError); 
+							}
+						});
+						if(recifyvenueid[recifyvenueid.length-1]!=""){
+							if(recifyvenueid[recifyvenueid.length-1] != venueid[i]){
+								venueid[i] = recifyvenueid[recifyvenueid.length-1];
+							}
+						}
+						$.ajax({
+							url: "https://api.foursquare.com/v2/venues/" + venueid[i] + "?oauth_token=QSOXXGB55LGVWYV5ALYP1ZA45JBBTGC51R5BWA5GWXM45PXF&v=20141215",
+							type:"GET",
+							dataType:'json',
+							async: false,
+							success: function(msg){
+								var s = "#categoryResultList" + i;
+								var str = "<div class='block' id=" + "categoryResultList" + i + "></div>";
+								$("#Panel6 #categoryResultList").append(str);  
+								$(s).hover(function(){	
+									$(this).css("background-color","rgba(77, 144, 254, .2)");
+									var s = "";
+									for(var j=0; j<tempcategory.length; j++){
+										s = "categoryResultList" + j;
+										if($(this).attr("id") == s){
+											Infowindow[j].open(map,MiddleLocationMarker[j]);
+											break;
+										}
+									}
+								},
+								function(){
+									$(this).css("background-color","rgba(255, 255, 255, .0)");
+									var s = "";
+									for(var j=0; j<tempcategory.length; j++){
+										s = "categoryResultList" + j;
+										if($(this).attr("id") == s){
+											Infowindow[j].close();
+											break;
+										}
+									}
+								});	
+								$(s).click(function(){
+									$(this).css("background-color","rgba(77, 144, 254, .3)");
+								});
+
+								$(s).append("<div class='text'></div>");
+								$(s).append("<div class='picture'></div>");
+						
+								var photourl,venuename,venuecomment,venuesubcategory,rating,checkinscount;
+								venuename = msg.response.venue.name;
+								venuesubcategory = msg.response.venue.categories[0].name;
+								checkinscount = msg.response.venue.stats.checkinsCount;
+								if(typeof(msg.response.venue.photos.groups[0])==="undefined"){
+									photourl = "";
+								}
+								else{
+									photourl = msg.response.venue.photos.groups[0].items[0].prefix + "original" + msg.response.venue.photos.groups[0].items[0].suffix;
+								}
+								if(typeof(msg.response.venue.rating)==="undefined"){
+									rating = "None";
+								}
+								else{
+									rating = msg.response.venue.rating;
+								}
+								if(typeof(msg.response.venue.description)!=="undefined"){
+									venuecomment = msg.response.venue.description;
+								}
+								else if(typeof(msg.response.venue.tips.groups[0])==="undefined"){
+									venuecomment = "No comment";
+								}
+								else{
+									var commentjudge = false;
+									for(var g=0; g<msg.response.venue.tips.groups.length; g++){
+										if(typeof(msg.response.venue.tips.groups[g].items[0])==="undefined");
+										else{
+											var l=0;
+											for(l=0; l<msg.response.venue.tips.groups[g].items.length; l++){
+												if(typeof(msg.response.venue.tips.groups[g].items[l].text)==="undefined");
+												else{
+													venuecomment = msg.response.venue.tips.groups[g].items[l].text;
+													commentjudge = true;
+													break;
+												}
+											}
+										}
+										if(commentjudge == true){
+											break;
+										}
+									}
+									if(commentjudge==false){
+										venuecomment = "No comment";
+									}
+								}
+
+								s = "#categoryResultList" + i + " .picture";
+								if(photourl != ""){
+									$(s).append("<a rel='lightbox[groupedfoto]' href=" + photourl + ">" + "<img src=" + photourl + " height='110px' width='110px'>");	
+								}
+								s = "#categoryResultList" + i + " .text";
+								$(s).append("<div class='categoryName'>" + tempcategory[i] + "</div>");
+								$(s).append("<div class='subcategoryName'>" + venuesubcategory + "</div>");
+								categoryandname.push(tempcategory[i]);
+								$(s).append("<span class='locationName'>" + venuename + "</span>");
+								categoryandname.push(venuename);
+								$(s).append("<span class='rating'>rating: " + rating + " check-in: " + checkinscount + "</span>");
+								$(s).append("<span class='locationComment'>" + venuecomment + "</span>");
+							},
+							error:function(xhr, ajaxOptions, thrownError){ 
+								alert(xhr.status); 
+								alert(thrownError); 
+							}
+						});
+					}
+					calcRoute(RouteStartLocation,RouteEndLocation,middle,categoryandname);
+				}
+				$(".loaderClass").css("display","none");
+				$("#button_test").css("display","none");
+			});
+		}	
+	});	
+	
+	
+	$("#Panel5 #reset").hover(function(){		  
+		$("#Panel5 #reset").css("background-color","#B1B1CB");
+	},
+	function(){
+    	$("#Panel5 #reset").css("background-color","#CFCFDF");
+    });	
+	$( "#Panel5 #reset" ).click(function(){
+		$("#Panel5 #reset").css("background-color","#9393B7");
+
+		$("#Panel9").css("display","none");   //  顯示規則的方框消失
+		$("#Panel9 #sort").empty();			  //  清除所有規則
+		$("#Panel10").css("display","none"); 
+		$("#Panel10 #sort2").empty();			
+		$("#Panel5").slideUp("slow");
+		$("#Panel3").slideDown("slow");
+		
+		Panel3show = true;
+	});
+	
+
+	$(".drag2").draggable({
+		connectToSortable: ".jQuerySortable2",
+		helper: "clone",
+		revert: "invalid",
+		containment: "body",
+		scroll: false,
+		stop: function(event, ui) {
+			setTimeout(function(){ 
+				$("#testpanel3").css("top",$("#Panel10").outerHeight()+$("#Panel1").outerHeight()+20);
+				$("#testpanel3").css("height",$("body").height()-$("#Panel10").outerHeight()-$("#Panel1").outerHeight()-20);
+				$("#testpanel3").css("width",$("body").width()-$("#Panel2").width());
+				$("#testpanel4").css("height",$("#Panel10").outerHeight());
+				$("#testpanel4").css("width",$("body").width()-$("#Panel2").outerWidth()-$("#Panel10").outerWidth());
+			},300);
+		}
+	});	
+
+	
+	var temp_result,judge=0;
+	$("#text-input1").keypress(function(event){ 
+	    if(event.which==13){	  //  按下Enter
+	    	var firstResult = $(".pac-container .pac-item:first").text();	  
+			var half;
+			if( (firstResult.length % 2) == 1){
+				half = (firstResult.length-1)/2;
+			}
+			else{
+				half = firstResult.length/2;
+			}
+			var length=0,max_length=0;
+	    	var i=0,j=0;
+	    	for(j=half; j<firstResult.length; j++){
+	    		if(firstResult[i]==firstResult[j]){
+	    			length++;
+	    			i++;
+	    		}
+	    		else{
+	    			if(max_length < length){
+	    				max_length = length;
+	    			}
+	    			i=0;
+	    			length=0;
+	    		}
+	    	}	    		
+			var result = firstResult.substring(length,firstResult.length);
+			firstResult = result;
+            Geocoders.geocode({"address":firstResult }, function(results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    var lat = results[0].geometry.location.lat(),
+                        lng = results[0].geometry.location.lng(),
+                        latlng = new google.maps.LatLng(lat, lng);
+						$("#text-input1").val(firstResult);												
+                        map.setCenter(latlng);
+                        map.setZoom(17);
+						clearMarker("blue-marker");           //  clear 之前的 marker
+						setMarker(latlng,"blue-marker");
+						temp_result = firstResult;
+						judge = 1;
+                }
+            });
+        } 
+	    else {
+            $(".pac-container").css("visibility","visible");
+        }
+	});
+	$("body").click(function(){
+		if(judge==1){
+			$("#text-input1").val(temp_result);
+			judge = 0;
+		}
+	});	
+	
+	
+	var array = document.cookie.split(":");
+	var locationpercentage = [];
+	for( i=2; i<12; i++ ){
+		locationpercentage.push(array[i]);
+	}
+	var preferencesequence = [];
+	for( i=12; i<array.length; i++ ){
+		if( array[i].length != 0 ){
+			var k = array[i].split(" ");
+			preferencesequence.push(k[0]);
+			preferencesequence.push(k[1]);
+		}
+	}
+	var flickrid = array[0].split("=");
+	$("#text-input2").val(flickrid[1]);
+	$("#showPersonalData").css("visibility","hidden");
+	var showPersonalData = false;
+	$("#PersonalDataButton").hover(function(){		  
+		$("#PersonalDataButton").css("background-color","#B1B1CB");
+	},
+	function(){
+    	$("#PersonalDataButton").css("background-color","#CFCFDF");
+    });	
+	$("#PersonalDataButton").click(function(){
+		$("#PersonalDataButton").css("background-color","#9393B7");
+		if(showPersonalData==false){
+			$("#showPersonalData").css("visibility","initial");
+			showPersonalData = true;
+		}
+		else if(showPersonalData==true){
+			$("#showPersonalData").css("visibility","hidden");
+			showPersonalData = false;
+		}
+	});
+	
+	var data = [
+		{label: "Art", data: locationpercentage[0], color: "#005CDE"},
+		{label: "Education", data: locationpercentage[1], color: "#2E2EB8"},
+		{label: "Event", data: locationpercentage[2], color: "#801A66"},
+		{label: "Food", data: locationpercentage[3], color: "#006600"},
+		{label: "Nightlife Spot", data: locationpercentage[4], color: "#663300"},
+		{label: "Recreation", data: locationpercentage[5], color: "#7A29CC"},
+		{label: "Professional", data: locationpercentage[6], color: "#FF0000"},
+		{label: "Residence", data: locationpercentage[7], color: "#008F00"},
+		{label: "Service", data: locationpercentage[8], color: "#808000"},
+		{label: "Transport", data: locationpercentage[9], color: "#FF00FF"}
+	];
+	var options = {
+	    series: {
+	    	pie: {
+				show: true,
+				radius: 3/4,
+				tilt: 0.5
+			}
+	    },
+	    grid: {
+	        hoverable: true
+	    },
+		legend: {
+			show: false
+		}
+	};
+	$.plot($("#flotcontainer"), data, options);  
+	$("#flotcontainer").bind("plothover", function(event, pos, obj){
+		if (!obj){return;}
+		percent = parseFloat(obj.series.percent).toFixed(2);
+		var html = [];
+		html.push( "<div style=\"flot:left;width:200px;height:20px;text-align:center;border:1px solid black;background-color:", obj.series.color, "\">",
+				   "<span style=\"font-weight:bold;color:white\">", obj.series.label, " (", percent, "%)</span>",
+				   "</div>" );
+	    $("#interactive").html(html.join(''));        
+	});
+	
+	var str="";
+	var category = ["Art","Education","Event","Food","Nightlife Spot","Recreation","Professional","Residence","Service","Transport"];
+	for( i=0,j=1; i<preferencesequence.length; i=i+2,j++ ){
+		str = str + j + ". " + category[preferencesequence[i]] + " -> " + category[preferencesequence[i+1]] + "<br>";
+	}
+	$("#preferencesequence").append(str);        
+});
+	</script>
+  </head>
+  <body>
+	<div id="Panel1">
+		Personalized Trip Recommendation System
+		<input id="text-input1" type="text" placeholder="Ex: New York City">
+		<input id="text-input2" type="text" placeholder="User Flickr ID" readonly>
+		<div id="PersonalDataButton">
+			Peronal Data
+		</div>
+	</div>
+	<div id="Panel2">
+		<div id="Panel3">
+			<div id="title">
+				Choose category(at most six):
+			</div>
+			<div id="type-selector2">
+				<div>
+					<input class="checkbox" type="checkbox" id="changetype-1" checked="checked">
+					<label for="changetype-1">Art</label>
+				</div>
+				<div>
+					<input class="checkbox" type="checkbox" id="changetype-2">
+					<label for="changetype-2">Education</label>
+				</div>
+				<div>
+					<input class="checkbox" type="checkbox" id="changetype-3">
+					<label for="changetype-3">Event</label>
+				</div>
+				<div>
+					<input class="checkbox" type="checkbox" id="changetype-4">
+					<label for="changetype-4">Food</label>
+				</div>
+				<div>	
+					<input class="checkbox" type="checkbox" id="changetype-5">
+					<label for="changetype-5">Nightlife Spot</label>
+				</div>
+				<div>
+					<input class="checkbox" type="checkbox" id="changetype-6">
+					<label for="changetype-6">Recreation</label>
+				</div>
+				<div>
+					<input class="checkbox" type="checkbox" id="changetype-7">
+					<label for="changetype-7">Professional</label>
+				</div>
+				<div>
+					<input class="checkbox" type="checkbox" id="changetype-8">
+					<label for="changetype-8">Residence</label>
+				</div>
+				<div>
+					<input class="checkbox" type="checkbox" id="changetype-9">
+					<label for="changetype-9">Service</label>
+				</div>
+				<div>
+					<input class="checkbox" type="checkbox" id="changetype-10">
+					<label for="changetype-10">Transport</label>
+				</div>
+			</div>
+			<div id="button">
+				<input id="recommendNum" type="text" placeholder="Recommend num">
+				<div id="next">next</div>
+			</div>	
+		</div>
+
+		<div id="Panel4" style="display:none;">
+			<div id="title">
+				Add rule of category:
+			</div>
+			<div id="type-selector2">
+			</div>
+			<div id="button">
+				<div id="reset">reset</div>
+				<div id="addRule">add rule</div>
+				<div id="next">next</div>
+			</div>
+		</div>
+		
+		
+		<div id="Panel5" style="display:none;">
+			<div id="title">
+				Category sequence of recommendation:
+			</div>
+			<div id="type-selector2">
+				<div class="ui-state-default drag2">Art</div>
+				<div class="ui-state-default drag2">Education</div>
+				<div class="ui-state-default drag2">Event</div>
+				<div class="ui-state-default drag2">Food</div>
+				<div class="ui-state-default drag2">Nightlife Spot</div>
+				<div class="ui-state-default drag2">Recreation</div>
+				<div class="ui-state-default drag2">Professional</div>
+				<div class="ui-state-default drag2">Residence</div>
+				<div class="ui-state-default drag2">Service</div>
+				<div class="ui-state-default drag2">Transport</div>
+			</div>
+			<div id="button">
+				<div id="reset">reset</div>
+				<div id="next">send</div>
+			</div>
+		</div>
+		
+
+		
+		
+		<div id="Panel6" style="display:initial;">
+			<div id="categoryResultList">
+			<!--  
+				<div class="block" style="overflow:auto;">
+					<div class="text">
+						<div class="categoryName">
+							restaurant
+						</div>
+						<div class="subcategoryName">
+							subrestaurant
+						</div>
+						<span class="locationName">
+							13333333333333
+						</span>
+						<span class="rating">
+							rating: 9.8
+						</span>
+						<span class="locationComment">
+							V111111111111111111111 12 131 12 12 21 1 1 1111111111111 1111111111111 11111111111 111111111 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 121 21 21 1 21 1 1 22 2 12 2 2 a visita à cobertura para ter uma visão de Manhattan mas saiba que as melhores fotos estão no Top of the Rock. Não ande no simulador de helicóptero que é uma atração no térreo (nota zero)
+						</span>
+					</div>
+					<div class="picture">
+						<img src="ZoomIn.png" height="90px" width="90px">
+					</div>
+				</div>
+			-->
+			</div>
+		</div>
+	</div>
+	<div id="Panel7">
+		<div id="map-canvas"></div>
+		<div id="Panel8" style="display:none;">
+			<div id="show_LatLng_and_Address"></div>
+			<div id="exit">
+				<img id="out" src="exit_hover_out.png" width="40px" height="40px">			
+				<img id="on" src="exit_hover_on.png" width="40px" height="40px" style="display:none;">
+			</div>
+		</div>
+		<table id="showPersonalData" border="0" width="400px" height="600px" cellspacing="0" cellpadding="0" style="background:rgba(207,207,223,0.5); position:absolute; bottom:0; right:0;">      
+		<tbody>
+			<tr height="10%">            
+				<td>
+					<center style="font-family:bold; font-size:30px; font-weight:500;">Preference Type</center>
+				</td>  
+			</tr>
+			<tr height="40%">
+				<td>
+					<center style="padding-top: 5px">
+							Hover percent : <span id="interactive"></span>
+					</center>
+					<div id="flotcontainer" style="width:400px; height:230px">
+					</div>
+				</td> 
+			</tr>
+			<tr height="10%">
+				<td>
+					<center style="font-family:bold; font-size:30px; font-weight:500;">Preference Sequence</center>
+				</td> 
+			</tr>
+			<tr height="40%">
+				<td>
+					<div id="preferencesequence" style="overflow:auto; white-space:nowrap; width:400px; height:100%; font-family:Roboto; font-size:20px; font-weight:500;">
+					</div>
+				</td> 
+			</tr>
+		</tbody>
+		</table>
+	</div>
+	<div id="Panel9" style="display:none;">
+		<div class="text">Rules</div>
+		<div id="sort">
+		</div>
+	</div>
+	
+	<div id="Panel10" style="display:none;">
+		<div class="text2">Category sequence(at most six)</div>
+		<div id="sort2">
+		<!--	<div class="jQuerySortable2">
+				<div class="ui-state-default drag2">Food</div>
+				<div class="ui-state-default drag2">Art</div>
+			</div>	
+		-->	
+		</div>
+	</div>
+	
+	
+	<div id="testpanel3"></div>
+	<div id="testpanel4"></div>
+	
+	<div class="loaderClass" style="display:none;">
+		<div class="loader">Calculating</div>
+	</div>
+	
+  </body>
+</html>

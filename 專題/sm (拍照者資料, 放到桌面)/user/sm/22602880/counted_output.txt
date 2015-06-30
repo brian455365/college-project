@@ -1,0 +1,21 @@
+0 6  #SUP: 7
+3 6  #SUP: 4
+3 8  #SUP: 9
+3 9  #SUP: 12
+4 6  #SUP: 3
+4 8  #SUP: 4
+5 6  #SUP: 5
+5 9  #SUP: 5
+6 8  #SUP: 9
+6 9  #SUP: 9
+8 9  #SUP: 5
+Category:0	count:7
+Category:1	count:0
+Category:2	count:0
+Category:3	count:25
+Category:4	count:7
+Category:5	count:10
+Category:6	count:18
+Category:7	count:0
+Category:8	count:5
+Category:9	count:0

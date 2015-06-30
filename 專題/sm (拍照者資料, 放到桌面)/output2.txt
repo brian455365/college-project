@@ -1,0 +1,16 @@
+1 5  #SUP: 18
+2 4  #SUP: 13
+2 5  #SUP: 24
+3 4  #SUP: 13
+3 5  #SUP: 26
+4 5  #SUP: 38
+Category:0	count:0
+Category:1	count:18
+Category:2	count:37
+Category:3	count:39
+Category:4	count:38
+Category:5	count:0
+Category:6	count:0
+Category:7	count:0
+Category:8	count:0
+Category:9	count:0

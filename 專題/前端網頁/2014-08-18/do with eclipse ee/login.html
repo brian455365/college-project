@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Place Autocomplete</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    
+	<style>
+      html, body{
+        height: 100%;
+		width: 100%;
+        margin: 0px;
+        padding: 0px;
+      }	  
+	  #Panel1{						
+		position: absolute;
+		top:0;
+		left:0;
+		height: 70px;
+		width: 100%;
+		background-color: #4d90fe;
+		color: #fff;
+		font-family: Roboto;
+        font-size: 45px;
+        font-weight: 700;		
+		text-align: center;      
+		line-height: 150%;
+		z-index: 4;
+	  }	  
+	  #Panel2{
+		position: absolute;
+		top:0;
+		left:0;
+		width: 100%;
+		height: 100%;
+		z-index: 3;
+		background: rgba(77, 144, 254, .3);
+	  }
+	  .text-input{ 
+		font-family: Roboto;
+        font-size: 15px;
+        font-weight: 400;
+        text-overflow: ellipsis;
+		height: 40px;
+        width: 400px;
+		background-color: #fff;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);  
+		border: 1px solid transparent;
+		padding: 0 11px 0 13px;
+      }
+	  #text-input1:focus{
+        border-color: #4d90fe;
+      }
+	  #text-input2:focus{
+        border-color: #4d90fe;
+      }
+	</style>
+	 
+	<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places"></script>
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+    
+	<script> 
+$(document).ready(function(){
+	window.history.forward(1);        //  prevent "the next page" from clicking 上一頁
+	var loginFlickrID = "";
+	$("#demo").hover(function(){		  
+		document.getElementById("demo").src="./LoginPic3-2.png";
+	},
+	function(){
+		document.getElementById("demo").src="./LoginPic3.png";
+    });	
+	$("#demo").click(function(){
+		document.getElementById("demo").src="./LoginPic3-3.png";
+		window.open("./PersonalizeTripRecommendationSystem.pdf");
+	});
+	$("#login").hover(function(){		  
+		document.getElementById("login").src="./LoginPic2-2.png";
+	},
+	function(){
+		document.getElementById("login").src="./LoginPic2.png";
+    });	
+	$("#login").click(function(){
+		document.getElementById("login").src="./LoginPic2-3.png";
+		loginFlickrID =  $("#text-input1").val();
+		$.post("../Login", { 
+			QueryString : loginFlickrID
+		},
+		function(data) {
+			var array = data.split(":");
+			if(array[0]=="no"){
+				alert("useless FlickrID");
+			}
+			else{
+				document.cookie="username=" + data + ";" + "path=./new.html";
+				//window.location = "http://localhost:8080/TeamProject/web/new.html";     //  automatically change to the next page
+				//window.location = "./test.pdf";     //  automatically change to the next page
+				window.location = "http://140.123.102.171:8080/TeamProject/web/new.html";
+				//window.location = "http://140.123.102.180:9800/TeamProject/web/new.html";
+			}
+		});
+	});
+});
+	</script>
+  </head>
+  
+  <body>
+	<div id="Panel1">
+		Personalized Trip Recommendation System
+	</div>
+	<div id="Panel2">
+		<img src="./LoginPic1.png" width="800px" height="500px" style="position:absolute; top:170px; left:100px;">
+		<img id="login" src="./LoginPic2.png" width="50px" height="50px" style="position:absolute; top:680px; left:1450px;">
+		<img id="demo" src="./LoginPic3.png" width="50px" height="50px" style="position:absolute; top:610px; left:700px;">
+		<div style="position:absolute; top:450px; left:1000px; font-family:Roboto; font-size:145px; font-weight:700; color:#0047B2">
+			LOGIN
+		</div>
+		<div style="position:absolute; top:610px; left:750px; width:180px; font-family:Roboto; font-size:45px; font-weight:700; color:#0047B2">
+			Test for Demo
+		</div>
+	</div>
+	<table border="0" width="400px" height="80px" cellspacing="20px" cellpadding="0" style="position:absolute; top:600px; left:980px; z-index:4;">      
+		<tbody>
+			<tr>            
+				<td>
+					<input class="text-input" id="text-input1" type="text" placeholder="User Flickr ID">
+				</td>  
+			</tr>
+			<tr>
+				<td>
+					<form><input class="text-input" id="text-input2" type="password" placeholder="Password"></form>
+				</td> 
+			</tr>
+		</tbody>
+	</table>
+  </body>
+</html>

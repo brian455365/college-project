@@ -1,0 +1,22 @@
+整合:
+
+Venue ID:
+	input.txt->  txtAnalysis_venueID.java(刪除不要的資料)->  txtAnalysis_venueID.txt(有date 有venue id)
+	
+	txtAnalysis_venueID.txt->  Main2_venueID.java -> venueID_venueID.txt(每張相片的POI的venue id) 和 category_venueID.txt(每張相片的POI的子類別) 
+
+	 venueID_venueID.txt 和 category_venueID.txt解釋:
+													(連續的子類別並未刪除)
+													(txtAnalysis_venueID.txt 和 venueID_venueID.txt 和 category_venueID.txt 資料筆數相同)
+	
+	category_venueID.txt->  categoryAnalysis_venueID.java->  categoryAnalysis_venueID.txt(每張相片的POI的母類別)
+
+	combine.java 解釋:
+		將 categoryAnalysis_Gauss.txt 和 categoryAnalysis_venueID.txt 合併
+		將 txtAnalysis_Gauss.txt      和 txtAnalysis_venueID.txt      合併
+		將 venueID_Gauss.txt          和 venueID_venueID.txt          合併
+		
+		產生 categoryAnalysis.txt 和 txtAnalysis.txt 和 venueID.txt
+		
+	跑 sequenceAndpreference.java
+		產生 output.txt 和 preference.txt

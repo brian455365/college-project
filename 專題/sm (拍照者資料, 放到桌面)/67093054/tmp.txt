@@ -1,0 +1,35 @@
+0 #SUP: 403
+1 #SUP: 68
+2 #SUP: 22
+3 #SUP: 547
+4 #SUP: 214
+5 #SUP: 208
+6 #SUP: 451
+7 #SUP: 227
+8 #SUP: 450
+9 #SUP: 150
+0 6  #SUP: 4
+0 7  #SUP: 5
+0 8  #SUP: 9
+0 9  #SUP: 6
+1 6  #SUP: 6
+1 8  #SUP: 5
+3 4  #SUP: 11
+3 6  #SUP: 7
+3 7  #SUP: 10
+3 8  #SUP: 13
+3 9  #SUP: 12
+4 7  #SUP: 6
+4 8  #SUP: 9
+4 9  #SUP: 6
+5 6  #SUP: 4
+5 8  #SUP: 7
+5 9  #SUP: 4
+6 7  #SUP: 5
+6 8  #SUP: 23
+6 9  #SUP: 13
+7 8  #SUP: 21
+7 9  #SUP: 13
+8 9  #SUP: 31
+3 8 9  #SUP: 5
+6 8 9  #SUP: 10

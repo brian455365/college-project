@@ -1,0 +1,1 @@
+先login.html , 登入之後, 會自動連到new.html

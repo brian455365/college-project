@@ -1,0 +1,121 @@
+總地點數:15375
+Category0:
+Name:"Prospect Park Zoo"		checkinsCount:5681		lat: 40.665014570215	lng:-73.96446704864502	Category:4bf58dd8d48988d17b941735
+Name:"Brooklyn Children's Museum"		checkinsCount:3972		lat: 40.67460805759389	lng:-73.94402732044595	Category:4bf58dd8d48988d181941735
+Name:"Prospect Park Carousel"		checkinsCount:1547		lat: 40.66358142556565	lng:-73.96403125201438	Category:5109983191d435c0d71c2bb1
+Name:"The 90s"		checkinsCount:1507		lat: 40.65957805144906	lng:-73.92245292663574	Category:4bf58dd8d48988d1f1931735
+Name:"Free Candy"		checkinsCount:1329		lat: 40.68113481003931	lng:-73.96295792294266	Category:4bf58dd8d48988d1f2931735
+Name:"JFK Statue Grand Army Plaza"		checkinsCount:987		lat: 40.67425275938598	lng:-73.97072363964097	Category:507c8c4091d498d9fc8c67a9
+Name:"ODB Mural"		checkinsCount:886		lat: 40.683250017495986	lng:-73.95631692526705	Category:52e81612bcbc57f1066b79ee
+Name:"Prospect Park Drummers Grove"		checkinsCount:826		lat: 40.65535816	lng:-73.962932	Category:4bf58dd8d48988d1e5931735
+Name:"Friends and Lovers"		checkinsCount:767		lat: 40.6786489733459	lng:-73.95870472602498	Category:4bf58dd8d48988d1e5931735
+Name:"Cat and Lizard Show"		checkinsCount:743		lat: 40.668063189772475	lng:-73.9564489438687	Category:4bf58dd8d48988d17b941735
+
+Category1:
+Name:"SUNY Downstate Medical Center"		checkinsCount:6224		lat: 40.65535514350383	lng:-73.94482522134682	Category:4bf58dd8d48988d1b3941735
+Name:"Medgar Evers College"		checkinsCount:2204		lat: 40.66663716875565	lng:-73.95703441657946	Category:4bf58dd8d48988d1ae941735
+Name:"SUNY Medical Research Library of Brooklyn"		checkinsCount:1157		lat: 40.654474124346656	lng:-73.94605363788459	Category:4bf58dd8d48988d1a7941735
+Name:"Achievement First Crown Heights"		checkinsCount:1053		lat: 40.668292307738064	lng:-73.93991721765822	Category:4bf58dd8d48988d198941735
+Name:"Medgar Evers College (CUNY) : School Of Science, Health & Technology"		checkinsCount:1008		lat: 40.66669101205747	lng:-73.95665645599364	Category:4bf58dd8d48988d19b941735
+Name:"The White House"		checkinsCount:986		lat: 40.679267	lng:-73.966681	Category:4bf58dd8d48988d1b0941735
+Name:"Downstate Student Center"		checkinsCount:956		lat: 40.65408922638183	lng:-73.94627750734799	Category:4bf58dd8d48988d1ab941735
+Name:"Brooklyn Brainery"		checkinsCount:910		lat: 40.67492131033321	lng:-73.96688386761434	Category:4bf58dd8d48988d1ad941735
+Name:"Brooklyn School For Music And Theatre"		checkinsCount:844		lat: 40.66965758944761	lng:-73.96192476632201	Category:4bf58dd8d48988d198941735
+Name:"Medgar Evers College- C Building"		checkinsCount:802		lat: 40.66683496488295	lng:-73.95222430385623	Category:4bf58dd8d48988d1ae941735
+
+Category2:
+Name:"Target First Saturday's @ the Brooklyn Museum"		checkinsCount:969		lat: 40.67085751993316	lng:-73.96335124969482	Category:5267e4d9e4b0ec79466e48c8
+Name:"Sakura Matsuri Cherry Blossom Festival"		checkinsCount:846		lat: 40.66920793990923	lng:-73.96354337590422	Category:5267e4d9e4b0ec79466e48c7
+Name:"Black History Monthapocalypse"		checkinsCount:63		lat: 40.68632278700658	lng:-73.94915908602641	Category:5267e4d9e4b0ec79466e48c8
+Name:"Purple Stride - Pancreatic Cancer"		checkinsCount:26		lat: 40.66072955346084	lng:-73.96921414198032	Category:5267e4d9e4b0ec79466e48c8
+Name:"Santa's Toy Facotry"		checkinsCount:21		lat: 40.67837447887388	lng:-73.94933938980103	Category:5267e4d9e4b0ec79466e48c6
+Name:"artRAVE"		checkinsCount:15		lat: 40.650185177199425	lng:-73.9494466781616	Category:5267e4d9e4b0ec79466e48d1
+Name:"gratitude"		checkinsCount:13		lat: 40.678221368868236	lng:-73.9508294635673	Category:5267e4d9e4b0ec79466e48c8
+Name:"Diana's Event Space"		checkinsCount:6		lat: 40.662464	lng:-73.953667	Category:5267e4d9e4b0ec79466e48c8
+Name:"Safe House"		checkinsCount:5		lat: 40.68531287435626	lng:-73.96344580053405	Category:5267e4d9e4b0ec79466e48c8
+Name:"malululand"		checkinsCount:5		lat: 40.672160276955076	lng:-73.96169517521032	Category:5267e4d9e4b0ec79466e48c7
+
+Category3:
+Name:"Ample Hills Creamery"		checkinsCount:14719		lat: 40.678489507132525	lng:-73.96845077934393	Category:4bf58dd8d48988d1c9941735
+Name:"Chavela's"		checkinsCount:11541		lat: 40.67335042443954	lng:-73.95708033593266	Category:4bf58dd8d48988d1c1941735
+Name:"Tom's Restaurant"		checkinsCount:10845		lat: 40.67455860011452	lng:-73.96323917017544	Category:4bf58dd8d48988d147941735
+Name:"The Vanderbilt"		checkinsCount:9643		lat: 40.679406	lng:-73.968334	Category:4bf58dd8d48988d14e941735
+Name:"Chuko"		checkinsCount:8257		lat: 40.680114177908685	lng:-73.96805474791232	Category:4bf58dd8d48988d1d1941735
+Name:"The Breukelen Coffee House"		checkinsCount:7524		lat: 40.67225	lng:-73.957449	Category:4bf58dd8d48988d1e0931735
+Name:"Barboncino"		checkinsCount:7504		lat: 40.67214723706506	lng:-73.95733289218009	Category:4bf58dd8d48988d1ca941735
+Name:"Milk Bar"		checkinsCount:7396		lat: 40.677751476842175	lng:-73.96892716390042	Category:4bf58dd8d48988d143941735
+Name:"Sit & Wonder"		checkinsCount:7003		lat: 40.677492	lng:-73.963759	Category:4bf58dd8d48988d1e0931735
+Name:"Outpost Café and Bar"		checkinsCount:6580		lat: 40.68189338566111	lng:-73.96026596439529	Category:4bf58dd8d48988d1e0931735
+
+Category4:
+Name:"Franklin Park"		checkinsCount:16287		lat: 40.672307292956866	lng:-73.95784374357962	Category:4bf58dd8d48988d117941735
+Name:"Soda Bar"		checkinsCount:12814		lat: 40.678234702252034	lng:-73.96857131048762	Category:4bf58dd8d48988d116941735
+Name:"Hot Bird"		checkinsCount:12780		lat: 40.68183918319127	lng:-73.96677481467539	Category:4bf58dd8d48988d117941735
+Name:"The Way Station"		checkinsCount:10082		lat: 40.676829026053525	lng:-73.96343804293127	Category:4bf58dd8d48988d116941735
+Name:"Washington Commons"		checkinsCount:9818		lat: 40.67546836870601	lng:-73.96357781425837	Category:4bf58dd8d48988d116941735
+Name:"Woodwork"		checkinsCount:9629		lat: 40.680227142677516	lng:-73.96791703999043	Category:4bf58dd8d48988d11d941735
+Name:"The Crown Inn"		checkinsCount:8386		lat: 40.67396103632496	lng:-73.95698262276463	Category:4bf58dd8d48988d122941735
+Name:"Weather Up"		checkinsCount:8085		lat: 40.67991194119049	lng:-73.9679284768499	Category:4bf58dd8d48988d11e941735
+Name:"Bearded Lady"		checkinsCount:7732		lat: 40.67739971396978	lng:-73.96390914916992	Category:4bf58dd8d48988d11e941735
+Name:"The Fulton Grand"		checkinsCount:6220		lat: 40.682481	lng:-73.96168	Category:4bf58dd8d48988d116941735
+
+Category5:
+Name:"Brooklyn, NY"		checkinsCount:79784		lat: 40.65016889724004	lng:-73.94957542419434	Category:5345731ebcbc57f1066c39b2
+Name:"Prospect Park"		checkinsCount:61482		lat: 40.66390776998241	lng:-73.970947265625	Category:4bf58dd8d48988d163941735
+Name:"Prospect Park Loop"		checkinsCount:25913		lat: 40.67225179047422	lng:-73.97010951084154	Category:4bf58dd8d48988d163941735
+Name:"Brooklyn Botanic Garden"		checkinsCount:24896		lat: 40.66760245789949	lng:-73.96317958831787	Category:52e81612bcbc57f1066b7a22
+Name:"Bedford-Stuyvesant"		checkinsCount:24600		lat: 40.68571485984486	lng:-73.94043445587158	Category:4f2a25ac4b909258e854f55f
+Name:"Prospect Park (Long Meadow)"		checkinsCount:21899		lat: 40.66875802311211	lng:-73.97030353546143	Category:4bf58dd8d48988d163941735
+Name:"Crown Heights"		checkinsCount:14933		lat: 40.66911608150882	lng:-73.94283771514893	Category:4f2a25ac4b909258e854f55f
+Name:"Grand Army Plaza"		checkinsCount:14780		lat: 40.673673020430236	lng:-73.97013187408447	Category:4bf58dd8d48988d164941735
+Name:"Flatbush"		checkinsCount:13233		lat: 40.65200850751782	lng:-73.95901679992676	Category:4f2a25ac4b909258e854f55f
+Name:"East Flatbush"		checkinsCount:7850		lat: 40.65378295079248	lng:-73.93064975738525	Category:4f2a25ac4b909258e854f55f
+
+Category6:
+Name:"Brooklyn Public Library"		checkinsCount:15133		lat: 40.67256636389564	lng:-73.96884441375732	Category:4bf58dd8d48988d12f941735
+Name:"Kings County Hospital Center"		checkinsCount:6745		lat: 40.65671312078148	lng:-73.94318103790283	Category:4bf58dd8d48988d196941735
+Name:"Kingsbrook Jewish Medical Center"		checkinsCount:6073		lat: 40.65903036432116	lng:-73.93318357867925	Category:4bf58dd8d48988d196941735
+Name:"Interfaith Medical Center"		checkinsCount:2822		lat: 40.67832728653328	lng:-73.93717288970947	Category:4bf58dd8d48988d196941735
+Name:"770"		checkinsCount:2630		lat: 40.66908642248909	lng:-73.9423511438116	Category:4bf58dd8d48988d139941735
+Name:"Public School 9"		checkinsCount:2142		lat: 40.6782837319809	lng:-73.96623528870116	Category:4f4533804b9074f6e4fb0105
+Name:"University Hospital of Brooklyn"		checkinsCount:1673		lat: 40.655248051873194	lng:-73.9440393447876	Category:4bf58dd8d48988d196941735
+Name:"475 St. Marks"		checkinsCount:1569		lat: 40.67690927782188	lng:-73.95855548934293	Category:4bf58dd8d48988d130941735
+Name:"Berean Baptist Church"		checkinsCount:1498		lat: 40.675028302922755	lng:-73.92871731915285	Category:4bf58dd8d48988d132941735
+Name:"Care Day Corp"		checkinsCount:1472		lat: 40.68591321152356	lng:-73.92802268600475	Category:4f4533814b9074f6e4fb0107
+
+Category7:
+Name:"My Command Center, Location Does Not Exists = OFF THE GRID"		checkinsCount:1944		lat: 40.68499608789172	lng:-73.94186034276925	Category:4bf58dd8d48988d103941735
+Name:"Patio Gardens Apartments"		checkinsCount:1628		lat: 40.65865930797768	lng:-73.96537147003376	Category:4bf58dd8d48988d103941735
+Name:"258 Lincoln"		checkinsCount:1569		lat: 40.65698880873065	lng:-73.95361626406626	Category:4bf58dd8d48988d103941735
+Name:"D&E Brooklyn"		checkinsCount:1226		lat: 40.66688362559605	lng:-73.95361626406626	Category:4bf58dd8d48988d103941735
+Name:"Prospect Lefferts Garden"		checkinsCount:1210		lat: 40.66521166066117	lng:-73.94186034276925	Category:4bf58dd8d48988d103941735
+Name:"SSB HQ"		checkinsCount:1097		lat: 40.675104712782336	lng:-73.94186034276925	Category:4bf58dd8d48988d103941735
+Name:"Acacia"		checkinsCount:1084		lat: 40.679520961037184	lng:-73.9381548982625	Category:4d954b06a243a5684965b473
+Name:"Lindsay's Apartment Of Awesomeness + Despair"		checkinsCount:1035		lat: 40.6784474407319	lng:-73.96537147003376	Category:4bf58dd8d48988d103941735
+Name:"**MY Crib** :-)"		checkinsCount:1035		lat: 40.66521166066117	lng:-73.94186034276925	Category:4bf58dd8d48988d103941735
+Name:"Casa de Viggo"		checkinsCount:1034		lat: 40.6784474407319	lng:-73.96537147003376	Category:4bf58dd8d48988d103941735
+
+Category8:
+Name:"Grand Army Plaza Greenmarket"		checkinsCount:16288		lat: 40.6724520326176	lng:-73.97003700441346	Category:4bf58dd8d48988d1fa941735
+Name:"Bedford-Stuyvesant YMCA"		checkinsCount:14761		lat: 40.68519397337732	lng:-73.9538257747347	Category:4bf58dd8d48988d176941735
+Name:"Super Foodtown"		checkinsCount:3325		lat: 40.67994539490145	lng:-73.9444750638026	Category:52f2ab2ebcbc57f1066b8b46
+Name:"Compare Foods"		checkinsCount:3181		lat: 40.676303082217395	lng:-73.95833163410352	Category:52f2ab2ebcbc57f1066b8b46
+Name:"Met Foods"		checkinsCount:2978		lat: 40.67723262838994	lng:-73.96908213211667	Category:52f2ab2ebcbc57f1066b8b46
+Name:"Bob & Betty's Food Market"		checkinsCount:2942		lat: 40.671359	lng:-73.957709	Category:4bf58dd8d48988d118951735
+Name:"Lincoln Station"		checkinsCount:2913		lat: 40.672619	lng:-73.962419	Category:4bf58dd8d48988d1f5941735
+Name:"Berg'n"		checkinsCount:2112		lat: 40.67723263257754	lng:-73.95741325091682	Category:4bf58dd8d48988d120951735
+Name:"Choice Greene"		checkinsCount:2101		lat: 40.68696742717664	lng:-73.96283738828878	Category:4bf58dd8d48988d1f5941735
+Name:"Key Food Market"		checkinsCount:2064		lat: 40.682819961363506	lng:-73.96337118404121	Category:4bf58dd8d48988d118951735
+
+Category9:
+Name:"MTA Subway - Church Ave (B\/Q)"		checkinsCount:16615		lat: 40.65052298546056	lng:-73.96298110485071	Category:4bf58dd8d48988d1fd931735
+Name:"MTA Subway - Prospect Park (B\/Q\/S)"		checkinsCount:15493		lat: 40.66161146080779	lng:-73.96224590222664	Category:4bf58dd8d48988d1fd931735
+Name:"MTA Subway - Crown Heights\/Utica Ave (3\/4)"		checkinsCount:13298		lat: 40.668692921378884	lng:-73.93140077590942	Category:4bf58dd8d48988d1fd931735
+Name:"MTA Subway - Utica Ave (A\/C)"		checkinsCount:8544		lat: 40.67933621045698	lng:-73.93028497695923	Category:4bf58dd8d48988d1fd931735
+Name:"MTA Subway - Parkside Ave (Q)"		checkinsCount:8407		lat: 40.65526229575358	lng:-73.9615085721016	Category:4bf58dd8d48988d1fd931735
+Name:"Nostrand Ave"		checkinsCount:7705		lat: 40.666017134307126	lng:-73.95019805107333	Category:4bf58dd8d48988d1f9931735
+Name:"MTA Subway -  Franklin Ave (2\/3\/4\/5)"		checkinsCount:6706		lat: 40.6706459457292	lng:-73.95802974700928	Category:4bf58dd8d48988d1fd931735
+Name:"MTA Subway - Nostrand Ave (A\/C)"		checkinsCount:6633		lat: 40.68036952800187	lng:-73.94965589046478	Category:4bf58dd8d48988d1fd931735
+Name:"MTA Subway - Franklin Ave (C\/S)"		checkinsCount:5703		lat: 40.68059294410513	lng:-73.95582881515935	Category:4bf58dd8d48988d1fd931735
+Name:"Eastern Parkway"		checkinsCount:5477		lat: 40.66910950484284	lng:-73.93433744135233	Category:4bf58dd8d48988d1f9931735
+

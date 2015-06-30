@@ -1,0 +1,1464 @@
+Query No.:3
+Name:"北回歸線 Tropic of Cancer"		checkinsCount:133		lat: 23.454213501339602	lng:120.4166129022434	Category:4bf58dd8d48988d12d941735
+Name:"北回歸線天文廣場"		checkinsCount:57		lat: 23.45404570040799	lng:120.41629216114876	Category:4bf58dd8d48988d162941735
+Name:"Lin's"		checkinsCount:354		lat: 23.45483081676314	lng:120.41847824913474	Category:4bf58dd8d48988d103941735
+Name:"北回7-11"		checkinsCount:33		lat: 23.453343598316025	lng:120.4146996979531	Category:4d954b0ea243a5684a65b473
+Name:"姑姑家"		checkinsCount:3		lat: 23.446579174792596	lng:120.40695374454096	Category:4bf58dd8d48988d103941735
+Name:"南陽化工"		checkinsCount:5		lat: 23.449848988368263	lng:120.41728251704856	Category:4bf58dd8d48988d124941735
+Name:"Chung Shan Packing"		checkinsCount:1		lat: 23.446653	lng:120.42256	Category:4eb1bea83b7b6f98df247e06
+Name:"湯姆熊歡樂世界 嘉義文化店"		checkinsCount:1		lat: 23.451317041678198	lng:120.4172993980492	Category:4bf58dd8d48988d10b951735
+Name:"劉厝里"		checkinsCount:0		lat: 23.455833	lng:120.416883	Category:4f2a25ac4b909258e854f55f
+Query No.:4
+Name:"臺中榮總嘉義分院"		checkinsCount:41		lat: 23.465724610764198	lng:120.42334828115979	Category:4bf58dd8d48988d196941735
+Name:"馨園日本料理"		checkinsCount:5		lat: 23.463964238587312	lng:120.4235002029464	Category:4bf58dd8d48988d111941735
+Name:"小園日本料理"		checkinsCount:6		lat: 23.46418344570172	lng:120.4243329562287	Category:4bf58dd8d48988d111941735
+Name:"柏林家具"		checkinsCount:2		lat: 23.462755	lng:120.422908	Category:4bf58dd8d48988d1f8941735
+Name:"二二八國家紀念公園 National 228 Memorial Park"		checkinsCount:4		lat: 23.465802920088922	lng:120.4149022738666	Category:4bf58dd8d48988d15f941735
+Name:"海咪咪投幣式卡拉OK"		checkinsCount:2		lat: 23.461015	lng:120.421323	Category:4bf58dd8d48988d120941735
+Name:"中國信託商業銀行 博愛分行"		checkinsCount:0		lat: 23.465444564819336	lng:120.42575073242188	Category:4bf58dd8d48988d10a951735
+Query No.:5
+Name:"芳汎驗車"		checkinsCount:2		lat: 23.453624	lng:120.439914	Category:4eb1c1623b7b52c0e1adc2ec
+Name:"民生社區"		checkinsCount:2		lat: 23.447521	lng:120.43444	Category:50aa9e094b90af0d42d5de0d
+Name:"水得寺"		checkinsCount:1		lat: 23.454611	lng:120.437902	Category:4bf58dd8d48988d130941735
+Query No.:7
+Name:"晉仕瓷磚"		checkinsCount:5		lat: 23.458693	lng:120.42881	Category:4bf58dd8d48988d1f8941735
+Query No.:8
+Name:"嘉義市餐飲業職業工會職訓中心"		checkinsCount:2		lat: 23.462467193603516	lng:120.4304428100586	Category:52e81612bcbc57f1066b7a34
+Name:"大九九賣場 仁愛店"		checkinsCount:4		lat: 23.464495897764273	lng:120.43230010773426	Category:4bf58dd8d48988d1ff941735
+Name:"桃城南門火雞肉飯"		checkinsCount:1		lat: 23.46287727355957	lng:120.43167114257812	Category:4bf58dd8d48988d147941735
+Name:"West District 嘉義市西區"		checkinsCount:177		lat: 23.462602307479685	lng:120.43233949214743	Category:4f2a25ac4b909258e854f55f
+Name:"Taiwan Mobile 臺灣大哥大 嘉義-興業西(欣達文西)門市"		checkinsCount:2		lat: 23.462793350219727	lng:120.43235778808594	Category:4f04afc02fb6e1c99f3db0bc
+Name:"全聯福利中心 南京店"		checkinsCount:10		lat: 23.463140286314943	lng:120.43235637117795	Category:4bf58dd8d48988d118951735
+Name:"麥味登精緻早午餐 Fresh Brunch"		checkinsCount:2		lat: 23.465497970581055	lng:120.43221282958984	Category:4bf58dd8d48988d143941735
+Name:"上海㊣早餐店"		checkinsCount:1		lat: 23.46599006652832	lng:120.43192291259766	Category:4bf58dd8d48988d143941735
+Name:"嘉義產業創新研發中心 Chiayi Industry Innovation and Research Center"		checkinsCount:9		lat: 23.465218078460016	lng:120.42728130977717	Category:4bf58dd8d48988d1ff931735
+Name:"桃城南門 火雞肉飯"		checkinsCount:2		lat: 23.463404377709494	lng:120.432429513618	Category:4bf58dd8d48988d147941735
+Name:"冠王 Bowling"		checkinsCount:3		lat: 23.46301365073747	lng:120.43115232812278	Category:4bf58dd8d48988d1e4931735
+Name:"時代專業紋身館"		checkinsCount:3		lat: 23.464864	lng:120.431522	Category:4bf58dd8d48988d1de931735
+Name:"漂亮寶貝音樂會館"		checkinsCount:3		lat: 23.465212	lng:120.431655	Category:4bf58dd8d48988d1d6941735
+Query No.:9
+Name:"嘉油鐵道"		checkinsCount:0		lat: 23.458471	lng:120.435908	Category:4bf58dd8d48988d1f9931735
+Query No.:10
+Name:"嘉義市西區戶政事務所"		checkinsCount:3		lat: 23.464576	lng:120.435715	Category:4bf58dd8d48988d126941735
+Name:"Hairdo Coquet髮式風情"		checkinsCount:10		lat: 23.464236207885495	lng:120.43615972301997	Category:4bf58dd8d48988d110951735
+Name:"霸味薑母鴨重慶店"		checkinsCount:2		lat: 23.464544	lng:120.433609	Category:52af3b813cf9994f4e043c04
+Name:"無名早餐店"		checkinsCount:26		lat: 23.46401918085029	lng:120.43303715690003	Category:4bf58dd8d48988d143941735
+Name:"FamilyMart全家嘉義漢口店"		checkinsCount:4		lat: 23.463859755271557	lng:120.4362441156487	Category:4d954b0ea243a5684a65b473
+Name:"活力早餐店"		checkinsCount:16		lat: 23.463725671337677	lng:120.43410052575024	Category:4bf58dd8d48988d143941735
+Name:"Chiayi Xingjia Post Office 嘉義興嘉郵局"		checkinsCount:2		lat: 23.464963912963867	lng:120.43621063232422	Category:4bf58dd8d48988d172941735
+Name:"風尚咖啡館"		checkinsCount:10		lat: 23.465919756235298	lng:120.43892777241174	Category:4bf58dd8d48988d16d941735
+Name:"東北阿英麵疙瘩"		checkinsCount:4		lat: 23.463932037353516	lng:120.43303680419922	Category:4bf58dd8d48988d1d1941735
+Name:"四季餚 台菜料理"		checkinsCount:1		lat: 23.465776443481445	lng:120.43993377685547	Category:52af3b813cf9994f4e043c04
+Name:"岩板岩燒餐廳"		checkinsCount:1		lat: 23.465714771602606	lng:120.43800509588992	Category:4bf58dd8d48988d1cc941735
+Name:"四季餚"		checkinsCount:2		lat: 23.465779	lng:120.439999	Category:4bf58dd8d48988d145941735
+Name:"花漾年華歌友會"		checkinsCount:7		lat: 23.465255654968647	lng:120.43596843285682	Category:4bf58dd8d48988d120941735
+Name:"風尚人文咖啡館嘉義店"		checkinsCount:2		lat: 23.4640043	lng:120.4383161	Category:4bf58dd8d48988d16d941735
+Name:"河馬早餐"		checkinsCount:1		lat: 23.46552071	lng:120.43347944	Category:4bf58dd8d48988d143941735
+Name:"福民里"		checkinsCount:0		lat: 23.464918	lng:120.437097	Category:4f2a25ac4b909258e854f55f
+Name:"車店"		checkinsCount:0		lat: 23.46556	lng:120.43333	Category:4f2a25ac4b909258e854f55f
+Query No.:12
+Name:"港坪運動公園"		checkinsCount:26		lat: 23.47470620179745	lng:120.42186281426594	Category:4bf58dd8d48988d163941735
+Name:"噴水鷄肉飯"		checkinsCount:15		lat: 23.466093818390263	lng:120.42580151479751	Category:4bf58dd8d48988d142941735
+Name:"劉厝路"		checkinsCount:2		lat: 23.466005	lng:120.418489	Category:4f2a210c4b9023bd5841ed28
+Name:"港坪花卉區"		checkinsCount:4		lat: 23.475528	lng:120.419927	Category:4bf58dd8d48988d15a941735
+Name:"五元早餐店"		checkinsCount:2		lat: 23.47181550635575	lng:120.4249181309953	Category:4bf58dd8d48988d1c5941735
+Name:"玉山國中"		checkinsCount:4		lat: 23.469879544307673	lng:120.42496314432894	Category:4bf58dd8d48988d13d941735
+Name:"妙慧幼兒園"		checkinsCount:1		lat: 23.474371	lng:120.424709	Category:4bf58dd8d48988d13b941735
+Name:"稻草人甘蔗腿庫飯"		checkinsCount:2		lat: 23.473849241803755	lng:120.41426640951595	Category:4bf58dd8d48988d142941735
+Name:"沐足 Massage"		checkinsCount:2		lat: 23.47322971966938	lng:120.41742319198643	Category:4bf58dd8d48988d1ed941735
+Name:"Auntie's place"		checkinsCount:1		lat: 23.476272503201187	lng:120.41847824913474	Category:4bf58dd8d48988d103941735
+Name:"車馳汽車百貨-嘉義店"		checkinsCount:3		lat: 23.474904	lng:120.421868	Category:4bf58dd8d48988d124951735
+Name:"玉山會館"		checkinsCount:0		lat: 23.469736792546648	lng:120.4163146018982	Category:4bf58dd8d48988d171941735
+Name:"里品"		checkinsCount:0		lat: 23.472305	lng:120.424664	Category:4bf58dd8d48988d1d3941735
+Query No.:13
+Name:"麥味登精緻早午餐"		checkinsCount:2		lat: 23.483981510652217	lng:120.42408538149002	Category:4bf58dd8d48988d143941735
+Name:"嘉義賴家豪宅"		checkinsCount:8		lat: 23.476272503201187	lng:120.41847824913474	Category:4bf58dd8d48988d103941735
+Name:"國立嘉義啟智學校"		checkinsCount:6		lat: 23.480347	lng:120.420982	Category:4bf58dd8d48988d13b941735
+Name:"港坪足球場"		checkinsCount:8		lat: 23.47773862416766	lng:120.42172777097315	Category:4cce455aebf7b749d5e191f5
+Name:"港坪滑輪場"		checkinsCount:4		lat: 23.476549252976827	lng:120.42204849856283	Category:4bf58dd8d48988d168941735
+Name:"瑞特汽車嘉義廠"		checkinsCount:1		lat: 23.484801	lng:120.420864	Category:4bf58dd8d48988d113951735
+Name:"Gaga Sport's Bar"		checkinsCount:3		lat: 23.48483112404943	lng:120.42178403902899	Category:4bf58dd8d48988d1f1931735
+Name:"正港海產"		checkinsCount:3		lat: 23.476124199553517	lng:120.42379279254995	Category:4bf58dd8d48988d1ce941735
+Name:"BRT 世賢北港站 | BRT Shih Sian Bei Gang Station"		checkinsCount:1		lat: 23.484914142115656	lng:120.42305569054822	Category:52f2ab2ebcbc57f1066b8b4f
+Query No.:15
+Name:"一葉日本料理"		checkinsCount:27		lat: 23.46765607490904	lng:120.4321313172559	Category:4bf58dd8d48988d111941735
+Name:"小娘娘健康美麗事業"		checkinsCount:6		lat: 23.470883	lng:120.430166	Category:4bf58dd8d48988d1ed941735
+Name:"新上海汽车旅馆"		checkinsCount:1		lat: 23.467426300048828	lng:120.43204498291016	Category:4bf58dd8d48988d1fb931735
+Name:"CaOLi SOFA"		checkinsCount:1		lat: 23.46979214384945	lng:120.42788335078458	Category:4bf58dd8d48988d1f8941735
+Name:"Lee's Home"		checkinsCount:11		lat: 23.46307992224117	lng:120.43000172506923	Category:4bf58dd8d48988d103941735
+Name:"嘉義市立運動公園"		checkinsCount:4		lat: 23.47086162	lng:120.4297426	Category:4bf58dd8d48988d163941735
+Name:"西平里"		checkinsCount:0		lat: 23.469176	lng:120.42952	Category:4f2a25ac4b909258e854f55f
+Query No.:16
+Name:"家樂福蚵男烤生蠔"		checkinsCount:2		lat: 23.472240447998047	lng:120.43218231201172	Category:4bf58dd8d48988d1cb941735
+Name:"小蒙牛頂級麻辣養生鍋嘉義店"		checkinsCount:4		lat: 23.471712112426758	lng:120.43299102783203	Category:52af0bd33cf9994f4e043bdd
+Name:"玉山國際飯店"		checkinsCount:4		lat: 23.473192	lng:120.431248	Category:4bf58dd8d48988d1ee931735
+Name:"家樂福 Carrefour"		checkinsCount:100		lat: 23.471395031992664	lng:120.4310131072998	Category:4bf58dd8d48988d118951735
+Name:"mister Donut"		checkinsCount:1		lat: 23.47189985280317	lng:120.43069658926615	Category:4bf58dd8d48988d148941735
+Name:"玩具反斗城"		checkinsCount:2		lat: 23.471555	lng:120.431419	Category:4bf58dd8d48988d1f3941735
+Name:"嘉義玉山郵局 Chiayi Yushan Post Office"		checkinsCount:21		lat: 23.472493998618056	lng:120.4290536654486	Category:4bf58dd8d48988d172941735
+Name:"嘉義噴水雞肉飯"		checkinsCount:9		lat: 23.475671988592538	lng:120.42881172626876	Category:4bf58dd8d48988d145941735
+Name:"滿福樓海宴餐廳"		checkinsCount:11		lat: 23.475608	lng:120.428343	Category:4bf58dd8d48988d145941735
+Name:"3年2班碳烤香雞排"		checkinsCount:1		lat: 23.471225	lng:120.432908	Category:4bf58dd8d48988d1c7941735
+Name:"再耕園餐廳"		checkinsCount:13		lat: 23.47173947080682	lng:120.42855620384216	Category:4bf58dd8d48988d1c4941735
+Name:"嘉樂福夜巿關東煮食堂"		checkinsCount:5		lat: 23.471739	lng:120.432055	Category:4bf58dd8d48988d111941735
+Name:"富貴香烤玉米"		checkinsCount:1		lat: 23.471811	lng:120.431605	Category:4bf58dd8d48988d1cb941735
+Name:"瑪格音樂飲食館"		checkinsCount:2		lat: 23.47468	lng:120.428836	Category:4bf58dd8d48988d120941735
+Name:"品皇咖啡"		checkinsCount:2		lat: 23.47190676933499	lng:120.43084144592285	Category:4bf58dd8d48988d1f9941735
+Name:"Mister Donut"		checkinsCount:1		lat: 23.4716	lng:120.4313	Category:4bf58dd8d48988d16a941735
+Name:"貓狗大棧"		checkinsCount:1		lat: 23.471262	lng:120.430502	Category:4bf58dd8d48988d100951735
+Name:"麻辣風暴"		checkinsCount:3		lat: 23.47186168219163	lng:120.43177685653187	Category:4bf58dd8d48988d142941735
+Name:"鑫食堂關東煮"		checkinsCount:1		lat: 23.471844801630354	lng:120.43222133887186	Category:4bf58dd8d48988d111941735
+Name:"隼戶汽車美容"		checkinsCount:7		lat: 23.473055	lng:120.42891	Category:4bf58dd8d48988d124951735
+Name:"玉山牛排。"		checkinsCount:0		lat: 23.473276138305664	lng:120.42864227294922	Category:4bf58dd8d48988d14e941735
+Query No.:18
+Name:"泰平盛世泰式料理"		checkinsCount:1		lat: 23.467696	lng:120.436395	Category:4bf58dd8d48988d149941735
+Name:"貴州街脆皮臭豆腐"		checkinsCount:5		lat: 23.46764662548742	lng:120.43329596705765	Category:4bf58dd8d48988d1c7941735
+Name:"光復饅頭"		checkinsCount:1		lat: 23.4679	lng:120.4361	Category:4bf58dd8d48988d16a941735
+Name:"玉山登山社"		checkinsCount:3		lat: 23.466804	lng:120.435923	Category:4bf58dd8d48988d1ee931735
+Query No.:19
+Name:"米羅樂活烘培坊"		checkinsCount:7		lat: 23.46971179600479	lng:120.43433120249084	Category:4bf58dd8d48988d16a941735
+Name:"興嘉公園"		checkinsCount:1		lat: 23.468915	lng:120.435207	Category:4bf58dd8d48988d163941735
+Name:"全買量販店"		checkinsCount:7		lat: 23.469459333816594	lng:120.43431432371894	Category:50be8ee891d4fa8dcc7199a7
+Name:"黃昏市場"		checkinsCount:7		lat: 23.469407795077675	lng:120.43408927321573	Category:50be8ee891d4fa8dcc7199a7
+Name:"比佛利花園汽車旅館"		checkinsCount:10		lat: 23.469045134985944	lng:120.4360584517925	Category:4bf58dd8d48988d1fb931735
+Name:"嘉義阿里山茶行"		checkinsCount:2		lat: 23.469509	lng:120.436275	Category:4bf58dd8d48988d128951735
+Query No.:20
+Name:"永悅商務大飯店 Ever Delightful Business Hotel"		checkinsCount:22		lat: 23.467721383606758	lng:120.43705428207204	Category:4bf58dd8d48988d1fa931735
+Name:"米歐咖啡館"		checkinsCount:8		lat: 23.46770173641008	lng:120.43891652029883	Category:4bf58dd8d48988d1e0931735
+Name:"新小李子美食料理"		checkinsCount:1		lat: 23.466618	lng:120.436694	Category:52af3b813cf9994f4e043c04
+Name:"杜卡得金幣嘉義旗艦店"		checkinsCount:3		lat: 23.467803955078125	lng:120.43756103515625	Category:4bf58dd8d48988d14e941735
+Name:"周 鱔魚麵、花枝麵"		checkinsCount:9		lat: 23.467781079132408	lng:120.43976042603816	Category:4bf58dd8d48988d142941735
+Name:"Ducat Gold"		checkinsCount:2		lat: 23.46778	lng:120.437555	Category:4bf58dd8d48988d1c4941735
+Name:"30CC"		checkinsCount:1		lat: 23.466673	lng:120.439962	Category:4bf58dd8d48988d16a941735
+Name:"興業藥師藥局"		checkinsCount:5		lat: 23.467687606811523	lng:120.43672943115234	Category:4bf58dd8d48988d10f951735
+Name:"全國電子 興業二門市"		checkinsCount:1		lat: 23.467773389774038	lng:120.438607086809	Category:4bf58dd8d48988d122951735
+Name:"永悅樓餐廳"		checkinsCount:4		lat: 23.467596565428778	lng:120.43706553434762	Category:4bf58dd8d48988d142941735
+Name:"王仁樟皮膚科診所"		checkinsCount:1		lat: 23.466455995770026	lng:120.4380388524645	Category:4bf58dd8d48988d177941735
+Name:"凡人居"		checkinsCount:2		lat: 23.46691	lng:120.43775	Category:4bf58dd8d48988d145941735
+Name:"弘安藥局"		checkinsCount:1		lat: 23.466724	lng:120.437547	Category:4bf58dd8d48988d10f951735
+Name:"神戶牛排西餐"		checkinsCount:18		lat: 23.4669861357658	lng:120.43993949890137	Category:4bf58dd8d48988d1cc941735
+Name:"HAPPY HAIR 嘉義興業店"		checkinsCount:5		lat: 23.467972	lng:120.439435	Category:4bf58dd8d48988d110951735
+Name:"I-SS Coffee"		checkinsCount:2		lat: 23.467722	lng:120.436824	Category:4bf58dd8d48988d1e0931735
+Query No.:21
+Name:"鼎神麻辣鍋 | 三國饌嘉義店"		checkinsCount:26		lat: 23.469319067137974	lng:120.43974917399801	Category:52af0bd33cf9994f4e043bdd
+Name:"陳記牛鍋"		checkinsCount:6		lat: 23.470450280915827	lng:120.43988049030304	Category:52af3b813cf9994f4e043c04
+Name:"譚英雄"		checkinsCount:6		lat: 23.470693950046197	lng:120.43812324386228	Category:4bf58dd8d48988d1dd931735
+Name:"譚英雄 麻辣鴛鴦火鍋"		checkinsCount:5		lat: 23.470798	lng:120.437072	Category:4bf58dd8d48988d145941735
+Name:"來來永和豆漿"		checkinsCount:18		lat: 23.47099755891792	lng:120.43963102751707	Category:4bf58dd8d48988d143941735
+Name:"神戶日本料理"		checkinsCount:9		lat: 23.468676485125375	lng:120.43942286440596	Category:4bf58dd8d48988d111941735
+Name:"狗仔队"		checkinsCount:2		lat: 23.470083	lng:120.439917	Category:4bf58dd8d48988d100951735
+Name:"Easy Shop"		checkinsCount:1		lat: 23.468777	lng:120.43718	Category:4bf58dd8d48988d109951735
+Name:"千葉火鍋"		checkinsCount:7		lat: 23.470067	lng:120.439988	Category:4bf58dd8d48988d111941735
+Name:"彭村梅女子SPA美容機構"		checkinsCount:5		lat: 23.469319	lng:120.439888	Category:4bf58dd8d48988d1ed941735
+Name:"全家便利商店 嘉義上新店"		checkinsCount:2		lat: 23.470617	lng:120.438256	Category:4d954b0ea243a5684a65b473
+Name:"全民洗衣店"		checkinsCount:1		lat: 23.469381	lng:120.43991	Category:4bf58dd8d48988d1fc941735
+Name:"莫內咖啡"		checkinsCount:4		lat: 23.46925949127719	lng:120.4386305809021	Category:4bf58dd8d48988d16d941735
+Name:"橘子"		checkinsCount:2		lat: 23.469725	lng:120.438217	Category:4bf58dd8d48988d17a941735
+Name:"微笑鉛錫家"		checkinsCount:2		lat: 23.47132649067253	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Name:"千鶴日本料理"		checkinsCount:2		lat: 23.470637798308644	lng:120.43792247771867	Category:4bf58dd8d48988d111941735
+Query No.:23
+Name:"嘉樂福夜市"		checkinsCount:88		lat: 23.47176622091626	lng:120.43180498837096	Category:53e510b7498ebcb1801b55d4
+Name:"Bonii Cafe Tea 英式紅茶專賣店"		checkinsCount:1		lat: 23.471345	lng:120.43307	Category:4bf58dd8d48988d1dc931735
+Name:"官東燒肉食堂"		checkinsCount:5		lat: 23.471973	lng:120.43333	Category:4bf58dd8d48988d1df931735
+Name:"嘉樂福棒壘打擊練習場"		checkinsCount:1		lat: 23.472164	lng:120.433103	Category:4bf58dd8d48988d1e1941735
+Name:"新西里"		checkinsCount:0		lat: 23.471013	lng:120.433581	Category:4f2a25ac4b909258e854f55f
+Query No.:24
+Name:"E-61 Coffee Factory"		checkinsCount:26		lat: 23.47374373202045	lng:120.43487132202428	Category:4bf58dd8d48988d16d941735
+Name:"鮮茶道 Presotea"		checkinsCount:2		lat: 23.475291	lng:120.434805	Category:52e81612bcbc57f1066b7a0c
+Name:"Margaux"		checkinsCount:1		lat: 23.473812103271484	lng:120.43607330322266	Category:4bf58dd8d48988d1c4941735
+Query No.:25
+Name:"7-ELEVEn"		checkinsCount:3		lat: 23.472912379259377	lng:120.4381401221352	Category:4d954b0ea243a5684a65b473
+Name:"垂楊大橋 Chuiyang Overpass"		checkinsCount:2		lat: 23.47273080595112	lng:120.43887151183743	Category:4bf58dd8d48988d1df941735
+Name:"嘉義商旅 DAY+ Boutique Hotel"		checkinsCount:307		lat: 23.473230443655538	lng:120.43795446101142	Category:4bf58dd8d48988d1fa931735
+Name:"東門雞肉飯"		checkinsCount:5		lat: 23.462713849658375	lng:120.43237887654853	Category:4bf58dd8d48988d1c4941735
+Name:"馬可先生鄉村雜糧麵包"		checkinsCount:5		lat: 23.472940970579593	lng:120.43937223008484	Category:4bf58dd8d48988d16a941735
+Name:"運三慢壘球場"		checkinsCount:5		lat: 23.47251178334183	lng:120.43976605205788	Category:4bf58dd8d48988d1e8941735
+Name:"Willow Park Basketball Court East"		checkinsCount:63		lat: 23.471496788045965	lng:120.43858458252622	Category:4bf58dd8d48988d1e1941735
+Name:"嘉義市立垂楊國民小學 Chiayi Municipal Chuiyang Elementary School"		checkinsCount:9		lat: 23.47276	lng:120.43867	Category:4f4533804b9074f6e4fb0105
+Name:"阿官火鍋新光三越店"		checkinsCount:4		lat: 23.47319901944022	lng:120.43950162886597	Category:4bf58dd8d48988d1dd931735
+Name:"金玉堂批發廣場"		checkinsCount:23		lat: 23.472377712793	lng:120.43888276395427	Category:4bf58dd8d48988d121951735
+Name:"Willow Park"		checkinsCount:36		lat: 23.471687624772482	lng:120.43828077432354	Category:4bf58dd8d48988d1e7941735
+Name:"嘉義噴水雞肉飯"		checkinsCount:3		lat: 23.47273	lng:120.439673	Category:4bf58dd8d48988d142941735
+Name:"夜貓族鋼琴酒吧"		checkinsCount:67		lat: 23.472385765544914	lng:120.4388039991158	Category:4bf58dd8d48988d11f941735
+Name:"佶品炭烤地瓜"		checkinsCount:7		lat: 23.472718	lng:120.439682	Category:4bf58dd8d48988d1cb941735
+Name:"蔓閣鋼琴酒吧 Margaux Piano Pub"		checkinsCount:43		lat: 23.47230242401855	lng:120.43852269572822	Category:4bf58dd8d48988d1d5941735
+Name:"証信葬儀社"		checkinsCount:12		lat: 23.47209385922993	lng:120.43841017420118	Category:4f4534884b9074f6e4fb0174
+Name:"天橋下海產店"		checkinsCount:4		lat: 23.472978	lng:120.439251	Category:4bf58dd8d48988d1ce941735
+Name:"清心新民店"		checkinsCount:1		lat: 23.471382	lng:120.439472	Category:4bf58dd8d48988d1e0931735
+Query No.:26
+Name:"wake up festival 2014嘉義文化園區"		checkinsCount:4		lat: 23.47521	lng:120.437564	Category:5267e4d9e4b0ec79466e48d1
+Name:"樂檸漢堡"		checkinsCount:4		lat: 23.47550199273607	lng:120.43929909158582	Category:4bf58dd8d48988d16c941735
+Name:"優勝美地保健按摩"		checkinsCount:7		lat: 23.47405540345115	lng:120.43940598630115	Category:4bf58dd8d48988d1ed941735
+Name:"陳明文嘉義服務處"		checkinsCount:4		lat: 23.474588	lng:120.437869	Category:4bf58dd8d48988d12a941735
+Name:"力行里"		checkinsCount:0		lat: 23.474622	lng:120.436586	Category:4f2a25ac4b909258e854f55f
+Query No.:28
+Name:"花蓮一品香"		checkinsCount:21		lat: 23.477659057010165	lng:120.42808027947608	Category:4bf58dd8d48988d142941735
+Name:"嘉義噴水雞肉飯"		checkinsCount:21		lat: 23.48077676287878	lng:120.42891862968328	Category:4bf58dd8d48988d145941735
+Name:"麥當勞 McDonald's"		checkinsCount:23		lat: 23.47993686707166	lng:120.42998765895369	Category:4bf58dd8d48988d16e941735
+Name:"Starbucks"		checkinsCount:123		lat: 23.479524158043667	lng:120.42895238863785	Category:4bf58dd8d48988d1e0931735
+Name:"肯德基KFC"		checkinsCount:5		lat: 23.479766951189298	lng:120.42959380709576	Category:4bf58dd8d48988d16c941735
+Name:"嘉義市議會"		checkinsCount:2		lat: 23.478952797077923	lng:120.43238639831543	Category:4bf58dd8d48988d124941735
+Name:"Pen Shoei"		checkinsCount:1		lat: 23.48027229309082	lng:120.42613220214844	Category:4bf58dd8d48988d142941735
+Name:"家得汽車有限公司"		checkinsCount:6		lat: 23.477001	lng:120.429251	Category:4bf58dd8d48988d124951735
+Name:"愛樺美學Spa館"		checkinsCount:1		lat: 23.479433	lng:120.431448	Category:4bf58dd8d48988d1b3941735
+Name:"萬豐當舖"		checkinsCount:0		lat: 23.480387050618152	lng:120.4293018579483	Category:4bf58dd8d48988d111951735
+Name:"福全里"		checkinsCount:0		lat: 23.47963	lng:120.427636	Category:4f2a25ac4b909258e854f55f
+Query No.:29
+Name:"一起來睡吧"		checkinsCount:8		lat: 23.482161052029127	lng:120.43000453829214	Category:4bf58dd8d48988d1ee931735
+Name:"全家便利商店-德慶店"		checkinsCount:8		lat: 23.48264461937621	lng:120.43123109763839	Category:4d954b0ea243a5684a65b473
+Name:"Jungle City Motel"		checkinsCount:2		lat: 23.485762	lng:120.427324	Category:4bf58dd8d48988d1fb931735
+Name:"國泰大樓"		checkinsCount:20		lat: 23.481076346538877	lng:120.4300101647378	Category:4bf58dd8d48988d124941735
+Name:"香缇时尚旅馆"		checkinsCount:1		lat: 23.482580184936523	lng:120.43109130859375	Category:4f4534884b9074f6e4fb0174
+Name:"Pizza Hut"		checkinsCount:3		lat: 23.4819	lng:120.4311	Category:4bf58dd8d48988d1ca941735
+Name:"中華電信嘉義服務中心"		checkinsCount:7		lat: 23.48152449074996	lng:120.43045465316912	Category:4bf58dd8d48988d124941735
+Name:"美樂家生活館"		checkinsCount:4		lat: 23.484541	lng:120.427714	Category:4bf58dd8d48988d1ff941735
+Name:"Unic Hotel"		checkinsCount:1		lat: 23.483393	lng:120.431036	Category:5032891291d4c4b30a586d68
+Name:"鮮點子小館"		checkinsCount:2		lat: 23.483897	lng:120.430924	Category:4bf58dd8d48988d1d1941735
+Name:"優仕大飯店"		checkinsCount:12		lat: 23.483142348134706	lng:120.43108820915222	Category:4bf58dd8d48988d1ee931735
+Name:"Casa Hostel"		checkinsCount:0		lat: 23.48219871520996	lng:120.43009948730469	Category:4bf58dd8d48988d1ee931735
+Name:"Casa Hostel"		checkinsCount:1		lat: 23.48219871520996	lng:120.43009948730469	Category:4bf58dd8d48988d1ee931735
+Query No.:31
+Name:"一成炭烤活海產 | Joe Cheng Seafood"		checkinsCount:8		lat: 23.478185897667856	lng:120.43478130225924	Category:4bf58dd8d48988d1ce941735
+Name:"日日興 精選羊肉專賣"		checkinsCount:1		lat: 23.477214	lng:120.435718	Category:4bf58dd8d48988d142941735
+Name:"宗承汽車"		checkinsCount:2		lat: 23.47791	lng:120.436419	Category:4eb1c1623b7b52c0e1adc2ec
+Name:"日日興羊肉爐"		checkinsCount:10		lat: 23.631884475561705	lng:120.43582777814393	Category:4bf58dd8d48988d147941735
+Name:"fisherman king seafood restaurant 船老大"		checkinsCount:5		lat: 23.477899228716023	lng:120.43483756461976	Category:4bf58dd8d48988d1df931735
+Name:"海龍王餐廳"		checkinsCount:2		lat: 23.477593	lng:120.436002	Category:4bf58dd8d48988d142941735
+Name:"蕭家豪宅"		checkinsCount:1		lat: 23.47132649067253	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Query No.:32
+Name:"嘉义市 块木展览馆"		checkinsCount:8		lat: 23.479355924234472	lng:120.43475317106977	Category:4bf58dd8d48988d190941735
+Name:"街角161"		checkinsCount:2		lat: 23.480739	lng:120.433944	Category:4bf58dd8d48988d1c4941735
+Name:"船老大炭火燒肉●百匯料理"		checkinsCount:4		lat: 23.47898107267785	lng:120.43562523508758	Category:4bf58dd8d48988d1df931735
+Name:"阿宏海鮮炭烤店"		checkinsCount:1		lat: 23.47903060913086	lng:120.43523406982422	Category:4bf58dd8d48988d1ce941735
+Name:"Shianghu Boutique Hotel"		checkinsCount:4		lat: 23.47981207825953	lng:120.4359234233654	Category:4bf58dd8d48988d1fa931735
+Name:"川流亭"		checkinsCount:1		lat: 23.480602264404297	lng:120.43473815917969	Category:4bf58dd8d48988d111941735
+Query No.:33
+Name:"大潤發嘉義店"		checkinsCount:71		lat: 23.478283637432096	lng:120.4372787475586	Category:4bf58dd8d48988d1fd941735
+Name:"汽車工房"		checkinsCount:4		lat: 23.476562	lng:120.437192	Category:4bf58dd8d48988d124951735
+Name:"諸羅記玩具城 | Jurassic Toys"		checkinsCount:4		lat: 23.476294320944902	lng:120.43977730409655	Category:4bf58dd8d48988d1f3941735
+Name:"船老大"		checkinsCount:1		lat: 23.476168	lng:120.436959	Category:4bf58dd8d48988d1df931735
+Name:"驛站里"		checkinsCount:0		lat: 23.476756	lng:120.439013	Category:4f2a25ac4b909258e854f55f
+Query No.:34
+Name:"船老大海鮮餐廳"		checkinsCount:18		lat: 23.480496099377405	lng:120.436930506976	Category:4bf58dd8d48988d1ce941735
+Name:"統聯客運 嘉義轉運站"		checkinsCount:6		lat: 23.479768442607988	lng:120.43962540149145	Category:4bf58dd8d48988d1fe931735
+Name:"爭鮮迴轉壽司"		checkinsCount:6		lat: 23.478918	lng:120.437404	Category:4bf58dd8d48988d111941735
+Name:"嘉義市先期交通轉運中心"		checkinsCount:31		lat: 23.479993902745257	lng:120.43972666991476	Category:4bf58dd8d48988d1fe931735
+Name:"嘉義後站 Chiayi Rear Rail Station"		checkinsCount:25		lat: 23.479977398313927	lng:120.4398335642752	Category:4bf58dd8d48988d129951735
+Name:"嘉義機務段"		checkinsCount:1		lat: 23.479677200317383	lng:120.43974304199219	Category:4eb1bea83b7b6f98df247e06
+Name:"21世紀風味館"		checkinsCount:7		lat: 23.478867	lng:120.437309	Category:4bf58dd8d48988d16e941735
+Name:"和運租車嘉義博愛站"		checkinsCount:1		lat: 23.480295	lng:120.438661	Category:4bf58dd8d48988d1ef941735
+Name:"餐寶川菜海鮮炭烤"		checkinsCount:1		lat: 23.480957	lng:120.437012	Category:4bf58dd8d48988d142941735
+Name:"後站海產"		checkinsCount:7		lat: 23.47943025218223	lng:120.43982231224142	Category:4bf58dd8d48988d1ce941735
+Name:"Volkswagen | 宗承福斯"		checkinsCount:8		lat: 23.478700017128592	lng:120.43663794718526	Category:4eb1c1623b7b52c0e1adc2ec
+Name:"佛光山嘉義會館"		checkinsCount:5		lat: 23.479976591495614	lng:120.43986169435529	Category:4bf58dd8d48988d130941735
+Name:"BRT 台鐵嘉義後站 | BRT TRA Chiayi Station"		checkinsCount:0		lat: 23.48036982982767	lng:120.43899536132812	Category:52f2ab2ebcbc57f1066b8b4f
+Name:"小湖里"		checkinsCount:0		lat: 23.48063	lng:120.439094	Category:4f2a25ac4b909258e854f55f
+Query No.:36
+Name:"原燒優質原味燒肉"		checkinsCount:28		lat: 23.482966277175706	lng:120.4339429901779	Category:4bf58dd8d48988d111941735
+Name:"海聖麵食館"		checkinsCount:3		lat: 23.481244651647792	lng:120.43393173762965	Category:4bf58dd8d48988d142941735
+Name:"天空樹"		checkinsCount:2		lat: 23.482452	lng:120.436041	Category:4bf58dd8d48988d112941735
+Name:"正新試驗室"		checkinsCount:2		lat: 23.481673	lng:120.436323	Category:4bf58dd8d48988d130941735
+Name:"咖啡外漏"		checkinsCount:1		lat: 23.483167	lng:120.434387	Category:4bf58dd8d48988d1e0931735
+Name:"豆奶攤"		checkinsCount:2		lat: 23.4827	lng:120.4338	Category:4bf58dd8d48988d16e941735
+Name:"聖保羅麵包"		checkinsCount:2		lat: 23.482375	lng:120.433894	Category:4bf58dd8d48988d16a941735
+Name:"龍師牛排"		checkinsCount:6		lat: 23.48235758622261	lng:120.43457508087157	Category:4bf58dd8d48988d1cc941735
+Name:"松築創作和食料理"		checkinsCount:3		lat: 23.482429	lng:120.434972	Category:4bf58dd8d48988d111941735
+Name:"越南世家"		checkinsCount:8		lat: 23.482968688891184	lng:120.43419054599083	Category:4bf58dd8d48988d1d3941735
+Name:"阿宏海鮮"		checkinsCount:2		lat: 23.481423	lng:120.435691	Category:4bf58dd8d48988d1ce941735
+Name:"原燒～燒肉"		checkinsCount:2		lat: 23.483207055884872	lng:120.433762949288	Category:4bf58dd8d48988d142941735
+Name:"曼都髮廊"		checkinsCount:6		lat: 23.481167	lng:120.433835	Category:4bf58dd8d48988d1f4941735
+Name:"易吉購"		checkinsCount:1		lat: 23.48139323290122	lng:120.43373823165894	Category:4bf58dd8d48988d112951735
+Name:"友愛7-11"		checkinsCount:2		lat: 23.482489	lng:120.433919	Category:4d954b0ea243a5684a65b473
+Name:"桃城古味"		checkinsCount:1		lat: 23.483375308257504	lng:120.43505136136568	Category:4bf58dd8d48988d145941735
+Name:"大呼過癮"		checkinsCount:3		lat: 23.482472	lng:120.433949	Category:4bf58dd8d48988d145941735
+Name:"聖荷西大飯店"		checkinsCount:1		lat: 23.482531	lng:120.43647	Category:4bf58dd8d48988d1fa931735
+Query No.:37
+Name:"冠閣商務大飯店"		checkinsCount:5		lat: 23.483860903389687	lng:120.43425243486972	Category:4bf58dd8d48988d1fa931735
+Name:"外婆家"		checkinsCount:51		lat: 23.482045469691993	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Name:"好吃又香滷味"		checkinsCount:8		lat: 23.485028	lng:120.433463	Category:4bf58dd8d48988d1cb941735
+Name:"三皇三家"		checkinsCount:25		lat: 23.485279	lng:120.434899	Category:4bf58dd8d48988d16d941735
+Name:"貞貞水餃"		checkinsCount:14		lat: 23.483961	lng:120.436003	Category:4bf58dd8d48988d108941735
+Name:"日本料理路邊停友愛分店"		checkinsCount:2		lat: 23.484588	lng:120.434492	Category:4bf58dd8d48988d111941735
+Name:"85度C"		checkinsCount:8		lat: 23.48380887794449	lng:120.43617660155014	Category:4bf58dd8d48988d1d0941735
+Name:"Mentor曼都"		checkinsCount:2		lat: 23.484431	lng:120.43479	Category:4bf58dd8d48988d110951735
+Name:"友愛路鱔魚麵"		checkinsCount:3		lat: 23.484917	lng:120.433356	Category:4bf58dd8d48988d145941735
+Name:"7-11興達友愛路店"		checkinsCount:2		lat: 23.4856	lng:120.4334	Category:4d954b0ea243a5684a65b473
+Name:"合家歡KTV"		checkinsCount:5		lat: 23.48528016577089	lng:120.43344787712549	Category:4bf58dd8d48988d120941735
+Name:"真味肉圓店"		checkinsCount:7		lat: 23.484787	lng:120.43335	Category:4bf58dd8d48988d1f9941735
+Query No.:38
+Name:"Toko Indo Lia"		checkinsCount:2		lat: 23.48173	lng:120.43756	Category:4deefc054765f83613cdba6f
+Name:"松村日本料理海鲜"		checkinsCount:15		lat: 23.481479267552796	lng:120.43747061561336	Category:4bf58dd8d48988d1ce941735
+Name:"SYM"		checkinsCount:1		lat: 23.481759	lng:120.439752	Category:5032833091d4c4b30a586d60
+Name:"竹圍子"		checkinsCount:0		lat: 23.48333	lng:120.43667	Category:4f2a25ac4b909258e854f55f
+Query No.:39
+Name:"北興包子專賣店"		checkinsCount:1		lat: 23.4858	lng:120.4382	Category:4bf58dd8d48988d108941735
+Name:"蚵庒海產店"		checkinsCount:2		lat: 23.485667209699265	lng:120.43704302979552	Category:4bf58dd8d48988d142941735
+Query No.:41
+Name:"阿榮師黑糖粉粿"		checkinsCount:1		lat: 23.455593	lng:120.443248	Category:4bf58dd8d48988d1d0941735
+Name:"慶昇小館 Ging Sheng Restaurant"		checkinsCount:3		lat: 23.45561171635035	lng:120.44426116324586	Category:4bf58dd8d48988d147941735
+Name:"A'King's Hotel"		checkinsCount:11		lat: 23.454661483846518	lng:120.44387860670155	Category:4bf58dd8d48988d1ee931735
+Name:"冷家"		checkinsCount:0		lat: 23.46060742164083	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Query No.:42
+Name:"MR. BIG 美式餐廳"		checkinsCount:9		lat: 23.461942672729492	lng:120.44393920898438	Category:4bf58dd8d48988d147941735
+Name:"志航國小"		checkinsCount:2		lat: 23.46226998524984	lng:120.44868860992977	Category:4bf58dd8d48988d13b941735
+Name:"國立嘉義大學 | National Chiayi University"		checkinsCount:56		lat: 23.463336674071574	lng:120.44081811342292	Category:4bf58dd8d48988d1a8941735
+Name:"嘉義大學新民校區游泳池"		checkinsCount:11		lat: 23.4635989267034	lng:120.44493626025645	Category:4bf58dd8d48988d15e941735
+Name:"南京13號健康營業概念屋"		checkinsCount:5		lat: 23.45923328282432	lng:120.44411489176022	Category:50aa9e744b90af0d42d5de0e
+Name:"百香亭ㄖㄡˋㄗㄨㄥ"		checkinsCount:1		lat: 23.460623	lng:120.451249	Category:4bf58dd8d48988d145941735
+Name:"鲜茶道民生南路"		checkinsCount:3		lat: 23.458273	lng:120.443676	Category:4bf58dd8d48988d1dc931735
+Name:"早安美芝城"		checkinsCount:4		lat: 23.458283	lng:120.443392	Category:4bf58dd8d48988d143941735
+Name:"嘉義的家"		checkinsCount:4		lat: 23.46060742164083	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Name:"俗擱青平價熱炒"		checkinsCount:2		lat: 23.457409	lng:120.443657	Category:4bf58dd8d48988d145941735
+Name:"National Chiayi University"		checkinsCount:7		lat: 23.463699851278015	lng:120.44107690794961	Category:4bf58dd8d48988d198941735
+Name:"嘉義大學新民校區體育場"		checkinsCount:12		lat: 23.464505	lng:120.443598	Category:4bf58dd8d48988d1b6941735
+Name:"林園學府"		checkinsCount:1		lat: 23.45990133421004	lng:120.44289970683826	Category:4d954b06a243a5684965b473
+Name:"國力嘉義大學獸醫學系系館"		checkinsCount:4		lat: 23.462923	lng:120.443844	Category:4bf58dd8d48988d198941735
+Name:"chiayi university"		checkinsCount:1		lat: 23.463545244242805	lng:120.44099251848718	Category:4bf58dd8d48988d19b941735
+Name:"阿拉和姨丈的家"		checkinsCount:8		lat: 23.46060742164083	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Name:"Joyce's house"		checkinsCount:1		lat: 23.46060742164083	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Name:"嘉義市西區區公所"		checkinsCount:5		lat: 23.457686	lng:120.44452	Category:4bf58dd8d48988d126941735
+Name:"狗窩"		checkinsCount:1		lat: 23.458134203486285	lng:120.45304558629154	Category:4bf58dd8d48988d103941735
+Name:"Haha Home"		checkinsCount:5		lat: 23.458134203486285	lng:120.45304558629154	Category:4bf58dd8d48988d103941735
+Name:"嘉義市立民生國民中學 Chiayi Municipal Minsheng Junior High School"		checkinsCount:2		lat: 23.464871	lng:120.440317	Category:4bf58dd8d48988d13d941735
+Name:"JET團購網"		checkinsCount:0		lat: 23.460124969482422	lng:120.4500503540039	Category:4bf58dd8d48988d122951735
+Query No.:43
+Name:"興村里"		checkinsCount:3		lat: 23.452727202891968	lng:120.45559669760539	Category:4f2a25ac4b909258e854f55f
+Name:"椰林泰式料理小館"		checkinsCount:3		lat: 23.452471	lng:120.463698	Category:4bf58dd8d48988d1c4941735
+Name:"正宗鹹酥雞"		checkinsCount:6		lat: 23.453485	lng:120.459906	Category:4bf58dd8d48988d1cb941735
+Name:"雅園桌球室"		checkinsCount:3		lat: 23.453462600708008	lng:120.45458984375	Category:4f4528bc4b90abdf24c9de85
+Name:"Miami Motel"		checkinsCount:1		lat: 23.450693130493164	lng:120.46623229980469	Category:4bf58dd8d48988d1fb931735
+Name:"嘉義縣中埔鄉和睦國民小學"		checkinsCount:1		lat: 23.45219612121582	lng:120.46279907226562	Category:4f4533804b9074f6e4fb0105
+Name:"椰林泰式料理小館"		checkinsCount:2		lat: 23.451244354248047	lng:120.46189880371094	Category:4bf58dd8d48988d149941735
+Name:"我房間在廁所的斜對面。"		checkinsCount:2		lat: 23.458134203486285	lng:120.45304558629154	Category:4bf58dd8d48988d103941735
+Name:"港式脆皮臭豆腐"		checkinsCount:2		lat: 23.453866	lng:120.459866	Category:4bf58dd8d48988d1cb941735
+Name:"和興國小"		checkinsCount:1		lat: 23.448545	lng:120.455122	Category:4f4533804b9074f6e4fb0105
+Name:"7-11年代門市"		checkinsCount:1		lat: 23.449952	lng:120.459575	Category:4d954b0ea243a5684a65b473
+Name:"台北鵝肉-中埔店"		checkinsCount:4		lat: 23.451711	lng:120.46102	Category:4bf58dd8d48988d142941735
+Name:"過溪"		checkinsCount:0		lat: 23.45361	lng:120.45611	Category:4f2a25ac4b909258e854f55f
+Query No.:44
+Name:"嘉義 Jiayi"		checkinsCount:96		lat: 23.4624428743989	lng:120.46028250996928	Category:50aa9e094b90af0d42d5de0d
+Name:"真北平餐廳 Chen Pei Ping Restaurant"		checkinsCount:49		lat: 23.463275771234528	lng:120.45575983199831	Category:4bf58dd8d48988d145941735
+Name:"天主教輔仁中學 Fu Jen Catholic High School"		checkinsCount:11		lat: 23.456975	lng:120.458808	Category:4bf58dd8d48988d13d941735
+Name:"世欣專業汽車保養廠"		checkinsCount:2		lat: 23.456144332885742	lng:120.46449279785156	Category:4bf58dd8d48988d124951735
+Name:"燦坤3C中埔店"		checkinsCount:4		lat: 23.461465	lng:120.457084	Category:4bf58dd8d48988d122951735
+Name:"老爸，老媽，Fufu，有時還有我"		checkinsCount:13		lat: 23.4556602682889	lng:120.46456596924666	Category:4bf58dd8d48988d103941735
+Name:"八掌溪親水公園"		checkinsCount:43		lat: 23.456849023300016	lng:120.46283629014621	Category:4bf58dd8d48988d163941735
+Name:"南門教會"		checkinsCount:4		lat: 23.461166	lng:120.459298	Category:4bf58dd8d48988d132941735
+Name:"嘉義市 勞工保險局"		checkinsCount:1		lat: 23.46319007873535	lng:120.45532989501953	Category:4bf58dd8d48988d126941735
+Name:"現代茶葉"		checkinsCount:1		lat: 23.456551	lng:120.458801	Category:4bf58dd8d48988d1dc931735
+Name:"劉怡慧皮膚科診所"		checkinsCount:1		lat: 23.456864	lng:120.459072	Category:4bf58dd8d48988d177941735
+Name:"7-11 立宣門市"		checkinsCount:1		lat: 23.464596	lng:120.463744	Category:4d954b0ea243a5684a65b473
+Name:"嘉南幼稚園"		checkinsCount:2		lat: 23.4653996845613	lng:120.4560973507747	Category:4bf58dd8d48988d1a0941735
+Name:"輔仁中學"		checkinsCount:1		lat: 23.456967	lng:120.458635	Category:4bf58dd8d48988d13d941735
+Name:"八掌溪黃金風玲步道"		checkinsCount:5		lat: 23.456764074971666	lng:120.45885372094257	Category:4bf58dd8d48988d162941735
+Name:"大業國中"		checkinsCount:2		lat: 23.461389541625977	lng:120.45458984375	Category:4bf58dd8d48988d13b941735
+Name:"7-11新大業門市"		checkinsCount:8		lat: 23.463721	lng:120.455573	Category:4d954b0ea243a5684a65b473
+Name:"佳湘麵包烘焙"		checkinsCount:1		lat: 23.463621139526367	lng:120.45555877685547	Category:4bf58dd8d48988d16a941735
+Name:"左岸\u2022風尚義式料理"		checkinsCount:1		lat: 23.45800018310547	lng:120.4629135131836	Category:4bf58dd8d48988d110941735
+Name:"輔仁中學"		checkinsCount:1		lat: 23.461827661336745	lng:120.45667113066078	Category:4bf58dd8d48988d13b941735
+Name:"四季臭臭鍋"		checkinsCount:1		lat: 23.457486659145793	lng:120.46416378577815	Category:4bf58dd8d48988d142941735
+Name:"四季臭臭鍋"		checkinsCount:1		lat: 23.45768468655365	lng:120.45963561926781	Category:4bf58dd8d48988d145941735
+Name:"中埔老窩"		checkinsCount:1		lat: 23.466377606603622	lng:120.46456596924666	Category:4bf58dd8d48988d103941735
+Name:"Kocka Büfé"		checkinsCount:0		lat: 23.461421966552734	lng:120.45790100097656	Category:4bf58dd8d48988d16c941735
+Name:"興仁里"		checkinsCount:1		lat: 23.458286	lng:120.459843	Category:4f2a25ac4b909258e854f55f
+Query No.:48
+Name:"二階堂日式炭火燒肉"		checkinsCount:15		lat: 23.467933679744654	lng:120.44078435757677	Category:4bf58dd8d48988d1df931735
+Name:"官東燒肉"		checkinsCount:7		lat: 23.466659	lng:120.440872	Category:4bf58dd8d48988d1df931735
+Name:"阿官火鍋嘉義新民店"		checkinsCount:26		lat: 23.467725133709102	lng:120.44030052280935	Category:4bf58dd8d48988d145941735
+Name:"VR文森家 小茶館"		checkinsCount:2		lat: 23.466586573217253	lng:120.4411612973567	Category:4bf58dd8d48988d1dc931735
+Name:"帕格尼尼cafe"		checkinsCount:9		lat: 23.466533	lng:120.441711	Category:4bf58dd8d48988d16d941735
+Name:"水鳥和洋創菜"		checkinsCount:5		lat: 23.468437	lng:120.441753	Category:4bf58dd8d48988d111941735
+Name:"色鼎日式炭火燒肉"		checkinsCount:6		lat: 23.467712649601697	lng:120.4401823768342	Category:4bf58dd8d48988d111941735
+Name:"水鳥"		checkinsCount:3		lat: 23.467514	lng:120.440105	Category:4bf58dd8d48988d111941735
+Name:"水鳥和洋創菜"		checkinsCount:5		lat: 23.468124939770455	lng:120.44084624328798	Category:4bf58dd8d48988d11c941735
+Name:"上米西餐料理"		checkinsCount:2		lat: 23.466139	lng:120.440355	Category:4bf58dd8d48988d14e941735
+Name:"活力十足養生館"		checkinsCount:8		lat: 23.46819097490475	lng:120.44165638076443	Category:4bf58dd8d48988d1ed941735
+Name:"左阜右邑 Right and Left"		checkinsCount:18		lat: 23.466037788761998	lng:120.4404017907018	Category:4bf58dd8d48988d142941735
+Name:"川井屋"		checkinsCount:2		lat: 23.466285	lng:120.440309	Category:4bf58dd8d48988d142941735
+Name:"金一排骨"		checkinsCount:1		lat: 23.46845817565918	lng:120.44297790527344	Category:4bf58dd8d48988d147941735
+Name:"新瑞益食品原料"		checkinsCount:2		lat: 23.466145	lng:120.443353	Category:4bf58dd8d48988d1f9941735
+Name:"耶穌基督後期聖徒教會 | The Church of Jesus Christ of Latter-Day Saints"		checkinsCount:3		lat: 23.467827	lng:120.443069	Category:4bf58dd8d48988d132941735
+Name:"詩肯柚木 | SCANTEAK"		checkinsCount:2		lat: 23.46816	lng:120.44137	Category:4bf58dd8d48988d1f8941735
+Name:"五花馬餃子館"		checkinsCount:2		lat: 23.46633819212248	lng:120.442342743249	Category:4bf58dd8d48988d145941735
+Name:"凡人居"		checkinsCount:4		lat: 23.467203	lng:120.440976	Category:4bf58dd8d48988d145941735
+Name:"色頂日式料理"		checkinsCount:4		lat: 23.46804278861366	lng:120.440058604744	Category:4bf58dd8d48988d111941735
+Name:"A-kuan Hotpot Restaurant"		checkinsCount:1		lat: 23.46831575938722	lng:120.4400304747069	Category:4bf58dd8d48988d145941735
+Name:"饔人食譜"		checkinsCount:1		lat: 23.466278076171875	lng:120.44048309326172	Category:4bf58dd8d48988d1c4941735
+Name:"名佳美"		checkinsCount:5		lat: 23.467912342670537	lng:120.44008110876925	Category:4bf58dd8d48988d1ff941735
+Name:"席瑪朵咖啡烘焙棧"		checkinsCount:6		lat: 23.46643501338079	lng:120.44238030910492	Category:4bf58dd8d48988d16d941735
+Name:"臻善若水"		checkinsCount:1		lat: 23.46725119	lng:120.44093896	Category:4bf58dd8d48988d1d3941735
+Name:"媽媽廚房 Ma Ma Kitchen"		checkinsCount:1		lat: 23.466192	lng:120.440581	Category:4bf58dd8d48988d1c7941735
+Name:"Bess's Home"		checkinsCount:14		lat: 23.47132649067253	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Query No.:49
+Name:"Hotel Hi"		checkinsCount:95		lat: 23.47013798434469	lng:120.44024988883326	Category:4bf58dd8d48988d1fa931735
+Name:"葉記 | 東方葉牛肉坊"		checkinsCount:17		lat: 23.46999385303831	lng:120.44279281502313	Category:52af0bd33cf9994f4e043bdd
+Name:"葉記本產牛肉專賣"		checkinsCount:6		lat: 23.480955481505934	lng:120.44295033977235	Category:4bf58dd8d48988d145941735
+Name:"美利達自行車 | Merrida"		checkinsCount:7		lat: 23.46866	lng:120.442984	Category:4bf58dd8d48988d115951735
+Name:"紅豆冰城"		checkinsCount:1		lat: 23.470273971557617	lng:120.44080352783203	Category:4bf58dd8d48988d1c9941735
+Name:"胡永泰咖啡店 Hu's Coffee Shop"		checkinsCount:8		lat: 23.469454	lng:120.442799	Category:4bf58dd8d48988d16d941735
+Name:"五花馬餃子館"		checkinsCount:11		lat: 23.46918582393891	lng:120.44283219622851	Category:4bf58dd8d48988d1f5931735
+Name:"微風那裡早午餐"		checkinsCount:1		lat: 23.4692	lng:120.4401	Category:4bf58dd8d48988d143941735
+Name:"Hahu Coffee Bakery"		checkinsCount:1		lat: 23.469048	lng:120.442874	Category:4bf58dd8d48988d16a941735
+Name:"La J Cafe"		checkinsCount:1		lat: 23.469207	lng:120.443434	Category:4bf58dd8d48988d16d941735
+Name:"遠東百貨"		checkinsCount:3		lat: 23.469361	lng:120.442917	Category:4bf58dd8d48988d1f6941735
+Name:"新民中醫聯合門診"		checkinsCount:2		lat: 23.469768524169922	lng:120.44027709960938	Category:4bf58dd8d48988d177941735
+Name:"名佳美興業店"		checkinsCount:3		lat: 23.469901258819437	lng:120.44139758740239	Category:4bf58dd8d48988d1ff941735
+Name:"阿坤師魚羹"		checkinsCount:2		lat: 23.47055	lng:120.44331	Category:4bf58dd8d48988d145941735
+Name:"初 和風精緻咖哩"		checkinsCount:2		lat: 23.469306	lng:120.44296	Category:4bf58dd8d48988d1c4941735
+Query No.:50
+Name:"鉄腕串燒鉄板料理"		checkinsCount:3		lat: 23.468375358739753	lng:120.44533569098715	Category:4bf58dd8d48988d111941735
+Name:"九九大賣場"		checkinsCount:5		lat: 23.466687	lng:120.446216	Category:4bf58dd8d48988d1ff941735
+Name:"阿旺海產"		checkinsCount:4		lat: 23.468449	lng:120.44354	Category:4bf58dd8d48988d1ce941735
+Name:"大葉鐵板燒"		checkinsCount:5		lat: 23.46847762660666	lng:120.44490813128506	Category:4bf58dd8d48988d1c4941735
+Name:"超越"		checkinsCount:6		lat: 23.468199029274835	lng:120.44614580021187	Category:4bf58dd8d48988d110951735
+Name:"湳嘉精緻大飯店 Nanka Express Hotel"		checkinsCount:3		lat: 23.467701	lng:120.443789	Category:4bf58dd8d48988d1fa931735
+Name:"博愛復健診所"		checkinsCount:1		lat: 23.466705	lng:120.446163	Category:4bf58dd8d48988d177941735
+Name:"新莊"		checkinsCount:0		lat: 23.46667	lng:120.44667	Category:4f2a25ac4b909258e854f55f
+Query No.:51
+Name:"酥皮肉圓"		checkinsCount:2		lat: 23.468664	lng:120.445288	Category:4bf58dd8d48988d142941735
+Name:"白川町麵食館"		checkinsCount:1		lat: 23.469284	lng:120.443763	Category:52af3b813cf9994f4e043c04
+Name:"天藍小舖 The Best Place for Trendy Bags"		checkinsCount:1		lat: 23.470809	lng:120.444446	Category:4bf58dd8d48988d102951735
+Name:"十六居酒屋"		checkinsCount:5		lat: 23.46926303980076	lng:120.44675900449803	Category:4bf58dd8d48988d111941735
+Name:"城月居酒屋"		checkinsCount:2		lat: 23.468697806278932	lng:120.44653960146528	Category:4bf58dd8d48988d111941735
+Name:"古早味四海豆漿"		checkinsCount:1		lat: 23.4703	lng:120.447	Category:4bf58dd8d48988d142941735
+Name:"彰銀麵店"		checkinsCount:3		lat: 23.468593	lng:120.445975	Category:4bf58dd8d48988d145941735
+Name:"陳家涼麵"		checkinsCount:1		lat: 23.469339	lng:120.446899	Category:4bf58dd8d48988d1d1941735
+Name:"安溪三城隍"		checkinsCount:2		lat: 23.46897	lng:120.446658	Category:4bf58dd8d48988d13a941735
+Name:"劉媽的家"		checkinsCount:1		lat: 23.470484	lng:120.446506	Category:4bf58dd8d48988d142941735
+Name:"老上海 The Old Shanghai"		checkinsCount:1		lat: 23.46922721283443	lng:120.44665774160633	Category:4bf58dd8d48988d142941735
+Name:"心果咖啡簡餐"		checkinsCount:1		lat: 23.469649	lng:120.446944	Category:4bf58dd8d48988d16d941735
+Name:"致遠里"		checkinsCount:0		lat: 23.46851	lng:120.443681	Category:4f2a25ac4b909258e854f55f
+Name:"空中美語"		checkinsCount:0		lat: 23.470548692801927	lng:120.44648677110672	Category:4bf58dd8d48988d1ab941735
+Query No.:53
+Name:"茶湯會 Teapatea"		checkinsCount:6		lat: 23.471299	lng:120.442555	Category:4bf58dd8d48988d1dc931735
+Name:"阿溪雞肉飯"		checkinsCount:41		lat: 23.472450549449736	lng:120.442460887242	Category:4bf58dd8d48988d147941735
+Name:"新光三越 Shin Kong Mitsukoshi"		checkinsCount:249		lat: 23.473104405656965	lng:120.44133570195615	Category:4bf58dd8d48988d1f6941735
+Name:"Starbucks 垂楊門市"		checkinsCount:109		lat: 23.472920397057923	lng:120.4410982131958	Category:4bf58dd8d48988d1e0931735
+Name:"桔吉力早餐廚房 Good Morning Breakfast"		checkinsCount:13		lat: 23.472206166414505	lng:120.44256215343545	Category:4bf58dd8d48988d143941735
+Name:"瓦城泰國料理 Thai Town Cuisine"		checkinsCount:25		lat: 23.47313097054581	lng:120.44171826605657	Category:4bf58dd8d48988d149941735
+Name:"FE21' 嘉義遠東百貨"		checkinsCount:135		lat: 23.472941758266657	lng:120.44072247183581	Category:4bf58dd8d48988d1f6941735
+Name:"洋蔥牛排餐廳 | Mr. Onion"		checkinsCount:21		lat: 23.47331617890642	lng:120.44141446524618	Category:4bf58dd8d48988d1cc941735
+Name:"mimico cafe"		checkinsCount:7		lat: 23.472734	lng:120.441082	Category:4bf58dd8d48988d16d941735
+Name:"珍味香肉鬆店"		checkinsCount:1		lat: 23.473220825195312	lng:120.44058990478516	Category:4bf58dd8d48988d1f9941735
+Name:"古拉爵 | Café Grazie"		checkinsCount:31		lat: 23.47294579112814	lng:120.44086874717561	Category:4bf58dd8d48988d110941735
+Name:"BRT 新光三越遠東站"		checkinsCount:2		lat: 23.473021	lng:120.442773	Category:4bf58dd8d48988d1fe931735
+Name:"國王  蝴蝶  秘密基地咖啡店"		checkinsCount:40		lat: 23.472162637261906	lng:120.44177412986755	Category:4bf58dd8d48988d1e0931735
+Name:"文材麵攤"		checkinsCount:1		lat: 23.472999	lng:120.440464	Category:4bf58dd8d48988d1d1941735
+Name:"元生補湯－養生食補藥膳坊"		checkinsCount:1		lat: 23.472100257295125	lng:120.44349042316361	Category:4bf58dd8d48988d145941735
+Name:"救恩堂"		checkinsCount:2		lat: 23.47208390872186	lng:120.4419994354248	Category:4bf58dd8d48988d132941735
+Name:"國王蝴蝶"		checkinsCount:3		lat: 23.472346	lng:120.441098	Category:4bf58dd8d48988d1e0931735
+Name:"嘉義憲兵隊"		checkinsCount:7		lat: 23.47282700785089	lng:120.44154386197526	Category:4e52adeebd41615f56317744
+Name:"凱蒂諾鐵板燒"		checkinsCount:5		lat: 23.473167	lng:120.441422	Category:4bf58dd8d48988d1c4941735
+Name:"張涼麵"		checkinsCount:3		lat: 23.472208	lng:120.442591	Category:4bf58dd8d48988d1d1941735
+Name:"台哥大垂楊西門路口店"		checkinsCount:3		lat: 23.4734	lng:120.4432	Category:4bf58dd8d48988d124941735
+Name:"大苑子"		checkinsCount:7		lat: 23.472788	lng:120.44234	Category:4bf58dd8d48988d1dc931735
+Name:"喜常來老牌青草茶"		checkinsCount:7		lat: 23.47240585689693	lng:120.44252839804648	Category:4bf58dd8d48988d112941735
+Name:"植草屋"		checkinsCount:9		lat: 23.47303516543246	lng:120.44107128198713	Category:4bf58dd8d48988d11b951735
+Name:"7-11垂楊仁愛路口門市"		checkinsCount:3		lat: 23.4731	lng:120.4424	Category:4d954b0ea243a5684a65b473
+Name:"培元里"		checkinsCount:0		lat: 23.472586	lng:120.443246	Category:4f2a25ac4b909258e854f55f
+Name:"微風岸 二館"		checkinsCount:2		lat: 23.473371	lng:120.441246	Category:4bf58dd8d48988d1f5931735
+Name:"日安! 阿哩嘎荳 Zean Aligado"		checkinsCount:0		lat: 23.472357	lng:120.441052	Category:4bf58dd8d48988d16d941735
+Query No.:54
+Name:"DancingTea舞茶"		checkinsCount:1		lat: 23.473501750472067	lng:120.44247213904522	Category:4bf58dd8d48988d16d941735
+Name:"嘉義活水貴格會"		checkinsCount:2		lat: 23.474433	lng:120.441689	Category:4bf58dd8d48988d132941735
+Name:"佳里大潤發 | RT-MART"		checkinsCount:1		lat: 23.47483253479004	lng:120.44095611572266	Category:52f2ab2ebcbc57f1066b8b42
+Name:"嘉義傳統西市場"		checkinsCount:3		lat: 23.47409439086914	lng:120.44003295898438	Category:4bf58dd8d48988d1fa941735
+Name:"Xperia Sony Smartstore"		checkinsCount:9		lat: 23.475596	lng:120.442051	Category:4f04afc02fb6e1c99f3db0bc
+Name:"遊天宮"		checkinsCount:1		lat: 23.475173	lng:120.441613	Category:50328a8e91d4c4b30a586d6c
+Name:"加勒比海 Caribbean Ice Cream"		checkinsCount:1		lat: 23.47545	lng:120.442226	Category:4bf58dd8d48988d1d0941735
+Name:"50嵐"		checkinsCount:5		lat: 23.47549433	lng:120.44241466	Category:4bf58dd8d48988d1e0931735
+Name:"民族路果汁攤"		checkinsCount:2		lat: 23.475509	lng:120.442653	Category:4bf58dd8d48988d112941735
+Name:"菜園里"		checkinsCount:0		lat: 23.475241	lng:120.44159	Category:4f2a25ac4b909258e854f55f
+Query No.:55
+Name:"大同國小"		checkinsCount:4		lat: 23.471414126623102	lng:120.44553821877138	Category:4f4533804b9074f6e4fb0105
+Name:"舊市政府燒肉粽"		checkinsCount:3		lat: 23.473193212826445	lng:120.44571261744132	Category:52af3b813cf9994f4e043c04
+Name:"福義軒"		checkinsCount:98		lat: 23.472148	lng:120.44365064	Category:4bf58dd8d48988d1c7941735
+Name:"南北越南小吃"		checkinsCount:2		lat: 23.471088409423828	lng:120.4442138671875	Category:4bf58dd8d48988d14a941735
+Name:"Fo Yishan 福義軒（手工蛋捲、餅乾）"		checkinsCount:36		lat: 23.47230195547097	lng:120.44364794705925	Category:4bf58dd8d48988d1bc941735
+Name:"茂生壽司屋"		checkinsCount:28		lat: 23.472204881235673	lng:120.44495313763635	Category:4bf58dd8d48988d1d2941735
+Name:"碰碰諸羅山"		checkinsCount:15		lat: 23.473113	lng:120.444809	Category:4bf58dd8d48988d1ee931735
+Name:"萬泰大飯店"		checkinsCount:7		lat: 23.47309045395804	lng:120.4446099638101	Category:4bf58dd8d48988d1fa931735
+Name:"醉翁生鮮海產"		checkinsCount:3		lat: 23.471315966658253	lng:120.44426678906892	Category:4bf58dd8d48988d1ce941735
+Name:"紫密宫"		checkinsCount:1		lat: 23.47114372253418	lng:120.4442367553711	Category:52e81612bcbc57f1066b7a3e
+Name:"大喜 Dashi Wedding Gift"		checkinsCount:1		lat: 23.47123146057129	lng:120.44420623779297	Category:4bf58dd8d48988d11a951735
+Name:"福紀"		checkinsCount:2		lat: 23.473444	lng:120.445183	Category:52af3add3cf9994f4e043bf5
+Name:"MUCH Cafe"		checkinsCount:12		lat: 23.473275438583478	lng:120.44379421907547	Category:4bf58dd8d48988d16d941735
+Name:"NET"		checkinsCount:1		lat: 23.471282958984375	lng:120.44426727294922	Category:4bf58dd8d48988d103951735
+Name:"PG美人綱"		checkinsCount:1		lat: 23.471968	lng:120.443943	Category:4bf58dd8d48988d102951735
+Name:"Gamayoyo"		checkinsCount:2		lat: 23.471425876362098	lng:120.44426678906892	Category:4bf58dd8d48988d112941735
+Name:"台新銀行嘉義分行 Taishin Bank Chiayi Branch"		checkinsCount:8		lat: 23.473373609045385	lng:120.44386172918075	Category:4bf58dd8d48988d10a951735
+Name:"竹苑 碳烤"		checkinsCount:3		lat: 23.473421	lng:120.443964	Category:4bf58dd8d48988d1df931735
+Name:"Blockbuster"		checkinsCount:9		lat: 23.473390502218695	lng:120.44605016258272	Category:4bf58dd8d48988d126951735
+Name:"toko wiwi"		checkinsCount:9		lat: 23.47180836465396	lng:120.44374921231895	Category:4deefc054765f83613cdba6f
+Name:"海賓碳烤海鮮"		checkinsCount:1		lat: 23.473365	lng:120.445749	Category:4bf58dd8d48988d145941735
+Name:"九串燒"		checkinsCount:2		lat: 23.473101	lng:120.443654	Category:4bf58dd8d48988d1df931735
+Name:"市政府素食"		checkinsCount:1		lat: 23.473385	lng:120.446742	Category:4bf58dd8d48988d1d3941735
+Name:"阿嬤の咖喱飯"		checkinsCount:1		lat: 23.471838	lng:120.446996	Category:4bf58dd8d48988d1c7941735
+Name:"水織音手作烏龍麵店"		checkinsCount:2		lat: 23.473055	lng:120.443565	Category:4bf58dd8d48988d111941735
+Name:"知名度牛排"		checkinsCount:2		lat: 23.473407	lng:120.445527	Category:4bf58dd8d48988d1cc941735
+Name:"星星義式餐酒館"		checkinsCount:1		lat: 23.473424	lng:120.445306	Category:4bf58dd8d48988d110941735
+Query No.:57
+Name:"新榮戲院"		checkinsCount:82		lat: 23.474078577413508	lng:120.44471122831301	Category:4bf58dd8d48988d17f941735
+Name:"小小醉迷你火鍋"		checkinsCount:20		lat: 23.474421	lng:120.444658	Category:4bf58dd8d48988d142941735
+Name:"長興鉛管工廠"		checkinsCount:2		lat: 23.474079384176058	lng:120.44479561533791	Category:4eb1bea83b7b6f98df247e06
+Query No.:58
+Name:"呆獅雞肉飯"		checkinsCount:74		lat: 23.47547282809727	lng:120.44358043684186	Category:4bf58dd8d48988d145941735
+Name:"諸羅山社涼麵"		checkinsCount:1		lat: 23.475614055365792	lng:120.4451387886692	Category:52af3b813cf9994f4e043c04
+Name:"法國妞妞"		checkinsCount:1		lat: 23.475563	lng:120.444807	Category:4bf58dd8d48988d16a941735
+Name:"嘉宮大旅社"		checkinsCount:9		lat: 23.47522	lng:120.444603	Category:4f4530a74b9074f6e4fb0100
+Name:"小熊王國"		checkinsCount:1		lat: 23.475839	lng:120.445215	Category:4bf58dd8d48988d14e941735
+Name:"小時候的巷口"		checkinsCount:1		lat: 23.47132649067253	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Name:"七食弍 御食處"		checkinsCount:1		lat: 23.475136	lng:120.44456	Category:4bf58dd8d48988d111941735
+Query No.:59
+Name:"漢城日式碳火燒烤"		checkinsCount:10		lat: 23.473964913298794	lng:120.44679838448998	Category:4bf58dd8d48988d1df931735
+Name:"國泰世華銀行 Cathay United Bank"		checkinsCount:4		lat: 23.474545	lng:120.446706	Category:4bf58dd8d48988d10a951735
+Name:"金馬肉粥"		checkinsCount:1		lat: 23.473632	lng:120.445552	Category:4bf58dd8d48988d145941735
+Name:"姊妹城理髮廳"		checkinsCount:5		lat: 23.474691	lng:120.446028	Category:4bf58dd8d48988d110951735
+Name:"台灣基督長老教會嘉義西門教會"		checkinsCount:8		lat: 23.473637943265814	lng:120.44686026731009	Category:4bf58dd8d48988d132941735
+Name:"沐月甜點.咖啡"		checkinsCount:3		lat: 23.473613	lng:120.446873	Category:4bf58dd8d48988d16d941735
+Name:"Hosanna Hospital"		checkinsCount:3		lat: 23.473717325820346	lng:120.44670837306214	Category:4bf58dd8d48988d196941735
+Query No.:60
+Name:"多力雞陶鍋 Tolly Hot Pot"		checkinsCount:5		lat: 23.475285	lng:120.44678	Category:52af0bd33cf9994f4e043bdd
+Name:"多力\u2022雞陶鍋"		checkinsCount:1		lat: 23.47534	lng:120.446904	Category:52af0bd33cf9994f4e043bdd
+Name:"順成機車行"		checkinsCount:1		lat: 23.475678	lng:120.445593	Category:4bf58dd8d48988d124951735
+Name:"達成號"		checkinsCount:2		lat: 23.475921	lng:120.445854	Category:4d954b0ea243a5684a65b473
+Name:"Shadow Club"		checkinsCount:3		lat: 23.475726	lng:120.446162	Category:4bf58dd8d48988d11f941735
+Name:"嘉慶珠寶(Chia Ching Jewelry)民生旗艦店"		checkinsCount:4		lat: 23.475929	lng:120.446652	Category:4bf58dd8d48988d111951735
+Name:"凱蒂創意甲沙龍 Lady Creativity Nail Salon"		checkinsCount:7		lat: 23.475818439433183	lng:120.4466914959124	Category:4f04aa0c2fb6e1c99f3db0b8
+Name:"御可香手作茶"		checkinsCount:2		lat: 23.475013672276464	lng:120.4466914959124	Category:4bf58dd8d48988d1dc931735
+Name:"四季自然冰品"		checkinsCount:5		lat: 23.475811	lng:120.446742	Category:4bf58dd8d48988d1c7941735
+Name:"大家好"		checkinsCount:3		lat: 23.47566793660861	lng:120.4460332853467	Category:4bf58dd8d48988d1d0941735
+Name:"辣匠麻辣燙"		checkinsCount:3		lat: 23.474998	lng:120.446164	Category:4bf58dd8d48988d145941735
+Name:"才記餅舖"		checkinsCount:1		lat: 23.47483694070116	lng:120.44661273585109	Category:4bf58dd8d48988d145941735
+Name:"嘉義原始火雞肉飯"		checkinsCount:0		lat: 23.475805282592773	lng:120.44547271728516	Category:4bf58dd8d48988d145941735
+Query No.:61
+Name:"興加臭豆腐"		checkinsCount:16		lat: 23.469195	lng:120.453194	Category:4bf58dd8d48988d142941735
+Name:"小麵店 noodle noodle"		checkinsCount:13		lat: 23.47032787768276	lng:120.44716968096422	Category:4bf58dd8d48988d1d1941735
+Name:"三烙食堂"		checkinsCount:2		lat: 23.468976974487305	lng:120.44701385498047	Category:4bf58dd8d48988d145941735
+Name:"圓點單車"		checkinsCount:9		lat: 23.470168	lng:120.447104	Category:4bf58dd8d48988d115951735
+Name:"崇文錦魯麵"		checkinsCount:8		lat: 23.467248316876237	lng:120.4507363228181	Category:4bf58dd8d48988d145941735
+Name:"雅-日本料理"		checkinsCount:1		lat: 23.469297409057617	lng:120.45382690429688	Category:4bf58dd8d48988d111941735
+Name:"古早味四海豆漿"		checkinsCount:1		lat: 23.4703	lng:120.447	Category:4bf58dd8d48988d142941735
+Name:"神韻專業刺青 Shen Yun Tattoo Studio"		checkinsCount:8		lat: 23.470454690579405	lng:120.44704028989027	Category:4bf58dd8d48988d1de931735
+Name:"嘉義民生煎粿"		checkinsCount:1		lat: 23.470274	lng:120.447187	Category:4bf58dd8d48988d143941735
+Name:"家鄉烤鴨屋"		checkinsCount:2		lat: 23.468618392944336	lng:120.44792938232422	Category:4bf58dd8d48988d145941735
+Name:"嘉義國軍英雄館"		checkinsCount:5		lat: 23.470032360617754	lng:120.4472315636058	Category:4bf58dd8d48988d1ee931735
+Name:"阿嬤的咖哩飯"		checkinsCount:13		lat: 23.467029320837852	lng:120.4505506798614	Category:4bf58dd8d48988d142941735
+Name:"周安良診所"		checkinsCount:1		lat: 23.4685481	lng:120.4472155	Category:4bf58dd8d48988d104941735
+Query No.:63
+Name:"上禾家日本料理"		checkinsCount:3		lat: 23.47279092313971	lng:120.44729344621757	Category:4bf58dd8d48988d111941735
+Name:"7-11 嘉德门市"		checkinsCount:2		lat: 23.47330971249521	lng:120.44916678755969	Category:4d954b0ea243a5684a65b473
+Query No.:65
+Name:"麥當勞 McDonald's"		checkinsCount:28		lat: 23.473703122521837	lng:120.4480866661513	Category:4bf58dd8d48988d16e941735
+Name:"肯德基 KFC"		checkinsCount:11		lat: 23.473654	lng:120.448441	Category:4d4ae6fc7a7b7dea34424761
+Name:"黑松春餅"		checkinsCount:8		lat: 23.473729	lng:120.448028	Category:4bf58dd8d48988d153941735
+Name:"西門長老教會"		checkinsCount:1		lat: 23.47368812561035	lng:120.44717407226562	Category:4bf58dd8d48988d132941735
+Name:"佳寶婦產科醫院"		checkinsCount:0		lat: 23.473746	lng:120.448131	Category:4bf58dd8d48988d196941735
+Query No.:66
+Name:"Yeah Yeah Yeah 茶飲"		checkinsCount:17		lat: 23.474957205599143	lng:120.44794602467572	Category:4bf58dd8d48988d16c941735
+Name:"Cat & Giraffe 貓與長頸鹿"		checkinsCount:7		lat: 23.475497	lng:120.44797	Category:4bf58dd8d48988d16a941735
+Name:"QPasta"		checkinsCount:22		lat: 23.474883120398776	lng:120.44786163971659	Category:4bf58dd8d48988d110941735
+Name:"阿志火鸡肉饭"		checkinsCount:4		lat: 23.47584740582649	lng:120.44707404409603	Category:4bf58dd8d48988d145941735
+Name:"神腦國際嘉義客服中心"		checkinsCount:2		lat: 23.475042	lng:120.448258	Category:4f04afc02fb6e1c99f3db0bc
+Name:"阿福果汁"		checkinsCount:10		lat: 23.475775	lng:120.447392	Category:4bf58dd8d48988d112941735
+Name:"U-Girl 優の女孩 加大尺碼"		checkinsCount:4		lat: 23.475694	lng:120.448047	Category:4bf58dd8d48988d108951735
+Query No.:67
+Name:"國立嘉義女子高級中學 National Chiayi Girls' Senior High School"		checkinsCount:74		lat: 23.47387960844425	lng:120.45005000509701	Category:4bf58dd8d48988d13d941735
+Name:"成大舊書店"		checkinsCount:0		lat: 23.474445744488804	lng:120.44901609420776	Category:4bf58dd8d48988d114951735
+Query No.:68
+Name:"達文化生炒鴨肉羹"		checkinsCount:11		lat: 23.475274179327144	lng:120.45017376757963	Category:4bf58dd8d48988d145941735
+Name:"Subway嘉義民族店"		checkinsCount:8		lat: 23.475882507230196	lng:120.4496169090271	Category:4bf58dd8d48988d16e941735
+Name:"阿川春捲"		checkinsCount:5		lat: 23.474773	lng:120.45017	Category:4bf58dd8d48988d145941735
+Name:"Cosmed 康是美"		checkinsCount:2		lat: 23.47547912909092	lng:120.45020189539997	Category:4bf58dd8d48988d10c951735
+Name:"蚵仔煎香菇肉羹"		checkinsCount:1		lat: 23.475820541381836	lng:120.45032501220703	Category:52af3b813cf9994f4e043c04
+Name:"高雄正義蚵仔麵線"		checkinsCount:17		lat: 23.475941281815114	lng:120.45035941108029	Category:52af3b813cf9994f4e043c04
+Name:"Mr. Wish 水果●天然●茶"		checkinsCount:5		lat: 23.475876144853682	lng:120.44885175308558	Category:4bf58dd8d48988d1dc931735
+Name:"大埔鐵板燒 Dapu Teppanyaki"		checkinsCount:2		lat: 23.475196	lng:120.450242	Category:4bf58dd8d48988d111941735
+Name:"Hang Ten民族路門市"		checkinsCount:1		lat: 23.475995	lng:120.449191	Category:4bf58dd8d48988d102951735
+Name:"延平街米糕"		checkinsCount:1		lat: 23.47545623779297	lng:120.45014190673828	Category:4bf58dd8d48988d1f5931735
+Name:"春捲 阿川分店"		checkinsCount:1		lat: 23.474825	lng:120.450176	Category:4bf58dd8d48988d151941735
+Name:"吃好粥"		checkinsCount:1		lat: 23.475660359789828	lng:120.44957745634082	Category:4bf58dd8d48988d145941735
+Name:"嘉義巿府"		checkinsCount:4		lat: 23.475797	lng:120.450368	Category:4bf58dd8d48988d129941735
+Name:"蕃茄\u2022冰樂啡"		checkinsCount:1		lat: 23.475346	lng:120.448838	Category:4bf58dd8d48988d121941735
+Name:"庫克山上的阿卡"		checkinsCount:2		lat: 23.474959	lng:120.449413	Category:4bf58dd8d48988d1c4941735
+Query No.:69
+Name:"崇文錦魯麵"		checkinsCount:1		lat: 23.4722	lng:120.4537	Category:4bf58dd8d48988d142941735
+Query No.:70
+Name:"嘉義市立崇文國民小學 Chiayi Municipal Chongwun Elementary School"		checkinsCount:5		lat: 23.474208780304362	lng:120.45370094827395	Category:4f4533804b9074f6e4fb0105
+Name:"嘉義吳鳳路鱔魚麵"		checkinsCount:5		lat: 23.475372	lng:120.453474	Category:4bf58dd8d48988d1c7941735
+Name:"嘉義冷凍芋"		checkinsCount:15		lat: 23.47593601392781	lng:120.45120886731712	Category:4bf58dd8d48988d1c4941735
+Name:"阿波鴨肉麵 | A-Po Duck Noodles"		checkinsCount:7		lat: 23.475976	lng:120.451504	Category:4bf58dd8d48988d1d1941735
+Name:"嘉義運動用品"		checkinsCount:19		lat: 23.47509704293232	lng:120.45372344991361	Category:4bf58dd8d48988d1f2941735
+Name:"印象髮廊"		checkinsCount:3		lat: 23.474766108536816	lng:120.45388658668337	Category:4bf58dd8d48988d110951735
+Name:"強生腳底按摩館"		checkinsCount:4		lat: 23.47415837374149	lng:120.45271649768446	Category:4bf58dd8d48988d1ed941735
+Name:"晨間廚房 La Morning"		checkinsCount:2		lat: 23.473635	lng:120.45321	Category:4bf58dd8d48988d143941735
+Name:"文化公園"		checkinsCount:62		lat: 23.474977151709698	lng:120.45053958892822	Category:4bf58dd8d48988d163941735
+Name:"吃好粥精選美食"		checkinsCount:1		lat: 23.475322723388672	lng:120.45062255859375	Category:4bf58dd8d48988d142941735
+Name:"陳家蚵仔煎"		checkinsCount:2		lat: 23.475558	lng:120.451107	Category:4bf58dd8d48988d142941735
+Name:"吳鳳游泳池 Wufeng Swimming Pool"		checkinsCount:30		lat: 23.4746593227132	lng:120.45399909467987	Category:4bf58dd8d48988d15e941735
+Name:"四季自然冰品"		checkinsCount:4		lat: 23.475769721104783	lng:120.45361656709017	Category:4bf58dd8d48988d1c7941735
+Name:"深山玉枳丫店"		checkinsCount:1		lat: 23.475954055786133	lng:120.45358276367188	Category:4bf58dd8d48988d112941735
+Name:"牛肉香腸紅糟牛肉"		checkinsCount:0		lat: 23.475154876708984	lng:120.45329284667969	Category:4bf58dd8d48988d14e941735
+Name:"炸炸屋"		checkinsCount:2		lat: 23.475873	lng:120.451667	Category:4bf58dd8d48988d1df931735
+Name:"震安里"		checkinsCount:0		lat: 23.47507	lng:120.450963	Category:4f2a25ac4b909258e854f55f
+Query No.:74
+Name:"嘉義文化產業創意園區 Chiayi Cultural & Creative Industries Park"		checkinsCount:64		lat: 23.477220725945244	lng:120.44030052280935	Category:4bf58dd8d48988d1e2931735
+Name:"嘉義錢櫃"		checkinsCount:24		lat: 23.47718081678374	lng:120.44057057034557	Category:4bf58dd8d48988d1f1931735
+Name:"諸羅紀玩具城"		checkinsCount:2		lat: 23.476066822398934	lng:120.44051993647565	Category:4bf58dd8d48988d1f3941735
+Name:"市長官邸"		checkinsCount:3		lat: 23.47132649067253	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Query No.:75
+Name:"凱爵商務旅館"		checkinsCount:4		lat: 23.47796948824777	lng:120.44170138825257	Category:4bf58dd8d48988d1f8931735
+Name:"三商巧福（嘉年華）"		checkinsCount:7		lat: 23.477836626667887	lng:120.44173514385832	Category:4bf58dd8d48988d142941735
+Name:"大三通商旅"		checkinsCount:5		lat: 23.478126	lng:120.441234	Category:4bf58dd8d48988d1fa931735
+Name:"黑畢尼 Happiness"		checkinsCount:2		lat: 23.478292	lng:120.441653	Category:4bf58dd8d48988d1dc931735
+Name:"大三通大飯店（白宫大飯店）"		checkinsCount:1		lat: 23.478129	lng:120.441468	Category:4bf58dd8d48988d1fa931735
+Name:"优游饭店"		checkinsCount:2		lat: 23.477644	lng:120.441524	Category:4bf58dd8d48988d1fa931735
+Query No.:76
+Name:"良昌書局 LiangChang Bookstore"		checkinsCount:2		lat: 23.477051	lng:120.441874	Category:4bf58dd8d48988d114951735
+Name:"錢櫃 Party World"		checkinsCount:48		lat: 23.477201707679203	lng:120.44205582167183	Category:4bf58dd8d48988d120941735
+Name:"安蘭居国际青年馆"		checkinsCount:3		lat: 23.47667694091797	lng:120.44193267822266	Category:4bf58dd8d48988d1ee931735
+Name:"台北富邦銀行嘉義分行 Taipei Fubon Commercial Bank"		checkinsCount:8		lat: 23.476770917850388	lng:120.44200518838593	Category:4bf58dd8d48988d10a951735
+Name:"錢櫃KTV"		checkinsCount:4		lat: 23.477046293482147	lng:120.44210082902033	Category:4bf58dd8d48988d120941735
+Name:"MarketPlace市集"		checkinsCount:15		lat: 23.47692511206268	lng:120.44206144759124	Category:4bf58dd8d48988d142941735
+Name:"湯姆熊歡樂世界"		checkinsCount:14		lat: 23.477163457178392	lng:120.44205019575215	Category:4bf58dd8d48988d1e1931735
+Name:"三番家本店"		checkinsCount:2		lat: 23.476457595825195	lng:120.4422836303711	Category:4bf58dd8d48988d111941735
+Name:"國際豬血湯"		checkinsCount:2		lat: 23.477155	lng:120.443042	Category:4bf58dd8d48988d1dd931735
+Query No.:77
+Name:"阿焜早點"		checkinsCount:32		lat: 23.477534	lng:120.441914	Category:4bf58dd8d48988d143941735
+Name:"嘉年華影城 Carnival Cinema"		checkinsCount:296		lat: 23.478042356764426	lng:120.4419207995319	Category:4bf58dd8d48988d180941735
+Name:"國園商務 Country Garden Business Hotel"		checkinsCount:30		lat: 23.47754269828617	lng:120.44225835461621	Category:4bf58dd8d48988d1fa931735
+Name:"三雅嘉義火雞肉販"		checkinsCount:9		lat: 23.477510492642796	lng:120.44175764759059	Category:52af3b813cf9994f4e043c04
+Name:"shawdow"		checkinsCount:2		lat: 23.477530616832436	lng:120.44225835461621	Category:4bf58dd8d48988d116941735
+Name:"85度C"		checkinsCount:13		lat: 23.477394963154065	lng:120.44210082902033	Category:4bf58dd8d48988d16d941735
+Name:"統一大飯店"		checkinsCount:8		lat: 23.478453783696562	lng:120.4423371173419	Category:4bf58dd8d48988d1fa931735
+Name:"幸福綠光悠活餐飲"		checkinsCount:5		lat: 23.47766	lng:120.443113	Category:4bf58dd8d48988d143941735
+Name:"嘉薪大飯店"		checkinsCount:7		lat: 23.478496551513672	lng:120.44233703613281	Category:4bf58dd8d48988d130941735
+Name:"Subway"		checkinsCount:10		lat: 23.477550762529575	lng:120.44199393654193	Category:4bf58dd8d48988d1c5941735
+Name:"麥當勞 McDonald's"		checkinsCount:20		lat: 23.477971485945677	lng:120.44196018100399	Category:4bf58dd8d48988d16e941735
+Name:"Crown Hotel"		checkinsCount:1		lat: 23.478228	lng:120.443289	Category:4bf58dd8d48988d1fa931735
+Name:"福勝亭 tonkatsu"		checkinsCount:9		lat: 23.47764173573274	lng:120.4422527287054	Category:4bf58dd8d48988d111941735
+Name:"7-Eleven 嘉華門市"		checkinsCount:7		lat: 23.477442	lng:120.441961	Category:4d954b0ea243a5684a65b473
+Name:"3Q脆皮雞排"		checkinsCount:5		lat: 23.478087	lng:120.441993	Category:4d4ae6fc7a7b7dea34424761
+Name:"麗晶酒店"		checkinsCount:4		lat: 23.477642114241466	lng:120.44264091597526	Category:4bf58dd8d48988d1d6941735
+Name:"Laundromat"		checkinsCount:1		lat: 23.47743034362793	lng:120.44241333007812	Category:4bf58dd8d48988d1fc941735
+Name:"民安里"		checkinsCount:0		lat: 23.478141	lng:120.441947	Category:4f2a25ac4b909258e854f55f
+Name:"順億商務旅館"		checkinsCount:1		lat: 23.478313446044922	lng:120.44175720214844	Category:4bf58dd8d48988d1f8931735
+Query No.:79
+Name:"臺鐵嘉義車站 TRA Chiayi Station"		checkinsCount:1240		lat: 23.479237485319278	lng:120.44133570195615	Category:4bf58dd8d48988d129951735
+Name:"7-ELEVEn 嘉站門市"		checkinsCount:15		lat: 23.479046024935304	lng:120.44122880884257	Category:4d954b0ea243a5684a65b473
+Name:"嘉義公車站"		checkinsCount:1		lat: 23.478615	lng:120.441255	Category:4bf58dd8d48988d1fe931735
+Name:"嘉義火車站第一月台"		checkinsCount:13		lat: 23.480019666840608	lng:120.44079560952649	Category:4f4531504b9074f6e4fb0102
+Name:"嘉義火車站第二月台"		checkinsCount:19		lat: 23.47951271870012	lng:120.44093625881484	Category:4f4531504b9074f6e4fb0102
+Name:"嘉義鐵道藝術村"		checkinsCount:17		lat: 23.479155644479253	lng:120.44051993647565	Category:4bf58dd8d48988d162941735
+Name:"羽田國際機場"		checkinsCount:2		lat: 23.479238510131836	lng:120.44056701660156	Category:4bf58dd8d48988d1eb931735
+Name:"愛玩美旅行社"		checkinsCount:1		lat: 23.478922	lng:120.440142	Category:4bf58dd8d48988d130941735
+Query No.:80
+Name:"嘉義轉運站"		checkinsCount:142		lat: 23.479842511937484	lng:120.44000234466365	Category:4bf58dd8d48988d1fe931735
+Query No.:81
+Name:"嘉義車頭火雞肉飯"		checkinsCount:26		lat: 23.478655922020604	lng:120.4417745253872	Category:4bf58dd8d48988d145941735
+Name:"墊腳石文化廣場"		checkinsCount:35		lat: 23.479231599490205	lng:120.44245526134004	Category:4bf58dd8d48988d114951735
+Name:"光南"		checkinsCount:6		lat: 23.479409085866095	lng:120.44325976282579	Category:4bf58dd8d48988d1fe941735
+Name:"新高大飯店 Shinkao Hotel"		checkinsCount:36		lat: 23.478993660684385	lng:120.44242150592306	Category:4d4b7105d754a06375d81259
+Name:"溫記麵食館"		checkinsCount:2		lat: 23.479482	lng:120.443166	Category:4bf58dd8d48988d1d1941735
+Name:"嘉義火車站公車處"		checkinsCount:16		lat: 23.478638611108543	lng:120.44180265504332	Category:4bf58dd8d48988d12b951735
+Name:"嘉义火鸡肉饭"		checkinsCount:4		lat: 23.47867725860727	lng:120.44184203655159	Category:4bf58dd8d48988d142941735
+Name:"Gjun Computer 巨匠電腦"		checkinsCount:6		lat: 23.4789659	lng:120.4428202	Category:4bf58dd8d48988d130941735
+Name:"Yes Hotel"		checkinsCount:3		lat: 23.478521	lng:120.442322	Category:4bf58dd8d48988d1fa931735
+Name:"巨匠美語嘉義分校 Gjun Language Institute - Chiayi Branch"		checkinsCount:3		lat: 23.479186510124933	lng:120.4430052638054	Category:52e81612bcbc57f1066b7a48
+Name:"中山路"		checkinsCount:2		lat: 23.479215	lng:120.443042	Category:4bf58dd8d48988d1f9931735
+Name:"米花咖哩\u2027燒鍋"		checkinsCount:0		lat: 23.479408264160156	lng:120.4432601928711	Category:4bf58dd8d48988d142941735
+Name:"齊柏林音樂廣場 Zeppelin Music"		checkinsCount:10		lat: 23.479308452959785	lng:120.44307410908299	Category:4bf58dd8d48988d10d951735
+Name:"興大五金行"		checkinsCount:4		lat: 23.478835	lng:120.443106	Category:4bf58dd8d48988d112951735
+Name:"Set Tour"		checkinsCount:1		lat: 23.479673385620117	lng:120.4433822631836	Category:4f04b08c2fb6e1c99f3db0bd
+Name:"Alishan Shuttle Bus"		checkinsCount:1		lat: 23.479305267333984	lng:120.44266510009766	Category:4bf58dd8d48988d12b951735
+Name:"龍巖人本服務股份有限公司雲嘉服務處"		checkinsCount:4		lat: 23.479524	lng:120.442494	Category:4f4534884b9074f6e4fb0174
+Name:"名佳美"		checkinsCount:7		lat: 23.479019038308092	lng:120.44229773598508	Category:4bf58dd8d48988d10c951735
+Name:"莊家方塊酥 (中山店)"		checkinsCount:1		lat: 23.47946754981427	lng:120.4421345845214	Category:4bf58dd8d48988d16a941735
+Name:"老楊 T.K Food (站前店)"		checkinsCount:1		lat: 23.479511260986328	lng:120.4426498413086	Category:4bf58dd8d48988d16a941735
+Query No.:82
+Name:"噴水雞肉飯 (Spraying of Water Chicken Food)"		checkinsCount:61		lat: 23.479818680866124	lng:120.44184203655159	Category:4bf58dd8d48988d145941735
+Name:"黑金段惑櫃"		checkinsCount:1		lat: 23.480738	lng:120.442676	Category:4bf58dd8d48988d117941735
+Name:"惑櫃"		checkinsCount:3		lat: 23.480913	lng:120.442855	Category:4bf58dd8d48988d117941735
+Name:"楓壽司"		checkinsCount:1		lat: 23.480697631835938	lng:120.44340515136719	Category:4bf58dd8d48988d142941735
+Name:"Blue House Coffee"		checkinsCount:1		lat: 23.47994537453499	lng:120.44295596565269	Category:4bf58dd8d48988d1e0931735
+Name:"順發3C"		checkinsCount:1		lat: 23.48035	lng:120.443147	Category:4bf58dd8d48988d122951735
+Name:"通運里"		checkinsCount:0		lat: 23.479995	lng:120.441847	Category:4f2a25ac4b909258e854f55f
+Query No.:83
+Name:"橡木桶洋酒"		checkinsCount:21		lat: 23.477521436000075	lng:120.44644396412882	Category:4bf58dd8d48988d119951735
+Name:"阿亮老牌小排飯"		checkinsCount:2		lat: 23.478181838989258	lng:120.44436645507812	Category:4bf58dd8d48988d1cb941735
+Name:"LOFT 23.5 Bar Bistro B&B"		checkinsCount:13		lat: 23.47778760827392	lng:120.44607829130456	Category:52e81612bcbc57f1066b79f1
+Name:"宮 굼한국요리"		checkinsCount:12		lat: 23.47703873496099	lng:120.44637645537792	Category:4bf58dd8d48988d113941735
+Name:"汉城日式炭烤烧肉"		checkinsCount:2		lat: 23.477656351618336	lng:120.44593764763394	Category:4bf58dd8d48988d147941735
+Name:"金龍海悦大飯店"		checkinsCount:9		lat: 23.47709846496582	lng:120.4461898803711	Category:4bf58dd8d48988d1f8931735
+Name:"慢慢享車輪餅"		checkinsCount:1		lat: 23.476242065429688	lng:120.4445571899414	Category:4bf58dd8d48988d1cb941735
+Name:"民生公園"		checkinsCount:1		lat: 23.476772	lng:120.445683	Category:4bf58dd8d48988d163941735
+Name:"家義民宿"		checkinsCount:2		lat: 23.476349	lng:120.445008	Category:4bf58dd8d48988d1ee931735
+Name:"亞姿有氧世界"		checkinsCount:1		lat: 23.47758674621582	lng:120.44670867919922	Category:4bf58dd8d48988d175941735
+Name:"酒窩嘻哈音樂坊"		checkinsCount:6		lat: 23.477177	lng:120.446389	Category:4bf58dd8d48988d1d6941735
+Name:"氧氣吧卡拉OK"		checkinsCount:4		lat: 23.477246	lng:120.44628	Category:4bf58dd8d48988d120941735
+Name:"李建忠眼科"		checkinsCount:1		lat: 23.478172	lng:120.444472	Category:4d954afda243a5684865b473
+Name:"叭噗烤雞屋"		checkinsCount:8		lat: 23.47753	lng:120.444261	Category:4bf58dd8d48988d14c941735
+Name:"幾分甜"		checkinsCount:1		lat: 23.4777	lng:120.4465	Category:4bf58dd8d48988d16a941735
+Name:"佳園汕頭火鍋"		checkinsCount:0		lat: 23.476446	lng:120.446163	Category:4bf58dd8d48988d1dd931735
+Name:"微風食尙早午餐"		checkinsCount:1		lat: 23.478225708007812	lng:120.44491577148438	Category:4bf58dd8d48988d143941735
+Name:"中美當舖"		checkinsCount:4		lat: 23.476712800544362	lng:120.44441868619836	Category:5032850891d4c4b30a586d62
+Name:"席瑪朵"		checkinsCount:2		lat: 23.476165	lng:120.446163	Category:4bf58dd8d48988d16d941735
+Name:"CaOLi Lounge"		checkinsCount:11		lat: 23.476961424541884	lng:120.44670837306214	Category:4bf58dd8d48988d121941735
+Name:"微晨食尚早點"		checkinsCount:1		lat: 23.477385	lng:120.444211	Category:4bf58dd8d48988d143941735
+Name:"頂好市場wellcome"		checkinsCount:1		lat: 23.47734832763672	lng:120.44440460205078	Category:4bf58dd8d48988d1f9941735
+Name:"功科里"		checkinsCount:0		lat: 23.478313	lng:120.44688	Category:4f2a25ac4b909258e854f55f
+Name:"嘉義肉羹專賣店"		checkinsCount:1		lat: 23.47768044872957	lng:120.44655647863492	Category:4bf58dd8d48988d1dd931735
+Query No.:85
+Name:"慶昇小館"		checkinsCount:9		lat: 23.478850600477788	lng:120.4443230472859	Category:4bf58dd8d48988d145941735
+Name:"摩斯漢堡 MOS BURGER"		checkinsCount:47		lat: 23.479554	lng:120.443726	Category:4bf58dd8d48988d16c941735
+Name:"馬叔精緻麵食館 嘉義店"		checkinsCount:3		lat: 23.479390058932875	lng:120.44446931853503	Category:4bf58dd8d48988d1d1941735
+Name:"嘉義客運中山總站"		checkinsCount:12		lat: 23.47956115034843	lng:120.44481249273625	Category:4bf58dd8d48988d12b951735
+Name:"超吉飯桶"		checkinsCount:2		lat: 23.479419	lng:120.444247	Category:4bf58dd8d48988d111941735
+Name:"無名早餐店"		checkinsCount:3		lat: 23.47930145263672	lng:120.44515991210938	Category:4bf58dd8d48988d143941735
+Name:"裕豐鐵櫃行"		checkinsCount:5		lat: 23.47942589415293	lng:120.44442431201453	Category:4f04b1572fb6e1c99f3db0bf
+Name:"微笑運動用品 Smile Sportswear"		checkinsCount:6		lat: 23.479479867131477	lng:120.44377171569917	Category:4bf58dd8d48988d1f2941735
+Name:"映活照相器材"		checkinsCount:9		lat: 23.479510468570375	lng:120.44410364010058	Category:4eb1bdf03b7b55596b4a7491
+Name:"雄獅旅遊"		checkinsCount:1		lat: 23.479417	lng:120.444216	Category:4f04b08c2fb6e1c99f3db0bd
+Name:"雄獅旅遊 | Lion Travel"		checkinsCount:4		lat: 23.479593	lng:120.444122	Category:4f04b08c2fb6e1c99f3db0bd
+Name:"鄉土當歸鴨肉麵線"		checkinsCount:1		lat: 23.4791	lng:120.44422	Category:4bf58dd8d48988d147941735
+Name:"林師傅花式撞球推廣中心"		checkinsCount:5		lat: 23.478732	lng:120.444189	Category:4bf58dd8d48988d1e3931735
+Name:"大都會網路咖啡美食館 City Family"		checkinsCount:13		lat: 23.479677548576564	lng:120.44409801427042	Category:4bf58dd8d48988d18d941735
+Name:"君來歌友會"		checkinsCount:5		lat: 23.478535	lng:120.443502	Category:4bf58dd8d48988d120941735
+Name:"摩斯漢堡中山店"		checkinsCount:1		lat: 23.479524	lng:120.443529	Category:4bf58dd8d48988d16c941735
+Name:"金格喜餅"		checkinsCount:0		lat: 23.479419	lng:120.444247	Category:4bf58dd8d48988d1bf941735
+Query No.:86
+Name:"皇爵大飯店 King Hotel"		checkinsCount:36		lat: 23.47997909774844	lng:120.44406425928413	Category:4bf58dd8d48988d1fa931735
+Name:"梵天宮"		checkinsCount:8		lat: 23.48087	lng:120.444106	Category:4eb1d80a4b900d56c88a45ff
+Name:"張理髮"		checkinsCount:38		lat: 23.48045853049132	lng:120.44466059607151	Category:4bf58dd8d48988d110951735
+Name:"花魁雕狂刺青"		checkinsCount:6		lat: 23.480495567008255	lng:120.44457620895808	Category:4bf58dd8d48988d1de931735
+Name:"達摩書坊"		checkinsCount:2		lat: 23.48031445934552	lng:120.44421053082735	Category:4bf58dd8d48988d114951735
+Name:"响麻响辣顶级响宴麻辣火锅"		checkinsCount:1		lat: 23.48090362548828	lng:120.44432067871094	Category:4bf58dd8d48988d1df931735
+Name:"玉山銀行嘉義分行"		checkinsCount:1		lat: 23.480474682783992	lng:120.4441711500436	Category:4bf58dd8d48988d10a951735
+Name:"貳通食堂"		checkinsCount:0		lat: 23.480285	lng:120.444027	Category:4bf58dd8d48988d145941735
+Name:"西榮街269巷彩繪牆"		checkinsCount:1		lat: 23.480916267485124	lng:120.44479561533791	Category:4bf58dd8d48988d159941735
+Name:"健身工廠 Fitness Factory"		checkinsCount:8		lat: 23.480285	lng:120.444027	Category:4bf58dd8d48988d175941735
+Name:"烤玉米"		checkinsCount:1		lat: 23.48044	lng:120.443818	Category:4bf58dd8d48988d1cb941735
+Query No.:87
+Name:"韓國館 Korean Restaurant"		checkinsCount:46		lat: 23.478855699667374	lng:120.44588701587492	Category:4bf58dd8d48988d113941735
+Name:"卓武咖啡烘焙棧"		checkinsCount:29		lat: 23.478768	lng:120.446282	Category:4bf58dd8d48988d16d941735
+Name:"鴻圖書局"		checkinsCount:30		lat: 23.479703832818018	lng:120.44687151872873	Category:4bf58dd8d48988d114951735
+Name:"彰化銀行"		checkinsCount:8		lat: 23.47949	lng:120.44635	Category:4bf58dd8d48988d10a951735
+Name:"卓武山咖啡農場"		checkinsCount:2		lat: 23.478536	lng:120.446344	Category:4bf58dd8d48988d16d941735
+Name:"HAPPY HAIR  嘉義中山店"		checkinsCount:31		lat: 23.47949582090637	lng:120.44567323711715	Category:4bf58dd8d48988d110951735
+Name:"嘉義第一銀行仙草冰"		checkinsCount:3		lat: 23.478906369044704	lng:120.44625831497865	Category:4bf58dd8d48988d1f9941735
+Name:"太陽パチンコ Sun Pachinko"		checkinsCount:27		lat: 23.479009018701607	lng:120.44621893482146	Category:4bf58dd8d48988d17c941735
+Name:"Lanew"		checkinsCount:4		lat: 23.479675239304104	lng:120.44696715574742	Category:4bf58dd8d48988d107951735
+Name:"張皮膚泌尿診所"		checkinsCount:3		lat: 23.47969423115819	lng:120.44643833840092	Category:4bf58dd8d48988d177941735
+Name:"號稱15元大飯店魯肉飯"		checkinsCount:2		lat: 23.478576	lng:120.446384	Category:4bf58dd8d48988d142941735
+Name:"克林菸酒專賣店"		checkinsCount:10		lat: 23.479381	lng:120.446213	Category:4bf58dd8d48988d186941735
+Name:"Converse All Stars"		checkinsCount:4		lat: 23.479672	lng:120.446679	Category:4bf58dd8d48988d107951735
+Name:"吳鴻宜牙醫診所"		checkinsCount:3		lat: 23.479589933473054	lng:120.44658460724607	Category:4bf58dd8d48988d178941735
+Name:"日見小野"		checkinsCount:1		lat: 23.479627	lng:120.445709	Category:50be8ee891d4fa8dcc7199a7
+Name:"利安藥局 Li-an Pharmacy"		checkinsCount:3		lat: 23.479631512125476	lng:120.44553821877138	Category:4bf58dd8d48988d10f951735
+Name:"彰化銀行 嘉義分行"		checkinsCount:1		lat: 23.47967	lng:120.44638	Category:4bf58dd8d48988d10a951735
+Name:"皇爵飯店"		checkinsCount:3		lat: 23.4795569470022	lng:120.44634832672126	Category:4bf58dd8d48988d1fa931735
+Query No.:88
+Name:"老洋房1931"		checkinsCount:11		lat: 23.480381443483346	lng:120.44617392891277	Category:4bf58dd8d48988d1c4941735
+Name:"民生北路香菇肉焿麵"		checkinsCount:12		lat: 23.480377	lng:120.446268	Category:4bf58dd8d48988d1d1941735
+Name:"CTBC中國信託嘉義分行"		checkinsCount:21		lat: 23.480739792878648	lng:120.44603891109227	Category:4bf58dd8d48988d10a951735
+Name:"高速公路生活休閒電影館"		checkinsCount:1		lat: 23.480754852294922	lng:120.44645690917969	Category:4bf58dd8d48988d17f941735
+Name:"詮營停車場"		checkinsCount:2		lat: 23.48017	lng:120.446384	Category:4c38df4de52ce0d596b336e1
+Name:"晉福洋菸酒"		checkinsCount:36		lat: 23.480563455866886	lng:120.44613454872977	Category:4bf58dd8d48988d186941735
+Name:"陳霖生診所"		checkinsCount:1		lat: 23.480001818194037	lng:120.44627519218518	Category:4bf58dd8d48988d104941735
+Name:"饗麻饗辣"		checkinsCount:1		lat: 23.480953	lng:120.446071	Category:4bf58dd8d48988d145941735
+Name:"百事特 | Best Pals"		checkinsCount:6		lat: 23.479782	lng:120.446996	Category:4bf58dd8d48988d105951735
+Name:"麻婆滷味"		checkinsCount:8		lat: 23.4807	lng:120.446325	Category:4bf58dd8d48988d1cb941735
+Name:"明智電腦"		checkinsCount:1		lat: 23.48076	lng:120.44616	Category:4bf58dd8d48988d1f6941735
+Name:"新光銀行-嘉義分行"		checkinsCount:1		lat: 23.48011	lng:120.44689	Category:4bf58dd8d48988d10a951735
+Name:"微風"		checkinsCount:1		lat: 23.480743	lng:120.445993	Category:4bf58dd8d48988d143941735
+Name:"社內里"		checkinsCount:0		lat: 23.480578	lng:120.446685	Category:4f2a25ac4b909258e854f55f
+Query No.:90
+Name:"嘉義鐵道藝術村 Art Site of Chiayi Railway Warehouse"		checkinsCount:19		lat: 23.482352946283683	lng:120.44253402394526	Category:4bf58dd8d48988d18f941735
+Name:"嘉義鐵道藝術村"		checkinsCount:3		lat: 23.481100549506444	lng:120.44136383170812	Category:4bf58dd8d48988d1e2931735
+Name:"湯姆熊歡樂世界 Tom's World, 一心二路252號1樓 高雄市"		checkinsCount:1		lat: 23.481895	lng:120.440276	Category:4bf58dd8d48988d120941735
+Name:"本產牛肉"		checkinsCount:3		lat: 23.483452	lng:120.441014	Category:4bf58dd8d48988d145941735
+Name:"Hot豆素食pizza"		checkinsCount:1		lat: 23.48308	lng:120.44081	Category:4bf58dd8d48988d1d3941735
+Name:"大林車站肉圓"		checkinsCount:1		lat: 23.48105	lng:120.4432	Category:4bf58dd8d48988d16e941735
+Query No.:91
+Name:"嘉義市 | Chiayi City"		checkinsCount:82		lat: 23.483932562713935	lng:120.44044117263844	Category:50aa9e094b90af0d42d5de0d
+Name:"博愛雞肉飯"		checkinsCount:7		lat: 23.485066	lng:120.442184	Category:4d4b7105d754a06374d81259
+Name:"順裕火雞肉飯"		checkinsCount:1		lat: 23.485187530517578	lng:120.44281768798828	Category:4bf58dd8d48988d145941735
+Name:"林記火鍋"		checkinsCount:1		lat: 23.484511	lng:120.441803	Category:52af0bd33cf9994f4e043bdd
+Name:"武士情趣精品影音館"		checkinsCount:6		lat: 23.483654660729467	lng:120.44169576231741	Category:4bf58dd8d48988d126951735
+Name:"台新汽車借款"		checkinsCount:3		lat: 23.485794751659004	lng:120.44190954768052	Category:503287a291d4c4b30a586d65
+Name:"Chiayi home"		checkinsCount:1		lat: 23.482045469691993	lng:120.44152417117705	Category:4bf58dd8d48988d103941735
+Name:"慈生牙醫診所"		checkinsCount:1		lat: 23.483983	lng:120.442107	Category:4bf58dd8d48988d178941735
+Name:"BRT 自由友愛站 | BRT Tz You You Ai Station"		checkinsCount:0		lat: 23.485604846574866	lng:120.44076561927795	Category:52f2ab2ebcbc57f1066b8b4f
+Query No.:92
+Name:"天茂農產行"		checkinsCount:4		lat: 23.4812	lng:120.4439	Category:50be8ee891d4fa8dcc7199a7
+Name:"嘉義背包客@五樓趣"		checkinsCount:1		lat: 23.48151	lng:120.444816	Category:4bf58dd8d48988d1ee931735
+Name:"比雅"		checkinsCount:11		lat: 23.481113	lng:120.445085	Category:4bf58dd8d48988d110951735
+Name:"嘉聚。旅人之家 Assemble! Backpackers"		checkinsCount:10		lat: 23.481252811227847	lng:120.44498126659795	Category:4bf58dd8d48988d1ee931735
+Name:"老先覺 麻辣窯燒鍋"		checkinsCount:4		lat: 23.482457	lng:120.445693	Category:4bf58dd8d48988d145941735
+Name:"阿進土產牛肉湯"		checkinsCount:6		lat: 23.482864	lng:120.445825	Category:4bf58dd8d48988d147941735
+Name:"嘉義"		checkinsCount:14		lat: 23.482228342833245	lng:120.44582513258683	Category:4bf58dd8d48988d1e1931735
+Name:"轉角之間"		checkinsCount:16		lat: 23.482693	lng:120.445914	Category:4bf58dd8d48988d16d941735
+Name:"星賞 Feel Star Curry \u2022 Meal"		checkinsCount:1		lat: 23.48184585571289	lng:120.44673156738281	Category:4bf58dd8d48988d142941735
+Name:"黑洞制服辣妹會館"		checkinsCount:9		lat: 23.481684458076497	lng:120.44443556364614	Category:4bf58dd8d48988d1d6941735
+Name:"聖泰旻 泰式主題餐廳"		checkinsCount:8		lat: 23.482066050170893	lng:120.44616267743314	Category:4bf58dd8d48988d149941735
+Name:"Filipino resto"		checkinsCount:1		lat: 23.48271369170651	lng:120.4461007942776	Category:4eb1bd1c3b7b55596b4a748f
+Name:"北榮長老教會"		checkinsCount:2		lat: 23.48106	lng:120.445266	Category:4bf58dd8d48988d132941735
+Name:"榮檜里"		checkinsCount:0		lat: 23.483309	lng:120.445535	Category:4f2a25ac4b909258e854f55f
+Query No.:93
+Name:"猴子吃鬆餅"		checkinsCount:2		lat: 23.484685	lng:120.446163	Category:4bf58dd8d48988d1c7941735
+Name:"浪人串燒屋"		checkinsCount:1		lat: 23.483608	lng:120.4468	Category:4bf58dd8d48988d111941735
+Name:"院子裡"		checkinsCount:3		lat: 23.484727	lng:120.446163	Category:4bf58dd8d48988d121941735
+Name:"3R3H"		checkinsCount:3		lat: 23.4836	lng:120.4464	Category:4bf58dd8d48988d16d941735
+Name:"檸檬香茅火鍋專門店"		checkinsCount:2		lat: 23.484731063434754	lng:120.44616267743314	Category:4bf58dd8d48988d1dd931735
+Name:"長安里"		checkinsCount:0		lat: 23.485374	lng:120.445312	Category:4f2a25ac4b909258e854f55f
+Name:"埤子頭"		checkinsCount:0		lat: 23.48556	lng:120.44472	Category:4f2a25ac4b909258e854f55f
+Query No.:96
+Name:"兆品酒店-紫荊廳"		checkinsCount:1		lat: 23.47713279724121	lng:120.44725799560547	Category:52af3add3cf9994f4e043bf5
+Name:"亞法西服"		checkinsCount:38		lat: 23.47699029677125	lng:120.44760285883014	Category:4bf58dd8d48988d106951735
+Name:"黃賓紀念圖書館"		checkinsCount:9		lat: 23.476504	lng:120.447012	Category:4bf58dd8d48988d12f941735
+Name:"米朵服飾"		checkinsCount:2		lat: 23.477198	lng:120.448749	Category:4bf58dd8d48988d108951735
+Query No.:97
+Name:"咱台灣人的冰 | 陳澄波故居"		checkinsCount:46		lat: 23.47733763096179	lng:120.44864360488485	Category:4bf58dd8d48988d1c7941735
+Name:"七分之一閱讀概念"		checkinsCount:4		lat: 23.47731	lng:120.447806	Category:4bf58dd8d48988d12f941735
+Name:"老濟生國藥房"		checkinsCount:1		lat: 23.477754	lng:120.447579	Category:4bf58dd8d48988d10f951735
+Query No.:98
+Name:"圓石禪飮"		checkinsCount:11		lat: 23.476303639527554	lng:120.45000500052834	Category:4bf58dd8d48988d1dc931735
+Name:"聚北海道昆布鍋"		checkinsCount:17		lat: 23.47615991660846	lng:120.45000500052834	Category:52af0bd33cf9994f4e043bdd
+Name:"阿娥豆花"		checkinsCount:112		lat: 23.476853	lng:120.450175	Category:4bf58dd8d48988d1d0941735
+Name:"羅山鱔魚麵"		checkinsCount:11		lat: 23.477192935643775	lng:120.44920054120756	Category:4bf58dd8d48988d145941735
+Name:"吉品屋壽司"		checkinsCount:5		lat: 23.476601	lng:120.450286	Category:4bf58dd8d48988d111941735
+Name:"台灣山龍"		checkinsCount:1		lat: 23.476775	lng:120.449557	Category:4bf58dd8d48988d142941735
+Name:"貢茶 Gong Cha"		checkinsCount:3		lat: 23.477132220159866	lng:120.44942556530057	Category:4bf58dd8d48988d1dc931735
+Name:"東大門購物廣場"		checkinsCount:14		lat: 23.476742458708415	lng:120.44992624249531	Category:4bf58dd8d48988d1fd941735
+Name:"黃毛丫頭"		checkinsCount:5		lat: 23.47718407678194	lng:120.45006125623671	Category:4bf58dd8d48988d1c7941735
+Name:"Daiso Japan | 大創百貨"		checkinsCount:10		lat: 23.476027518506324	lng:120.44954932838394	Category:4bf58dd8d48988d1ff941735
+Name:"嘉義文化路"		checkinsCount:6		lat: 23.477169993352724	lng:120.45000500052834	Category:50aa9e094b90af0d42d5de0d
+Name:"鑫鑫複合式餐飲"		checkinsCount:1		lat: 23.476032257080078	lng:120.44906616210938	Category:4bf58dd8d48988d1c4941735
+Name:"文化公園民族路邊"		checkinsCount:3		lat: 23.47624123677732	lng:120.450016251672	Category:4bf58dd8d48988d163941735
+Name:"馨寶珠寶"		checkinsCount:1		lat: 23.476146	lng:120.449216	Category:4bf58dd8d48988d111951735
+Name:"Gamayoyo"		checkinsCount:1		lat: 23.47642	lng:120.45048	Category:4bf58dd8d48988d1d0941735
+Name:"My Clozet"		checkinsCount:1		lat: 23.476987	lng:120.449831	Category:4bf58dd8d48988d104951735
+Name:"supercorn"		checkinsCount:2		lat: 23.47714195448644	lng:120.44879549684832	Category:4bf58dd8d48988d103951735
+Name:"壬癸木匾"		checkinsCount:13		lat: 23.47612606440713	lng:120.45030878106121	Category:4bf58dd8d48988d127951735
+Name:"金豪家豆乳雞"		checkinsCount:1		lat: 23.477081	lng:120.450048	Category:4bf58dd8d48988d1cb941735
+Name:"叭噗披薩"		checkinsCount:2		lat: 23.476732	lng:120.450118	Category:4bf58dd8d48988d1c7941735
+Name:"羅老爹豆花"		checkinsCount:8		lat: 23.47618526750731	lng:120.44912178268204	Category:4bf58dd8d48988d1d0941735
+Name:"meycauayan, bulacan"		checkinsCount:1		lat: 23.47957052150486	lng:120.45304558629154	Category:4bf58dd8d48988d103941735
+Name:"山水運動用品"		checkinsCount:8		lat: 23.476727	lng:120.450086	Category:4bf58dd8d48988d1f2941735
+Name:"i曼谷泰式料理"		checkinsCount:7		lat: 23.476324	lng:120.449978	Category:4bf58dd8d48988d149941735
+Name:"府路里"		checkinsCount:0		lat: 23.477158	lng:120.449955	Category:4f2a25ac4b909258e854f55f
+Query No.:99
+Name:"文化路夜市 Wenhua Road Night Market"		checkinsCount:313		lat: 23.477679274785554	lng:120.44987561230576	Category:50be8ee891d4fa8dcc7199a7
+Name:"郭家雞肉飯"		checkinsCount:132		lat: 23.47832385	lng:120.449782	Category:52af3b813cf9994f4e043c04
+Name:"嘉義豆奶攤 Chiayi Soy Milk House"		checkinsCount:54		lat: 23.478412381996286	lng:120.44982498209626	Category:4bf58dd8d48988d143941735
+Name:"好味道"		checkinsCount:1		lat: 23.478464	lng:120.44975	Category:52af3b813cf9994f4e043c04
+Name:"花田小巷平價關東煮"		checkinsCount:1		lat: 23.478062223566557	lng:120.44935941696166	Category:4bf58dd8d48988d111941735
+Name:"嘉義文化路郵局 Chiayi Wenhua Road Post Office"		checkinsCount:23		lat: 23.477945786538218	lng:120.44987561230576	Category:4bf58dd8d48988d172941735
+Name:"AT12"		checkinsCount:2		lat: 23.477909088134766	lng:120.44914245605469	Category:4bf58dd8d48988d110951735
+Name:"郭家粿仔湯"		checkinsCount:35		lat: 23.478442175212972	lng:120.44979122861221	Category:52af3b813cf9994f4e043c04
+Name:"包心粉圓"		checkinsCount:10		lat: 23.478143880969235	lng:120.44967871693473	Category:4bf58dd8d48988d1d0941735
+Name:"真珠大飯店"		checkinsCount:2		lat: 23.478278	lng:120.449443	Category:4bf58dd8d48988d1fa931735
+Name:"中油煉製研究所"		checkinsCount:1		lat: 23.478117694555795	lng:120.44980810535533	Category:4bf58dd8d48988d130941735
+Name:"方櫃仔魯味"		checkinsCount:1		lat: 23.477323532104492	lng:120.44951629638672	Category:4bf58dd8d48988d1cb941735
+Name:"小陸碳烤"		checkinsCount:17		lat: 23.47794375066143	lng:120.44977997744888	Category:4bf58dd8d48988d1df931735
+Name:"LuLu Tea Coffee"		checkinsCount:4		lat: 23.477420049357878	lng:120.44950432364013	Category:4bf58dd8d48988d1c4941735
+Name:"Queen Punch"		checkinsCount:2		lat: 23.478496537593752	lng:120.44970121927808	Category:4bf58dd8d48988d104951735
+Name:"老爺俱樂部"		checkinsCount:6		lat: 23.47782259802932	lng:120.44978560303065	Category:4bf58dd8d48988d1d6941735
+Name:"金森酪梨現打果汁專賣店"		checkinsCount:2		lat: 23.477683	lng:120.449749	Category:4bf58dd8d48988d112941735
+Name:"諸羅山陳家蚵仔煎"		checkinsCount:2		lat: 23.477713	lng:120.44992	Category:4bf58dd8d48988d1c7941735
+Name:"陳澄波故居芋圓"		checkinsCount:1		lat: 23.477494	lng:120.448835	Category:4bf58dd8d48988d1d0941735
+Name:"豪豪吃炸雞腳"		checkinsCount:2		lat: 23.477697	lng:120.450072	Category:4bf58dd8d48988d1c7941735
+Name:"Swarovski"		checkinsCount:0		lat: 23.477896	lng:120.449146	Category:4bf58dd8d48988d111951735
+Name:"宾欧汽车有限公司"		checkinsCount:0		lat: 23.477896	lng:120.449146	Category:4eb1c1623b7b52c0e1adc2ec
+Query No.:101
+Name:"The Body Shop"		checkinsCount:7		lat: 23.47967360551442	lng:120.44724281499197	Category:4bf58dd8d48988d10c951735
+Name:"M9 ice cream"		checkinsCount:2		lat: 23.479593	lng:120.447153	Category:4bf58dd8d48988d1c9941735
+Name:"Crown cafe"		checkinsCount:4		lat: 23.479571	lng:120.447215	Category:4bf58dd8d48988d16d941735
+Name:"隱燃燒肉丼食堂"		checkinsCount:4		lat: 23.47885826351255	lng:120.44804166089585	Category:4bf58dd8d48988d111941735
+Name:"嘉義西市場"		checkinsCount:1		lat: 23.47911	lng:120.448499	Category:50be8ee891d4fa8dcc7199a7
+Name:"賴信成老香舖"		checkinsCount:1		lat: 23.478737	lng:120.447825	Category:4bf58dd8d48988d1ff941735
+Name:"crocs"		checkinsCount:4		lat: 23.479732	lng:120.447144	Category:4bf58dd8d48988d107951735
+Name:"盛村日本料理"		checkinsCount:26		lat: 23.478549	lng:120.448513	Category:4bf58dd8d48988d111941735
+Name:"勝利華洋百貨"		checkinsCount:5		lat: 23.479670637400908	lng:120.4484635845478	Category:4bf58dd8d48988d1ed941735
+Name:"Crabtree & Evelyn"		checkinsCount:6		lat: 23.479694434443758	lng:120.4477772547021	Category:4bf58dd8d48988d10c951735
+Name:"興義發記玩具行"		checkinsCount:3		lat: 23.478864	lng:120.448593	Category:4bf58dd8d48988d1f3941735
+Name:"嘉義刀療中心"		checkinsCount:3		lat: 23.478744	lng:120.447146	Category:4f4531b14b9074f6e4fb0103
+Name:"佳味鮮居酒屋"		checkinsCount:1		lat: 23.478569	lng:120.447428	Category:4bf58dd8d48988d111941735
+Name:"康宇家"		checkinsCount:3		lat: 23.479541	lng:120.448559	Category:4bf58dd8d48988d1c9941735
+Name:"大業里"		checkinsCount:0		lat: 23.479189	lng:120.448599	Category:4f2a25ac4b909258e854f55f
+Name:"ㄐㄧㄚˉ西市場"		checkinsCount:0		lat: 23.479121	lng:120.448479	Category:50be8ee891d4fa8dcc7199a7
+Query No.:102
+Name:"Easy Shop"		checkinsCount:17		lat: 23.479771810536157	lng:120.44739470860905	Category:4bf58dd8d48988d109951735
+Name:"歐舒丹 L'Occitane en Provence"		checkinsCount:18		lat: 23.47983914131161	lng:120.44768161828549	Category:4bf58dd8d48988d10c951735
+Name:"生活工場 Working House"		checkinsCount:4		lat: 23.480049957404013	lng:120.44773224933842	Category:4bf58dd8d48988d1f8941735
+Name:"中華電信中山服務中心 Chunghwa Telecom"		checkinsCount:8		lat: 23.47975133578972	lng:120.4470177870815	Category:4f04afc02fb6e1c99f3db0bc
+Name:"品田牧場 嘉國華店"		checkinsCount:16		lat: 23.48033607523755	lng:120.4485085896557	Category:4bf58dd8d48988d1c4941735
+Name:"手在比薩 Hand on The Pizza"		checkinsCount:21		lat: 23.48010193875834	lng:120.44735532879963	Category:4bf58dd8d48988d1ca941735
+Name:"Monkey Waffle"		checkinsCount:1		lat: 23.480441	lng:120.447209	Category:4bf58dd8d48988d1c7941735
+Name:"滿燒肉丼食堂"		checkinsCount:8		lat: 23.480836	lng:120.447405	Category:4bf58dd8d48988d111941735
+Name:"沱江小館"		checkinsCount:11		lat: 23.480808366508807	lng:120.44720343513603	Category:4bf58dd8d48988d142941735
+Name:"麥當勞 McDonald's"		checkinsCount:33		lat: 23.480008356873295	lng:120.44806416352556	Category:4bf58dd8d48988d153941735
+Name:"嘉義Nike"		checkinsCount:4		lat: 23.479897271691083	lng:120.4485648460184	Category:4bf58dd8d48988d1f2941735
+Name:"Fountain Turkey Rice (噴水鶏肉飯)"		checkinsCount:1		lat: 23.48041821446859	lng:120.44857609728798	Category:52af3b813cf9994f4e043c04
+Name:"台灣銀行 | Bank of Taiwan"		checkinsCount:13		lat: 23.47977045682978	lng:120.44857047165331	Category:4bf58dd8d48988d10a951735
+Name:"蓬萊西點麵包"		checkinsCount:7		lat: 23.479959636771394	lng:120.44830044089977	Category:4bf58dd8d48988d16c941735
+Name:"名佳美"		checkinsCount:1		lat: 23.480817	lng:120.448585	Category:4bf58dd8d48988d1fd941735
+Name:"微笑運動生活館"		checkinsCount:10		lat: 23.479900069204316	lng:120.44863235362116	Category:4bf58dd8d48988d1f2941735
+Name:"台灣企銀"		checkinsCount:10		lat: 23.479998308608696	lng:120.44868298430002	Category:4bf58dd8d48988d10a951735
+Name:"三美旗袍"		checkinsCount:8		lat: 23.480166	lng:120.447243	Category:4bf58dd8d48988d108951735
+Name:"合作金庫銀行 Taiwan Cooperative Bank"		checkinsCount:7		lat: 23.480123934153507	lng:120.44839045121392	Category:4bf58dd8d48988d10a951735
+Name:"鯊魚咬吐司"		checkinsCount:2		lat: 23.48085594177246	lng:120.44819641113281	Category:4bf58dd8d48988d16d941735
+Name:"LALA"		checkinsCount:3		lat: 23.480471	lng:120.447124	Category:4bf58dd8d48988d121941735
+Name:"DHC"		checkinsCount:6		lat: 23.479856221154197	lng:120.44764223856384	Category:4bf58dd8d48988d10c951735
+Name:"郭健軍皮膚科診所"		checkinsCount:1		lat: 23.47977638244629	lng:120.44867706298828	Category:4bf58dd8d48988d177941735
+Name:"屈臣氏 Watsons"		checkinsCount:2		lat: 23.479865	lng:120.44765	Category:4bf58dd8d48988d10f951735
+Query No.:103
+Name:"海頓英式茶館"		checkinsCount:9		lat: 23.478828725957477	lng:120.44926242287238	Category:4bf58dd8d48988d1c7941735
+Name:"林聰明沙鍋魚頭"		checkinsCount:140		lat: 23.478933281177564	lng:120.45016814201482	Category:4bf58dd8d48988d142941735
+Name:"江戶章魚燒"		checkinsCount:3		lat: 23.479662	lng:120.450395	Category:4bf58dd8d48988d1cb941735
+Name:"Night Market"		checkinsCount:6		lat: 23.478663992360236	lng:120.44895863986861	Category:50be8ee891d4fa8dcc7199a7
+Name:"變色龍歡樂世界"		checkinsCount:4		lat: 23.47958513997562	lng:120.44992061691966	Category:4bf58dd8d48988d1e1931735
+Name:"莊家豆漿"		checkinsCount:7		lat: 23.47933876098795	lng:120.44953245160686	Category:4bf58dd8d48988d143941735
+Name:"珍珍海產攤"		checkinsCount:8		lat: 23.478862915676682	lng:120.44948182126232	Category:4bf58dd8d48988d145941735
+Name:"台南府城狀元糕"		checkinsCount:2		lat: 23.478952407836914	lng:120.44984436035156	Category:4bf58dd8d48988d145941735
+Name:"波美斯薯條 Pommes Frites"		checkinsCount:1		lat: 23.478953	lng:120.450008	Category:4bf58dd8d48988d16e941735
+Name:"Wenghwa night market"		checkinsCount:2		lat: 23.47861813696867	lng:120.44954932838394	Category:4bf58dd8d48988d11a941735
+Name:"Sweet"		checkinsCount:1		lat: 23.479601820678628	lng:120.44937971526907	Category:4bf58dd8d48988d104951735
+Name:"文化路烤魷魚(土銀嘉義分行前小攤)"		checkinsCount:10		lat: 23.479607	lng:120.449571	Category:4bf58dd8d48988d1cb941735
+Name:"鮮奶雞蛋糕"		checkinsCount:1		lat: 23.47880521912222	lng:120.45043254329488	Category:4bf58dd8d48988d1c7941735
+Query No.:104
+Name:"御香屋"		checkinsCount:148		lat: 23.480001456285557	lng:120.44927929968487	Category:4bf58dd8d48988d112941735
+Name:"中央噴水池 Central Fountain"		checkinsCount:118		lat: 23.479941419738772	lng:120.44957745634082	Category:4bf58dd8d48988d12d941735
+Name:"Tast西堤牛排嘉義文化店"		checkinsCount:18		lat: 23.480351266012185	lng:120.44950432364013	Category:4bf58dd8d48988d1cc941735
+Name:"七彩500\"cc專賣店"		checkinsCount:35		lat: 23.479899611225957	lng:120.44913865951298	Category:4bf58dd8d48988d112941735
+Name:"嘉義噴水雞肉飯"		checkinsCount:201		lat: 23.4799007999281	lng:120.44917803877661	Category:52af3b813cf9994f4e043c04
+Name:"Tasty 西堤牛排"		checkinsCount:21		lat: 23.480389099170267	lng:120.44940868850723	Category:4bf58dd8d48988d1cc941735
+Name:"清玉手調原味茶 King Tea"		checkinsCount:3		lat: 23.479941469939977	lng:120.44921179242156	Category:52e81612bcbc57f1066b7a0c
+Name:"金鑛咖啡"		checkinsCount:23		lat: 23.480171	lng:120.450376	Category:4bf58dd8d48988d16d941735
+Name:"茶湯會 Teapatea"		checkinsCount:5		lat: 23.480471	lng:120.449421	Category:4bf58dd8d48988d1dc931735
+Name:"清玉手調原味茶 King Tea"		checkinsCount:12		lat: 23.479961	lng:120.449161	Category:52e81612bcbc57f1066b7a0c
+Name:"第一銀行嘉義分行"		checkinsCount:5		lat: 23.476806012494528	lng:120.4405143104889	Category:4bf58dd8d48988d10a951735
+Name:"聖保羅烘培花園"		checkinsCount:12		lat: 23.480516312555242	lng:120.44953245160683	Category:4bf58dd8d48988d16a941735
+Name:"KANO 電影首映會"		checkinsCount:3		lat: 23.47989	lng:120.44952	Category:52741d85e4b0d5d1e3c6a6d9
+Name:"It's Skin"		checkinsCount:2		lat: 23.47997042430899	lng:120.44944244209168	Category:4bf58dd8d48988d10c951735
+Name:"大漢書局"		checkinsCount:3		lat: 23.480689	lng:120.449373	Category:4bf58dd8d48988d114951735
+Name:"土地銀行嘉義分行 Land Bank Chiayi Branch"		checkinsCount:10		lat: 23.47986531306666	lng:120.44971247044828	Category:4bf58dd8d48988d10a951735
+Name:"魔髮空間 Magic Hair Salon"		checkinsCount:1		lat: 23.480101989971487	lng:120.44999937495616	Category:4bf58dd8d48988d127951735
+Name:"老娘 | Old Mommy"		checkinsCount:4		lat: 23.480205	lng:120.449531	Category:4bf58dd8d48988d112941735
+Name:"爭鮮回轉壽司"		checkinsCount:8		lat: 23.480108204409472	lng:120.44953245160683	Category:4bf58dd8d48988d111941735
+Name:"圓環邊 阿男炒飯炒麵"		checkinsCount:1		lat: 23.480627059936523	lng:120.44918823242188	Category:4bf58dd8d48988d1cb941735
+Name:"通記數位影像器材"		checkinsCount:2		lat: 23.48096963564729	lng:120.44941993970303	Category:4eb1bdf03b7b55596b4a7491
+Name:"舒果"		checkinsCount:1		lat: 23.48091697692871	lng:120.44986724853516	Category:4bf58dd8d48988d1d3941735
+Name:"仁和里"		checkinsCount:0		lat: 23.480386	lng:120.449744	Category:4f2a25ac4b909258e854f55f
+Query No.:106
+Name:"可多漢堡 cato"		checkinsCount:3		lat: 23.476265	lng:120.450922	Category:4bf58dd8d48988d16c941735
+Name:"阿岸米糕"		checkinsCount:86		lat: 23.476108649152195	lng:120.45080945481841	Category:4bf58dd8d48988d147941735
+Name:"原文化路小籠包"		checkinsCount:1		lat: 23.476659	lng:120.45154	Category:52af3b813cf9994f4e043c04
+Name:"現撈土托魚焿"		checkinsCount:1		lat: 23.47710066648117	lng:120.45066881631939	Category:52af3b813cf9994f4e043c04
+Name:"Dadala Cafe"		checkinsCount:9		lat: 23.476892867607503	lng:120.45119761627778	Category:4bf58dd8d48988d16d941735
+Name:"Standard Chartered渣打銀行（嘉義分行）"		checkinsCount:8		lat: 23.476576323890736	lng:120.45160265307348	Category:4bf58dd8d48988d10a951735
+Name:"峇里島養生館"		checkinsCount:5		lat: 23.476298	lng:120.451987	Category:4bf58dd8d48988d1ed941735
+Name:"｢好物 All Goods｣ 生活風格販賣所"		checkinsCount:6		lat: 23.476871	lng:120.451317	Category:4bf58dd8d48988d127951735
+Name:"初陽里"		checkinsCount:0		lat: 23.476037	lng:120.452106	Category:4f2a25ac4b909258e854f55f
+Query No.:107
+Name:"美可果汁"		checkinsCount:2		lat: 23.478240966796875	lng:120.45214080810547	Category:4bf58dd8d48988d1c7941735
+Name:"小荳荳寵物會館"		checkinsCount:2		lat: 23.478471	lng:120.452139	Category:4bf58dd8d48988d100951735
+Query No.:108
+Name:"烤玉米"		checkinsCount:9		lat: 23.476359	lng:120.452569	Category:4bf58dd8d48988d1c7941735
+Name:"阿樓師火雞肉飯"		checkinsCount:17		lat: 23.47699802758915	lng:120.45344217913485	Category:4bf58dd8d48988d145941735
+Name:"成仁街蛋餅"		checkinsCount:1		lat: 23.476167678833008	lng:120.4532241821289	Category:4bf58dd8d48988d143941735
+Name:"民族路無名烤玉米"		checkinsCount:19		lat: 23.476328	lng:120.452684	Category:4bf58dd8d48988d1cb941735
+Name:"煙斗專家 | 通興商號"		checkinsCount:15		lat: 23.476415865272322	lng:120.45373470073197	Category:4bf58dd8d48988d186941735
+Name:"嘉成文具行"		checkinsCount:2		lat: 23.476449757968645	lng:120.45321153663721	Category:4bf58dd8d48988d121951735
+Name:"阿波紅燒鴨肉面"		checkinsCount:1		lat: 23.476341247558594	lng:120.45341491699219	Category:4bf58dd8d48988d142941735
+Name:"松竹園"		checkinsCount:3		lat: 23.476974	lng:120.453088	Category:4bf58dd8d48988d11b951735
+Name:"成仁街蛋餅"		checkinsCount:0		lat: 23.476167678833008	lng:120.4529800415039	Category:4bf58dd8d48988d143941735
+Name:"炙燒壽司"		checkinsCount:1		lat: 23.477247	lng:120.453641	Category:4bf58dd8d48988d1d2941735
+Query No.:109
+Name:"台灣魯肉飯"		checkinsCount:2		lat: 23.47767448425293	lng:120.45352935791016	Category:4bf58dd8d48988d145941735
+Name:"阿吉炭炒鱔魚麵"		checkinsCount:7		lat: 23.477792	lng:120.453006	Category:4bf58dd8d48988d145941735
+Name:"楊家手工拉麵館"		checkinsCount:3		lat: 23.478452	lng:120.452822	Category:4bf58dd8d48988d145941735
+Name:"金門魯肉飯"		checkinsCount:4		lat: 23.47783659580392	lng:120.45335779778128	Category:4bf58dd8d48988d1c4941735
+Name:"光華愛玉"		checkinsCount:8		lat: 23.477728	lng:120.453799	Category:4bf58dd8d48988d1c7941735
+Name:"嘉義市東區户政事務所"		checkinsCount:2		lat: 23.478490829467773	lng:120.45374298095703	Category:4bf58dd8d48988d126941735
+Name:"小山五園居酒屋"		checkinsCount:4		lat: 23.477576	lng:120.453445	Category:4bf58dd8d48988d111941735
+Name:"大地原素"		checkinsCount:5		lat: 23.477544	lng:120.4533	Category:4bf58dd8d48988d1d3941735
+Name:"金門小吃部"		checkinsCount:1		lat: 23.477644	lng:120.453411	Category:4bf58dd8d48988d1c7941735
+Name:"332手工蛋捲"		checkinsCount:2		lat: 23.478452	lng:120.452822	Category:4bf58dd8d48988d1d0941735
+Query No.:111
+Name:"暖肚皮咖啡"		checkinsCount:9		lat: 23.479677557779333	lng:120.45078132713088	Category:4bf58dd8d48988d1e0931735
+Name:"金海山銀樓"		checkinsCount:1		lat: 23.479233	lng:120.452132	Category:4bf58dd8d48988d111951735
+Name:"三信寵物用品"		checkinsCount:1		lat: 23.4785213470459	lng:120.45167541503906	Category:4bf58dd8d48988d100951735
+Name:"永昌行"		checkinsCount:1		lat: 23.478893	lng:120.45054	Category:4bf58dd8d48988d1f9941735
+Name:"建國里"		checkinsCount:0		lat: 23.478913	lng:120.450715	Category:4f2a25ac4b909258e854f55f
+Name:"金金海山海山銀樓"		checkinsCount:0		lat: 23.47926	lng:120.452029	Category:4bf58dd8d48988d111951735
+Name:"百視達"		checkinsCount:0		lat: 23.478742	lng:120.451549	Category:4bf58dd8d48988d126951735
+Query No.:112
+Name:"中山路老店切仔麵"		checkinsCount:13		lat: 23.480962	lng:120.451941	Category:4bf58dd8d48988d147941735
+Name:"丸三動物醫院"		checkinsCount:9		lat: 23.48048546935144	lng:120.45118636523749	Category:4d954af4a243a5684765b473
+Name:"劉里長雞肉飯"		checkinsCount:10		lat: 23.480311888631075	lng:120.4520358160129	Category:4bf58dd8d48988d145941735
+Name:"黎陽戶外用品"		checkinsCount:4		lat: 23.48035067433712	lng:120.45074194835807	Category:4bf58dd8d48988d115951735
+Name:"高毅照像館"		checkinsCount:5		lat: 23.480856	lng:120.451289	Category:4eb1bdde3b7b55596b4a7490
+Name:"嘉亮眼科診所 Shining Eye Clinic"		checkinsCount:2		lat: 23.480533	lng:120.451156	Category:4d954afda243a5684865b473
+Name:"味千館"		checkinsCount:1		lat: 23.479793	lng:120.451135	Category:4bf58dd8d48988d113941735
+Name:"臺灣圖書室"		checkinsCount:77		lat: 23.48066419474929	lng:120.45122574387426	Category:4bf58dd8d48988d12f941735
+Name:"丸大日本食品館"		checkinsCount:5		lat: 23.47981547984763	lng:120.45184454944031	Category:4bf58dd8d48988d1f5941735
+Name:"夏姿 | Shiatzy Chen"		checkinsCount:8		lat: 23.48051438357202	lng:120.45145638993327	Category:4bf58dd8d48988d104951735
+Name:"小地球"		checkinsCount:6		lat: 23.480402	lng:120.450704	Category:4bf58dd8d48988d16d941735
+Name:"兄弟攝影"		checkinsCount:7		lat: 23.480483907007198	lng:120.45101759951473	Category:4eb1bdde3b7b55596b4a7490
+Name:"七淘戶外生活休閒館"		checkinsCount:3		lat: 23.480471	lng:120.450866	Category:4bf58dd8d48988d1f2941735
+Name:"公明路切仔麵"		checkinsCount:13		lat: 23.47979367833741	lng:120.45156890005589	Category:4bf58dd8d48988d1d1941735
+Query No.:113
+Name:"王家牛雜湯"		checkinsCount:4		lat: 23.478929873459144	lng:120.45399346928237	Category:4bf58dd8d48988d142941735
+Name:"我不是不愛你花屋"		checkinsCount:10		lat: 23.4791719409622	lng:120.45335779778128	Category:4bf58dd8d48988d11b951735
+Name:"生生金鐵店"		checkinsCount:4		lat: 23.478605	lng:120.452779	Category:4bf58dd8d48988d112951735
+Name:"嘉義市東區户政事務所"		checkinsCount:0		lat: 23.4785213470459	lng:120.45374298095703	Category:4bf58dd8d48988d126941735
+Query No.:114
+Name:"台灣滷肉飯"		checkinsCount:10		lat: 23.47984023650066	lng:120.45296964284157	Category:4bf58dd8d48988d145941735
+Name:"POMI boutique"		checkinsCount:9		lat: 23.48097801208496	lng:120.45236206054688	Category:4bf58dd8d48988d104951735
+Name:"陽明醫院"		checkinsCount:18		lat: 23.480301	lng:120.453172	Category:4bf58dd8d48988d196941735
+Name:"國泰X光檢驗所"		checkinsCount:1		lat: 23.47988510131836	lng:120.45308685302734	Category:4f4531b14b9074f6e4fb0103
+Name:"大街里"		checkinsCount:0		lat: 23.479886	lng:120.453434	Category:4f2a25ac4b909258e854f55f
+Query No.:117
+Name:"加賀食堂"		checkinsCount:3		lat: 23.48163014245813	lng:120.44749034523892	Category:4bf58dd8d48988d111941735
+Name:"古川壽喜燒"		checkinsCount:1		lat: 23.481725506805407	lng:120.44785038838454	Category:4bf58dd8d48988d111941735
+Name:"鯊魚咬吐司"		checkinsCount:2		lat: 23.481023	lng:120.44813	Category:4bf58dd8d48988d147941735
+Name:"陳澄坡、二二八文化館"		checkinsCount:3		lat: 23.481161025759956	lng:120.44826106136753	Category:4bf58dd8d48988d171941735
+Name:"嘉義健康美食坊"		checkinsCount:2		lat: 23.481986	lng:120.447806	Category:4bf58dd8d48988d145941735
+Name:"加賀食堂"		checkinsCount:6		lat: 23.481660842895508	lng:120.4471435546875	Category:4bf58dd8d48988d1c4941735
+Name:"三番本家民權店"		checkinsCount:1		lat: 23.482021016618614	lng:120.44776600336267	Category:4bf58dd8d48988d111941735
+Name:"中正公園"		checkinsCount:46		lat: 23.48139323290122	lng:120.4477071762085	Category:4bf58dd8d48988d163941735
+Name:"GIANT 捷安特嘉義店"		checkinsCount:14		lat: 23.48224958330475	lng:120.44848046146511	Category:4bf58dd8d48988d115951735
+Name:"長崎出島"		checkinsCount:2		lat: 23.48151	lng:120.447951	Category:4bf58dd8d48988d1e0931735
+Name:"陳澄波.二二八文化館"		checkinsCount:2		lat: 23.48137402557811	lng:120.448024783921	Category:4bf58dd8d48988d1e2931735
+Name:"滿龍拉麵"		checkinsCount:2		lat: 23.48202737633624	lng:120.44834544606474	Category:4bf58dd8d48988d111941735
+Name:"2012嘉義國際管樂節"		checkinsCount:1		lat: 23.481719	lng:120.44766	Category:5032792091d4c4b30a586d5c
+Name:"北杏里"		checkinsCount:0		lat: 23.48156	lng:120.448329	Category:4f2a25ac4b909258e854f55f
+Name:"陳澄波.二二八文化guan"		checkinsCount:0		lat: 23.481491	lng:120.448286	Category:4bf58dd8d48988d1e2931735
+Query No.:118
+Name:"新生早點"		checkinsCount:15		lat: 23.48313	lng:120.448481	Category:4bf58dd8d48988d143941735
+Name:"魔窟本店"		checkinsCount:5		lat: 23.48280976787422	lng:120.44716405526809	Category:4bf58dd8d48988d18e941735
+Query No.:119
+Name:"海風冰果部"		checkinsCount:13		lat: 23.481000637702692	lng:120.44939743731047	Category:4bf58dd8d48988d1d0941735
+Name:"舒果新米蘭蔬食"		checkinsCount:16		lat: 23.48166655204562	lng:120.44915553634175	Category:4bf58dd8d48988d1d3941735
+Name:"飲事館"		checkinsCount:3		lat: 23.481622665598582	lng:120.44941993970303	Category:4bf58dd8d48988d1dc931735
+Name:"嘉義市中央廣場 Chiayi Central Plaza"		checkinsCount:26		lat: 23.48128441531907	lng:120.44947057007191	Category:4bf58dd8d48988d164941735
+Name:"Abula"		checkinsCount:1		lat: 23.48213	lng:120.44908	Category:4bf58dd8d48988d104951735
+Name:"茶果饌-三人行文化總店"		checkinsCount:4		lat: 23.481631470555147	lng:120.44948182126232	Category:4bf58dd8d48988d1e0931735
+Name:"Subway"		checkinsCount:1		lat: 23.481939	lng:120.448883	Category:4bf58dd8d48988d1c5941735
+Name:"Aveda 上海髮藝"		checkinsCount:9		lat: 23.48200009946365	lng:120.44932430450741	Category:4bf58dd8d48988d110951735
+Name:"中央廣場"		checkinsCount:2		lat: 23.48123	lng:120.449557	Category:4bf58dd8d48988d126941735
+Query No.:120
+Name:"舞桔早餐店"		checkinsCount:1		lat: 23.482637405395508	lng:120.44987487792969	Category:4bf58dd8d48988d143941735
+Name:"兆品酒店 Maison de Chine"		checkinsCount:138		lat: 23.483320746913872	lng:120.44882925059363	Category:4bf58dd8d48988d1fa931735
+Name:"初め和風精緻咖哩"		checkinsCount:12		lat: 23.483408713936377	lng:120.45039316441527	Category:4bf58dd8d48988d111941735
+Name:"林聰明砂鍋魚頭"		checkinsCount:6		lat: 23.483050677008464	lng:120.44879549684832	Category:4bf58dd8d48988d145941735
+Name:"Angel 228"		checkinsCount:2		lat: 23.483185	lng:120.449997	Category:4bf58dd8d48988d144941735
+Name:"Maison De Chine"		checkinsCount:15		lat: 23.47957052150486	lng:120.45304558629154	Category:4bf58dd8d48988d103941735
+Name:"Chai Yi Maison De Chine"		checkinsCount:20		lat: 23.48348425424129	lng:120.44907677778866	Category:4bf58dd8d48988d1fa931735
+Name:"Chinatrust-Hotel"		checkinsCount:7		lat: 23.4834472	lng:120.4487663	Category:4bf58dd8d48988d1fa931735
+Name:"泰亞輪胎 (Michelin 服務中心)"		checkinsCount:3		lat: 23.483275287320495	lng:120.44899239357112	Category:4bf58dd8d48988d124951735
+Name:"達聖帽行"		checkinsCount:1		lat: 23.482456	lng:120.450165	Category:4bf58dd8d48988d1f2941735
+Name:"貓頭鷹咖啡 OWL COFFEE"		checkinsCount:1		lat: 23.482442	lng:120.450242	Category:4bf58dd8d48988d1e0931735
+Query No.:121
+Name:"沐樂日本料理"		checkinsCount:8		lat: 23.48387908935547	lng:120.44800567626953	Category:4bf58dd8d48988d111941735
+Name:"盧廣烤肉"		checkinsCount:2		lat: 23.484297	lng:120.448523	Category:4bf58dd8d48988d1df931735
+Name:"多那之咖啡 |  Donutes"		checkinsCount:15		lat: 23.484118	lng:120.447673	Category:4bf58dd8d48988d16d941735
+Name:"嘉義樂客商旅 Look Hotel"		checkinsCount:24		lat: 23.483980362219206	lng:120.448024783921	Category:4bf58dd8d48988d1fa931735
+Name:"Star Mine 咖啡\u2022輕食"		checkinsCount:1		lat: 23.484727	lng:120.44759	Category:4bf58dd8d48988d16d941735
+Name:"兆豐國際商業銀行 Mega International Commercial Bank"		checkinsCount:14		lat: 23.483745111548867	lng:120.44892488615724	Category:4bf58dd8d48988d10a951735
+Name:"Donutes Cafe'"		checkinsCount:25		lat: 23.483847970003833	lng:120.4477716290325	Category:4bf58dd8d48988d148941735
+Name:"look hotel restaurant"		checkinsCount:2		lat: 23.484010696411133	lng:120.44793701171875	Category:4bf58dd8d48988d143941735
+Name:"陶板屋林森西路店"		checkinsCount:8		lat: 23.483998913159525	lng:120.44836794864129	Category:4bf58dd8d48988d111941735
+Name:"卡加利美式餐飲 Calgary American Restaurant"		checkinsCount:34		lat: 23.48396358521175	lng:120.44712467538805	Category:4bf58dd8d48988d11b941735
+Name:"陶板屋和風創作料理"		checkinsCount:19		lat: 23.483972323540584	lng:120.44794039901349	Category:4bf58dd8d48988d1cc941735
+Name:"國華水上世界"		checkinsCount:8		lat: 23.484989343162948	lng:120.44737220586227	Category:4bf58dd8d48988d193941735
+Name:"five dime art centre"		checkinsCount:1		lat: 23.484010696411133	lng:120.44793701171875	Category:4bf58dd8d48988d1e2931735
+Name:"嘉義地方法院嘉義簡易庭 Chiayi Summary Court"		checkinsCount:4		lat: 23.485020250567132	lng:120.44908802901347	Category:4bf58dd8d48988d12b941735
+Name:"多那之咖啡"		checkinsCount:10		lat: 23.48352004469635	lng:120.44907115217586	Category:4bf58dd8d48988d16d941735
+Name:"北嘉義寵物水族主題館"		checkinsCount:8		lat: 23.48363397446798	lng:120.44897551672099	Category:4bf58dd8d48988d100951735
+Name:"妙廚媽媽料理廚房"		checkinsCount:2		lat: 23.483725	lng:120.450405	Category:4bf58dd8d48988d145941735
+Name:"西市鱔魚麵"		checkinsCount:1		lat: 23.483536	lng:120.448683	Category:52af3b813cf9994f4e043c04
+Query No.:122
+Name:"屋子裡有甜點"		checkinsCount:31		lat: 23.481451961697807	lng:120.45177704352324	Category:4bf58dd8d48988d1d0941735
+Name:"樂檸漢堡 | THEFREEN BURGER"		checkinsCount:140		lat: 23.48138936965113	lng:120.4529415156265	Category:4bf58dd8d48988d16c941735
+Name:"王家（阿婆）老牌愛玉冰"		checkinsCount:2		lat: 23.481614	lng:120.45177	Category:4bf58dd8d48988d1c7941735
+Name:"嘉義市政府 | Chiayi City Hall | 嘉義巿役所"		checkinsCount:69		lat: 23.48158196771354	lng:120.45393721529399	Category:4bf58dd8d48988d129941735
+Name:"阿美臭豆腐"		checkinsCount:10		lat: 23.482541	lng:120.451179	Category:4bf58dd8d48988d147941735
+Name:"芙甜法式點心坊 | Fortune Pâtisserie"		checkinsCount:44		lat: 23.481215	lng:120.452609	Category:4bf58dd8d48988d1d0941735
+Name:"恩典方塊酥"		checkinsCount:3		lat: 23.481045	lng:120.451997	Category:4bf58dd8d48988d1c7941735
+Name:"美中好茶莊"		checkinsCount:4		lat: 23.482763209606553	lng:120.45140013483507	Category:4bf58dd8d48988d145941735
+Name:"嘉義市政府"		checkinsCount:4		lat: 23.481176744451744	lng:120.45355975627899	Category:4bf58dd8d48988d126941735
+Name:"楓林手藝材料行"		checkinsCount:1		lat: 23.482576370239258	lng:120.45144653320312	Category:4bf58dd8d48988d1fb941735
+Name:"京品手藝行"		checkinsCount:1		lat: 23.482666015625	lng:120.45146179199219	Category:4bf58dd8d48988d1fb941735
+Name:"玩美煮藝"		checkinsCount:2		lat: 23.481287	lng:120.451936	Category:4bf58dd8d48988d1c4941735
+Name:"讀書人文化廣場"		checkinsCount:8		lat: 23.481301	lng:120.452749	Category:4bf58dd8d48988d114951735
+Name:"中美美容補習班 | Chuong Mei Beauty Academy"		checkinsCount:4		lat: 23.481223	lng:120.452611	Category:4bf58dd8d48988d1ad941735
+Name:"芽米 Yummy Home Chef"		checkinsCount:1		lat: 23.482189178466797	lng:120.45333099365234	Category:4bf58dd8d48988d16d941735
+Name:"BIRKENSTOCK"		checkinsCount:3		lat: 23.482669	lng:120.45269	Category:4bf58dd8d48988d107951735
+Name:"灶咖"		checkinsCount:1		lat: 23.4832820892334	lng:120.4517822265625	Category:4bf58dd8d48988d111941735
+Name:"山中也菜"		checkinsCount:1		lat: 23.481328	lng:120.452912	Category:4bf58dd8d48988d145941735
+Name:"仁武里"		checkinsCount:1		lat: 23.481391	lng:120.451691	Category:4f2a25ac4b909258e854f55f
+Name:"宋思權診所"		checkinsCount:1		lat: 23.481348037719727	lng:120.452880859375	Category:4bf58dd8d48988d104941735
+Name:"芽米簡餐廳咖啡"		checkinsCount:0		lat: 23.483304	lng:120.453193	Category:4bf58dd8d48988d128941735
+Query No.:123
+Name:"熊富手打烏龍麵"		checkinsCount:12		lat: 23.48398	lng:120.453804	Category:4bf58dd8d48988d1d1941735
+Name:"今戶屋伊藤食堂"		checkinsCount:1		lat: 23.483733	lng:120.453794	Category:4bf58dd8d48988d111941735
+Name:"六月美式餐廳"		checkinsCount:10		lat: 23.484132	lng:120.452301	Category:4bf58dd8d48988d14e941735
+Name:"營林俱樂部"		checkinsCount:5		lat: 23.48552457395106	lng:120.45321153663721	Category:4deefb944765f83613cdba6e
+Name:"福井日本料理"		checkinsCount:6		lat: 23.484642162956977	lng:120.45066881631939	Category:4bf58dd8d48988d111941735
+Name:"石頭燒肉"		checkinsCount:6		lat: 23.484943	lng:120.450558	Category:4bf58dd8d48988d1df931735
+Name:"忠孝路米糕"		checkinsCount:3		lat: 23.484038	lng:120.453781	Category:4bf58dd8d48988d143941735
+Name:"南馨食品店"		checkinsCount:2		lat: 23.48529815673828	lng:120.45225524902344	Category:4bf58dd8d48988d16a941735
+Name:"天龍製藥廠(舊址)"		checkinsCount:1		lat: 23.484169	lng:120.452598	Category:4eb1bea83b7b6f98df247e06
+Name:"多那之咖啡"		checkinsCount:6		lat: 23.484934	lng:120.45053	Category:4bf58dd8d48988d16d941735
+Name:"詮承牙醫診所"		checkinsCount:1		lat: 23.485838	lng:120.453738	Category:4bf58dd8d48988d178941735
+Name:"明麗老媽公司"		checkinsCount:2		lat: 23.4841318	lng:120.4505283	Category:4bf58dd8d48988d124941735
+Name:"林務局嘉義林區管理處"		checkinsCount:0		lat: 23.485898	lng:120.453177	Category:4bf58dd8d48988d126941735
+Name:"華陽診所"		checkinsCount:1		lat: 23.485896	lng:120.453489	Category:4bf58dd8d48988d177941735
+Name:"林務局嘉義林區管理處"		checkinsCount:0		lat: 23.485935	lng:120.453195	Category:4bf58dd8d48988d126941735
+Query No.:125
+Name:"Come Home Cafe 咖啡漫步"		checkinsCount:27		lat: 23.469604729827424	lng:120.45735741304314	Category:4bf58dd8d48988d16d941735
+Name:"CPC Training Center, Chiayi City"		checkinsCount:1		lat: 23.467283248901367	lng:120.45494079589844	Category:4bf58dd8d48988d130941735
+Name:"呷尚宝"		checkinsCount:4		lat: 23.469922	lng:120.459744	Category:4bf58dd8d48988d143941735
+Name:"田原日式涮涮鍋"		checkinsCount:4		lat: 23.469391660308467	lng:120.45500603686496	Category:4bf58dd8d48988d120951735
+Name:"南田火雞肉飯"		checkinsCount:1		lat: 23.47047996520996	lng:120.45697021484375	Category:52af3b813cf9994f4e043c04
+Name:"FEED ME 美式餐廳"		checkinsCount:2		lat: 23.470708608204006	lng:120.45703677336971	Category:4bf58dd8d48988d14e941735
+Name:"興業小火鍋"		checkinsCount:1		lat: 23.469524383544922	lng:120.45569610595703	Category:52af0bd33cf9994f4e043bdd
+Name:"民雄傳統味椪皮麵  嘉義分店"		checkinsCount:6		lat: 23.469417572021484	lng:120.45452117919922	Category:4bf58dd8d48988d1d1941735
+Name:"世傳國術館"		checkinsCount:4		lat: 23.469669909847052	lng:120.45430286577864	Category:4bf58dd8d48988d104941735
+Name:"Fishermsn 漁翁海產食品行"		checkinsCount:1		lat: 23.469722747802734	lng:120.4564208984375	Category:4bf58dd8d48988d10e951735
+Name:"根亭日式小吃"		checkinsCount:5		lat: 23.468557	lng:120.455293	Category:4bf58dd8d48988d111941735
+Name:"嘉義市兒童館"		checkinsCount:2		lat: 23.470445562697414	lng:120.46086752136445	Category:4bf58dd8d48988d1e7941735
+Name:"阿桃素食鹽酥雞"		checkinsCount:2		lat: 23.469614	lng:120.455787	Category:4bf58dd8d48988d1c7941735
+Name:"尚盟體育用品"		checkinsCount:5		lat: 23.469454	lng:120.455788	Category:4bf58dd8d48988d1f2941735
+Name:"中國廣播公司嘉義廣播電台"		checkinsCount:2		lat: 23.470851471544	lng:120.45417910726947	Category:5032856091d4c4b30a586d63
+Name:"川味涼麵"		checkinsCount:1		lat: 23.466479	lng:120.457832	Category:4bf58dd8d48988d1d1941735
+Name:"咖啡漫步"		checkinsCount:4		lat: 23.469523413726275	lng:120.45741366553494	Category:4bf58dd8d48988d16d941735
+Name:"D-RO"		checkinsCount:2		lat: 23.47095	lng:120.454129	Category:4bf58dd8d48988d121941735
+Name:"貓尾巴麵包店"		checkinsCount:7		lat: 23.467269627412794	lng:120.45728428476698	Category:4bf58dd8d48988d16a941735
+Name:"福修素食"		checkinsCount:5		lat: 23.46972164586775	lng:120.45605234832239	Category:4bf58dd8d48988d1d3941735
+Name:"香草食上"		checkinsCount:1		lat: 23.470703125	lng:120.46062469482422	Category:4bf58dd8d48988d147941735
+Name:"角子寮"		checkinsCount:0		lat: 23.46778	lng:120.45639	Category:4f2a25ac4b909258e854f55f
+Name:"新開里"		checkinsCount:0		lat: 23.470955	lng:120.460895	Category:4f2a25ac4b909258e854f55f
+Query No.:127
+Name:"桃山人文館"		checkinsCount:1		lat: 23.47321128845215	lng:120.45526123046875	Category:52e81612bcbc57f1066b7a35
+Query No.:128
+Name:"民族國小 Mintsu Elementary School"		checkinsCount:6		lat: 23.475223	lng:120.456064	Category:4f4533804b9074f6e4fb0105
+Name:"爭鮮迴轉壽司 | 嘉義店"		checkinsCount:8		lat: 23.475714	lng:120.454243	Category:4bf58dd8d48988d1d2941735
+Name:"垂楊路雞肉飯"		checkinsCount:30		lat: 23.47444417382764	lng:120.45736303829344	Category:4bf58dd8d48988d145941735
+Name:"大慶平價海鮮料理屋"		checkinsCount:32		lat: 23.47449580893977	lng:120.45726178375055	Category:4bf58dd8d48988d1ce941735
+Name:"故鄉牛排館"		checkinsCount:2		lat: 23.475716	lng:120.455136	Category:4bf58dd8d48988d1cc941735
+Name:"全家便利商店-嘉義朝陽店"		checkinsCount:1		lat: 23.47463035583496	lng:120.45745849609375	Category:4d954b0ea243a5684a65b473
+Name:"東石虱目魚料理"		checkinsCount:1		lat: 23.474657	lng:120.457292	Category:52af3b813cf9994f4e043c04
+Name:"上禾亭"		checkinsCount:1		lat: 23.474005	lng:120.454172	Category:4bf58dd8d48988d111941735
+Name:"地瓜園"		checkinsCount:2		lat: 23.4754	lng:120.456	Category:4bf58dd8d48988d1c7941735
+Name:"里仁"		checkinsCount:1		lat: 23.475712584059945	lng:120.45627736042644	Category:4bf58dd8d48988d118951735
+Name:"BRT 民族停車場站"		checkinsCount:2		lat: 23.474339609896003	lng:120.45514104527345	Category:4bf58dd8d48988d1fe931735
+Query No.:129
+Name:"體育館壽司"		checkinsCount:6		lat: 23.47159165312631	lng:120.46041188771878	Category:4bf58dd8d48988d1d2941735
+Name:"原味海產"		checkinsCount:1		lat: 23.472101	lng:120.460914	Category:4bf58dd8d48988d1ce941735
+Name:"豬血湯專賣店"		checkinsCount:1		lat: 23.47213595235236	lng:120.45799306476786	Category:4bf58dd8d48988d145941735
+Query No.:130
+Name:"高雄周燒肉飯"		checkinsCount:5		lat: 23.475901438653956	lng:120.46055814066999	Category:52af3b813cf9994f4e043c04
+Name:"體育館碳烤 Tiyu Guan Seafood & Grill"		checkinsCount:32		lat: 23.474845519063727	lng:120.4604456384146	Category:4bf58dd8d48988d1ce941735
+Name:"總督西餐廳"		checkinsCount:4		lat: 23.474519620821756	lng:120.45961311866307	Category:4bf58dd8d48988d14e941735
+Name:"和平嘉義火雞肉飯"		checkinsCount:6		lat: 23.474807774579624	lng:120.45778493136343	Category:4bf58dd8d48988d145941735
+Name:"千葉火鍋"		checkinsCount:8		lat: 23.474959	lng:120.460956	Category:4bf58dd8d48988d1c4941735
+Name:"紅鼎鐵板燒"		checkinsCount:8		lat: 23.47508536183962	lng:120.4609012719406	Category:4bf58dd8d48988d1df931735
+Name:"黑輪熱狗"		checkinsCount:10		lat: 23.475823	lng:120.458136	Category:4bf58dd8d48988d1cb941735
+Name:"貓王子Prince Cafe"		checkinsCount:10		lat: 23.47481090027122	lng:120.45833057768017	Category:4bf58dd8d48988d16d941735
+Name:"台糖展售中心"		checkinsCount:3		lat: 23.47464079488855	lng:120.45958499290158	Category:4d954b0ea243a5684a65b473
+Name:"京都櫻井家Sakurai House"		checkinsCount:4		lat: 23.474842071533203	lng:120.45867919921875	Category:4bf58dd8d48988d111941735
+Name:"Citibank花旗銀行嘉義分行"		checkinsCount:4		lat: 23.474772	lng:120.459943	Category:4bf58dd8d48988d10a951735
+Name:"郭媽媽小吃"		checkinsCount:1		lat: 23.473941802978516	lng:120.46052551269531	Category:4bf58dd8d48988d147941735
+Name:"伍梨"		checkinsCount:31		lat: 23.474791168028343	lng:120.46029376021353	Category:4bf58dd8d48988d110941735
+Name:"五中A店"		checkinsCount:4		lat: 23.475196297377863	lng:120.45970312105841	Category:4bf58dd8d48988d145941735
+Name:"火雞大王"		checkinsCount:2		lat: 23.475643130933143	lng:120.45752617044471	Category:4bf58dd8d48988d145941735
+Name:"茉莉香氣"		checkinsCount:1		lat: 23.474512	lng:120.457844	Category:4bf58dd8d48988d16d941735
+Name:"全聯福利中心 民國店"		checkinsCount:4		lat: 23.475683	lng:120.460823	Category:4bf58dd8d48988d118951735
+Name:"六條通"		checkinsCount:1		lat: 23.473987781906132	lng:120.45765555096919	Category:4bf58dd8d48988d142941735
+Name:"Mr.Q 窯烤比薩"		checkinsCount:3		lat: 23.474746	lng:120.458134	Category:4bf58dd8d48988d1ca941735
+Name:"新生日本碳烤海鮮"		checkinsCount:1		lat: 23.474771	lng:120.458233	Category:4bf58dd8d48988d1df931735
+Name:"市宅街卡加利"		checkinsCount:5		lat: 23.47443818093902	lng:120.45804369176119	Category:4bf58dd8d48988d11b941735
+Name:"SunIsland Coffee"		checkinsCount:1		lat: 23.473881472707944	lng:120.45785805935473	Category:4bf58dd8d48988d16d941735
+Name:"古早味圓仔冰"		checkinsCount:2		lat: 23.473743	lng:120.460197	Category:4bf58dd8d48988d1c7941735
+Query No.:131
+Name:"台灣民政府雲嘉辦事處"		checkinsCount:12		lat: 23.47059879480547	lng:120.46168878286697	Category:4bf58dd8d48988d126941735
+Name:"勞工育樂中心"		checkinsCount:4		lat: 23.46622834189309	lng:120.4670861363411	Category:4bf58dd8d48988d171941735
+Name:"拉亞漢堡--嘉義彌陀店"		checkinsCount:2		lat: 23.468629	lng:120.466103	Category:4bf58dd8d48988d143941735
+Name:"鱼匠"		checkinsCount:2		lat: 23.466805	lng:120.466714	Category:4bf58dd8d48988d145941735
+Name:"火婆煎粿"		checkinsCount:5		lat: 23.469239820698526	lng:120.46591875894282	Category:4bf58dd8d48988d145941735
+Name:"豪哥豆花"		checkinsCount:2		lat: 23.4699	lng:120.4611	Category:4bf58dd8d48988d1d0941735
+Name:"turkey restaurant"		checkinsCount:2		lat: 23.468368707415372	lng:120.46386003798813	Category:4f04af1f2fb6e1c99f3db0bb
+Name:"阿甘綠茶"		checkinsCount:10		lat: 23.468839453648524	lng:120.46432128434942	Category:4bf58dd8d48988d1e0931735
+Name:"IMC"		checkinsCount:0		lat: 23.469884411146438	lng:120.46110212802887	Category:4bf58dd8d48988d1ff931735
+Name:"草地尾"		checkinsCount:0		lat: 23.46806	lng:120.465	Category:4f2a25ac4b909258e854f55f
+Query No.:133
+Name:"嘉義市立體育場 Chiayi Municipal Stadium"		checkinsCount:38		lat: 23.471944482014667	lng:120.46109815012473	Category:4bf58dd8d48988d187941735
+Name:"國立嘉義高級工業職業學校"		checkinsCount:15		lat: 23.472217397212606	lng:120.46399503709462	Category:4bf58dd8d48988d13d941735
+Name:"嘉義市網球場 Chiayi City Tennis Court"		checkinsCount:28		lat: 23.47302202301519	lng:120.46270691483821	Category:4e39a956bd410d7aed40cbc3
+Name:"堅持健身房 | 嘉義市舉重委員會"		checkinsCount:10		lat: 23.471908806433753	lng:120.46104752433477	Category:4bf58dd8d48988d176941735
+Name:"就是我包子大王"		checkinsCount:4		lat: 23.4717623925846	lng:120.46182940931016	Category:4bf58dd8d48988d145941735
+Name:"新興自行車行"		checkinsCount:1		lat: 23.472064226579505	lng:120.46277046203612	Category:4bf58dd8d48988d115951735
+Name:"嘉義巿立田徑場"		checkinsCount:29		lat: 23.471263	lng:120.46139	Category:4bf58dd8d48988d106941735
+Query No.:134
+Name:"Starbucks 嘉邑門市"		checkinsCount:138		lat: 23.474943565827676	lng:120.46143002980935	Category:4bf58dd8d48988d1e0931735
+Name:"小南便當"		checkinsCount:1		lat: 23.473522	lng:120.463021	Category:4bf58dd8d48988d145941735
+Name:"郭俊鋐診所"		checkinsCount:1		lat: 23.473889	lng:120.462614	Category:4bf58dd8d48988d177941735
+Name:"和康 Wakou Shabu Shabu"		checkinsCount:5		lat: 23.474688778178	lng:120.46126127753448	Category:4bf58dd8d48988d111941735
+Name:"駿美健身中心 Libra Gym"		checkinsCount:119		lat: 23.474337002503898	lng:120.4629994153488	Category:4bf58dd8d48988d176941735
+Name:"小潘作壽司"		checkinsCount:91		lat: 23.47410226307164	lng:120.46302754036283	Category:4bf58dd8d48988d1d2941735
+Name:"四分之\u2014複合式餐飲"		checkinsCount:3		lat: 23.473758046236245	lng:120.46145253009593	Category:4bf58dd8d48988d147941735
+Name:"La New"		checkinsCount:2		lat: 23.474905	lng:120.461326	Category:4bf58dd8d48988d107951735
+Name:"五中A店"		checkinsCount:1		lat: 23.475713	lng:120.463222	Category:4bf58dd8d48988d145941735
+Name:"嘉義市檳榔職業工會"		checkinsCount:23		lat: 23.474498003570705	lng:120.4629487903081	Category:4bf58dd8d48988d124941735
+Name:"一年五季"		checkinsCount:10		lat: 23.474442188346682	lng:120.46400066205429	Category:4bf58dd8d48988d1d3941735
+Name:"嘉義高中雨豆樹下"		checkinsCount:2		lat: 23.474353497289428	lng:120.46301629035796	Category:4bf58dd8d48988d1ab941735
+Name:"卡多卡朵"		checkinsCount:4		lat: 23.474984117032726	lng:120.46190816005108	Category:4bf58dd8d48988d1d0941735
+Name:"嘉義市體育會"		checkinsCount:0		lat: 23.473761800563565	lng:120.46220183372498	Category:4bf58dd8d48988d124941735
+Name:"神農里"		checkinsCount:1		lat: 23.47504451201475	lng:120.461846284473	Category:4f2a25ac4b909258e854f55f
+Name:"曼哈頓大廈"		checkinsCount:0		lat: 23.474061949053656	lng:120.46290993690491	Category:4d954b06a243a5684965b473
+Query No.:135
+Name:"嘉義市政府消防局 | Chiayi City Fire Bureau"		checkinsCount:4		lat: 23.472463	lng:120.467524	Category:4bf58dd8d48988d12c941735
+Name:"芳草里"		checkinsCount:0		lat: 23.471823	lng:120.465632	Category:4f2a25ac4b909258e854f55f
+Query No.:136
+Name:"FLO' pasta fusion cusion"		checkinsCount:1		lat: 23.474193	lng:120.464789	Category:4bf58dd8d48988d110941735
+Name:"財團法人天主教聖馬爾定醫院"		checkinsCount:30		lat: 23.475941324940244	lng:120.46721809862144	Category:4bf58dd8d48988d196941735
+Name:"歐琳達鄉村料理"		checkinsCount:28		lat: 23.474298212560623	lng:120.46544064363066	Category:4bf58dd8d48988d110941735
+Query No.:139
+Name:"外交部雲嘉南辦事處 SW Taiwan Office, Ministry of Foreign Affairs"		checkinsCount:6		lat: 23.476661	lng:120.455163	Category:4bf58dd8d48988d126941735
+Name:"南門楊桃冰"		checkinsCount:15		lat: 23.476683602710203	lng:120.45601297116369	Category:4bf58dd8d48988d112941735
+Name:"嘉義東市場"		checkinsCount:13		lat: 23.4770785700346	lng:120.45576545731853	Category:4bf58dd8d48988d1fa941735
+Name:"琇麗花坊"		checkinsCount:3		lat: 23.476817	lng:120.456341	Category:4bf58dd8d48988d11b951735
+Name:"原味重現 | 阿明雞肉飯"		checkinsCount:7		lat: 23.477167	lng:120.454051	Category:4bf58dd8d48988d147941735
+Name:"黑棟當歸鴨"		checkinsCount:7		lat: 23.477414	lng:120.454489	Category:4bf58dd8d48988d147941735
+Name:"豆花店"		checkinsCount:3		lat: 23.477665	lng:120.454077	Category:4bf58dd8d48988d1d0941735
+Name:"張森榮診所"		checkinsCount:8		lat: 23.477418235864867	lng:120.45630548691173	Category:4bf58dd8d48988d177941735
+Name:"莎士比亞烘焙坊 Boulangerie Shakespeare & Co."		checkinsCount:20		lat: 23.476698	lng:120.45727	Category:4bf58dd8d48988d16a941735
+Name:"光華路鴨肉麵"		checkinsCount:29		lat: 23.477266	lng:120.4547	Category:4bf58dd8d48988d1d1941735
+Name:"85度C"		checkinsCount:9		lat: 23.476830609133902	lng:120.45590609024356	Category:4bf58dd8d48988d1d0941735
+Name:"南門圓環"		checkinsCount:5		lat: 23.4762	lng:120.4558	Category:50be8ee891d4fa8dcc7199a7
+Name:"溫家川味牛肉麵館"		checkinsCount:4		lat: 23.476702081106996	lng:120.45629986161518	Category:4bf58dd8d48988d1d1941735
+Name:"阿汶快炒"		checkinsCount:2		lat: 23.476407	lng:120.456105	Category:4bf58dd8d48988d142941735
+Name:"文化商場生炒鴨肉焿"		checkinsCount:5		lat: 23.476602558984965	lng:120.45700302177863	Category:4bf58dd8d48988d147941735
+Name:"黑人滷熟肉"		checkinsCount:4		lat: 23.476276	lng:120.455899	Category:4bf58dd8d48988d1cb941735
+Name:"文化商場：生炒鴨肉焿"		checkinsCount:6		lat: 23.476703	lng:120.456853	Category:4d4b7105d754a06374d81259
+Name:"帝王食補"		checkinsCount:4		lat: 23.476468	lng:120.4546	Category:4bf58dd8d48988d1dd931735
+Name:"褲子大王 PK Pants Kingdom"		checkinsCount:6		lat: 23.476534809351445	lng:120.45512979457817	Category:4bf58dd8d48988d106951735
+Name:"阿發海鮮站 A-Fa Seafood Station"		checkinsCount:10		lat: 23.478198234050218	lng:120.45745866751065	Category:4bf58dd8d48988d10e951735
+Name:"新陽春藥行"		checkinsCount:3		lat: 23.477806	lng:120.454885	Category:4bf58dd8d48988d10f951735
+Name:"嘉義紅毛井"		checkinsCount:1		lat: 23.477546	lng:120.454558	Category:4bf58dd8d48988d162941735
+Name:"嘉義城隍廟"		checkinsCount:1		lat: 23.478129	lng:120.455161	Category:4bf58dd8d48988d130941735
+Name:"紅毛井 | Hong-mao Well"		checkinsCount:0		lat: 23.478021	lng:120.454497	Category:4fbc1be21983fc883593e321
+Query No.:140
+Name:"劉里長火雞肉飯"		checkinsCount:98		lat: 23.480249936994895	lng:120.45402722166361	Category:4bf58dd8d48988d147941735
+Name:"華南碗粿"		checkinsCount:10		lat: 23.480107	lng:120.45531	Category:4bf58dd8d48988d1c7941735
+Name:"老房子1955"		checkinsCount:9		lat: 23.480310787100386	lng:120.4555606842041	Category:4bf58dd8d48988d16d941735
+Name:"北回水晶餃"		checkinsCount:8		lat: 23.480613708496094	lng:120.4542236328125	Category:4bf58dd8d48988d145941735
+Name:"東門雞肉飯"		checkinsCount:17		lat: 23.47927267755487	lng:120.45698614597976	Category:52af3b813cf9994f4e043c04
+Name:"火婆煎粿"		checkinsCount:3		lat: 23.480601	lng:120.456678	Category:4bf58dd8d48988d143941735
+Name:"東門紅燒鴨肉麵"		checkinsCount:13		lat: 23.480263152522742	lng:120.45666550538023	Category:4bf58dd8d48988d1d1941735
+Name:"嬤嬤嘴小清新坐月子中心"		checkinsCount:6		lat: 23.479574	lng:120.454892	Category:4bf58dd8d48988d128941735
+Name:"道口燒雞"		checkinsCount:1		lat: 23.480613708496094	lng:120.4542236328125	Category:4bf58dd8d48988d145941735
+Name:"阿崇豬肉"		checkinsCount:7		lat: 23.479161	lng:120.455547	Category:4bf58dd8d48988d11d951735
+Name:"Mir's House"		checkinsCount:1		lat: 23.479398727416992	lng:120.45706939697266	Category:4d954b06a243a5684965b473
+Name:"原空軍巿場煎粿"		checkinsCount:5		lat: 23.48081701271648	lng:120.45660925256097	Category:4bf58dd8d48988d143941735
+Name:"天茂農產"		checkinsCount:3		lat: 23.478857	lng:120.457167	Category:4bf58dd8d48988d1fa941735
+Name:"二通672"		checkinsCount:0		lat: 23.479710517872597	lng:120.45716196298599	Category:4bf58dd8d48988d16d941735
+Name:"台灣基督長老教會嘉義東門教會"		checkinsCount:1		lat: 23.480918	lng:120.455531	Category:4bf58dd8d48988d132941735
+Query No.:141
+Name:"劉湯圓"		checkinsCount:23		lat: 23.477447	lng:120.460672	Category:4bf58dd8d48988d1dd931735
+Name:"民主火雞肉飯"		checkinsCount:38		lat: 23.476737682875996	lng:120.45763305001778	Category:4bf58dd8d48988d145941735
+Name:"大同火雞肉飯"		checkinsCount:32		lat: 23.476847416717977	lng:120.45852745980304	Category:4bf58dd8d48988d145941735
+Name:"聖保羅烘焙花園 Saint Paul Pâtisserie"		checkinsCount:19		lat: 23.47679491322932	lng:120.45937686207536	Category:4bf58dd8d48988d16a941735
+Name:"二ㄚ頭涼麵"		checkinsCount:7		lat: 23.476672	lng:120.45754	Category:4bf58dd8d48988d145941735
+Name:"安和街雞肉飯(南門桃城)"		checkinsCount:4		lat: 23.47625732421875	lng:120.45838165283203	Category:4bf58dd8d48988d142941735
+Name:"LAN Coffee"		checkinsCount:4		lat: 23.476685	lng:120.45794	Category:4bf58dd8d48988d1e0931735
+Name:"有甜屋"		checkinsCount:5		lat: 23.47692207303888	lng:120.45956249228797	Category:4bf58dd8d48988d1c9941735
+Name:"向光眼科"		checkinsCount:8		lat: 23.476711253757912	lng:120.45840370536101	Category:4bf58dd8d48988d177941735
+Name:"體育館燒烤"		checkinsCount:2		lat: 23.47665786743164	lng:120.46053314208984	Category:4bf58dd8d48988d1df931735
+Name:"嘉邑玉皇宮"		checkinsCount:2		lat: 23.47776646172635	lng:120.45840933056552	Category:4bf58dd8d48988d13a941735
+Name:"華山木炭行"		checkinsCount:2		lat: 23.476847	lng:120.460893	Category:4bf58dd8d48988d1ff941735
+Name:"六條通"		checkinsCount:9		lat: 23.476969	lng:120.460194	Category:4bf58dd8d48988d111941735
+Name:"48 Home Cafe"		checkinsCount:1		lat: 23.47725486755371	lng:120.45941925048828	Category:4bf58dd8d48988d16d941735
+Name:"東石蚵仔煎"		checkinsCount:4		lat: 23.477453	lng:120.46073	Category:4bf58dd8d48988d1ce941735
+Name:"白面東極品楊桃汁"		checkinsCount:7		lat: 23.476785	lng:120.458484	Category:4bf58dd8d48988d112941735
+Name:"高正川牙醫診所"		checkinsCount:3		lat: 23.476883	lng:120.45924	Category:4bf58dd8d48988d178941735
+Name:"韓城麻辣滷味"		checkinsCount:5		lat: 23.47665	lng:120.457996	Category:4bf58dd8d48988d1cb941735
+Name:"轟炸機"		checkinsCount:6		lat: 23.477603150224294	lng:120.45775680520187	Category:4bf58dd8d48988d115951735
+Name:"張記牛肉麵"		checkinsCount:1		lat: 23.476354	lng:120.460938	Category:4bf58dd8d48988d1d1941735
+Name:"二丫頭"		checkinsCount:2		lat: 23.476747	lng:120.457601	Category:4bf58dd8d48988d1d1941735
+Name:"金園簡餐"		checkinsCount:1		lat: 23.47665135980168	lng:120.4605300151154	Category:4bf58dd8d48988d142941735
+Query No.:142
+Name:"鈺通大飯店 Yuh Tong Hotel"		checkinsCount:112		lat: 23.479752960883616	lng:120.45916873091203	Category:4bf58dd8d48988d1fa931735
+Name:"小伍妹麻辣涼麵"		checkinsCount:6		lat: 23.480619	lng:120.459904	Category:4bf58dd8d48988d1d1941735
+Name:"心宜草堂"		checkinsCount:10		lat: 23.479652	lng:120.460329	Category:4bf58dd8d48988d145941735
+Name:"鈺荷園"		checkinsCount:4		lat: 23.479605	lng:120.458786	Category:4bf58dd8d48988d145941735
+Name:"木頭人"		checkinsCount:9		lat: 23.48075772030655	lng:120.4590281015568	Category:4bf58dd8d48988d16d941735
+Name:"樂朋法義小館"		checkinsCount:5		lat: 23.479616	lng:120.459127	Category:4bf58dd8d48988d110941735
+Name:"樂朋義法創意廚房"		checkinsCount:2		lat: 23.479434967041016	lng:120.45868682861328	Category:4bf58dd8d48988d10c941735
+Name:"貝啡名精緻早餐"		checkinsCount:2		lat: 23.479963	lng:120.459228	Category:4bf58dd8d48988d143941735
+Name:"次郎日本料理"		checkinsCount:4		lat: 23.480008	lng:120.458949	Category:4bf58dd8d48988d111941735
+Name:"鄭炒手"		checkinsCount:5		lat: 23.478801682408406	lng:120.4600125038116	Category:4bf58dd8d48988d145941735
+Name:"松花江東北酸菜鍋"		checkinsCount:16		lat: 23.48041183366678	lng:120.45806619264073	Category:4bf58dd8d48988d1dd931735
+Name:"桃城丸仔麵"		checkinsCount:23		lat: 23.4796043314192	lng:120.45935436142531	Category:4bf58dd8d48988d1d1941735
+Name:"甜心亭"		checkinsCount:4		lat: 23.479612443783974	lng:120.45907310296724	Category:4bf58dd8d48988d16d941735
+Name:"尚鮮虱目魚粥"		checkinsCount:3		lat: 23.480337142944336	lng:120.45767211914062	Category:4bf58dd8d48988d1dd931735
+Name:"小杜吉"		checkinsCount:9		lat: 23.4794791800726	lng:120.45916310574079	Category:4bf58dd8d48988d127951735
+Name:"馨鍋園"		checkinsCount:2		lat: 23.479922	lng:120.459448	Category:4bf58dd8d48988d1dd931735
+Name:"老牌紅燒鴨肉麵"		checkinsCount:7		lat: 23.480245	lng:120.46027	Category:4bf58dd8d48988d1d1941735
+Name:"小東門串燒"		checkinsCount:1		lat: 23.480611	lng:120.457995	Category:4bf58dd8d48988d1df931735
+Name:"次郎日式小吃"		checkinsCount:41		lat: 23.480466809752237	lng:120.45843745658429	Category:4bf58dd8d48988d111941735
+Name:"民國臭豆腐"		checkinsCount:2		lat: 23.4794269868455	lng:120.46035001142005	Category:4bf58dd8d48988d147941735
+Name:"山歸來"		checkinsCount:3		lat: 23.48046541213921	lng:120.4591441154445	Category:4bf58dd8d48988d1dc931735
+Name:"九代"		checkinsCount:3		lat: 23.479744	lng:120.460267	Category:4bf58dd8d48988d108941735
+Name:"小伍妹麻辣涼麵"		checkinsCount:2		lat: 23.479215	lng:120.45843	Category:4bf58dd8d48988d145941735
+Name:"老店經濟小吃"		checkinsCount:1		lat: 23.478753	lng:120.458343	Category:4bf58dd8d48988d1d1941735
+Query No.:144
+Name:"空軍市場 涼拌黑豆干.陽春麵"		checkinsCount:2		lat: 23.482925	lng:120.456116	Category:4bf58dd8d48988d1d1941735
+Name:"順億鮪魚專賣店"		checkinsCount:24		lat: 23.481906	lng:120.456756	Category:4bf58dd8d48988d1d2941735
+Name:"Sarwa Coffee"		checkinsCount:1		lat: 23.483265	lng:120.454928	Category:4bf58dd8d48988d1e0931735
+Name:"安南河粉"		checkinsCount:36		lat: 23.48228004059074	lng:120.45617047972613	Category:4bf58dd8d48988d14a941735
+Name:"九華山地藏庵"		checkinsCount:4		lat: 23.483417559200063	lng:120.45658675142637	Category:4bf58dd8d48988d13a941735
+Name:"O2 歐圖早午餐廚房"		checkinsCount:2		lat: 23.48345184326172	lng:120.45720672607422	Category:4bf58dd8d48988d143941735
+Name:"皇家豆花"		checkinsCount:8		lat: 23.483369	lng:120.454883	Category:4bf58dd8d48988d1c7941735
+Name:"May"		checkinsCount:6		lat: 23.482370598071224	lng:120.45612547729938	Category:4bf58dd8d48988d16d941735
+Name:"廣隆香港茶餐廳"		checkinsCount:9		lat: 23.482154142204873	lng:120.45742491603036	Category:4bf58dd8d48988d145941735
+Name:"85度C 中山店"		checkinsCount:7		lat: 23.482254766769238	lng:120.45749241898213	Category:4bf58dd8d48988d16d941735
+Name:"嘉義巿警察局外事課"		checkinsCount:7		lat: 23.48155950917828	lng:120.45420160882547	Category:4bf58dd8d48988d12e941735
+Name:"栗子小舖"		checkinsCount:16		lat: 23.48194207613613	lng:120.45662612840933	Category:4bf58dd8d48988d110941735
+Name:"嘉義市政府警察局 | Chiayi City Police Burea"		checkinsCount:10		lat: 23.48165917557542	lng:120.45583296114174	Category:4bf58dd8d48988d12e941735
+Name:"行政院雲嘉南區聯合服務中心"		checkinsCount:1		lat: 23.482025044702986	lng:120.45685676478145	Category:4bf58dd8d48988d126941735
+Name:"葉天祐律師事務所"		checkinsCount:2		lat: 23.481645	lng:120.456394	Category:503287a291d4c4b30a586d65
+Name:"長松電器 | 台灣國聯誼會"		checkinsCount:3		lat: 23.481941	lng:120.456976	Category:5032764e91d4c4b30a586d5a
+Name:"大福回收"		checkinsCount:6		lat: 23.481257831500216	lng:120.45643486866491	Category:4f4531084b9074f6e4fb0101
+Name:"采穎私房菜"		checkinsCount:2		lat: 23.481988	lng:120.457462	Category:4bf58dd8d48988d1c4941735
+Name:"yang ming hospital"		checkinsCount:4		lat: 23.481688443850537	lng:120.45534610748291	Category:4bf58dd8d48988d196941735
+Name:"東田髮型"		checkinsCount:22		lat: 23.48197321659168	lng:120.45656987557285	Category:4bf58dd8d48988d110951735
+Name:"卡路里早午餐"		checkinsCount:2		lat: 23.482146	lng:120.457397	Category:4bf58dd8d48988d143941735
+Name:"荒野保護協會嘉義分會"		checkinsCount:1		lat: 23.481407	lng:120.456049	Category:4bf58dd8d48988d130941735
+Name:"東仁里"		checkinsCount:0		lat: 23.481401	lng:120.45469	Category:4f2a25ac4b909258e854f55f
+Query No.:145
+Name:"洪雅書房 Hoanya Books"		checkinsCount:17		lat: 23.48409357574185	lng:120.4541116025779	Category:4bf58dd8d48988d114951735
+Name:"檜町冰食堂"		checkinsCount:1		lat: 23.484712	lng:120.455158	Category:4bf58dd8d48988d1d0941735
+Name:"雲霄古道"		checkinsCount:2		lat: 23.48352	lng:120.455068	Category:4bf58dd8d48988d15f941735
+Name:"嘉大附小"		checkinsCount:3		lat: 23.48507316755688	lng:120.45536043363485	Category:4f4533804b9074f6e4fb0105
+Name:"森林暨自然保育警察隊嘉義分隊"		checkinsCount:6		lat: 23.484198056992817	lng:120.45488790439123	Category:4bf58dd8d48988d12e941735
+Name:"小鋪手作廚房"		checkinsCount:1		lat: 23.484676	lng:120.455243	Category:4bf58dd8d48988d16d941735
+Query No.:147
+Name:"Daisy的雜貨店"		checkinsCount:115		lat: 23.481617588421443	lng:120.45885372094257	Category:4bf58dd8d48988d16d941735
+Name:"綠蓋茶\u2022館"		checkinsCount:5		lat: 23.4821869171204	lng:120.4584655825969	Category:4bf58dd8d48988d1dc931735
+Name:"原型髮砌"		checkinsCount:38		lat: 23.48206014436605	lng:120.4583137020556	Category:4bf58dd8d48988d110951735
+Name:"LATTEA綠蓋茶\u2022館"		checkinsCount:2		lat: 23.482033	lng:120.458896	Category:4bf58dd8d48988d1dc931735
+Name:"嘉義中山路郵局 Chiayi Zhongshan Rd. Post Office"		checkinsCount:40		lat: 23.482016340892304	lng:120.45783555843879	Category:4bf58dd8d48988d172941735
+Name:"野宴日式碳火燒肉"		checkinsCount:16		lat: 23.482079006467046	lng:120.45838120454059	Category:4bf58dd8d48988d1df931735
+Name:"85度c嘉義中山店"		checkinsCount:2		lat: 23.482055	lng:120.45754	Category:4bf58dd8d48988d1d0941735
+Name:"龍瀚文具批發門市部"		checkinsCount:5		lat: 23.482087021184928	lng:120.45873559200494	Category:4bf58dd8d48988d121951735
+Name:"四海遊龍 | Overseas Dragon"		checkinsCount:4		lat: 23.48211484421968	lng:120.45866808970614	Category:4bf58dd8d48988d108941735
+Query No.:148
+Name:"布魯克林"		checkinsCount:43		lat: 23.482902	lng:120.45914	Category:4bf58dd8d48988d110941735
+Name:"KT house"		checkinsCount:1		lat: 23.4823	lng:120.4592	Category:4bf58dd8d48988d1f3941735
+Name:"安樂門街滑板場"		checkinsCount:0		lat: 23.482812881469727	lng:120.45863342285156	Category:4bf58dd8d48988d167941735
+Query No.:149
+Name:"三皇三家 3R3H"		checkinsCount:53		lat: 23.482125070538064	lng:120.46006313000937	Category:4bf58dd8d48988d1c4941735
+Name:"大食館石鍋料理"		checkinsCount:19		lat: 23.482134	lng:120.459871	Category:4bf58dd8d48988d113941735
+Name:"佐登妮絲 | Jourdeness"		checkinsCount:111		lat: 23.48126	lng:120.460077	Category:4bf58dd8d48988d1ed941735
+Name:"楊記牛肉麵"		checkinsCount:171		lat: 23.481335154642586	lng:120.46001812894565	Category:4bf58dd8d48988d1d1941735
+Name:"百冠體育用品社"		checkinsCount:8		lat: 23.481715172167675	lng:120.45997875300199	Category:4bf58dd8d48988d1f2941735
+Name:"飛鳥與貓"		checkinsCount:10		lat: 23.481592	lng:120.460072	Category:4bf58dd8d48988d108951735
+Name:"烘大師中山店"		checkinsCount:36		lat: 23.48145026680295	lng:120.46002375407949	Category:4bf58dd8d48988d16d941735
+Name:"KT House"		checkinsCount:32		lat: 23.482162929239283	lng:120.45947811495188	Category:4bf58dd8d48988d128951735
+Name:"鍾明昌中醫診所"		checkinsCount:15		lat: 23.481333531089025	lng:120.46009688079683	Category:4bf58dd8d48988d177941735
+Name:"老楊"		checkinsCount:2		lat: 23.481324256369387	lng:120.46014188183297	Category:4bf58dd8d48988d16a941735
+Name:"歇腳亭(嘉義新生店)"		checkinsCount:2		lat: 23.48220014126403	lng:120.460946559906	Category:4bf58dd8d48988d1dc931735
+Name:"丸大"		checkinsCount:1		lat: 23.481282	lng:120.459507	Category:4bf58dd8d48988d118951735
+Name:"東噴里"		checkinsCount:0		lat: 23.481959	lng:120.460342	Category:4f2a25ac4b909258e854f55f
+Name:"咖啡人 自家烘焙"		checkinsCount:3		lat: 23.481181	lng:120.46003	Category:4bf58dd8d48988d1e0931735
+Query No.:150
+Name:"NU Pasta"		checkinsCount:30		lat: 23.4823	lng:120.459637	Category:4bf58dd8d48988d110941735
+Name:"賞味屋日式料理"		checkinsCount:27		lat: 23.482432	lng:120.460643	Category:4bf58dd8d48988d111941735
+Name:"三皇三家"		checkinsCount:16		lat: 23.482257	lng:120.459923	Category:4bf58dd8d48988d16d941735
+Name:"烘大師現烘咖啡"		checkinsCount:2		lat: 23.482498168945312	lng:120.46031188964844	Category:4bf58dd8d48988d16d941735
+Name:"50嵐"		checkinsCount:14		lat: 23.4822688367253	lng:120.45951749104893	Category:4bf58dd8d48988d1dc931735
+Name:"仁愛動物醫院"		checkinsCount:22		lat: 23.483103305618343	lng:120.46087877155747	Category:5032897c91d4c4b30a586d69
+Name:"江屋日本料理"		checkinsCount:3		lat: 23.482339	lng:120.459741	Category:4bf58dd8d48988d111941735
+Name:"東平里"		checkinsCount:0		lat: 23.483198	lng:120.460994	Category:4f2a25ac4b909258e854f55f
+Name:"Lovely Dorm"		checkinsCount:0		lat: 23.477094855613306	lng:120.46456596924666	Category:4bf58dd8d48988d103941735
+Query No.:151
+Name:"雄野焼肉屋"		checkinsCount:10		lat: 23.483785483215364	lng:120.45838120454059	Category:4bf58dd8d48988d1df931735
+Name:"美小舖咖啡"		checkinsCount:9		lat: 23.484498282226323	lng:120.45844870699008	Category:4bf58dd8d48988d1e0931735
+Name:"臺灣嘉義監獄"		checkinsCount:40		lat: 23.485921823199337	lng:120.45841495576977	Category:4deefb944765f83613cdba6e
+Name:"Mei café"		checkinsCount:5		lat: 23.484289044894023	lng:120.45852183460373	Category:4bf58dd8d48988d16d941735
+Name:"泰老饕"		checkinsCount:43		lat: 23.483752	lng:120.459124	Category:4bf58dd8d48988d149941735
+Name:"卡菲萊姆"		checkinsCount:3		lat: 23.484727671524908	lng:120.46069314324646	Category:4bf58dd8d48988d149941735
+Name:"Nani 和風洋食"		checkinsCount:13		lat: 23.484416	lng:120.458609	Category:4bf58dd8d48988d142941735
+Name:"米拉貝爾"		checkinsCount:5		lat: 23.484668	lng:120.458496	Category:4bf58dd8d48988d16d941735
+Name:"三禾雞肉飯"		checkinsCount:2		lat: 23.48394024616067	lng:120.46085064607306	Category:4bf58dd8d48988d142941735
+Name:"幸運草"		checkinsCount:2		lat: 23.483705	lng:120.459552	Category:4bf58dd8d48988d16d941735
+Name:"迷客夏 milkshop"		checkinsCount:1		lat: 23.48372459411621	lng:120.46055603027344	Category:4bf58dd8d48988d1dc931735
+Name:"The Little WOOD"		checkinsCount:2		lat: 23.484427	lng:120.458488	Category:4bf58dd8d48988d16d941735
+Name:"天主教嘉義教區聖若望主教座堂"		checkinsCount:20		lat: 23.484072205802427	lng:120.4609518977882	Category:4bf58dd8d48988d181941735
+Name:"方舟麵包 | L'Arche Boulangerie"		checkinsCount:7		lat: 23.483622	lng:120.460947	Category:4bf58dd8d48988d16a941735
+Name:"巴登咖啡"		checkinsCount:3		lat: 23.484986	lng:120.460575	Category:4bf58dd8d48988d16d941735
+Name:"嘉邑福安舘"		checkinsCount:0		lat: 23.48553466796875	lng:120.46064758300781	Category:4bf58dd8d48988d130941735
+Name:"嘉義大學宿舍民國路"		checkinsCount:0		lat: 23.484230041503906	lng:120.4596939086914	Category:5032891291d4c4b30a586d68
+Name:"Egha's Dormitory"		checkinsCount:0		lat: 23.483844757080078	lng:120.45925903320312	Category:5032891291d4c4b30a586d68
+Name:"egha's dormitory"		checkinsCount:0		lat: 23.483844757080078	lng:120.45925903320312	Category:5032891291d4c4b30a586d68
+Query No.:152
+Name:"樂檸漢堡 THEFREEN BURGER"		checkinsCount:4		lat: 23.476909933365643	lng:120.4635394145416	Category:4bf58dd8d48988d16c941735
+Name:"簡單雞肉飯"		checkinsCount:9		lat: 23.47740069135778	lng:120.467960572534	Category:4bf58dd8d48988d147941735
+Name:"老鄰居1911"		checkinsCount:4		lat: 23.47948635298766	lng:120.4612669026139	Category:4bf58dd8d48988d147941735
+Name:"cat's tail"		checkinsCount:3		lat: 23.476995017487592	lng:120.46109815012473	Category:4bf58dd8d48988d16a941735
+Name:"BLESS"		checkinsCount:13		lat: 23.478607224797294	lng:120.46247066393956	Category:4bf58dd8d48988d127951735
+Name:"貓尾巴 | Cat's Tail"		checkinsCount:13		lat: 23.477093	lng:120.461017	Category:4bf58dd8d48988d16a941735
+Name:"Love芙 咖啡.輕食"		checkinsCount:12		lat: 23.477287912238353	lng:120.4618069090896	Category:4bf58dd8d48988d16d941735
+Name:"國立嘉義高級中學 National Chiayi Senior High School"		checkinsCount:61		lat: 23.47693691030965	lng:120.46422003529004	Category:4bf58dd8d48988d13d941735
+Name:"禾擊坊"		checkinsCount:5		lat: 23.478701	lng:120.462911	Category:4bf58dd8d48988d142941735
+Name:"喜田屋麻糬"		checkinsCount:1		lat: 23.476724358750694	lng:120.46355066450064	Category:4bf58dd8d48988d1c7941735
+Name:"半畝田刀削麵"		checkinsCount:8		lat: 23.479861	lng:120.465632	Category:4bf58dd8d48988d1d1941735
+Name:"嘉義市立棒球場"		checkinsCount:3		lat: 23.480782412792514	lng:120.46636312334266	Category:4bf58dd8d48988d1e8941735
+Name:"聖泰旻泰式料理"		checkinsCount:1		lat: 23.477575074308977	lng:120.46460815625076	Category:4bf58dd8d48988d149941735
+Name:"嘉義市二二八紀念公園 Chiayi 228 Memorial Park"		checkinsCount:34		lat: 23.476204513930792	lng:120.46164378237266	Category:4bf58dd8d48988d163941735
+Name:"維欣牙醫"		checkinsCount:8		lat: 23.480248	lng:120.462133	Category:4bf58dd8d48988d178941735
+Name:"BLESS咖啡"		checkinsCount:7		lat: 23.478687	lng:120.462611	Category:4bf58dd8d48988d16d941735
+Name:"黑部拉麵"		checkinsCount:1		lat: 23.476986	lng:120.461209	Category:4bf58dd8d48988d1d1941735
+Name:"萬友進口書局"		checkinsCount:12		lat: 23.479131650457827	lng:120.46264503964484	Category:4bf58dd8d48988d114951735
+Name:"嘉義高中"		checkinsCount:1		lat: 23.4772	lng:120.4665	Category:4bf58dd8d48988d1ab941735
+Name:"居 酒食屋"		checkinsCount:1		lat: 23.476962	lng:120.46588	Category:4bf58dd8d48988d111941735
+Name:"青青。健康\u2022有機店"		checkinsCount:1		lat: 23.478687	lng:120.462611	Category:4bf58dd8d48988d16d941735
+Name:"早上七點咖啡"		checkinsCount:2		lat: 23.480485	lng:120.466988	Category:4bf58dd8d48988d16d941735
+Name:"希康里"		checkinsCount:0		lat: 23.480324	lng:120.46349	Category:4f2a25ac4b909258e854f55f
+Name:"志航里"		checkinsCount:0		lat: 23.477473	lng:120.461618	Category:4f2a25ac4b909258e854f55f
+Name:"Carol's Home"		checkinsCount:0		lat: 23.477094855613306	lng:120.46456596924666	Category:4bf58dd8d48988d103941735
+Query No.:153
+Name:"嘉義公園 Chiayi Park"		checkinsCount:262		lat: 23.48268841554904	lng:120.46382628818935	Category:4bf58dd8d48988d163941735
+Name:"山子頂植物園 Shanzihdig Botanical Garden"		checkinsCount:3		lat: 23.483715	lng:120.466235	Category:52e81612bcbc57f1066b7a22
+Name:"福記麻辣鴛鴦火鍋"		checkinsCount:2		lat: 23.484745	lng:120.464396	Category:52af0bd33cf9994f4e043bdd
+Name:"阿玲煎餃"		checkinsCount:20		lat: 23.48263037641999	lng:120.46232441316549	Category:4bf58dd8d48988d1d1941735
+Name:"浩子的家"		checkinsCount:1		lat: 23.484155	lng:120.461392	Category:4bf58dd8d48988d143941735
+Name:"青山珈啡館"		checkinsCount:4		lat: 23.482675334635477	lng:120.46279129005387	Category:4bf58dd8d48988d145941735
+Name:"史蹟資料館 | Historical Relic Museum"		checkinsCount:30		lat: 23.481247336254963	lng:120.46760058571873	Category:4bf58dd8d48988d190941735
+Name:"曹家牛肉麵"		checkinsCount:14		lat: 23.483711	lng:120.46318	Category:4bf58dd8d48988d1d1941735
+Name:"嘉義公園射日塔"		checkinsCount:32		lat: 23.48144196061799	lng:120.4683824307986	Category:4bf58dd8d48988d12d941735
+Name:"焱鬼鍋燒專門店"		checkinsCount:6		lat: 23.482667	lng:120.462656	Category:4bf58dd8d48988d142941735
+Name:"南洋小館"		checkinsCount:9		lat: 23.4834175544645	lng:120.46299379034528	Category:4bf58dd8d48988d149941735
+Name:"Nokku Cafe"		checkinsCount:2		lat: 23.483316	lng:120.463104	Category:4bf58dd8d48988d16d941735
+Name:"嘉義市棒球場 Chiayi Baseball Field"		checkinsCount:38		lat: 23.481570370984265	lng:120.46438878367798	Category:4bf58dd8d48988d18c941735
+Name:"大眾化點心麵食館"		checkinsCount:3		lat: 23.483881	lng:120.463669	Category:4bf58dd8d48988d145941735
+Name:"天主教聖馬爾定醫院-民權院區"		checkinsCount:2		lat: 23.484045	lng:120.462529	Category:4bf58dd8d48988d196941735
+Name:"國軍嘉義福利品供應站"		checkinsCount:5		lat: 23.484333	lng:120.462423	Category:4bf58dd8d48988d118951735
+Name:"新生海產"		checkinsCount:3		lat: 23.485029	lng:120.461116	Category:4bf58dd8d48988d1ce941735
+Name:"東市場丸子麵"		checkinsCount:1		lat: 23.48558811414106	lng:120.46550251747723	Category:4bf58dd8d48988d147941735
+Name:"金鷹餐廳"		checkinsCount:1		lat: 23.48370361328125	lng:120.46337127685547	Category:4bf58dd8d48988d14e941735
+Name:"敦煌書局 Caves Books"		checkinsCount:21		lat: 23.484381900303877	lng:120.46496252653837	Category:4bf58dd8d48988d114951735
+Name:"清悠"		checkinsCount:1		lat: 23.482524	lng:120.461532	Category:4bf58dd8d48988d16d941735
+Name:"嘉義公園捐血車上"		checkinsCount:1		lat: 23.4824	lng:120.464	Category:4bf58dd8d48988d163941735
+Name:"孔子廟 Confucius Temple"		checkinsCount:10		lat: 23.482565433720875	lng:120.46630124991079	Category:4bf58dd8d48988d13a941735
+Name:"火焰山牛排"		checkinsCount:1		lat: 23.483707427978516	lng:120.46416473388672	Category:4bf58dd8d48988d1cc941735
+Name:"BRT 嘉義公園站 | BRT Chiayi Park Station"		checkinsCount:0		lat: 23.482647874872235	lng:120.4635778069496	Category:4bf58dd8d48988d1fe931735
+Name:"賣私咖啡"		checkinsCount:0		lat: 23.48109802129111	lng:120.46156883239745	Category:4bf58dd8d48988d16d941735
+Name:"Simple Cafe"		checkinsCount:1		lat: 23.483998	lng:120.463057	Category:4bf58dd8d48988d1e0931735
+Name:"嘉義神社 Kagi Shrine"		checkinsCount:1		lat: 23.48198365413908	lng:120.46277046203612	Category:4eb1d80a4b900d56c88a45ff
+Name:"䔥正誠診所"		checkinsCount:0		lat: 23.481098	lng:120.461569	Category:4bf58dd8d48988d196941735
+querycnt:153	valid_query:115	venuecnt:1348

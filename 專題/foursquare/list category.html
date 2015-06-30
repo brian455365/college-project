@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Place searches</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+	  
+    </style>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	
+	<script>
+
+location_array=[];	
+category_id=[];
+parent_set=[];
+child_set=[];
+$(document).ready(function() {
+	$("#button_test").click(function() {	
+		$.ajax({
+            	url: "https://api.foursquare.com/v2/venues/categories?oauth_token=QSOXXGB55LGVWYV5ALYP1ZA45JBBTGC51R5BWA5GWXM45PXF&v=20141030",
+				type:"GET",
+         	    dataType:'text',
+          		success: function(msg){
+					var cart = String(msg);
+					var obj = JSON.parse(cart);
+					//$("body").append(cart);
+					//alert(obj["response"].venues[0].id);
+					//alert(obj["response"].venues[0].categories[0].name);
+					//alert(obj["response"].venues.length);
+					var lat=0,lng=0;
+					
+					
+					//$("body").append(obj["response"].categories[0].categories[1].id +"<br>");
+					var count=0;
+					for(var i=0; i<obj["response"].categories.length; i++){
+						//$("body").append("parent_set.append(\"" + obj["response"].categories[i].id + "\");" +"<br>");
+						
+						$("body").append(obj["response"].categories[i].id + "<br>");
+						//$("body").append(obj["response"].categories[i].name +"<br>");
+						
+						//$("body").append("child_set[" + i + "]" + ".push(\"" + obj["response"].categories[i].id + "\");" +"<br>");
+						
+						
+						count++;
+						for(var j=0; j<obj["response"].categories[i].categories.length; j++){
+							$("body").append(obj["response"].categories[i].categories[j].id +"<br>");
+							
+							
+							
+							//$("body").append("child_set[" + i + "]" + ".push(\"" + obj["response"].categories[i].categories[j].id + "\");" +"<br>");	
+							//$("body").append(obj["response"].categories[i].categories[j].name +"<br>");	
+							
+							
+							
+							
+							count++;
+							if(typeof(obj["response"].categories[i].categories[j].categories[0])==="undefined");
+							else{
+								for(var k=0; k<obj["response"].categories[i].categories[j].categories.length; k++){
+									$("body").append(obj["response"].categories[i].categories[j].categories[k].id +"<br>");
+									//$("body").append("child_set[" + i + "]" + ".push(\"" + obj["response"].categories[i].categories[j].categories[k].id + "\");" +"<br>");
+									count++;
+								}
+							}
+							
+						}
+						$("body").append("<br><br>");
+					}
+					alert(count);
+					
+					
+					
+					//for(var i=0; i<obj["response"].venues.length; i++){
+						//$("body").append(obj["response"].venues[i].location.lat + "<br>");
+						//lat = obj["response"].venues[i].location.lat;
+						//lng = obj["response"].venues[i].location.lng;
+						//location_array.push(lat);
+						//location_array.push(lng);
+						//if(typeof(obj["response"].venues[i].categories[0])==="undefined");
+						//else{
+							//$("body").append(obj["response"].venues[i].categories[0].id +"<br>");
+						//	location_array.push(obj["response"].venues[i].categories[0].id);
+						//}
+					//}
+					//for(var i=0; i<location_array.length; i++){
+					//	$("body").append(location_array[i]+"<br>");
+					//}
+           		},
+           		error:function(xhr, ajaxOptions, thrownError){ 
+                		alert(xhr.status); 
+                		alert(thrownError); 
+           		}
+       		 });	 
+	});
+});
+    </script>
+  </head>
+  <body>
+<input id="button_test" type="button">
+  </body>
+</html>

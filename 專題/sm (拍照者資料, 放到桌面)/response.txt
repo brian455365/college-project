@@ -1,0 +1,10 @@
+response1:
+"RecommendCategory:start->8->1->3->8->end"
+
+response2:
+"Choosed Path:StartLatLng:40.647,-73.971&"+
+"venueId:4da90de76a2303012eec2a7c	latlng:40.671359,-73.957709&"+
+"venueId:4b23c164f964a5201b5924e3	latlng:40.66663716875565,-73.95703441657946&"+
+"venueId:4a6c86e5f964a520b8d01fe3	latlng:40.67335042443954,-73.95708033593266&"+
+"venueId:4cc9b2c7d54fa1cd0e203929	latlng:40.67994539490145,-73.9444750638026&+"
+"EndLatLng:40.687,-73.915"

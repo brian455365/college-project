@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Place Autocomplete</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body{
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+      }
+	  
+	  #map-canvas{
+	    height: 100%;
+		width: 100%;
+        margin: 0px;
+        padding: 0px;	  
+	  }
+	  
+	  #panel1 {                  
+	    position: absolute;         
+		top: 16px;              
+        left: 88px; 
+		z-index: 5;	
+		width: 80%;
+		max-width: 80%;     /* when window becomes smaller, dynamically limit the div size to 80% of window size */
+	  }
+	  
+	  #text-input1{  
+        background-color: #fff;
+		border: 1px solid transparent;
+        border-radius: 2px 0 0 2px;
+        padding: 0 11px 0 13px;
+		height: 32px;
+        width: 35%;
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 300;
+        text-overflow: ellipsis;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+      }
+	  
+	  #text-input1:focus {
+        border-color: #4d90fe;
+        padding-left: 14px; 
+      }
+	  
+	  .type-selector {
+	    border: 1px solid transparent;
+        border-radius: 2px 0 0 2px;
+		padding: 5px 11px 0px 11px;
+		height: 32px;
+        color: #fff;
+        background-color: #4d90fe;  
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+      }
+	  
+	  .type-selector label {	
+        font-family: Roboto;
+        font-size: 13px;
+        font-weight: 300;
+      }
+	  
+	  .controls {				
+		float : left;              
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;           
+      }  
+	  
+	  .button{
+	    border: 1px solid transparent;
+        border-radius: 2px 0 0 2px;
+		padding: 5px 11px 0px 11px;
+		height: 32px;
+        color: #fff;
+        background-color: #4d90fe;  
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+		cursor: default;
+	  }
+	  
+	  #picture_assemble{
+      	width:15%;
+		height:100%;
+		overflow:auto;
+		position: absolute;
+		top: 5px;
+		left: 85%;
+		display: none;
+	  }
+	  
+	  .demo{
+	  	width : 100%;
+	  	height : 145px;
+	  }   
+	  
+	  #text_fade{
+	    position: absolute;
+		top: 60px;
+        left: 88px;
+		z-index: 5;
+		visibility: hidden;		
+		background-color: #fff;
+		border: 1px solid transparent;
+        border-radius: 2px 0 0 2px;
+		border-color: #4d90fe;
+        width: 350px;
+        height: 55px;
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 350;
+        text-overflow: ellipsis;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+		cursor: default;
+	  }
+	  
+	  #text_fade div{
+		padding: 5px 11px 5px 13px;
+	  }
+	  
+	  .contextmenu{
+	    position: absolute;
+		z-index: 5;
+		visibility:hidden;
+		background-color:#fff;
+		border: 1px solid transparent;
+        border-radius: 2px 0 0 2px;
+		border-color: #4d90fe;
+		width: 140px;
+		font-family: Roboto;
+        font-size: 15px;
+        font-weight: 350;
+        text-overflow: ellipsis;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+		cursor: default;
+	  }
+	  
+	  .contextmenu div{
+		padding: 5px 11px 5px 13px;
+      }
+	  
+	  #exit{
+	  	position: absolute;
+	  	top: 60px;
+        left: 434px;
+	  	z-index: 5;	
+        visibility: hidden;		
+        border: 1px solid transparent;
+        border-radius: 2px 0 0 2px;
+        background-color: #4d90fe; 
+        height: 55px; 
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+		cursor: default;
+	  }
+	  
+	  #exit img{
+	  	padding: 8px 3px 8px 3px;
+	  }
+	  
+	</style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="lightbox/js/jquery-1.11.0.min.js"></script>
+    <script src="lightbox/js/lightbox.min.js"></script>
+    <link rel="stylesheet" href="lightbox/css/lightbox.css" type="text/css" media="screen" />
+    <script>  
+function LatLngControl(map) {
+  this.setMap(map);
+}
+LatLngControl.prototype = new google.maps.OverlayView();
+LatLngControl.prototype.draw = function() {}; 
+	
+var map;
+var geocoder;
+var directionsDisplay;
+var directionsService = new google.maps.DirectionsService();
+var global_latLngControl;
+function initialize() {
+	geocoder = new google.maps.Geocoder();
+	
+	
+	var mapOptions = {
+		center: new google.maps.LatLng(23.559399393, 120.472163558),
+		zoom: 13,
+	};
+	map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+	
+	
+	directionsDisplay = new google.maps.DirectionsRenderer();
+	directionsDisplay.setMap(map);
+	
+	
+	global_latLngControl = new LatLngControl(map);
+	
+	
+	var input = document.getElementById('text-input1');
+	var options = {
+		componentRestrictions: {country: 'tw'}
+	};
+	var autocomplete = new google.maps.places.Autocomplete(input,options);
+	autocomplete.bindTo('bounds', map);        		// 搜尋"當下地圖"附近的點
+	google.maps.event.addListener(autocomplete, 'place_changed', function(){
+		var place = autocomplete.getPlace();
+		if (!place.geometry) {
+			return;
+		}
+		map.setCenter(place.geometry.location);
+		map.setZoom(17);
+		clearMarker("blue-marker");                     //  clear 之前的 marker
+		setMarker(place.geometry.location,"blue-marker");
+	});
+	function setupClickListener(id, types) {
+		var radioButton = document.getElementById(id);
+		google.maps.event.addDomListener(radioButton, 'click', function() {
+			autocomplete.setTypes(types);
+		});
+	}
+	setupClickListener('changetype-all-1', []);
+	setupClickListener('changetype-establishment-1', ['establishment']);
+	setupClickListener('changetype-geocode-1', ['geocode']);
+	
+	
+	google.maps.event.addListener(map, "rightclick",function(event){
+		showContextMenu(event.latLng);
+	});
+	
+	
+	google.maps.event.addListener(map, 'click', function(event) {	
+		$('.contextmenu').remove();		//   右鍵選單消失
+		fade(event.latLng);             //   左鍵資訊
+		clearMarker("green-marker");
+	});
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+function fade(location){
+	$("#text_fade").css('visibility',"hidden" );
+	$("#exit").css('visibility',"hidden" );
+	$("#text_fade").fadeOut(10);
+	$("#exit").fadeOut(10);
+	$("#text_fade").empty();
+	latlng_text_fade(location);	
+	address_text_fade(location);	
+	$("#text_fade").css('visibility',"visible" );
+	$("#exit").css('visibility',"visible" );
+	$("#text_fade").fadeIn(500);
+	$("#exit").fadeIn(500);
+}
+
+function latlng_text_fade(location){
+	$("#text_fade").append("<div id='inner_fade_text1'>" + location + "</div>");
+	$("#inner_fade_text1").hover(function(){
+		$("#inner_fade_text1").css("background-color","#4d90fe");
+		setMarker(location,"green-pin-marker");
+	},
+	function(){
+		$("#inner_fade_text1").css("background-color","#ffffff");
+		clearMarker("green-pin-marker");
+	});	
+	$("#inner_fade_text1").click(function(){
+		$("#inner_fade_text1").css("background-color","#4169e1");
+		clearMarker("green-pin-marker");
+		setMarker(location,"green-marker");
+	});	
+}
+
+function address_text_fade(location){
+	geocoder.geocode( { 'latLng': location}, function(results, status) {
+		if (status == google.maps.GeocoderStatus.OK) {
+			var address = results[0].formatted_address;
+			$("#text_fade").append("<div id='inner_fade_text2'>" + address + "</div>");
+			if(parseInt(address[0])>=0 && parseInt(address[0])<10){            //  刪除郵遞區號
+				address = address.substring(3, address.length);	
+			}
+			geocoder.geocode( { 'address': address}, function(results, status) {        
+				if (status == google.maps.GeocoderStatus.OK) {
+					$("#inner_fade_text2").hover(function(){
+						$("#inner_fade_text2").css("background-color","#4d90fe");
+						setMarker(results[0].geometry.location,"green-pin-marker");
+					},
+					function(){
+						$("#inner_fade_text2").css("background-color","#ffffff");
+						clearMarker("green-pin-marker");	
+					});
+					$("#inner_fade_text2").click(function(){
+						$("#inner_fade_text2").css("background-color","#4169e1");
+						clearMarker("green-pin-marker");
+						setMarker(results[0].geometry.location,"green-marker");
+					});					
+				} 
+				else {
+					alert('Geocode was not successful for the following reason: ' + status);
+				}
+			});		
+		}
+		else{
+//			alert('Geocode was not successful for the following reason: ' + status);
+			alert("click too quick");
+		}
+	});	
+}
+
+var global_blue_marker = new google.maps.Marker({
+	position: new google.maps.LatLng(0, 0),
+	map: map
+});
+var global_green_marker = [];
+var global_redA_marker = new google.maps.Marker({
+	position: new google.maps.LatLng(0, 0),
+	map: map
+});
+var global_redB_marker = new google.maps.Marker({
+	position: new google.maps.LatLng(0, 0),
+	map: map
+});
+var global_green_pin_marker = new google.maps.Marker({
+	position: new google.maps.LatLng(0, 0),
+	map: map
+});
+var global_address1,global_address2;
+
+function setMarker(location,str){
+	var pic_url;
+	if(str=="blue-marker"){
+		pic_url = "pic1.png";
+	}
+	else if(str=="green-marker"){
+		pic_url = "pic2.png";
+	}
+	else if(str=="red-marker-A"){
+		pic_url = "pic3.png";
+		global_address1 = location;
+	}
+	else if(str=="red-marker-B"){
+		pic_url = "pic4.png";
+		global_address2 = location;
+	}
+	else if(str=="green-pin-marker"){
+		pic_url = "grn-pushpin.png";
+	}	
+	var marker = new google.maps.Marker({
+		position: location,
+		map: map
+	});
+	marker.setIcon({
+		url: pic_url,
+		scaledSize: new google.maps.Size(35, 35)
+	});
+	if(str=="blue-marker"){
+		global_blue_marker = marker;
+	}
+	else if(str=="green-marker"){
+		global_green_marker.push(marker);
+	}
+	else if(str=="red-marker-A"){
+		global_redA_marker = marker;
+	}
+	else if(str=="red-marker-B"){
+		global_redB_marker = marker;
+	}
+	else if(str=="green-pin-marker"){
+		global_green_pin_marker = marker;
+	}
+}
+
+function clearMarker(str) {
+	if(str=="blue-marker"){
+		global_blue_marker.setMap(null);
+	}
+	else if(str=="red-marker-A"){
+		global_redA_marker.setMap(null);
+	}
+	else if(str=="red-marker-B"){
+		global_redB_marker.setMap(null);
+	}
+	else if(str=="green-pin-marker"){
+		global_green_pin_marker.setMap(null);
+	}
+	else if(str=="green-marker"){
+		for (var i = 0; i < global_green_marker.length; i++) {
+			global_green_marker[i].setMap(null);
+		}
+	}
+}
+
+function getCanvasXY(caurrentLatLng){
+    var scale = Math.pow(2, map.getZoom());
+    var nw = new google.maps.LatLng(
+        map.getBounds().getNorthEast().lat(),
+        map.getBounds().getSouthWest().lng()
+    );
+    var worldCoordinateNW = map.getProjection().fromLatLngToPoint(nw);
+    var worldCoordinate = map.getProjection().fromLatLngToPoint(caurrentLatLng);
+    var caurrentLatLngOffset = new google.maps.Point(
+        Math.floor((worldCoordinate.x - worldCoordinateNW.x) * scale),
+        Math.floor((worldCoordinate.y - worldCoordinateNW.y) * scale)
+    );
+    return caurrentLatLngOffset;
+}
+
+function setMenuXY(caurrentLatLng){
+    var mapWidth = $('#map-canvas').width();
+    var mapHeight = $('#map-canvas').height();
+    var menuWidth = $('.contextmenu').width();
+    var menuHeight = $('.contextmenu').height();
+    var clickedPosition = getCanvasXY(caurrentLatLng);
+    var x = clickedPosition.x ;
+    var y = clickedPosition.y ;
+    if((mapWidth - x ) < menuWidth)
+        x = x - menuWidth;
+    if((mapHeight - y ) < menuHeight)
+        y = y - menuHeight;
+    $('.contextmenu').css('left',x  );
+    $('.contextmenu').css('top',y );
+}
+
+function showContextMenu(location) {
+    var contextmenuDir;
+    $('.contextmenu').remove();
+    contextmenuDir = document.createElement("div");
+    contextmenuDir.className  = 'contextmenu';
+    contextmenuDir.innerHTML = "<div id='menu1'>這是起點</div><div id='menu2'>這是終點</div><div id='menu3'>搜尋路徑</div>";
+	$("body").append(contextmenuDir); 	
+	$("#menu1").hover(function(){
+		$("#menu1").css("background-color","#4d90fe");
+	},
+	function(){
+		$("#menu1").css("background-color","#ffffff");
+	});	
+	$("#menu1").click(function(){
+		$("#menu1").css("background-color","#4169e1");
+		clearMarker("red-marker-A");
+		setMarker(location,"red-marker-A");
+	});					
+	$("#menu2").hover(function(){
+		$("#menu2").css("background-color","#4d90fe");
+	},
+	function(){
+		$("#menu2").css("background-color","#ffffff");
+	});	
+	$("#menu2").click(function(){
+		$("#menu2").css("background-color","#4169e1");
+		clearMarker("red-marker-B");
+		setMarker(location,"red-marker-B");
+	});
+	$("#menu3").hover(function(){
+		$("#menu3").css("background-color","#4d90fe");
+	},
+	function(){
+		$("#menu3").css("background-color","#ffffff");
+	});	
+	$("#menu3").click(function(){
+		$("#menu3").css("background-color","#4169e1");
+		calcRoute();
+	});	
+    setMenuXY(location);
+    contextmenuDir.style.visibility = "visible";
+}
+
+function calcRoute() {
+	var start,end;
+	start = global_address1;
+	end = global_address2;
+	var request = {
+		origin:start,
+		destination:end,
+		travelMode: google.maps.TravelMode.DRIVING
+	};
+	directionsService.route(request, function(response, status) {
+		if (status == google.maps.DirectionsStatus.OK) {
+			directionsDisplay.setDirections(response);
+		}
+	});
+}
+
+function limit_region(){  
+  document.getElementById("picture_assemble").innerHTML="";
+	
+  var map_width = $("#map-canvas").width();
+  var map_height =  $("#map-canvas").height();
+  var a = new google.maps.Point(30, map_height-30);
+  var b = new google.maps.Point(map_width-30, 30);
+  var left_down = global_latLngControl.getProjection().fromContainerPixelToLatLng(a);
+  var right_up = global_latLngControl.getProjection().fromContainerPixelToLatLng(b);
+  var left_down_lat = left_down.lat() + "";
+  var left_down_lng = left_down.lng() + "";   
+  var right_up_lat = right_up.lat() + "";
+  var right_up_lng = right_up.lng() + "";
+  show_picture_fov(left_down_lng, left_down_lat, right_up_lng, right_up_lat);
+}
+
+var global_longitude=[];
+var global_latitude=[];
+var global_angle1=[];
+var global_angle2=[];
+var global_distance=[];
+var global_picture_address=[];
+function show_picture_fov(left_down_lng, left_down_lat, right_up_lng, right_up_lat){
+	$.post("HelloServlet", { 
+		query : "2",
+		id : "0",
+		longitude_a : left_down_lng, // 範圍 : 左下 到 右上
+		latitude_a : left_down_lat,
+		longitude_b : right_up_lng,
+		latitude_b : right_up_lat
+	},
+	function(data) {
+		global_longitude=[];
+		global_latitude=[];
+		global_angle1=[];
+		global_angle2=[];
+		global_distance=[];
+		global_picture_address=[];
+		data = data.split(" "); 			   			
+		var address="";
+		var i=0,k=0,longitude=0,latitude=0,see_distance=0,angle=0,direction=0,line_angle1=0,line_angle2=0;
+		var str="";
+		while(i < data.length-1){
+			for(k=0; k<7; k++,i++){
+				if(k==0){
+					longitude = parseFloat(data[i]);		
+					global_longitude.push(longitude);
+				}
+				else if(k==1){
+					latitude = parseFloat(data[i]);
+					global_latitude.push(latitude);
+				}
+				else if(k==2){
+					see_distance = parseFloat(data[i]);
+					global_distance.push(see_distance);
+				}
+				else if(k==3){
+		   			angle = parseFloat(data[i])/2;
+		   		}
+				else if(k==4){
+					direction = parseFloat(data[i]);
+					line_angle1 = direction + angle + 90;
+					line_angle2 = direction - angle + 90;
+					global_angle1.push(line_angle1);
+					global_angle2.push(line_angle2);
+				} 
+				else if(k==5){
+					address = data[i];
+				}
+				else if(k==6){
+					address = address + "%20" +data[i];
+					global_picture_address.push(address);
+				}
+		   	}					
+			str = "<a rel='lightbox[groupedfoto]' href=" + address + ">" + "<img src=" + address + " class='demo' onmouseover='picture_onmouseover(this)' onmouseout='picture_onmouseout()'>";
+			$("#picture_assemble").append(str);
+		}
+		if( document.getElementById("picture_assemble").innerHTML == "" ){
+			$("#picture_assemble").append("<h1>there are no picture available in this region</h1>");
+		}
+	});
+}
+
+var global_picture_marker;
+function picture_onmouseover(abc){			
+  var a = document.getElementsByClassName("demo");
+  var temp;	
+  for(var i=0;i<a.length;i++){
+	  if(abc == a[i]){
+		  temp = i;
+		  break  
+	  }
+  }
+  
+  var location = new google.maps.LatLng(global_latitude[temp], global_longitude[temp]);   
+  draw_a_line(location,global_distance[temp],global_angle1[temp],global_angle2[temp]);   
+  
+  var marker = new google.maps.Marker({
+    position: location,
+    map: map
+  });
+  global_picture_marker = marker;  
+  picture_on_map(location,global_distance[temp],temp);
+}
+
+function picture_onmouseout(){
+  global_picture_marker.setMap(null);
+  global_picture_fov.setMap(null);
+  global_picture_on_map.setMap(null);
+}
+
+var global_picture_fov;
+function draw_a_line(location , radius , angle1, angle2){	  	
+  var spherical = google.maps.geometry.spherical; 
+  var north = spherical.computeOffset(location, radius, angle1);
+  
+  var point=[];
+  point.push(location);
+  point.push(north);
+   
+  var east = spherical.computeOffset(location, radius, angle2); 
+
+  var gap = angle2 - angle1;
+  var calibration = 400;
+  var min_gap = gap / calibration;
+  var temp_angle = angle1;
+  var after_location = 0;
+  var i=0;  
+  for(i=0; i<calibration; i++){
+	  temp_angle = temp_angle + min_gap;	  
+	  after_location = spherical.computeOffset(location, radius, temp_angle);	 	  
+	  point.push(after_location);	  
+  }
+
+  point.push(east);
+  point.push(location);
+  
+  var FOVCoords = [
+	point
+  ];
+                      
+  bermudaTriangle = new google.maps.Polygon({
+    paths: FOVCoords,
+    strokeColor: "#FF0000",
+    strokeOpacity: 0.6,
+    strokeWeight: 1,
+    fillColor: "#FF0000",
+    fillOpacity: 0.2
+  });
+
+  bermudaTriangle.setMap(map);
+  global_picture_fov = bermudaTriangle;
+}
+
+var global_picture_on_map;
+function picture_on_map(location,radius,num){
+  var spherical = google.maps.geometry.spherical; 
+  var on_map_angle = spherical.computeOffset(location, radius, 45);
+  var imageBounds = new google.maps.LatLngBounds(     // 左下 到 右上  
+		  location,
+		  on_map_angle
+  );
+  var te = new google.maps.GroundOverlay(
+		  global_picture_address[num],
+	      imageBounds
+  );
+  te.setMap(map);
+  global_picture_on_map = te;
+}
+
+
+
+
+$(document).ready(function(){
+	$("#text_fade").fadeOut();
+
+	$("#limit-region").hover(function(){
+		$("#limit-region").css("background-color","#4169e1");
+    },
+	function(){
+		$("#limit-region").css("background-color","#4d90fe");
+    });	
+	$("#limit-region").click(function(){
+		$("#limit-region").css("background-color","#000080");
+		limit_region();
+		$("#map-canvas").css("width","85%");
+		$("#picture_assemble").css("display","initial");
+		$("#picture_assemble").animate({left:"85%"});
+		$("#button-A").css("visibility","visibale");
+		$("#button-B").css("visibility","visibale");
+	});
+	
+	$("#button-A").hover(function(){
+		$("#button-A").css("background-color","#4169e1");
+    },
+	function(){
+		$("#button-A").css("background-color","#4d90fe");
+    });	
+	$("#button-A").click(function(){
+		$("#button-A").css("background-color","#000080");
+		$("#map-canvas").css("width","85%");
+		$("#picture_assemble").animate({left:"85%"});
+	});
+	
+	$("#button-B").hover(function(){
+		$("#button-B").css("background-color","#4169e1");
+    },
+	function(){
+		$("#button-B").css("background-color","#4d90fe");
+    });	
+	$("#button-B").click(function(){
+		$("#button-B").css("background-color","#000080");
+		$("#map-canvas").css("width","100%");
+		$("#picture_assemble").animate({left:"100%"});
+	});
+	
+	$("#exit").hover(function(){
+		$("#out").css("display","none");
+		$("#on").css("display","initial");
+		$("#exit").css("background-color","#4169e1");
+    },
+	function(){
+    	$("#on").css("display","none");
+		$("#out").css("display","initial");
+		$("#exit").css("background-color","#4d90fe");
+    });	
+	$("#exit").click(function(){
+		$("#exit").css("background-color","#000080");
+		text_fade
+		$("#text_fade").fadeOut();
+		$("#exit").fadeOut();
+	});
+	
+	var temp_result,judge=0;
+	$("#text-input1").keypress(function(event){ 
+	    if(event.which==13){	  //  按下Enter
+	    	var firstResult = $(".pac-container .pac-item:first").text();	  
+//			alert(firstResult);
+			
+			var half;
+			if( (firstResult.length % 2) == 1){
+				half = (firstResult.length-1)/2;
+			}
+			else{
+				half = firstResult.length/2;
+			}
+			var length=0,max_length=0;
+	    	var i=0,j=0;
+	    	for(j=half; j<firstResult.length; j++){
+	    		if(firstResult[i]==firstResult[j]){
+	    			length++;
+	    			i++;
+	    		}
+	    		else{
+	    			if(max_length < length){
+	    				max_length = length;
+	    			}
+	    			i=0;
+	    			length=0;
+	    		}
+	    	}	    		
+			var result = firstResult.substring(length,firstResult.length);
+			firstResult = result;
+//			alert(firstResult);
+
+            geocoder.geocode({"address":firstResult }, function(results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    var lat = results[0].geometry.location.lat(),
+                        lng = results[0].geometry.location.lng(),
+                        latlng = new google.maps.LatLng(lat, lng);
+						$("#text-input1").val(firstResult);												
+                        map.setCenter(latlng);
+                        map.setZoom(17);
+						clearMarker("blue-marker");           //  clear 之前的 marker
+						setMarker(latlng,"blue-marker");
+						temp_result = firstResult;
+						judge = 1;
+                }
+            });
+        } 
+	    else {
+            $(".pac-container").css("visibility","visible");
+        }
+	});
+	
+	$("body").click(function(){
+		if(judge==1){
+			$("#text-input1").val(temp_result);
+			judge = 0;
+		}
+	});
+});
+	
+	</script>
+  </head>
+  <body>
+	<div id="panel1">	
+		<input id="text-input1" class="controls" type="text" placeholder="Enter an address">						
+		<div class="type-selector controls">
+			<input type="radio" name="type" id="changetype-all-1" checked="checked">
+			<label for="changetype-all-1">All</label>
+			<input type="radio" name="type" id="changetype-establishment-1">
+			<label for="changetype-establishment-1">Establishments</label>
+			<input type="radio" name="type" id="changetype-geocode-1">
+			<label for="changetype-geocode-1">Geocodes</label>
+		</div>	
+		<div id="limit-region" class="button controls" style="margin-left:15px;">
+			<h4 style="margin:0;">limit region</h4>    
+		</div>
+		<div id="button-A" class="button controls" style="margin-left:15px; visibility:hidden;">
+			<h4 style="margin:0;">button A</h4>    
+		</div>
+		<div id="button-B" class="button controls" style="margin-left:15px; visibility:hidden;">
+			<h4 style="margin:0;">button B</h4>    
+		</div>
+	</div>
+	
+    <div id="map-canvas"></div>
+	
+	<div>
+		<div id="text_fade"></div>
+		<div id="exit">
+			<img id="out" src="exit_hover_out.png" width="40px" height="40px">
+			<img id="on" src="exit_hover_on.png" width="40px" height="40px" style="display:none;">
+		</div>
+	</div>
+	
+	<div id="picture_assemble"></div>
+	
+  </body>
+</html>

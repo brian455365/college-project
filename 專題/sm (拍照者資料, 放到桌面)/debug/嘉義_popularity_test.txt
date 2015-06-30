@@ -1,0 +1,10 @@
+Category:0	Popularity :78786.0
+Category:1	Popularity :26844.0
+Category:2	Popularity :1867.0
+Category:3	Popularity :331350.0
+Category:4	Popularity :151076.0
+Category:5	Popularity :388912.0
+Category:6	Popularity :42736.0
+Category:7	Popularity :20201.0
+Category:8	Popularity :108336.0
+Category:9	Popularity :151652.0

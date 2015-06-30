@@ -1,0 +1,21 @@
+0 #SUP: 44
+1 #SUP: 7
+2 #SUP: 4
+3 #SUP: 115
+4 #SUP: 29
+5 #SUP: 59
+6 #SUP: 118
+7 #SUP: 17
+8 #SUP: 88
+9 #SUP: 101
+0 6  #SUP: 7
+3 6  #SUP: 4
+3 8  #SUP: 9
+3 9  #SUP: 12
+4 6  #SUP: 3
+4 8  #SUP: 4
+5 6  #SUP: 5
+5 9  #SUP: 5
+6 8  #SUP: 9
+6 9  #SUP: 9
+8 9  #SUP: 5

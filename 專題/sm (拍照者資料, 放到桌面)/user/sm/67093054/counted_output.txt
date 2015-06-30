@@ -1,0 +1,33 @@
+0 6  #SUP: 4
+0 7  #SUP: 5
+0 8  #SUP: 9
+0 9  #SUP: 6
+1 6  #SUP: 6
+1 8  #SUP: 5
+3 4  #SUP: 11
+3 6  #SUP: 7
+3 7  #SUP: 10
+3 8  #SUP: 13
+3 9  #SUP: 12
+4 7  #SUP: 6
+4 8  #SUP: 9
+4 9  #SUP: 6
+5 6  #SUP: 4
+5 8  #SUP: 7
+5 9  #SUP: 4
+6 7  #SUP: 5
+6 8  #SUP: 23
+6 9  #SUP: 13
+7 8  #SUP: 21
+7 9  #SUP: 13
+8 9  #SUP: 31
+Category:0	count:24
+Category:1	count:11
+Category:2	count:0
+Category:3	count:53
+Category:4	count:21
+Category:5	count:15
+Category:6	count:41
+Category:7	count:34
+Category:8	count:31
+Category:9	count:0

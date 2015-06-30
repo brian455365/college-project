@@ -1,0 +1,766 @@
+photo#2 URL: http://farm6.static.flickr.com/5599/15546971108_11ff2586d2.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99111 latitude=40.751423 accuracy=16] Direction: 112.7800224 Date: 2014:06:23 14:36:38 TAGS: []
+
+photo#3 URL: http://farm6.static.flickr.com/5612/15547575040_125cb9ef05.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99111 latitude=40.751423 accuracy=16] Direction: 118.727451 Date: 2014:06:23 14:36:34 TAGS: []
+
+photo#4 URL: http://farm8.static.flickr.com/7499/15112454014_dffd82d14d.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.96881 latitude=40.130024 accuracy=16] Direction: 296.6401384 Date: 2014:06:23 08:14:23 TAGS: []
+
+photo#5 URL: http://farm8.static.flickr.com/7567/15733964532_3060ed5266.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.0027 latitude=40.166203 accuracy=16] Direction: 54.25393258 Date: 2014:06:22 18:02:42 TAGS: []
+
+photo#6 URL: http://farm6.static.flickr.com/5611/15113032353_c61863abec.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.00264 latitude=40.16622 accuracy=16] Direction: 106.7784431 Date: 2014:06:22 17:52:23 TAGS: []
+
+photo#7 URL: http://farm8.static.flickr.com/7524/15732421325_0e4a3276a5.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.0027 latitude=40.166195 accuracy=16] Direction: 204.4682274 Date: 2014:06:22 16:30:05 TAGS: []
+
+photo#8 URL: http://farm8.static.flickr.com/7547/15546541809_7bdf1d476d.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.0027 latitude=40.166195 accuracy=16] Direction: 206.5773585 Date: 2014:06:22 16:29:57 TAGS: []
+
+photo#9 URL: http://farm4.static.flickr.com/3955/15112454424_3612651655.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.002686 latitude=40.16621 accuracy=16] Direction: 103.7494647 Date: 2014:06:22 12:05:04 TAGS: []
+
+photo#10 URL: http://farm8.static.flickr.com/7505/15733964922_509e417b3f.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.002686 latitude=40.16621 accuracy=16] Direction: 137.7017208 Date: 2014:06:22 12:05:01 TAGS: []
+
+photo#11 URL: http://farm8.static.flickr.com/7528/15733965052_3fd96a75f5.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.0027 latitude=40.16621 accuracy=16] Direction: 176.7329545 Date: 2014:06:22 12:01:41 TAGS: []
+
+photo#12 URL: http://farm4.static.flickr.com/3954/15113032953_3863b237c9.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.00271 latitude=40.166195 accuracy=16] Direction: 221.4889868 Date: 2014:06:22 11:37:42 TAGS: []
+
+photo#13 URL: http://farm8.static.flickr.com/7565/15547576060_4edd9a2990.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.0027 latitude=40.166203 accuracy=16] Direction: 224.6475771 Date: 2014:06:21 14:23:05 TAGS: []
+
+photo#14 URL: http://farm8.static.flickr.com/7520/15547234777_12a3b56bf0.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.002686 latitude=40.166183 accuracy=16] Direction: 223.8586572 Date: 2014:06:21 13:38:08 TAGS: []
+
+photo#15 URL: http://farm6.static.flickr.com/5600/15732422315_392da32302.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.002716 latitude=40.166176 accuracy=16] Direction: 147.499534 Date: 2014:06:21 13:06:34 TAGS: []
+
+photo#16 URL: http://farm8.static.flickr.com/7501/15732422335_94e2be31d8.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.002716 latitude=40.166176 accuracy=16] Direction: 149.4409449 Date: 2014:06:21 13:06:20 TAGS: []
+
+photo#17 URL: http://farm4.static.flickr.com/3953/15732422565_073092d582.jpg User: 71679757@N07 GEO: GeoData[longitude=-75.156975 latitude=39.95293 accuracy=16] Direction: 307.7443609 Date: 2014:06:20 16:31:37 TAGS: []
+
+photo#18 URL: http://farm4.static.flickr.com/3942/15730497831_e3b8e80402.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01743 latitude=38.897373 accuracy=16] Direction: 83.13620072 Date: 2014:06:20 10:09:32 TAGS: []
+
+photo#19 URL: http://farm8.static.flickr.com/7488/15547568380_b5383618cc.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01785 latitude=38.897163 accuracy=16] Direction: 342.41 Date: 2014:06:20 10:08:12 TAGS: []
+
+photo#20 URL: http://farm4.static.flickr.com/3950/15546972688_31091d25ec.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01773 latitude=38.89641 accuracy=16] Direction: 93.62071284 Date: 2014:06:20 10:06:38 TAGS: []
+
+photo#21 URL: http://farm8.static.flickr.com/7543/15113033993_1dc126bcf9.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01778 latitude=38.89637 accuracy=16] Direction: 233.3542857 Date: 2014:06:20 10:06:14 TAGS: []
+
+photo#22 URL: http://farm8.static.flickr.com/7518/15733965802_04611838d9.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.916046 latitude=38.61885 accuracy=16] Direction: 322.1734104 Date: 2014:06:20 07:08:57 TAGS: []
+
+photo#23 URL: http://farm8.static.flickr.com/7541/15547235207_d7495b07b4.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91703 latitude=38.625717 accuracy=16] Direction: 119.6751055 Date: 2014:06:19 21:37:35 TAGS: []
+
+photo#24 URL: http://farm8.static.flickr.com/7531/15708714196_d0c8f8bee2.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91704 latitude=38.62575 accuracy=16] Direction: 121.8268398 Date: 2014:06:19 21:37:25 TAGS: []
+
+photo#25 URL: http://farm8.static.flickr.com/7512/15546973068_89194bb4f8.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91703 latitude=38.62571 accuracy=16] Direction: 119.0717489 Date: 2014:06:19 21:37:20 TAGS: []
+
+photo#26 URL: http://farm4.static.flickr.com/3953/15547235387_d2d55237b5.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91703 latitude=38.62571 accuracy=16] Direction: 200.5092025 Date: 2014:06:19 21:36:22 TAGS: []
+
+photo#27 URL: http://farm8.static.flickr.com/7542/15547227487_6db137c854.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91703 latitude=38.6257 accuracy=16] Direction: 207.4513619 Date: 2014:06:19 21:36:20 TAGS: []
+
+photo#28 URL: http://farm8.static.flickr.com/7477/15730498371_fedea3e35d.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91704 latitude=38.625748 accuracy=16] Direction: 42.66336634 Date: 2014:06:19 21:35:58 TAGS: []
+
+photo#29 URL: http://farm4.static.flickr.com/3949/15708714436_33b871446d.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91703 latitude=38.625706 accuracy=16] Direction: 211.5154639 Date: 2014:06:19 21:35:50 TAGS: []
+
+photo#30 URL: http://farm4.static.flickr.com/3949/15732423105_0537c327a7.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91703 latitude=38.6257 accuracy=16] Direction: 3.046180656 Date: 2014:06:19 21:34:50 TAGS: []
+
+photo#31 URL: http://farm4.static.flickr.com/3953/15730498621_c18109e940.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91704 latitude=38.625748 accuracy=16] Direction: 33.40924092 Date: 2014:06:19 21:34:36 TAGS: []
+
+photo#32 URL: http://farm8.static.flickr.com/7509/15113034603_31af648d99.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91704 latitude=38.62575 accuracy=16] Direction: 106.2860892 Date: 2014:06:19 21:34:18 TAGS: []
+
+photo#33 URL: http://farm9.static.flickr.com/8653/15732414515_9b1ec922e3.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91703 latitude=38.6257 accuracy=16] Direction: 166.8907563 Date: 2014:06:19 21:32:39 TAGS: []
+
+photo#34 URL: http://farm4.static.flickr.com/3946/15547235717_4bcb5fb6fc.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91679 latitude=38.625866 accuracy=16] Direction: 155.0356083 Date: 2014:06:19 18:40:57 TAGS: []
+
+photo#35 URL: http://farm8.static.flickr.com/7560/15732423355_1322c73102.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.916824 latitude=38.625774 accuracy=16] Direction: 343.8889465 Date: 2014:06:19 18:39:55 TAGS: []
+
+photo#36 URL: http://farm4.static.flickr.com/3951/15547577480_298a479046.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.9168 latitude=38.625736 accuracy=16] Direction: 192.4040404 Date: 2014:06:19 18:39:33 TAGS: []
+
+photo#37 URL: http://farm4.static.flickr.com/3952/15733966742_6cd92b9061.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91677 latitude=38.625755 accuracy=16] Direction: 254.7458564 Date: 2014:06:19 18:39:08 TAGS: []
+
+photo#38 URL: http://farm4.static.flickr.com/3951/15546535499_6d482ab464.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91677 latitude=38.625755 accuracy=16] Direction: 249.0039062 Date: 2014:06:19 18:39:05 TAGS: []
+
+photo#39 URL: http://farm6.static.flickr.com/5616/15113034713_d624c96e33.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.91677 latitude=38.62583 accuracy=16] Direction: 291.8362989 Date: 2014:06:19 18:38:34 TAGS: []
+
+photo#40 URL: http://farm8.static.flickr.com/7479/15546973798_d2eb4850e0.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02309 latitude=38.89857 accuracy=16] Direction: 185.4275362 Date: 2014:06:19 12:11:21 TAGS: []
+
+photo#41 URL: http://farm8.static.flickr.com/7556/15546973838_4a95b5ef05.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02309 latitude=38.89857 accuracy=16] Direction: 187.1106719 Date: 2014:06:19 12:10:58 TAGS: []
+
+photo#42 URL: http://farm8.static.flickr.com/7555/15546973888_b6381f6849.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02251 latitude=38.898266 accuracy=16] Direction: 223.1313869 Date: 2014:06:19 12:10:18 TAGS: []
+
+photo#43 URL: http://farm4.static.flickr.com/3947/15733967172_f6f9d56899.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02677 latitude=38.902054 accuracy=16] Direction: 275.1524927 Date: 2014:06:18 19:16:13 TAGS: []
+
+photo#44 URL: http://farm8.static.flickr.com/7565/15733958262_d4c46c0f93.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06044 latitude=38.904945 accuracy=16] Direction: 76.46184739 Date: 2014:06:18 15:09:37 TAGS: []
+
+photo#45 URL: http://farm4.static.flickr.com/3938/15708715336_608b9df3cb.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.060425 latitude=38.904884 accuracy=16] Direction: 72.8746988 Date: 2014:06:18 15:09:35 TAGS: []
+
+photo#46 URL: http://farm4.static.flickr.com/3945/15113035123_5ff19ffe1a.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06449 latitude=38.905144 accuracy=16] Direction: 206.9741379 Date: 2014:06:18 14:09:54 TAGS: []
+
+photo#47 URL: http://farm4.static.flickr.com/3955/15733967332_ce6cf41e5e.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06506 latitude=38.90518 accuracy=16] Direction: 68.07092199 Date: 2014:06:18 14:08:29 TAGS: []
+
+photo#48 URL: http://farm8.static.flickr.com/7476/15730499631_130d9f1474.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06511 latitude=38.905205 accuracy=16] Direction: 287.4494382 Date: 2014:06:18 14:07:56 TAGS: []
+
+photo#49 URL: http://farm4.static.flickr.com/3946/15732424265_d78c0ab7c5.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06747 latitude=38.903347 accuracy=16] Direction: 223.9623116 Date: 2014:06:18 13:45:38 TAGS: []
+
+photo#50 URL: http://farm8.static.flickr.com/7542/15547236447_3c4a568647.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.066605 latitude=38.903145 accuracy=16] Direction: 152.8706897 Date: 2014:06:18 13:43:56 TAGS: []
+
+photo#51 URL: http://farm8.static.flickr.com/7569/15112457074_be24930a80.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.066124 latitude=38.903084 accuracy=16] Direction: 0.01254272461 Date: 2014:06:18 13:42:14 TAGS: []
+
+photo#52 URL: http://farm4.static.flickr.com/3943/15733967482_77eabb9642.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06572 latitude=38.9028 accuracy=16] Direction: 191.9529412 Date: 2014:06:18 13:40:52 TAGS: []
+
+photo#53 URL: http://farm6.static.flickr.com/5606/15547236627_8e4fb2f44d.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06574 latitude=38.902817 accuracy=16] Direction: 200.6315789 Date: 2014:06:18 13:40:35 TAGS: []
+
+photo#54 URL: http://farm8.static.flickr.com/7511/15730500041_5f9307f16f.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06489 latitude=38.90256 accuracy=16] Direction: 218.1005291 Date: 2014:06:18 13:38:59 TAGS: []
+
+photo#55 URL: http://farm8.static.flickr.com/7502/15730500081_1835feb871.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06489 latitude=38.90256 accuracy=16] Direction: 225.3304348 Date: 2014:06:18 13:38:46 TAGS: []
+
+photo#56 URL: http://farm8.static.flickr.com/7562/15113026133_e67507ea78.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06492 latitude=38.902573 accuracy=16] Direction: 207.1563422 Date: 2014:06:18 13:38:38 TAGS: []
+
+photo#57 URL: http://farm6.static.flickr.com/5604/15547236917_ef976ca189.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06485 latitude=38.90259 accuracy=16] Direction: 206.9073482 Date: 2014:06:18 13:38:27 TAGS: []
+
+photo#58 URL: http://farm8.static.flickr.com/7495/15547578830_b378d526f0.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06385 latitude=38.902306 accuracy=16] Direction: 104.5985401 Date: 2014:06:18 13:36:42 TAGS: []
+
+photo#59 URL: http://farm4.static.flickr.com/3944/15732425135_ce6e476643.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06299 latitude=38.902485 accuracy=16] Direction: 243.8508772 Date: 2014:06:18 13:35:03 TAGS: []
+
+photo#60 URL: http://farm4.static.flickr.com/3941/15733968252_89fe358c66.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06017 latitude=38.90117 accuracy=16] Direction: 119.7784431 Date: 2014:06:18 13:28:28 TAGS: []
+
+photo#61 URL: http://farm4.static.flickr.com/3950/15730500761_9fe88e9632.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.06017 latitude=38.90117 accuracy=16] Direction: 117.0065359 Date: 2014:06:18 13:28:25 TAGS: []
+
+photo#62 URL: http://farm6.static.flickr.com/5609/15546975388_847bd061f2.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05911 latitude=38.90081 accuracy=16] Direction: 109.7316017 Date: 2014:06:18 13:26:52 TAGS: []
+
+photo#63 URL: http://farm8.static.flickr.com/7515/15547579150_b8c326419c.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05605 latitude=38.900234 accuracy=16] Direction: 216.9187817 Date: 2014:06:18 13:22:29 TAGS: []
+
+photo#64 URL: http://farm4.static.flickr.com/3946/15733968432_599c027ef6.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05294 latitude=38.899597 accuracy=16] Direction: 94.09947644 Date: 2014:06:18 13:17:28 TAGS: []
+
+photo#65 URL: http://farm8.static.flickr.com/7500/15547237637_7cc79b98b7.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.052864 latitude=38.8996 accuracy=16] Direction: 47.67923729 Date: 2014:06:18 13:17:03 TAGS: []
+
+photo#66 URL: http://farm8.static.flickr.com/7573/15733968562_a26132147e.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.049835 latitude=38.889526 accuracy=16] Direction: 99.45793103 Date: 2014:06:18 12:25:21 TAGS: []
+
+photo#67 URL: http://farm4.static.flickr.com/3939/15546975738_d890098fd0.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05052 latitude=38.889214 accuracy=16] Direction: 301.5556641 Date: 2014:06:18 12:23:38 TAGS: []
+
+photo#68 URL: http://farm6.static.flickr.com/5613/15547237767_27b4d15e82.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05078 latitude=38.88929 accuracy=16] Direction: 301.5447761 Date: 2014:06:18 12:23:16 TAGS: []
+
+photo#69 URL: http://farm4.static.flickr.com/3952/15732425755_ed843fe951.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0509 latitude=38.88918 accuracy=16] Direction: 246.6494024 Date: 2014:06:18 12:22:57 TAGS: []
+
+photo#70 URL: http://farm8.static.flickr.com/7466/15546975888_501479cd9a.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0509 latitude=38.88918 accuracy=16] Direction: 243.2811881 Date: 2014:06:18 12:22:48 TAGS: []
+
+photo#71 URL: http://farm9.static.flickr.com/8624/15732425915_3aa0fe6b89.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.049995 latitude=38.889297 accuracy=16] Direction: 106.4491979 Date: 2014:06:18 12:20:41 TAGS: []
+
+photo#72 URL: http://farm6.static.flickr.com/5613/15733958562_442a7d66b7.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05047 latitude=38.889492 accuracy=16] Direction: 235.3322368 Date: 2014:06:18 12:08:02 TAGS: []
+
+photo#73 URL: http://farm6.static.flickr.com/5606/15113038093_ef129fb20e.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.050385 latitude=38.88954 accuracy=16] Direction: 235.5398773 Date: 2014:06:18 12:07:58 TAGS: []
+
+photo#74 URL: http://farm9.static.flickr.com/8264/15730501071_8545221bba.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05018 latitude=38.889374 accuracy=16] Direction: 359.280543 Date: 2014:06:18 12:07:08 TAGS: []
+
+photo#75 URL: http://farm6.static.flickr.com/5600/15708717316_2fb9bceaa6.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05023 latitude=38.889347 accuracy=16] Direction: 355.7103448 Date: 2014:06:18 12:06:54 TAGS: []
+
+photo#76 URL: http://farm8.static.flickr.com/7567/15732415125_b338d20853.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05005 latitude=38.88912 accuracy=16] Direction: 228.7424 Date: 2014:06:18 12:05:56 TAGS: []
+
+photo#77 URL: http://farm9.static.flickr.com/8139/15547238187_43c37d084d.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05003 latitude=38.889114 accuracy=16] Direction: 229.5730994 Date: 2014:06:18 12:05:45 TAGS: []
+
+photo#78 URL: http://farm6.static.flickr.com/5615/15112458764_17bd0960e6.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05002 latitude=38.889427 accuracy=16] Direction: 281.6290909 Date: 2014:06:18 12:05:01 TAGS: []
+
+photo#79 URL: http://farm6.static.flickr.com/5609/15733969382_3abbe5618d.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.049225 latitude=38.889744 accuracy=16] Direction: 258.2411348 Date: 2014:06:18 12:02:31 TAGS: []
+
+photo#80 URL: http://farm8.static.flickr.com/7555/15730491101_b4ca5015c5.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.05021 latitude=38.891575 accuracy=16] Direction: 192.5824176 Date: 2014:06:18 11:59:02 TAGS: []
+
+photo#81 URL: http://farm4.static.flickr.com/3949/15546976588_ae6bc88ffe.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04833 latitude=38.892414 accuracy=16] Direction: 339.0313725 Date: 2014:06:18 11:55:52 TAGS: []
+
+photo#82 URL: http://farm4.static.flickr.com/3952/15547580370_f3212714d6.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04848 latitude=38.89242 accuracy=16] Direction: 73.65536723 Date: 2014:06:18 11:53:46 TAGS: []
+
+photo#83 URL: http://farm4.static.flickr.com/3950/15733969892_8c75a22b15.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.048386 latitude=38.892357 accuracy=16] Direction: 314.6287129 Date: 2014:06:18 11:53:08 TAGS: []
+
+photo#84 URL: http://farm8.static.flickr.com/7571/15546547109_f80f4306c5.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.023094 latitude=38.89992 accuracy=16] Direction: 323.6690647 Date: 2014:06:17 18:52:01 TAGS: []
+
+photo#85 URL: http://farm4.static.flickr.com/3941/15113037913_d12eb2964c.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.022026 latitude=38.899815 accuracy=16] Direction: 116.2908587 Date: 2014:06:17 18:50:12 TAGS: []
+
+photo#86 URL: http://farm4.static.flickr.com/3950/15113038153_242ff8c006.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02126 latitude=38.900024 accuracy=16] Direction: 267.6633663 Date: 2014:06:17 18:49:19 TAGS: []
+
+photo#87 URL: http://farm8.static.flickr.com/7493/15547239567_633b18275c.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0031 latitude=38.889736 accuracy=16] Direction: 195.630137 Date: 2014:06:17 18:13:50 TAGS: []
+
+photo#88 URL: http://farm8.static.flickr.com/7466/15113038223_68770f7cbc.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.00268 latitude=38.889828 accuracy=16] Direction: 193.8575581 Date: 2014:06:17 18:12:52 TAGS: []
+
+photo#89 URL: http://farm4.static.flickr.com/3956/15546547729_e65a2218f0.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.00268 latitude=38.88981 accuracy=16] Direction: 163.5560748 Date: 2014:06:17 18:12:47 TAGS: []
+
+photo#90 URL: http://farm8.static.flickr.com/7547/15112460554_f8a5d84aab.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.00259 latitude=38.88986 accuracy=16] Direction: 165.0515021 Date: 2014:06:17 18:12:16 TAGS: []
+
+photo#91 URL: http://farm8.static.flickr.com/7570/15730503211_ae63265487.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.99182 latitude=38.889797 accuracy=16] Direction: 71.19804401 Date: 2014:06:17 17:57:40 TAGS: []
+
+photo#92 URL: http://farm8.static.flickr.com/7581/15546548259_36fb8fd154.jpg User: 71679757@N07 GEO: GeoData[longitude=-76.99189 latitude=38.88983 accuracy=16] Direction: 6.379072063 Date: 2014:06:17 17:57:21 TAGS: []
+
+photo#93 URL: http://farm6.static.flickr.com/5616/15547239947_57cb5f233f.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01135 latitude=38.89276 accuracy=16] Direction: 102.5830619 Date: 2014:06:17 17:18:29 TAGS: []
+
+photo#94 URL: http://farm8.static.flickr.com/7571/15732428245_cb540d4153.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01135 latitude=38.89276 accuracy=16] Direction: 107.1810811 Date: 2014:06:17 17:18:19 TAGS: []
+
+photo#95 URL: http://farm4.static.flickr.com/3952/15546978468_6a4f7ebb3a.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01125 latitude=38.89282 accuracy=16] Direction: 104.752381 Date: 2014:06:17 17:17:33 TAGS: []
+
+photo#96 URL: http://farm8.static.flickr.com/7481/15546548529_615f84dee6.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01035 latitude=38.891617 accuracy=16] Direction: 357.4199475 Date: 2014:06:17 17:14:06 TAGS: []
+
+photo#97 URL: http://farm6.static.flickr.com/5608/15546548709_5ed9211d4b.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01035 latitude=38.891617 accuracy=16] Direction: 159.6882129 Date: 2014:06:17 17:13:59 TAGS: []
+
+photo#98 URL: http://farm4.static.flickr.com/3947/15112461234_a647e04a13.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01071 latitude=38.891293 accuracy=16] Direction: 130.2755102 Date: 2014:06:17 17:11:48 TAGS: []
+
+photo#99 URL: http://farm8.static.flickr.com/7546/15113039173_ba7c4c2a9c.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01071 latitude=38.891293 accuracy=16] Direction: 178.6300366 Date: 2014:06:17 17:11:46 TAGS: []
+
+photo#100 URL: http://farm4.static.flickr.com/3949/15547240537_a16fdc4434.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01071 latitude=38.891293 accuracy=16] Direction: 171.7404255 Date: 2014:06:17 17:11:44 TAGS: []
+
+photo#101 URL: http://farm4.static.flickr.com/3949/15730503911_bc660666bb.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01071 latitude=38.891293 accuracy=16] Direction: 169.3829787 Date: 2014:06:17 17:11:42 TAGS: []
+
+photo#102 URL: http://farm4.static.flickr.com/3955/15546548969_ae1f4b8f87.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01242 latitude=38.8903 accuracy=16] Direction: 118.6835165 Date: 2014:06:17 17:08:19 TAGS: []
+
+photo#103 URL: http://farm8.static.flickr.com/7475/15113039313_b273ea05bb.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01316 latitude=38.890064 accuracy=16] Direction: 107.8024194 Date: 2014:06:17 17:06:27 TAGS: []
+
+photo#104 URL: http://farm6.static.flickr.com/5601/15546978998_315ea12d86.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.013214 latitude=38.88989 accuracy=16] Direction: 133.2954876 Date: 2014:06:17 17:05:45 TAGS: []
+
+photo#105 URL: http://farm4.static.flickr.com/3955/15547240707_72bb14055c.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.013214 latitude=38.88989 accuracy=16] Direction: 183.9031008 Date: 2014:06:17 17:05:23 TAGS: []
+
+photo#106 URL: http://farm8.static.flickr.com/7474/15547582780_4a9ae4c926.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01299 latitude=38.890057 accuracy=16] Direction: 40.47361647 Date: 2014:06:17 17:04:28 TAGS: []
+
+photo#107 URL: http://farm4.static.flickr.com/3954/15547241157_8f6631d147.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01292 latitude=38.889812 accuracy=16] Direction: 189.2733333 Date: 2014:06:17 17:03:53 TAGS: []
+
+photo#108 URL: http://farm4.static.flickr.com/3948/15112461884_cd375abc42.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01292 latitude=38.889812 accuracy=16] Direction: 175.7352587 Date: 2014:06:17 17:03:48 TAGS: []
+
+photo#109 URL: http://farm8.static.flickr.com/7466/15113039823_d40a198de0.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01296 latitude=38.889706 accuracy=16] Direction: 12.62332928 Date: 2014:06:17 17:02:32 TAGS: []
+
+photo#110 URL: http://farm6.static.flickr.com/5603/15546549439_07b7d4500e.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.012985 latitude=38.889706 accuracy=16] Direction: 187.8183453 Date: 2014:06:17 17:02:20 TAGS: []
+
+photo#111 URL: http://farm4.static.flickr.com/3947/15730504471_303ce9c4c8.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.012985 latitude=38.889706 accuracy=16] Direction: 185.6373626 Date: 2014:06:17 17:02:14 TAGS: []
+
+photo#112 URL: http://farm8.static.flickr.com/7554/15113040053_965eaa7a5f.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.01283 latitude=38.889767 accuracy=16] Direction: 95.07164179 Date: 2014:06:17 17:01:23 TAGS: []
+
+photo#113 URL: http://farm8.static.flickr.com/7550/15546979618_c8856190b2.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0129 latitude=38.889706 accuracy=16] Direction: 96.70577933 Date: 2014:06:17 17:00:16 TAGS: []
+
+photo#114 URL: http://farm8.static.flickr.com/7549/15730504711_4e1be03355.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0221 latitude=38.889236 accuracy=16] Direction: 211.503876 Date: 2014:06:17 16:42:22 TAGS: []
+
+photo#115 URL: http://farm6.static.flickr.com/5604/15547241497_2c6f9e427e.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02285 latitude=38.88915 accuracy=16] Direction: 200.5835294 Date: 2014:06:17 16:40:32 TAGS: []
+
+photo#116 URL: http://farm9.static.flickr.com/8613/15547241557_8d3c296251.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02285 latitude=38.889183 accuracy=16] Direction: 197.0687285 Date: 2014:06:17 16:40:13 TAGS: []
+
+photo#117 URL: http://farm8.static.flickr.com/7520/15546979908_7db46aa322.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02285 latitude=38.889183 accuracy=16] Direction: 125.1336898 Date: 2014:06:17 16:40:00 TAGS: []
+
+photo#118 URL: http://farm6.static.flickr.com/5602/15708721096_7cef28a4e1.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02255 latitude=38.889183 accuracy=16] Direction: 152.688507 Date: 2014:06:17 16:38:53 TAGS: []
+
+photo#119 URL: http://farm4.static.flickr.com/3956/15546980008_d184f895b5.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02245 latitude=38.889168 accuracy=16] Direction: 235.6462585 Date: 2014:06:17 16:37:39 TAGS: []
+
+photo#120 URL: http://farm4.static.flickr.com/3942/15546549989_7b3d96c6ac.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02243 latitude=38.889175 accuracy=16] Direction: 98.52492669 Date: 2014:06:17 16:37:10 TAGS: []
+
+photo#121 URL: http://farm6.static.flickr.com/5600/15547583620_d40c0e1ef9.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02243 latitude=38.889194 accuracy=16] Direction: 97.47694524 Date: 2014:06:17 16:36:26 TAGS: []
+
+photo#122 URL: http://farm6.static.flickr.com/5608/15730505131_b8c972953d.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.022446 latitude=38.8891 accuracy=16] Direction: 10.4590985 Date: 2014:06:17 16:36:01 TAGS: []
+
+photo#123 URL: http://farm8.static.flickr.com/7464/15733973442_754f7ecdb3.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.022446 latitude=38.8891 accuracy=16] Direction: 352.7052632 Date: 2014:06:17 16:35:49 TAGS: []
+
+photo#124 URL: http://farm9.static.flickr.com/8677/15547242067_16c36bb1a9.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0225 latitude=38.889046 accuracy=16] Direction: 183.3343558 Date: 2014:06:17 16:34:49 TAGS: []
+
+photo#125 URL: http://farm8.static.flickr.com/7566/15547242097_540cac89f3.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.022575 latitude=38.889076 accuracy=16] Direction: 309.8261421 Date: 2014:06:17 16:34:34 TAGS: []
+
+photo#126 URL: http://farm8.static.flickr.com/7545/15547584080_05842c48d5.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.022354 latitude=38.889126 accuracy=16] Direction: 99.41798942 Date: 2014:06:17 16:34:00 TAGS: []
+
+photo#127 URL: http://farm6.static.flickr.com/5610/15547242237_8cf02460e7.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02239 latitude=38.889133 accuracy=16] Direction: 120.1952862 Date: 2014:06:17 16:33:48 TAGS: []
+
+photo#128 URL: http://farm4.static.flickr.com/3937/15112463144_24a5bffe44.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02271 latitude=38.888893 accuracy=16] Direction: 209.0972973 Date: 2014:06:17 16:32:40 TAGS: []
+
+photo#129 URL: http://farm8.static.flickr.com/7544/15546550639_7f4a520e31.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02271 latitude=38.888905 accuracy=16] Direction: 86.76599327 Date: 2014:06:17 16:32:24 TAGS: []
+
+photo#130 URL: http://farm8.static.flickr.com/7514/15730505811_e4a804651b.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02269 latitude=38.888874 accuracy=16] Direction: 346.9844961 Date: 2014:06:17 16:32:02 TAGS: []
+
+photo#131 URL: http://farm4.static.flickr.com/3949/15547584460_271199489b.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02263 latitude=38.88891 accuracy=16] Direction: 187.5193133 Date: 2014:06:17 16:31:31 TAGS: []
+
+photo#132 URL: http://farm8.static.flickr.com/7520/15113041583_ab6a8aeac6.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0226 latitude=38.8889 accuracy=16] Direction: 186.7831858 Date: 2014:06:17 16:30:51 TAGS: []
+
+photo#133 URL: http://farm8.static.flickr.com/7581/15546550869_92a5a4f899.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.022606 latitude=38.888905 accuracy=16] Direction: 0.4173163726 Date: 2014:06:17 16:30:24 TAGS: []
+
+photo#134 URL: http://farm6.static.flickr.com/5597/15113041643_b676decb80.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.022766 latitude=38.88898 accuracy=16] Direction: 270.8647687 Date: 2014:06:17 16:29:17 TAGS: []
+
+photo#135 URL: http://farm4.static.flickr.com/3954/15547243017_7ceafd823f.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02307 latitude=38.889038 accuracy=16] Direction: 348.0627451 Date: 2014:06:17 16:27:26 TAGS: []
+
+photo#136 URL: http://farm4.static.flickr.com/3940/15733974332_36bd4c35a9.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0232 latitude=38.88902 accuracy=16] Direction: 279.8619529 Date: 2014:06:17 16:27:09 TAGS: []
+
+photo#137 URL: http://farm4.static.flickr.com/3942/15547243077_d86668f752.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.023094 latitude=38.889 accuracy=16] Direction: 311.4992968 Date: 2014:06:17 16:26:39 TAGS: []
+
+photo#138 URL: http://farm9.static.flickr.com/8538/15547585030_2d8b13ec4f.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.022736 latitude=38.88902 accuracy=16] Direction: 99.86870897 Date: 2014:06:17 16:25:50 TAGS: []
+
+photo#139 URL: http://farm6.static.flickr.com/5602/15708722616_f569e471bd.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02281 latitude=38.889057 accuracy=16] Direction: 79.72052402 Date: 2014:06:17 16:25:37 TAGS: []
+
+photo#140 URL: http://farm8.static.flickr.com/7543/15708722696_d2a7765d01.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.023094 latitude=38.888855 accuracy=16] Direction: 203.7070707 Date: 2014:06:17 16:24:31 TAGS: []
+
+photo#141 URL: http://farm4.static.flickr.com/3954/15112464064_890ea35b51.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.023094 latitude=38.888985 accuracy=16] Direction: 202.1797753 Date: 2014:06:17 16:24:13 TAGS: []
+
+photo#142 URL: http://farm6.static.flickr.com/5599/15733974902_33f0310bdc.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0232 latitude=38.888916 accuracy=16] Direction: 202.8590909 Date: 2014:06:17 16:23:17 TAGS: []
+
+photo#143 URL: http://farm4.static.flickr.com/3943/15546551619_3dff070a9c.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02323 latitude=38.88895 accuracy=16] Direction: 182.4177632 Date: 2014:06:17 16:23:09 TAGS: []
+
+photo#144 URL: http://farm8.static.flickr.com/7539/15547585410_059bc42066.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.023254 latitude=38.88893 accuracy=16] Direction: 140.2020202 Date: 2014:06:17 16:23:00 TAGS: []
+
+photo#145 URL: http://farm8.static.flickr.com/7467/15730506731_c73bf82d2b.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02325 latitude=38.888912 accuracy=16] Direction: 332.7839506 Date: 2014:06:17 16:21:28 TAGS: []
+
+photo#146 URL: http://farm8.static.flickr.com/7538/15733974972_1d78962b19.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02325 latitude=38.888912 accuracy=16] Direction: 336.3362445 Date: 2014:06:17 16:21:24 TAGS: []
+
+photo#147 URL: http://farm6.static.flickr.com/5614/15547585720_981bc5172d.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0235 latitude=38.889175 accuracy=16] Direction: 188.7333333 Date: 2014:06:17 16:18:52 TAGS: []
+
+photo#148 URL: http://farm4.static.flickr.com/3948/15113042653_6c649a4326.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0235 latitude=38.889175 accuracy=16] Direction: 189.0070922 Date: 2014:06:17 16:18:47 TAGS: []
+
+photo#149 URL: http://farm6.static.flickr.com/5611/15547244017_eefdb62507.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02325 latitude=38.889175 accuracy=16] Direction: 196.1313869 Date: 2014:06:17 16:17:43 TAGS: []
+
+photo#150 URL: http://farm9.static.flickr.com/8271/15546552179_e273153c72.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02316 latitude=38.889164 accuracy=16] Direction: 210.6456693 Date: 2014:06:17 16:17:26 TAGS: []
+
+photo#151 URL: http://farm8.static.flickr.com/7575/15730507191_ffce39bbbe.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02296 latitude=38.889317 accuracy=16] Direction: 222.057554 Date: 2014:06:17 16:15:56 TAGS: []
+
+photo#152 URL: http://farm9.static.flickr.com/8570/15708723416_14ae5f14ff.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02445 latitude=38.889225 accuracy=16] Direction: 95.8840399 Date: 2014:06:17 16:09:21 TAGS: []
+
+photo#153 URL: http://farm8.static.flickr.com/7546/15112464734_188e279c72.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.024796 latitude=38.889133 accuracy=16] Direction: 43.49318801 Date: 2014:06:17 16:07:28 TAGS: []
+
+photo#154 URL: http://farm4.static.flickr.com/3947/15733975612_a9cf4da29b.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.024796 latitude=38.889133 accuracy=16] Direction: 51.80774032 Date: 2014:06:17 16:07:15 TAGS: []
+
+photo#155 URL: http://farm4.static.flickr.com/3947/15708723586_d97fd49631.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02478 latitude=38.889133 accuracy=16] Direction: 41.8882283 Date: 2014:06:17 16:06:51 TAGS: []
+
+photo#156 URL: http://farm8.static.flickr.com/7526/15546982778_716ac937e4.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02478 latitude=38.889133 accuracy=16] Direction: 35.8553616 Date: 2014:06:17 16:06:45 TAGS: []
+
+photo#157 URL: http://farm4.static.flickr.com/3953/15730507691_4efd0c0c1b.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.02472 latitude=38.88908 accuracy=16] Direction: 160.5567568 Date: 2014:06:17 16:06:00 TAGS: []
+
+photo#158 URL: http://farm8.static.flickr.com/7554/15547244487_6f545c9740.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.026024 latitude=38.889282 accuracy=16] Direction: 186.7776484 Date: 2014:06:17 16:04:02 TAGS: []
+
+photo#159 URL: http://farm8.static.flickr.com/7581/15708723776_903686abc1.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.025986 latitude=38.8893 accuracy=16] Direction: 160.3807339 Date: 2014:06:17 16:03:48 TAGS: []
+
+photo#160 URL: http://farm8.static.flickr.com/7569/15546982948_a55e38cf18.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.025986 latitude=38.8893 accuracy=16] Direction: 205.7571059 Date: 2014:06:17 16:03:45 TAGS: []
+
+photo#161 URL: http://farm4.static.flickr.com/3948/15547586480_15e1ee45f9.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.025986 latitude=38.8893 accuracy=16] Direction: 195.6193182 Date: 2014:06:17 16:03:38 TAGS: []
+
+photo#162 URL: http://farm4.static.flickr.com/3950/15730508021_036ae34103.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03435 latitude=38.89385 accuracy=16] Direction: 48.46542056 Date: 2014:06:17 15:42:06 TAGS: []
+
+photo#163 URL: http://farm6.static.flickr.com/5600/15113043533_6b09938ab4.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03441 latitude=38.893875 accuracy=16] Direction: 41.15019763 Date: 2014:06:17 15:36:16 TAGS: []
+
+photo#164 URL: http://farm8.static.flickr.com/7477/15547244947_d015d91093.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03379 latitude=38.894695 accuracy=16] Direction: 181.0041494 Date: 2014:06:17 15:32:37 TAGS: []
+
+photo#165 URL: http://farm8.static.flickr.com/7542/15547586890_f4b1d75320.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03378 latitude=38.898586 accuracy=16] Direction: 73.15534979 Date: 2014:06:17 15:25:05 TAGS: []
+
+photo#166 URL: http://farm8.static.flickr.com/7496/15547245237_59f4c2a831.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03374 latitude=38.898685 accuracy=16] Direction: 189.3976608 Date: 2014:06:17 15:21:10 TAGS: []
+
+photo#167 URL: http://farm6.static.flickr.com/5601/15733976482_02f212d2e4.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.035416 latitude=38.8989 accuracy=16] Direction: 5.465223097 Date: 2014:06:17 15:18:29 TAGS: []
+
+photo#168 URL: http://farm4.static.flickr.com/3954/15730508471_8ae3822727.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.035416 latitude=38.8989 accuracy=16] Direction: 11.00936914 Date: 2014:06:17 15:18:09 TAGS: []
+
+photo#169 URL: http://farm8.static.flickr.com/7583/15733976512_f9b16348c7.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03653 latitude=38.89864 accuracy=16] Direction: 10.35166667 Date: 2014:06:17 15:15:40 TAGS: []
+
+photo#170 URL: http://farm9.static.flickr.com/8580/15546983768_f96a4819f9.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.036575 latitude=38.898567 accuracy=16] Direction: 183.7537688 Date: 2014:06:17 15:14:48 TAGS: []
+
+photo#171 URL: http://farm8.static.flickr.com/7463/15546983848_b4a13c55e4.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0393 latitude=38.898575 accuracy=16] Direction: 129.302521 Date: 2014:06:17 13:56:13 TAGS: []
+
+photo#172 URL: http://farm8.static.flickr.com/7497/15112465964_5a96d7f00b.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03938 latitude=38.898525 accuracy=16] Direction: 197.2711538 Date: 2014:06:17 13:55:42 TAGS: []
+
+photo#173 URL: http://farm6.static.flickr.com/5610/15113044033_9bc29e1fda.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03928 latitude=38.897346 accuracy=16] Direction: 221.3926702 Date: 2014:06:17 13:53:22 TAGS: []
+
+photo#174 URL: http://farm8.static.flickr.com/7508/15547245797_9ae21379d6.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.039314 latitude=38.89615 accuracy=16] Direction: 277.16 Date: 2014:06:17 13:50:40 TAGS: []
+
+photo#175 URL: http://farm8.static.flickr.com/7512/15546983998_66d7be1208.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03943 latitude=38.896008 accuracy=16] Direction: 278.3257143 Date: 2014:06:17 13:50:12 TAGS: []
+
+photo#176 URL: http://farm8.static.flickr.com/7477/15547245877_c9c052aee9.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.038734 latitude=38.896072 accuracy=16] Direction: 12.21693122 Date: 2014:06:17 13:47:02 TAGS: []
+
+photo#177 URL: http://farm8.static.flickr.com/7505/15546553929_6325d42cda.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03653 latitude=38.89513 accuracy=16] Direction: 13.57758331 Date: 2014:06:17 13:41:41 TAGS: []
+
+photo#178 URL: http://farm4.static.flickr.com/3941/15547246067_729c5638c2.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.036545 latitude=38.895134 accuracy=16] Direction: 2.626787583 Date: 2014:06:17 13:41:29 TAGS: []
+
+photo#179 URL: http://farm8.static.flickr.com/7557/15547587590_61d81b32d6.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03641 latitude=38.89513 accuracy=16] Direction: 11.55157438 Date: 2014:06:17 13:40:11 TAGS: []
+
+photo#180 URL: http://farm4.static.flickr.com/3948/15112466464_703880b356.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03641 latitude=38.89513 accuracy=16] Direction: 6.254065041 Date: 2014:06:17 13:40:02 TAGS: []
+
+photo#181 URL: http://farm8.static.flickr.com/7518/15112466504_bf343d06e4.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.036865 latitude=38.8918 accuracy=16] Direction: 3.861991961 Date: 2014:06:17 13:30:01 TAGS: []
+
+photo#182 URL: http://farm8.static.flickr.com/7578/15547587750_f3cf81fcd8.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03662 latitude=38.89176 accuracy=16] Direction: 184.1694444 Date: 2014:06:17 13:28:49 TAGS: []
+
+photo#183 URL: http://farm6.static.flickr.com/5602/15733977382_da1ec46c8d.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.035255 latitude=38.889446 accuracy=16] Direction: 355.944 Date: 2014:06:17 13:22:25 TAGS: []
+
+photo#184 URL: http://farm8.static.flickr.com/7576/15730509441_6bac3bb821.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03528 latitude=38.889595 accuracy=16] Direction: 95.46749226 Date: 2014:06:17 13:18:41 TAGS: []
+
+photo#185 URL: http://farm8.static.flickr.com/7501/15730509561_908a059839.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03523 latitude=38.889565 accuracy=16] Direction: 103.4170213 Date: 2014:06:17 13:18:28 TAGS: []
+
+photo#186 URL: http://farm4.static.flickr.com/3954/15732434215_95893a64ac.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0428 latitude=38.889862 accuracy=16] Direction: 235.3875 Date: 2014:06:17 12:53:58 TAGS: []
+
+photo#187 URL: http://farm8.static.flickr.com/7569/15112467064_e371fcf73b.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04275 latitude=38.889885 accuracy=16] Direction: 245.626087 Date: 2014:06:17 12:53:02 TAGS: []
+
+photo#188 URL: http://farm4.static.flickr.com/3954/15730509721_aa54b4324b.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03952 latitude=38.889412 accuracy=16] Direction: 291.6054422 Date: 2014:06:17 12:43:15 TAGS: []
+
+photo#189 URL: http://farm8.static.flickr.com/7580/15546985068_625a251fe4.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04084 latitude=38.889606 accuracy=16] Direction: 298.8116592 Date: 2014:06:17 12:40:03 TAGS: []
+
+photo#190 URL: http://farm8.static.flickr.com/7497/15112467294_60ba7a1882.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04089 latitude=38.889343 accuracy=16] Direction: 308.5598291 Date: 2014:06:17 12:39:16 TAGS: []
+
+photo#191 URL: http://farm4.static.flickr.com/3949/15546985198_b1b0a9673d.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04089 latitude=38.889313 accuracy=16] Direction: 96.87088608 Date: 2014:06:17 12:39:00 TAGS: []
+
+photo#192 URL: http://farm8.static.flickr.com/7552/15730510201_eb81167f5c.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04089 latitude=38.889313 accuracy=16] Direction: 95.98477157 Date: 2014:06:17 12:38:58 TAGS: []
+
+photo#193 URL: http://farm8.static.flickr.com/7479/15732434615_4a4df769c9.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0409 latitude=38.88931 accuracy=16] Direction: 295.7891566 Date: 2014:06:17 12:38:48 TAGS: []
+
+photo#194 URL: http://farm4.static.flickr.com/3940/15112467424_978081cd55.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04096 latitude=38.889263 accuracy=16] Direction: 261.2889447 Date: 2014:06:17 12:38:46 TAGS: []
+
+photo#195 URL: http://farm4.static.flickr.com/3953/15547589030_6680c15e06.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.040535 latitude=38.888878 accuracy=16] Direction: 349.7912621 Date: 2014:06:17 12:36:54 TAGS: []
+
+photo#196 URL: http://farm4.static.flickr.com/3956/15546555379_5f653cb1d5.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04052 latitude=38.888927 accuracy=16] Direction: 177.2812193 Date: 2014:06:17 12:36:47 TAGS: []
+
+photo#197 URL: http://farm6.static.flickr.com/5604/15113045783_0f6aff0378.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.040535 latitude=38.888924 accuracy=16] Direction: 7.423289183 Date: 2014:06:17 12:36:19 TAGS: []
+
+photo#198 URL: http://farm8.static.flickr.com/7488/15708726416_7ed057146a.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0405 latitude=38.888676 accuracy=16] Direction: 1.19391073 Date: 2014:06:17 12:35:33 TAGS: []
+
+photo#199 URL: http://farm6.static.flickr.com/5604/15113045873_8a5c8d2108.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04088 latitude=38.886852 accuracy=16] Direction: 68.42408377 Date: 2014:06:17 12:29:23 TAGS: []
+
+photo#200 URL: http://farm4.static.flickr.com/3956/15708726576_9b5d3394b4.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04123 latitude=38.886612 accuracy=16] Direction: 337.4394619 Date: 2014:06:17 12:28:20 TAGS: []
+
+photo#201 URL: http://farm4.static.flickr.com/3952/15547589430_c75888e5ba.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04406 latitude=38.886086 accuracy=16] Direction: 56.73735409 Date: 2014:06:17 12:24:26 TAGS: []
+
+photo#202 URL: http://farm8.static.flickr.com/7548/15547589470_699d1e497f.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04406 latitude=38.886086 accuracy=16] Direction: 25.36705202 Date: 2014:06:17 12:24:24 TAGS: []
+
+photo#203 URL: http://farm8.static.flickr.com/7534/15112468224_c763155e4e.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04406 latitude=38.886086 accuracy=16] Direction: 27.47079038 Date: 2014:06:17 12:24:08 TAGS: []
+
+photo#204 URL: http://farm4.static.flickr.com/3947/15112468274_f67d5a952b.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04403 latitude=38.88609 accuracy=16] Direction: 126.8145897 Date: 2014:06:17 12:23:53 TAGS: []
+
+photo#205 URL: http://farm4.static.flickr.com/3938/15112468364_e249b89484.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04403 latitude=38.88609 accuracy=16] Direction: 126.5758242 Date: 2014:06:17 12:23:49 TAGS: []
+
+photo#206 URL: http://farm4.static.flickr.com/3953/15708726986_74847f2d6a.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04436 latitude=38.885986 accuracy=16] Direction: 63.70419426 Date: 2014:06:17 12:23:08 TAGS: []
+
+photo#207 URL: http://farm6.static.flickr.com/5614/15732435845_85800b07e7.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04454 latitude=38.885826 accuracy=16] Direction: 264.1028037 Date: 2014:06:17 12:22:34 TAGS: []
+
+photo#208 URL: http://farm4.static.flickr.com/3946/15730511291_220878c414.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04429 latitude=38.883816 accuracy=16] Direction: 189.5510949 Date: 2014:06:17 12:15:20 TAGS: []
+
+photo#209 URL: http://farm8.static.flickr.com/7501/15546556269_f86f71c0b0.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04412 latitude=38.883743 accuracy=16] Direction: 214.5972222 Date: 2014:06:17 12:14:29 TAGS: []
+
+photo#210 URL: http://farm8.static.flickr.com/7533/15547248447_3432423e91.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.044044 latitude=38.88362 accuracy=16] Direction: 349.3780488 Date: 2014:06:17 12:13:39 TAGS: []
+
+photo#211 URL: http://farm8.static.flickr.com/7514/15708727516_2310c443c8.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04341 latitude=38.88345 accuracy=16] Direction: 244.7849462 Date: 2014:06:17 12:11:33 TAGS: []
+
+photo#212 URL: http://farm8.static.flickr.com/7522/15547248537_2fe7e147af.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04329 latitude=38.883503 accuracy=16] Direction: 145.7900552 Date: 2014:06:17 12:10:40 TAGS: []
+
+photo#213 URL: http://farm8.static.flickr.com/7461/15732436175_95d6043bf4.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.043236 latitude=38.883488 accuracy=16] Direction: 176.7140496 Date: 2014:06:17 12:10:14 TAGS: []
+
+photo#214 URL: http://farm4.static.flickr.com/3938/15112469074_fd52522bd8.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0432 latitude=38.88341 accuracy=16] Direction: 351.9984127 Date: 2014:06:17 12:09:51 TAGS: []
+
+photo#215 URL: http://farm4.static.flickr.com/3943/15546987018_259efda55e.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04322 latitude=38.883434 accuracy=16] Direction: 103.2767176 Date: 2014:06:17 12:09:10 TAGS: []
+
+photo#216 URL: http://farm8.static.flickr.com/7536/15708727746_7c1dec95d8.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04322 latitude=38.883434 accuracy=16] Direction: 41.45334686 Date: 2014:06:17 12:08:58 TAGS: []
+
+photo#217 URL: http://farm4.static.flickr.com/3938/15547248847_8b1a09865a.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04267 latitude=38.88304 accuracy=16] Direction: 258.4949833 Date: 2014:06:17 12:06:47 TAGS: []
+
+photo#218 URL: http://farm8.static.flickr.com/7486/15113047323_5c1707ac66.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.042435 latitude=38.882946 accuracy=16] Direction: 105.0981818 Date: 2014:06:17 12:05:15 TAGS: []
+
+photo#219 URL: http://farm8.static.flickr.com/7490/15546987208_ae9b98c265.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.042465 latitude=38.883053 accuracy=16] Direction: 154.1726619 Date: 2014:06:17 12:04:46 TAGS: []
+
+photo#220 URL: http://farm8.static.flickr.com/7499/15733980182_d555139d5c.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04241 latitude=38.882862 accuracy=16] Direction: 151.9078788 Date: 2014:06:17 12:02:47 TAGS: []
+
+photo#221 URL: http://farm8.static.flickr.com/7581/15547590700_a6c37a4b6a.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04235 latitude=38.88272 accuracy=16] Direction: 208.5025907 Date: 2014:06:17 12:01:25 TAGS: []
+
+photo#222 URL: http://farm6.static.flickr.com/5603/15733980612_365ec408cc.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04209 latitude=38.8829 accuracy=16] Direction: 258.1603053 Date: 2014:06:17 12:00:21 TAGS: []
+
+photo#223 URL: http://farm4.static.flickr.com/3949/15708728366_cfbc53ef66.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.042145 latitude=38.88282 accuracy=16] Direction: 210.3921569 Date: 2014:06:17 11:57:44 TAGS: []
+
+photo#224 URL: http://farm4.static.flickr.com/3940/15546557649_830845fa77.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0414 latitude=38.882553 accuracy=16] Direction: 23.796875 Date: 2014:06:17 11:51:33 TAGS: []
+
+photo#225 URL: http://farm8.static.flickr.com/7464/15730512551_20bd422820.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03647 latitude=38.881363 accuracy=16] Direction: 249.9680851 Date: 2014:06:17 11:37:25 TAGS: []
+
+photo#226 URL: http://farm6.static.flickr.com/5609/15732437285_0532cb6f00.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03648 latitude=38.881355 accuracy=16] Direction: 58.57028112 Date: 2014:06:17 11:36:43 TAGS: []
+
+photo#227 URL: http://farm8.static.flickr.com/7488/15547249747_b0a96af2cc.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0366 latitude=38.881428 accuracy=16] Direction: 158.4929577 Date: 2014:06:17 11:36:17 TAGS: []
+
+photo#228 URL: http://farm8.static.flickr.com/7522/15730512911_bd16128a96.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03666 latitude=38.88136 accuracy=16] Direction: 233.0666349 Date: 2014:06:17 11:35:53 TAGS: []
+
+photo#229 URL: http://farm4.static.flickr.com/3944/15113048433_9ff0a46bd6.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.036804 latitude=38.88139 accuracy=16] Direction: 317.7786885 Date: 2014:06:17 11:33:38 TAGS: []
+
+photo#230 URL: http://farm8.static.flickr.com/7476/15708729016_da2143dd31.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03647 latitude=38.881535 accuracy=16] Direction: 219.8908046 Date: 2014:06:17 11:32:20 TAGS: []
+
+photo#231 URL: http://farm8.static.flickr.com/7483/15547591760_2a149b4a85.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.0365 latitude=38.88202 accuracy=16] Direction: 347.4929577 Date: 2014:06:17 11:30:44 TAGS: []
+
+photo#232 URL: http://farm8.static.flickr.com/7533/15546558319_ba7480b3d8.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.03668 latitude=38.882122 accuracy=16] Direction: 184.4253731 Date: 2014:06:17 11:29:38 TAGS: []
+
+photo#233 URL: http://farm8.static.flickr.com/7523/15732437885_1b51355c00.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.038895 latitude=38.879467 accuracy=16] Direction: 132.0092166 Date: 2014:06:17 11:20:49 TAGS: []
+
+photo#234 URL: http://farm8.static.flickr.com/7566/15730493641_6aa251e8b6.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.038895 latitude=38.87948 accuracy=16] Direction: 119.6851852 Date: 2014:06:17 11:19:54 TAGS: []
+
+photo#235 URL: http://farm4.static.flickr.com/3951/15112470644_51acd9631b.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04718 latitude=38.884 accuracy=16] Direction: 279.7473684 Date: 2014:06:17 11:05:02 TAGS: []
+
+photo#236 URL: http://farm4.static.flickr.com/3941/15546558419_8d65700b50.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04984 latitude=38.886723 accuracy=16] Direction: 281.797546 Date: 2014:06:17 10:51:41 TAGS: []
+
+photo#237 URL: http://farm9.static.flickr.com/8594/15546988728_a612cf1590.jpg User: 71679757@N07 GEO: GeoData[longitude=-77.04983 latitude=38.88672 accuracy=16] Direction: 284.3884892 Date: 2014:06:17 10:51:28 TAGS: []
+
+photo#238 URL: http://farm4.static.flickr.com/3942/15547230887_537d3414be.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99024 latitude=40.74765 accuracy=16] Direction: 100.2421525 Date: 2014:06:15 17:18:56 TAGS: []
+
+photo#239 URL: http://farm6.static.flickr.com/5611/15732438095_fbe76b20a9.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.89663 latitude=40.93868 accuracy=16] Direction: 297.0841584 Date: 2014:06:14 20:52:28 TAGS: []
+
+photo#240 URL: http://farm8.static.flickr.com/7571/15112470904_77af767c74.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.89665 latitude=40.938877 accuracy=16] Direction: 62.13141026 Date: 2014:06:14 20:50:57 TAGS: []
+
+photo#241 URL: http://farm4.static.flickr.com/3952/15113048883_76a0c8ea11.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.89692 latitude=40.938866 accuracy=16] Direction: 41.92880259 Date: 2014:06:14 16:54:40 TAGS: []
+
+photo#242 URL: http://farm4.static.flickr.com/3953/15733961762_8368231def.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.89643 latitude=40.9386 accuracy=16] Direction: 65.63513514 Date: 2014:06:14 16:05:10 TAGS: []
+
+photo#243 URL: http://farm8.static.flickr.com/7469/15546988948_ee9275898d.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.89643 latitude=40.9386 accuracy=16] Direction: 65.6953405 Date: 2014:06:14 16:05:05 TAGS: []
+
+photo#244 URL: http://farm8.static.flickr.com/7514/15546988978_b206678af3.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.896645 latitude=40.93902 accuracy=16] Direction: 115.4622093 Date: 2014:06:14 15:47:31 TAGS: []
+
+photo#245 URL: http://farm4.static.flickr.com/3953/15112471104_7815da6a8d.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98441 latitude=40.759964 accuracy=16] Direction: 348.9260274 Date: 2014:06:14 12:55:16 TAGS: []
+
+photo#246 URL: http://farm8.static.flickr.com/7573/15730513801_26550ac860.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98437 latitude=40.759933 accuracy=16] Direction: 336.8670213 Date: 2014:06:14 12:55:08 TAGS: []
+
+photo#247 URL: http://farm4.static.flickr.com/3956/15733982232_5fb1618856.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98468 latitude=40.7599 accuracy=16] Direction: 46.11160714 Date: 2014:06:14 12:54:29 TAGS: []
+
+photo#248 URL: http://farm4.static.flickr.com/3942/15112451294_10875f789b.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98459 latitude=40.759865 accuracy=16] Direction: 6.477591036 Date: 2014:06:14 12:54:21 TAGS: []
+
+photo#249 URL: http://farm4.static.flickr.com/3947/15732438505_ae9fe4ac3e.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.973976 latitude=40.763016 accuracy=16] Direction: 325.4283747 Date: 2014:06:14 11:50:26 TAGS: []
+
+photo#250 URL: http://farm4.static.flickr.com/3943/15730513961_9eb341ccd7.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97384 latitude=40.76216 accuracy=16] Direction: 7.958735733 Date: 2014:06:14 11:50:01 TAGS: []
+
+photo#251 URL: http://farm8.static.flickr.com/7468/15546559159_40ce618ede.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99125 latitude=40.74817 accuracy=16] Direction: 253.3630573 Date: 2014:06:14 10:21:35 TAGS: []
+
+photo#252 URL: http://farm6.static.flickr.com/5597/15547592770_74917e24a2.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99133 latitude=40.74821 accuracy=16] Direction: 258.7366864 Date: 2014:06:14 10:19:55 TAGS: []
+
+photo#253 URL: http://farm6.static.flickr.com/5603/15113049603_3f844e27ce.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99029 latitude=40.73467 accuracy=16] Direction: 183.7255278 Date: 2014:06:13 16:29:47 TAGS: []
+
+photo#254 URL: http://farm4.static.flickr.com/3943/15113049543_aea11e6557.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99003 latitude=40.734577 accuracy=16] Direction: 218.3031496 Date: 2014:06:13 16:29:04 TAGS: []
+
+photo#255 URL: http://farm4.static.flickr.com/3956/15112471844_8e245e6490.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99011 latitude=40.73517 accuracy=16] Direction: 86.97497497 Date: 2014:06:13 16:27:01 TAGS: []
+
+photo#256 URL: http://farm8.static.flickr.com/7504/15733982862_6b98a16f16.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98912 latitude=40.74175 accuracy=16] Direction: 44.04591837 Date: 2014:06:13 16:07:07 TAGS: []
+
+photo#257 URL: http://farm4.static.flickr.com/3940/15733982882_df6dc8fa4b.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.989105 latitude=40.74173 accuracy=16] Direction: 57.68484043 Date: 2014:06:13 16:06:46 TAGS: []
+
+photo#258 URL: http://farm6.static.flickr.com/5608/15547593050_fa28e184e8.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98925 latitude=40.742065 accuracy=16] Direction: 77.89532294 Date: 2014:06:13 15:44:26 TAGS: []
+
+photo#259 URL: http://farm8.static.flickr.com/7468/15708730356_2f4d036d2a.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.989235 latitude=40.74213 accuracy=16] Direction: 205.4695122 Date: 2014:06:13 15:44:02 TAGS: []
+
+photo#260 URL: http://farm4.static.flickr.com/3940/15733983042_637e296b0d.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98502 latitude=40.74797 accuracy=16] Direction: 194.4994193 Date: 2014:06:13 15:02:43 TAGS: []
+
+photo#261 URL: http://farm6.static.flickr.com/5616/15732418565_02c874859c.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98498 latitude=40.748093 accuracy=16] Direction: 247.8965922 Date: 2014:06:13 15:00:26 TAGS: []
+
+photo#262 URL: http://farm4.static.flickr.com/3944/15546989928_966b9205ca.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.9781 latitude=40.75084 accuracy=16] Direction: 42.85125858 Date: 2014:06:13 14:40:35 TAGS: []
+
+photo#263 URL: http://farm6.static.flickr.com/5614/15112472204_47b9f5a6d3.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.9758 latitude=40.751717 accuracy=16] Direction: 235.3022727 Date: 2014:06:13 14:05:29 TAGS: []
+
+photo#264 URL: http://farm4.static.flickr.com/3943/15733983132_fe04f05158.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97523 latitude=40.751465 accuracy=16] Direction: 144.473262 Date: 2014:06:13 14:05:02 TAGS: []
+
+photo#265 URL: http://farm6.static.flickr.com/5599/15732439465_c6c5bbb98e.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97506 latitude=40.751698 accuracy=16] Direction: 155.3383838 Date: 2014:06:13 14:04:24 TAGS: []
+
+photo#266 URL: http://farm6.static.flickr.com/5607/15113050163_e58cab13ba.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97509 latitude=40.75173 accuracy=16] Direction: 147.9827586 Date: 2014:06:13 14:04:04 TAGS: []
+
+photo#267 URL: http://farm8.static.flickr.com/7503/15113029643_4296f98be9.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.975006 latitude=40.75178 accuracy=16] Direction: 315.3332214 Date: 2014:06:13 14:03:11 TAGS: []
+
+photo#268 URL: http://farm8.static.flickr.com/7495/15113050263_6f5fbec75b.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97728 latitude=40.758835 accuracy=16] Direction: 312.8538012 Date: 2014:06:13 12:49:09 TAGS: []
+
+photo#269 URL: http://farm4.static.flickr.com/3951/15546560049_a498283aba.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97728 latitude=40.758835 accuracy=16] Direction: 311.7932203 Date: 2014:06:13 12:49:03 TAGS: []
+
+photo#270 URL: http://farm4.static.flickr.com/3943/15547231577_61323e6501.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97829 latitude=40.75853 accuracy=16] Direction: 329.4206349 Date: 2014:06:13 12:27:34 TAGS: []
+
+photo#271 URL: http://farm6.static.flickr.com/5603/15546560109_5aa4d12540.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.9782 latitude=40.75857 accuracy=16] Direction: 326.5220588 Date: 2014:06:13 12:27:19 TAGS: []
+
+photo#272 URL: http://farm4.static.flickr.com/3937/15112472664_b0676625da.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97826 latitude=40.7587 accuracy=16] Direction: 326.167147 Date: 2014:06:13 12:25:31 TAGS: []
+
+photo#273 URL: http://farm8.static.flickr.com/7522/15112472694_39e48ab171.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97837 latitude=40.75871 accuracy=16] Direction: 319.0792683 Date: 2014:06:13 12:25:26 TAGS: []
+
+photo#274 URL: http://farm6.static.flickr.com/5615/15112451624_743edb81f4.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.979774 latitude=40.75523 accuracy=16] Direction: 87.17207792 Date: 2014:06:13 12:18:50 TAGS: []
+
+photo#275 URL: http://farm8.static.flickr.com/7571/15113050683_078ba0f6c7.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97959 latitude=40.75525 accuracy=16] Direction: 149.8613139 Date: 2014:06:13 12:18:39 TAGS: []
+
+photo#276 URL: http://farm8.static.flickr.com/7572/15112473024_e901785e61.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97909 latitude=40.75618 accuracy=16] Direction: 62.04640371 Date: 2014:06:13 12:17:23 TAGS: []
+
+photo#277 URL: http://farm4.static.flickr.com/3953/15730515521_babc54c079.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97916 latitude=40.755928 accuracy=16] Direction: 57.2908971 Date: 2014:06:13 12:17:16 TAGS: []
+
+photo#278 URL: http://farm4.static.flickr.com/3942/15730515571_f6f5297b5b.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98243 latitude=40.75342 accuracy=16] Direction: 306.9565742 Date: 2014:06:13 12:12:26 TAGS: []
+
+photo#279 URL: http://farm6.static.flickr.com/5616/15546990928_31284bd7fe.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98144 latitude=40.75295 accuracy=16] Direction: 309.6555556 Date: 2014:06:13 12:08:58 TAGS: []
+
+photo#280 URL: http://farm8.static.flickr.com/7474/15546560799_137dd9bf03.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.9814 latitude=40.752907 accuracy=16] Direction: 251.5854545 Date: 2014:06:13 12:05:24 TAGS: []
+
+photo#281 URL: http://farm6.static.flickr.com/5614/15113051173_19ec25fa47.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98172 latitude=40.752937 accuracy=16] Direction: 301.0436893 Date: 2014:06:13 11:52:50 TAGS: []
+
+photo#282 URL: http://farm8.static.flickr.com/7575/15547572800_62283209b9.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98176 latitude=40.753014 accuracy=16] Direction: 116.7165109 Date: 2014:06:13 11:49:22 TAGS: []
+
+photo#283 URL: http://farm4.static.flickr.com/3940/15732440365_b1dbf7681d.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98198 latitude=40.753 accuracy=16] Direction: 322.3049645 Date: 2014:06:13 11:41:35 TAGS: []
+
+photo#284 URL: http://farm8.static.flickr.com/7526/15708731726_1706cfcf99.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.989265 latitude=40.750317 accuracy=16] Direction: 0.3594640821 Date: 2014:06:12 22:29:20 TAGS: []
+
+photo#285 URL: http://farm4.static.flickr.com/3941/15730516041_b981c207f9.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.9887 latitude=40.742393 accuracy=16] Direction: 274.6233766 Date: 2014:06:12 22:09:37 TAGS: []
+
+photo#286 URL: http://farm8.static.flickr.com/7478/15732418885_74753879af.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.9887 latitude=40.742393 accuracy=16] Direction: 251.3774319 Date: 2014:06:12 22:09:34 TAGS: []
+
+photo#287 URL: http://farm4.static.flickr.com/3940/15733984362_f51c91ce15.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98181 latitude=40.768616 accuracy=16] Direction: 13.89947552 Date: 2014:06:12 15:22:50 TAGS: []
+
+photo#288 URL: http://farm8.static.flickr.com/7561/15547594960_d92fbc7172.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98171 latitude=40.76884 accuracy=16] Direction: 352.5443038 Date: 2014:06:12 15:22:27 TAGS: []
+
+photo#289 URL: http://farm8.static.flickr.com/7481/15730516421_7d0144a23e.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98171 latitude=40.76884 accuracy=16] Direction: 358.8243243 Date: 2014:06:12 15:22:18 TAGS: []
+
+photo#290 URL: http://farm8.static.flickr.com/7537/15113051733_8c2964f658.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98169 latitude=40.768803 accuracy=16] Direction: 47.69344043 Date: 2014:06:12 15:22:07 TAGS: []
+
+photo#291 URL: http://farm8.static.flickr.com/7509/15732418935_3c4a534f24.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98201 latitude=40.76856 accuracy=16] Direction: 59.22750424 Date: 2014:06:12 15:21:34 TAGS: []
+
+photo#292 URL: http://farm4.static.flickr.com/3940/15733984622_b2a11ee236.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97526 latitude=40.775692 accuracy=16] Direction: 191.3707865 Date: 2014:06:12 14:56:02 TAGS: []
+
+photo#293 URL: http://farm8.static.flickr.com/7536/15547595260_7f55306c38.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97527 latitude=40.775772 accuracy=16] Direction: 193.6117021 Date: 2014:06:12 14:55:39 TAGS: []
+
+photo#294 URL: http://farm8.static.flickr.com/7511/15732441095_114bde754c.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97487 latitude=40.775455 accuracy=16] Direction: 233.1350211 Date: 2014:06:12 14:54:33 TAGS: []
+
+photo#295 URL: http://farm8.static.flickr.com/7579/15730516701_b3bb7c75ac.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.96911 latitude=40.779408 accuracy=16] Direction: 121.3511905 Date: 2014:06:12 14:04:36 TAGS: []
+
+photo#296 URL: http://farm4.static.flickr.com/3956/15113030273_786922a2e1.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.96891 latitude=40.77933 accuracy=16] Direction: 35.26782274 Date: 2014:06:12 14:04:13 TAGS: []
+
+photo#297 URL: http://farm6.static.flickr.com/5614/15112474244_d2ed2d0bef.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.973206 latitude=40.781513 accuracy=16] Direction: 319.7508651 Date: 2014:06:12 13:48:32 TAGS: []
+
+photo#298 URL: http://farm4.static.flickr.com/3943/15546561819_8ee3f90ebb.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.973206 latitude=40.781513 accuracy=16] Direction: 317.9153846 Date: 2014:06:12 13:48:27 TAGS: []
+
+photo#299 URL: http://farm6.static.flickr.com/5597/15112474234_4e0e5e237a.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97324 latitude=40.7817 accuracy=16] Direction: 142.5885714 Date: 2014:06:12 13:46:54 TAGS: []
+
+photo#300 URL: http://farm4.static.flickr.com/3955/15113053013_b017c08112.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97327 latitude=40.78188 accuracy=16] Direction: 347.7435897 Date: 2014:06:12 13:40:28 TAGS: []
+
+photo#301 URL: http://farm6.static.flickr.com/5606/15547573210_8fdc68422c.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97327 latitude=40.78188 accuracy=16] Direction: 66.98681319 Date: 2014:06:12 13:40:08 TAGS: []
+
+photo#302 URL: http://farm8.static.flickr.com/7532/15730517561_41a60da092.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97327 latitude=40.78188 accuracy=16] Direction: 343.7810651 Date: 2014:06:12 13:39:59 TAGS: []
+
+photo#303 URL: http://farm4.static.flickr.com/3946/15547254317_8f9ba01456.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97327 latitude=40.78188 accuracy=16] Direction: 355.1818544 Date: 2014:06:12 13:39:49 TAGS: []
+
+photo#304 URL: http://farm8.static.flickr.com/7472/15730517831_f8a3e3322a.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.973335 latitude=40.781776 accuracy=16] Direction: 335.9106145 Date: 2014:06:12 13:39:15 TAGS: []
+
+photo#305 URL: http://farm8.static.flickr.com/7544/15546969238_3778b0e517.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.973465 latitude=40.781715 accuracy=16] Direction: 345.6938111 Date: 2014:06:12 13:38:56 TAGS: []
+
+photo#306 URL: http://farm4.static.flickr.com/3942/15113053023_55c387f797.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97363 latitude=40.781036 accuracy=16] Direction: 331.087037 Date: 2014:06:12 13:37:58 TAGS: []
+
+photo#307 URL: http://farm6.static.flickr.com/5605/15112475104_c2aaac025e.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97373 latitude=40.781033 accuracy=16] Direction: 345.7572254 Date: 2014:06:12 13:37:44 TAGS: []
+
+photo#308 URL: http://farm8.static.flickr.com/7502/15113053293_8a0710888e.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.97322 latitude=40.781487 accuracy=16] Direction: 4.666381523 Date: 2014:06:12 13:18:43 TAGS: []
+
+photo#309 URL: http://farm4.static.flickr.com/3950/15546539679_b4d227b381.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.975555 latitude=40.78101 accuracy=16] Direction: 88.59448819 Date: 2014:06:12 12:30:22 TAGS: []
+
+photo#310 URL: http://farm4.static.flickr.com/3938/15113053313_b69fe865c4.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.975555 latitude=40.78101 accuracy=16] Direction: 80.25793651 Date: 2014:06:12 12:30:12 TAGS: []
+
+photo#311 URL: http://farm4.static.flickr.com/3944/15547254747_0ee6ef132a.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.973625 latitude=40.77902 accuracy=16] Direction: 314.2201835 Date: 2014:06:12 11:17:45 TAGS: []
+
+photo#312 URL: http://farm4.static.flickr.com/3946/15546993068_806047b557.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98689 latitude=40.750553 accuracy=16] Direction: 197.0923913 Date: 2014:06:11 22:02:08 TAGS: []
+
+photo#313 URL: http://farm8.static.flickr.com/7492/15547232237_7c1378d390.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.984215 latitude=40.75476 accuracy=16] Direction: 128.5207824 Date: 2014:06:11 21:53:16 TAGS: []
+
+photo#314 URL: http://farm4.static.flickr.com/3943/15733986142_78ae605694.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98423 latitude=40.754776 accuracy=16] Direction: 69.73856209 Date: 2014:06:11 21:53:03 TAGS: []
+
+photo#315 URL: http://farm4.static.flickr.com/3951/15733986182_f2a1ab5a15.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.00265 latitude=40.750923 accuracy=16] Direction: 144.5980066 Date: 2014:06:11 17:51:01 TAGS: []
+
+photo#316 URL: http://farm8.static.flickr.com/7468/15112475594_f4892dfdd4.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.00373 latitude=40.74917 accuracy=16] Direction: 160.6983759 Date: 2014:06:11 17:46:21 TAGS: []
+
+photo#317 URL: http://farm8.static.flickr.com/7524/15730494991_598227b42d.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99671 latitude=40.744545 accuracy=16] Direction: 200.9269406 Date: 2014:06:11 17:17:07 TAGS: []
+
+photo#318 URL: http://farm4.static.flickr.com/3951/15547255197_fe5aa1bf4e.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99679 latitude=40.744766 accuracy=16] Direction: 156.0408654 Date: 2014:06:11 17:16:39 TAGS: []
+
+photo#319 URL: http://farm4.static.flickr.com/3939/15547255257_ee9ab02eca.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.03824 latitude=40.698994 accuracy=16] Direction: 54.79688658 Date: 2014:06:11 16:14:17 TAGS: []
+
+photo#320 URL: http://farm4.static.flickr.com/3950/15546993618_0f18386377.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.03982 latitude=40.698753 accuracy=16] Direction: 8.63238512 Date: 2014:06:11 16:04:59 TAGS: []
+
+photo#321 URL: http://farm9.static.flickr.com/8262/15546563759_4185db0d44.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.03977 latitude=40.69921 accuracy=16] Direction: 284.4542125 Date: 2014:06:11 15:59:16 TAGS: []
+
+photo#322 URL: http://farm4.static.flickr.com/3943/15547597010_abf9734af2.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.04478 latitude=40.68862 accuracy=16] Direction: 39.64664311 Date: 2014:06:11 14:28:02 TAGS: []
+
+photo#323 URL: http://farm4.static.flickr.com/3952/15732443205_25ed37682e.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.04416 latitude=40.68862 accuracy=16] Direction: 338.72 Date: 2014:06:11 14:26:28 TAGS: []
+
+photo#324 URL: http://farm4.static.flickr.com/3953/15547255727_4ebe71a808.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.04493 latitude=40.69067 accuracy=16] Direction: 22.05520505 Date: 2014:06:11 14:19:00 TAGS: []
+
+photo#325 URL: http://farm6.static.flickr.com/5604/15730495211_7a2529d644.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.043785 latitude=40.69016 accuracy=16] Direction: 77.79681275 Date: 2014:06:11 13:32:04 TAGS: []
+
+photo#326 URL: http://farm8.static.flickr.com/7540/15547597440_5feb63fe92.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.04169 latitude=40.687325 accuracy=16] Direction: 348.2173913 Date: 2014:06:11 13:08:21 TAGS: []
+
+photo#327 URL: http://farm6.static.flickr.com/5603/15732443435_8ac685227d.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.04014 latitude=40.689594 accuracy=16] Direction: 328.3487179 Date: 2014:06:11 13:07:43 TAGS: []
+
+photo#328 URL: http://farm8.static.flickr.com/7523/15730519041_f476c47d1f.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.017265 latitude=40.702553 accuracy=16] Direction: 326.7603306 Date: 2014:06:11 12:58:52 TAGS: []
+
+photo#329 URL: http://farm8.static.flickr.com/7520/15547597590_25537a520b.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98499 latitude=40.69251 accuracy=16] Direction: 263.5396825 Date: 2014:06:11 07:50:19 TAGS: []
+
+photo#330 URL: http://farm8.static.flickr.com/7472/15113054543_fcfcdb1386.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98426 latitude=40.691647 accuracy=16] Direction: 268.7335526 Date: 2014:06:11 07:49:56 TAGS: []
+
+photo#331 URL: http://farm4.static.flickr.com/3945/15730519311_05ac40045f.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.98553 latitude=40.693832 accuracy=16] Direction: 168.9918699 Date: 2014:06:10 17:42:40 TAGS: []
+
+photo#332 URL: http://farm4.static.flickr.com/3950/15732443765_8a51d686da.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.985435 latitude=40.693886 accuracy=16] Direction: 169.3972125 Date: 2014:06:10 17:42:26 TAGS: []
+
+photo#333 URL: http://farm6.static.flickr.com/5605/15546564449_06f269ff32.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99059 latitude=40.70107 accuracy=16] Direction: 195.4811321 Date: 2014:06:10 17:18:04 TAGS: []
+
+photo#334 URL: http://farm4.static.flickr.com/3942/15547232617_a4ef42d1d6.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99451 latitude=40.704075 accuracy=16] Direction: 119.4079254 Date: 2014:06:10 17:11:17 TAGS: []
+
+photo#335 URL: http://farm4.static.flickr.com/3942/15112476914_1b013c7c1a.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.9966 latitude=40.70592 accuracy=16] Direction: 93.45884774 Date: 2014:06:10 17:06:46 TAGS: []
+
+photo#336 URL: http://farm8.static.flickr.com/7526/15546994358_865756c8ca.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99684 latitude=40.70601 accuracy=16] Direction: 274.9909091 Date: 2014:06:10 17:05:49 TAGS: []
+
+photo#337 URL: http://farm8.static.flickr.com/7574/15546994408_e79a312836.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99827 latitude=40.707222 accuracy=16] Direction: 316.2672414 Date: 2014:06:10 17:02:36 TAGS: []
+
+photo#338 URL: http://farm6.static.flickr.com/5607/15547232677_7dd2c2d26e.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99823 latitude=40.707256 accuracy=16] Direction: 120.9423631 Date: 2014:06:10 17:02:00 TAGS: []
+
+photo#339 URL: http://farm8.static.flickr.com/7573/15547598060_c410a2cbd3.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99855 latitude=40.7074 accuracy=16] Direction: 324.2068966 Date: 2014:06:10 17:01:09 TAGS: []
+
+photo#340 URL: http://farm8.static.flickr.com/7483/15732444055_ce427fff9c.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99856 latitude=40.707386 accuracy=16] Direction: 299.3546512 Date: 2014:06:10 17:01:01 TAGS: []
+
+photo#341 URL: http://farm6.static.flickr.com/5610/15730519861_29d3a6bc09.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99857 latitude=40.707344 accuracy=16] Direction: 267.952381 Date: 2014:06:10 17:00:49 TAGS: []
+
+photo#342 URL: http://farm6.static.flickr.com/5608/15546969838_ddf388dc8b.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99857 latitude=40.707344 accuracy=16] Direction: 247.7518797 Date: 2014:06:10 17:00:45 TAGS: []
+
+photo#343 URL: http://farm8.static.flickr.com/7464/15730519891_743d25ec9a.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99978 latitude=40.708363 accuracy=16] Direction: 178.1232227 Date: 2014:06:10 16:58:04 TAGS: []
+
+photo#344 URL: http://farm8.static.flickr.com/7515/15547256487_c7e2688d9b.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.00036 latitude=40.708794 accuracy=16] Direction: 353.3874346 Date: 2014:06:10 16:56:17 TAGS: []
+
+photo#345 URL: http://farm6.static.flickr.com/5611/15113055263_c1386bd3ff.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.0098 latitude=40.71259 accuracy=16] Direction: 38.80811232 Date: 2014:06:10 15:55:56 TAGS: []
+
+photo#346 URL: http://farm8.static.flickr.com/7561/15733987912_ab8cb78615.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.00975 latitude=40.71271 accuracy=16] Direction: 212.0426829 Date: 2014:06:10 15:53:20 TAGS: []
+
+photo#347 URL: http://farm8.static.flickr.com/7530/15547598650_403c525a20.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.00949 latitude=40.711113 accuracy=16] Direction: 318.190678 Date: 2014:06:10 14:56:34 TAGS: []
+
+photo#348 URL: http://farm4.static.flickr.com/3956/15546969978_d050312261.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.011826 latitude=40.708057 accuracy=16] Direction: 249.575419 Date: 2014:06:10 14:49:00 TAGS: []
+
+photo#349 URL: http://farm4.static.flickr.com/3938/15708736006_d1a5258265.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.011826 latitude=40.708057 accuracy=16] Direction: 250.2712766 Date: 2014:06:10 14:48:57 TAGS: []
+
+photo#350 URL: http://farm4.static.flickr.com/3937/15547598720_8eea32c8a5.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.0117 latitude=40.707745 accuracy=16] Direction: 319.0910973 Date: 2014:06:10 14:47:49 TAGS: []
+
+photo#351 URL: http://farm8.static.flickr.com/7493/15730520471_0a1c144b72.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.01165 latitude=40.707775 accuracy=16] Direction: 329.0273437 Date: 2014:06:10 14:47:44 TAGS: []
+
+photo#352 URL: http://farm4.static.flickr.com/3937/15708736216_5a4a916dc4.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.01104 latitude=40.70806 accuracy=16] Direction: 337.0953079 Date: 2014:06:10 14:47:22 TAGS: []
+
+photo#353 URL: http://farm8.static.flickr.com/7510/15708736246_d01cb647cd.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.01636 latitude=40.703148 accuracy=16] Direction: 235.9357143 Date: 2014:06:10 14:15:05 TAGS: []
+
+photo#354 URL: http://farm8.static.flickr.com/7557/15112477954_48eba28b73.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.016495 latitude=40.703136 accuracy=16] Direction: 107.777027 Date: 2014:06:10 14:14:40 TAGS: []
+
+photo#355 URL: http://farm4.static.flickr.com/3945/15730520851_f23c9a0514.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.01371 latitude=40.704205 accuracy=16] Direction: 170.0165746 Date: 2014:06:10 13:14:39 TAGS: []
+
+photo#356 URL: http://farm6.static.flickr.com/5608/15113031153_1001a0b2a0.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.0137 latitude=40.70424 accuracy=16] Direction: 200.2481203 Date: 2014:06:10 13:14:17 TAGS: []
+
+photo#357 URL: http://farm4.static.flickr.com/3939/15708736406_2f24d305e8.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.01331 latitude=40.703545 accuracy=16] Direction: 200.2544379 Date: 2014:06:10 12:45:54 TAGS: []
+
+photo#358 URL: http://farm6.static.flickr.com/5613/15730520931_220fb61d40.jpg User: 71679757@N07 GEO: GeoData[longitude=-74.014145 latitude=40.70471 accuracy=16] Direction: 229.4677755 Date: 2014:06:10 12:24:52 TAGS: []
+
+photo#359 URL: http://farm8.static.flickr.com/7572/15730520951_ddce251da9.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.991646 latitude=40.708733 accuracy=16] Direction: 87.70979021 Date: 2014:06:10 10:54:10 TAGS: []
+
+photo#360 URL: http://farm8.static.flickr.com/7533/15113031223_e6cab9a58e.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.991646 latitude=40.708736 accuracy=16] Direction: 86.63385827 Date: 2014:06:10 10:54:08 TAGS: []
+
+photo#361 URL: http://farm8.static.flickr.com/7583/15732445035_d4ca693b1b.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.9908 latitude=40.706627 accuracy=16] Direction: 254.460733 Date: 2014:06:10 10:50:48 TAGS: []
+
+photo#362 URL: http://farm8.static.flickr.com/7530/15546565959_d37309e7ec.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99226 latitude=40.704742 accuracy=16] Direction: 290.3808411 Date: 2014:06:09 16:55:32 TAGS: []
+
+photo#363 URL: http://farm4.static.flickr.com/3952/15730495831_d768ee1c0a.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.996124 latitude=40.699837 accuracy=16] Direction: 102.6224649 Date: 2014:06:09 16:33:17 TAGS: []
+
+photo#364 URL: http://farm4.static.flickr.com/3949/15547257537_d002730bff.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99608 latitude=40.699806 accuracy=16] Direction: 24.99945055 Date: 2014:06:09 16:33:05 TAGS: []
+
+photo#365 URL: http://farm8.static.flickr.com/7570/15733989032_fa9f1a69f8.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.996086 latitude=40.69982 accuracy=16] Direction: 312.6956019 Date: 2014:06:09 16:32:59 TAGS: []
+
+photo#366 URL: http://farm8.static.flickr.com/7524/15733989002_489903275a.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.998116 latitude=40.69561 accuracy=16] Direction: 14.97699115 Date: 2014:06:09 16:25:11 TAGS: []
+
+photo#367 URL: http://farm4.static.flickr.com/3953/15732420385_1eb58264d8.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.99834 latitude=40.695587 accuracy=16] Direction: 305.8133705 Date: 2014:06:09 16:24:57 TAGS: []
+
+photo#368 URL: http://farm8.static.flickr.com/7500/15547257597_facf9d8b38.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.998314 latitude=40.695526 accuracy=16] Direction: 276.2284264 Date: 2014:06:09 16:23:26 TAGS: []
+
+photo#369 URL: http://farm6.static.flickr.com/5601/15518147999_85ed459928.jpg User: 71679757@N07 GEO: GeoData[longitude=-73.998314 latitude=40.695526 accuracy=16] Direction: 276.2284264 Date: 2014:06:09 16:23:26 TAGS: []
+
+photo#370 URL: http://farm8.static.flickr.com/7568/15084039934_155ab9f673.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.797695 latitude=51.06703 accuracy=16] Direction: 191.5174825 Date: 2014:08:03 14:10:12 TAGS: []
+
+photo#371 URL: http://farm6.static.flickr.com/5598/15680268726_1bfbf69053.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.797773 latitude=51.06704 accuracy=16] Direction: 185.5489362 Date: 2014:08:03 14:10:00 TAGS: []
+
+photo#372 URL: http://farm6.static.flickr.com/5605/15519177470_0771faf906.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.797734 latitude=51.06674 accuracy=16] Direction: 7.489235737 Date: 2014:08:03 14:09:17 TAGS: []
+
+photo#373 URL: http://farm6.static.flickr.com/5610/15680268866_20c3678086.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.798178 latitude=51.06536 accuracy=16] Direction: 110.6499786 Date: 2014:08:03 14:02:01 TAGS: []
+
+photo#374 URL: http://farm4.static.flickr.com/3948/15084040124_4db65c3eb2.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.797842 latitude=51.064514 accuracy=16] Direction: 316.8710359 Date: 2014:08:03 13:50:06 TAGS: []
+
+photo#375 URL: http://farm4.static.flickr.com/3953/15702091341_13eaca52cb.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.801025 latitude=51.06814 accuracy=16] Direction: 325.8864865 Date: 2014:08:03 13:50:01 TAGS: []
+
+photo#376 URL: http://farm8.static.flickr.com/7463/15518805207_d43e3996c2.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.7977 latitude=51.065063 accuracy=16] Direction: 269.0191083 Date: 2014:08:03 13:46:20 TAGS: []
+
+photo#377 URL: http://farm8.static.flickr.com/7557/15703996725_09d632feaf.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.797709 latitude=51.06506 accuracy=16] Direction: 359.375 Date: 2014:08:03 13:45:57 TAGS: []
+
+photo#378 URL: http://farm4.static.flickr.com/3941/15084040494_0ff871bd8b.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.797748 latitude=51.06508 accuracy=16] Direction: 259.175 Date: 2014:08:03 13:44:21 TAGS: []
+
+photo#379 URL: http://farm8.static.flickr.com/7480/15084040554_0f59d4afb6.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.79772 latitude=51.065063 accuracy=16] Direction: 210.810219 Date: 2014:08:03 13:43:33 TAGS: []
+
+photo#380 URL: http://farm4.static.flickr.com/3941/15519178150_4e088ebed9.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.797706 latitude=51.065063 accuracy=16] Direction: 87.70847458 Date: 2014:08:03 13:42:42 TAGS: []
+
+photo#381 URL: http://farm4.static.flickr.com/3951/15702092091_ff92ac92f2.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.797689 latitude=51.065067 accuracy=16] Direction: 326.7930283 Date: 2014:08:03 13:42:05 TAGS: []
+
+photo#382 URL: http://farm6.static.flickr.com/5602/15702092191_8519f80272.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.797662 latitude=51.06507 accuracy=16] Direction: 227.822314 Date: 2014:08:03 13:41:26 TAGS: []
+
+photo#383 URL: http://farm8.static.flickr.com/7545/15680269786_ecb0636d73.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.797698 latitude=51.065063 accuracy=16] Direction: 213.8467433 Date: 2014:08:03 13:41:19 TAGS: []
+
+photo#384 URL: http://farm4.static.flickr.com/3945/15518604458_fcfc6980d5.jpg User: 71679757@N07 GEO: GeoData[longitude=-1.797684 latitude=51.065067 accuracy=16] Direction: 274.1851852 Date: 2014:08:03 13:41:00 TAGS: []
+

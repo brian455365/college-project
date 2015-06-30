@@ -1,0 +1,10 @@
+start -> 5 -> 6 -> 9 -> 8 -> end
+
+Start 40.647,-73.971
+End 40.667,-73.915
+
+Choose Path
+Name:Prospect Park Parade Ground	checkinsCount:3259	lat: 40.65085265211483	lng:-73.96828651428223
+Name:Temple Beth Emeth v'Ohr Progressive Shaari Zedek	checkinsCount:660	lat: 40.648275	lng:-73.965598
+Name:MTA Subway - Church Ave (B\/Q)	checkinsCount:16612	lat: 40.65052298546056	lng:-73.96298110485071
+Name:Gym	checkinsCount:303	lat: 40.64810140115276	lng:-73.9608514255275

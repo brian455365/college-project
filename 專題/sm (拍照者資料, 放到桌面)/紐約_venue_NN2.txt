@@ -1,0 +1,115 @@
+總地點數:3066
+Category0:
+Name:"Phil's Spot"		checkinsCount:556		lat: 40.710913	lng:-74.062069	Category:4bf58dd8d48988d1f1931735
+Name:"Center of the Universe"		checkinsCount:30		lat: 40.7122620837091	lng:-74.07264171163682	Category:4bf58dd8d48988d1f1931735
+Name:"Chez Arnold"		checkinsCount:29		lat: 40.71686423017401	lng:-74.07029549042221	Category:4bf58dd8d48988d1e8931735
+Name:"660 Grand Street Warehouse"		checkinsCount:21		lat: 40.71479757114618	lng:-74.06983083191028	Category:4bf58dd8d48988d1f1931735
+Name:"Anonymous Ryders"		checkinsCount:2		lat: 40.71517928555084	lng:-74.07330713826852	Category:4bf58dd8d48988d1f1931735
+Name:"2 Oxford Ave"		checkinsCount:2		lat: 40.714673176784395	lng:-74.07553859495147	Category:507c8c4091d498d9fc8c67a9
+Name:"Davel Mandela Mural"		checkinsCount:0		lat: 40.713465213775635	lng:-74.07665848731995	Category:507c8c4091d498d9fc8c67a9
+Name:"Pawn Emilio Mural"		checkinsCount:0		lat: 40.715839073821755	lng:-74.06800086938297	Category:507c8c4091d498d9fc8c67a9
+Name:"Epilog Cinta Khirana"		checkinsCount:0		lat: 40.715839073821755	lng:-74.06800086938297	Category:4bf58dd8d48988d1f1931735
+Name:"AHRU"		checkinsCount:0		lat: 40.710913	lng:-74.062069	Category:4deefb944765f83613cdba6e
+
+Category1:
+Name:"The Frat House"		checkinsCount:139		lat: 40.71266506732021	lng:-74.06026779154786	Category:4bf58dd8d48988d1b0941735
+Name:"Hjerim, Sanctuary of Spellcasters & Alchemists."		checkinsCount:88		lat: 40.72316058481982	lng:-74.064547412244	Category:4bf58dd8d48988d1a3941735
+Name:"New Millenium Educational Center"		checkinsCount:74		lat: 40.714781096485275	lng:-74.07056510656604	Category:4bf58dd8d48988d1a0941735
+Name:"NY\/NJ Academy of Ceramic Arts"		checkinsCount:10		lat: 40.71750171362394	lng:-74.05809926049635	Category:4bf58dd8d48988d199941735
+Name:"New Jersey City University - Athletic Center - Sauna Room"		checkinsCount:8		lat: 40.71266506732021	lng:-74.06026779154786	Category:4bf58dd8d48988d1b2941735
+Name:"Boys & Girls Club"		checkinsCount:4		lat: 40.711546073479695	lng:-74.05938718735511	Category:4bf58dd8d48988d1ab941735
+Name:"Lccs"		checkinsCount:4		lat: 40.72246758604222	lng:-74.07681206227116	Category:4bf58dd8d48988d1ae941735
+Name:"ASA College Financial Aid Office"		checkinsCount:3		lat: 40.713436126708984	lng:-74.05880737304688	Category:4bf58dd8d48988d197941735
+Name:"Schomburg Charter School"		checkinsCount:3		lat: 40.71750171362394	lng:-74.05809926049635	Category:4bf58dd8d48988d198941735
+Name:"helping kids with homework"		checkinsCount:1		lat: 40.7230935020449	lng:-74.07113588841028	Category:4bf58dd8d48988d1ab941735
+
+Category2:
+Name:"6th Borough Market"		checkinsCount:119		lat: 40.717146562684306	lng:-74.04255165819748	Category:5267e4d9e4b0ec79466e48c7
+Name:"Hudson Highland Dance At Grassroots Community Space"		checkinsCount:9		lat: 40.7235511178096	lng:-74.04826598037458	Category:5267e4d9e4b0ec79466e48c8
+Name:"doin' the dog walk"		checkinsCount:2		lat: 40.7204262641779	lng:-74.03838055348344	Category:5267e4d9e4b0ec79466e48c8
+Name:"safe surrender"		checkinsCount:1		lat: 40.723915	lng:-74.06408	Category:5267e4d9e4b0ec79466e48c8
+
+Category3:
+Name:"Light Rail Café"		checkinsCount:427		lat: 40.71047515599995	lng:-74.07111167907715	Category:4bf58dd8d48988d16d941735
+Name:"Cateret Grocery"		checkinsCount:216		lat: 40.71233527555903	lng:-74.0725958200586	Category:4bf58dd8d48988d146941735
+Name:"Cjs Sports Grille"		checkinsCount:23		lat: 40.7122620837091	lng:-74.07264171163682	Category:4bf58dd8d48988d14e941735
+Name:"La Mia Grocery"		checkinsCount:10		lat: 40.71517928555084	lng:-74.07330713826852	Category:4bf58dd8d48988d146941735
+Name:"Jimmy's Pizza"		checkinsCount:5		lat: 40.71517928555084	lng:-74.07330713826852	Category:4bf58dd8d48988d1ca941735
+Name:"Chicken Spot"		checkinsCount:4		lat: 40.713465213775635	lng:-74.07665848731995	Category:4d4ae6fc7a7b7dea34424761
+Name:"China King"		checkinsCount:1		lat: 40.71517928555084	lng:-74.07330713826852	Category:4bf58dd8d48988d145941735
+Name:"Your Produce Market"		checkinsCount:0		lat: 40.71224105427817	lng:-74.07750615570765	Category:4d4b7105d754a06374d81259
+Name:"Barbara and Tommie Restaurant"		checkinsCount:0		lat: 40.71224105427817	lng:-74.07750615570765	Category:4d4b7105d754a06374d81259
+Name:"Metro Cafe"		checkinsCount:0		lat: 40.713465213775635	lng:-74.07665848731995	Category:4d4b7105d754a06374d81259
+
+Category4:
+Name:"Clerk Street"		checkinsCount:106		lat: 40.7122620837091	lng:-74.07264171163682	Category:4bf58dd8d48988d11a941735
+Name:"CocoloVille"		checkinsCount:72		lat: 40.7122620837091	lng:-74.07264171163682	Category:4bf58dd8d48988d11a941735
+Name:"Mogul Lounge"		checkinsCount:41		lat: 40.717224074753425	lng:-74.07284248716047	Category:4bf58dd8d48988d121941735
+Name:"Hipster Warehouse"		checkinsCount:30		lat: 40.71233527555903	lng:-74.0725958200586	Category:4bf58dd8d48988d11f941735
+Name:"Nostalgia Bar And Lounge"		checkinsCount:18		lat: 40.71224105427817	lng:-74.07750615570765	Category:4bf58dd8d48988d116941735
+Name:"JDT MC Clubhouse"		checkinsCount:3		lat: 40.71047515599995	lng:-74.07111167907715	Category:4bf58dd8d48988d11a941735
+Name:"Dani's Pad"		checkinsCount:1		lat: 40.71517928555084	lng:-74.07330713826852	Category:4bf58dd8d48988d121941735
+Name:"605 Bramhall"		checkinsCount:1		lat: 40.71554183959961	lng:-74.07540130615234	Category:4bf58dd8d48988d11a941735
+Name:"EXTRAVEY BLVD"		checkinsCount:1		lat: 40.716281593332084	lng:-74.07310724258423	Category:4bf58dd8d48988d11f941735
+Name:"Jersey City Wine and Liquors"		checkinsCount:0		lat: 40.713465213775635	lng:-74.07665848731995	Category:4bf58dd8d48988d123941735
+
+Category5:
+Name:"On The Junction"		checkinsCount:967		lat: 40.715839073821755	lng:-74.06800086938297	Category:4bf58dd8d48988d162941735
+Name:"Arlington Park"		checkinsCount:481		lat: 40.714781096485275	lng:-74.07056510656604	Category:4bf58dd8d48988d163941735
+Name:"Berry Lane Park"		checkinsCount:97		lat: 40.71047515599995	lng:-74.07111167907715	Category:4bf58dd8d48988d163941735
+Name:"ArLington Park Playground"		checkinsCount:46		lat: 40.71686423017401	lng:-74.07029549042221	Category:4bf58dd8d48988d1e7941735
+Name:"Friend's House"		checkinsCount:16		lat: 40.71238216	lng:-74.064771	Category:4bf58dd8d48988d162941735
+Name:"Woodward St. & Communipaw Ave."		checkinsCount:7		lat: 40.71124863160315	lng:-74.0647195129293	Category:4bf58dd8d48988d162941735
+Name:"Lafayette Community Garden"		checkinsCount:3		lat: 40.71079836608967	lng:-74.0661823624348	Category:4bf58dd8d48988d15a941735
+Name:"libertyisland"		checkinsCount:1		lat: 40.71224105427817	lng:-74.07750615570765	Category:50aaa4314b90af0d42d5de10
+Name:"L.E.X."		checkinsCount:1		lat: 40.714673176784395	lng:-74.07553859495147	Category:4bf58dd8d48988d162941735
+Name:"The Hill"		checkinsCount:0		lat: 40.71517928555084	lng:-74.07330713826852	Category:4f2a25ac4b909258e854f55f
+
+Category6:
+Name:"Christ the King Catholic Church"		checkinsCount:111		lat: 40.7122620837091	lng:-74.07264171163682	Category:4bf58dd8d48988d132941735
+Name:"Mt Pisgah AME Church"		checkinsCount:67		lat: 40.7122620837091	lng:-74.07264171163682	Category:4bf58dd8d48988d132941735
+Name:"Zion Baptist Church"		checkinsCount:52		lat: 40.7122620837091	lng:-74.07264171163682	Category:4bf58dd8d48988d132941735
+Name:"Trinity Child Care Center"		checkinsCount:33		lat: 40.7122620837091	lng:-74.07264171163682	Category:4f4533804b9074f6e4fb0105
+Name:"St. Michaels Methidist Church"		checkinsCount:14		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d132941735
+Name:"Jersey City Division Of Commerce"		checkinsCount:4		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d126941735
+Name:"Calvary CME Church"		checkinsCount:4		lat: 40.713465213775635	lng:-74.07665848731995	Category:4bf58dd8d48988d132941735
+Name:"Ocean Ave Baptist Church"		checkinsCount:3		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d132941735
+Name:"Ocean Baptist"		checkinsCount:3		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d132941735
+Name:"St. Michael's Methodist Church"		checkinsCount:1		lat: 40.713465213775635	lng:-74.07665848731995	Category:4bf58dd8d48988d132941735
+
+Category7:
+Name:"Loup Den"		checkinsCount:185		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d103941735
+Name:"Dee's House"		checkinsCount:36		lat: 40.71200785471688	lng:-74.07732259405527	Category:4d954b06a243a5684965b473
+Name:"Chez Rucker"		checkinsCount:33		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d103941735
+Name:"Benari jenns house of awesome"		checkinsCount:29		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d103941735
+Name:"Home"		checkinsCount:22		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d103941735
+Name:"Place of Rest"		checkinsCount:18		lat: 40.71224105427817	lng:-74.07750615570765	Category:4bf58dd8d48988d103941735
+Name:"Chauntel's House"		checkinsCount:12		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d103941735
+Name:"Home:)"		checkinsCount:7		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d103941735
+Name:"Tehero Castle"		checkinsCount:1		lat: 40.71200785471688	lng:-74.07732259405527	Category:4d954b06a243a5684965b473
+Name:"Computer Repair"		checkinsCount:0		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d103941735
+
+Category8:
+Name:"Extra Supermarket"		checkinsCount:797		lat: 40.71200785471688	lng:-74.07732259405527	Category:52f2ab2ebcbc57f1066b8b46
+Name:"Family Dollar"		checkinsCount:89		lat: 40.71200785471688	lng:-74.07732259405527	Category:4d954b0ea243a5684a65b473
+Name:"Flores Car Wash"		checkinsCount:45		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d124951735
+Name:"The Super Star Barbershop"		checkinsCount:43		lat: 40.713465213775635	lng:-74.07665848731995	Category:4bf58dd8d48988d110951735
+Name:"150 Pacific Avenue"		checkinsCount:37		lat: 40.71047515599995	lng:-74.07111167907715	Category:4bf58dd8d48988d1ff941735
+Name:"Sudzland"		checkinsCount:19		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d1fc941735
+Name:"Friendly Pharmacy"		checkinsCount:15		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d10f951735
+Name:"So Faithful Unisex Salon"		checkinsCount:13		lat: 40.71224105427817	lng:-74.07750615570765	Category:4bf58dd8d48988d110951735
+Name:"Big Saving Supermarket"		checkinsCount:6		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d118951735
+Name:"Approved Styles"		checkinsCount:0		lat: 40.713465213775635	lng:-74.07665848731995	Category:4bf58dd8d48988d110951735
+
+Category9:
+Name:"NJT - Martin Luther King Drive Light Rail Station"		checkinsCount:2331		lat: 40.71200785471688	lng:-74.07732259405527	Category:4bf58dd8d48988d1fc931735
+Name:"NJT - Garfield Avenue Light Rail Station"		checkinsCount:1219		lat: 40.71047515599995	lng:-74.07111167907715	Category:4bf58dd8d48988d1fc931735
+Name:"NJT - 87 Bus Stop"		checkinsCount:143		lat: 40.71517928555084	lng:-74.07330713826852	Category:52f2ab2ebcbc57f1066b8b4f
+Name:"NJT - 81 Bus Stop"		checkinsCount:109		lat: 40.71517928555084	lng:-74.07330713826852	Category:52f2ab2ebcbc57f1066b8b4f
+Name:"MLK And Bramhall Bus Stop"		checkinsCount:77		lat: 40.714781096485275	lng:-74.07056510656604	Category:4bf58dd8d48988d12b951735
+Name:"NJT - Bus Stop"		checkinsCount:17		lat: 40.716281593332084	lng:-74.07310724258423	Category:52f2ab2ebcbc57f1066b8b4f
+Name:"Madison Ave. Jersey City, NJ"		checkinsCount:6		lat: 40.71517928555084	lng:-74.07330713826852	Category:4bf58dd8d48988d1f9931735
+Name:"Jersey City Cat Hotel"		checkinsCount:3		lat: 40.71233527555903	lng:-74.0725958200586	Category:4bf58dd8d48988d1fa931735
+Name:"A Place Inside My Mind"		checkinsCount:1		lat: 40.71233527555903	lng:-74.0725958200586	Category:4d954b16a243a5684b65b473
+Name:"State Trans Tours"		checkinsCount:1		lat: 40.714673176784395	lng:-74.07553859495147	Category:4bf58dd8d48988d12b951735
+

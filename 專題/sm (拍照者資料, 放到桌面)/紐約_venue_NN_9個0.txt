@@ -1,0 +1,117 @@
+總地點數:4718
+Category0:
+Name:"THTKB \"The House That Kettlebells Built!\""		checkinsCount:42		lat: 40.648762726450116	lng:-73.96537147003376	Category:4bf58dd8d48988d17e941735
+Name:"Budhalite Recording Studio"		checkinsCount:22		lat: 40.65180251861102	lng:-73.96307271778109	Category:4bf58dd8d48988d1e5931735
+Name:"Mario Sport"		checkinsCount:16		lat: 40.649776886808624	lng:-73.95945090770422	Category:4bf58dd8d48988d1e4931735
+Name:"Casa Bonita :D"		checkinsCount:12		lat: 40.648559	lng:-73.967543	Category:4bf58dd8d48988d1e1931735
+Name:"Estadio de WingBar Warriors"		checkinsCount:8		lat: 40.65085265211483	lng:-73.96828651428223	Category:4bf58dd8d48988d18c941735
+Name:"watching bates motel"		checkinsCount:8		lat: 40.65180251861102	lng:-73.96307271778109	Category:4bf58dd8d48988d1f1931735
+Name:"WA3C Supper\/CLUB"		checkinsCount:4		lat: 40.648762726450116	lng:-73.96537147003376	Category:4d4b7104d754a06370d81259
+Name:"Sophie's Choice"		checkinsCount:2		lat: 40.648762726450116	lng:-73.96537147003376	Category:4bf58dd8d48988d1f1931735
+Name:"Strut Institute"		checkinsCount:2		lat: 40.64851620181035	lng:-73.95825127574912	Category:4bf58dd8d48988d1e2931735
+Name:"Diplomat Lanes"		checkinsCount:0		lat: 40.64851620181035	lng:-73.95825127574912	Category:4bf58dd8d48988d1e4931735
+
+Category1:
+Name:"Phyl's Academy"		checkinsCount:91		lat: 40.647380492324785	lng:-73.94349347124385	Category:4bf58dd8d48988d1a0941735
+Name:"4E9 - Ms. Lernihan's Office (YCD)"		checkinsCount:63		lat: 40.649679265293244	lng:-73.95546741210613	Category:4bf58dd8d48988d197941735
+Name:"Explore Charter School"		checkinsCount:31		lat: 40.64851620181035	lng:-73.95825127574912	Category:4bf58dd8d48988d1ab941735
+Name:"Frat Boys in da Hood"		checkinsCount:25		lat: 40.648309628000945	lng:-73.95295903049505	Category:4bf58dd8d48988d1b0941735
+Name:"YCD Teacher's Lounge - 4S34"		checkinsCount:15		lat: 40.65399480710312	lng:-73.95395205502783	Category:4bf58dd8d48988d197941735
+Name:"Abundant Learning"		checkinsCount:10		lat: 40.651748034808406	lng:-73.95227909088135	Category:4bf58dd8d48988d1ab941735
+Name:"Angel Manor"		checkinsCount:8		lat: 40.653896	lng:-73.964179	Category:4bf58dd8d48988d141941735
+Name:"Esaie Couture Design School"		checkinsCount:7		lat: 40.64851620181035	lng:-73.95825127574912	Category:4bf58dd8d48988d1ad941735
+Name:"Honeydew Drop Daycare"		checkinsCount:5		lat: 40.648762726450116	lng:-73.96537147003376	Category:4bf58dd8d48988d1ab941735
+Name:"St Francis Hall"		checkinsCount:1		lat: 40.65003134685574	lng:-73.96145984403724	Category:4bf58dd8d48988d1a3941735
+
+Category2:
+Name:"Purple Stride - Pancreatic Cancer"		checkinsCount:26		lat: 40.66071747831128	lng:-73.9685869216919	Category:5267e4d9e4b0ec79466e48c8
+Name:"Diana's Event Space"		checkinsCount:6		lat: 40.662443	lng:-73.954513	Category:5267e4d9e4b0ec79466e48c8
+Name:"beypocalypse"		checkinsCount:5		lat: 40.64819899283776	lng:-73.92721652984619	Category:5267e4d9e4b0ec79466e48c8
+Name:"Shonelle's Halloween Party"		checkinsCount:1		lat: 40.659685	lng:-73.96364601832441	Category:5267e4d9e4b0ec79466e48c8
+Name:"Wingate HS. Theater"		checkinsCount:1		lat: 40.65994738202904	lng:-73.94489984500385	Category:5267e4d9e4b0ec79466e48c8
+Name:"M.I.T. IN NYC"		checkinsCount:0		lat: 40.66488435937626	lng:-73.94305229187012	Category:5267e4d9e4b0ec79466e48c7
+
+Category3:
+Name:"Nine Chains"		checkinsCount:469		lat: 40.6472384398491	lng:-73.96890878677368	Category:4bf58dd8d48988d16a941735
+Name:"Thai Restaurant"		checkinsCount:304		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d149941735
+Name:"Pimental Grocery Store"		checkinsCount:125		lat: 40.648762726450116	lng:-73.96537147003376	Category:4bf58dd8d48988d146941735
+Name:"Anarkali Indian Cuisine"		checkinsCount:37		lat: 40.6472384398491	lng:-73.96890878677368	Category:4bf58dd8d48988d10f941735
+Name:"El Acuario Restaurant"		checkinsCount:35		lat: 40.64762917493636	lng:-73.96798610687256	Category:4bf58dd8d48988d1c1941735
+Name:"Kumo Sushi"		checkinsCount:21		lat: 40.64811097730999	lng:-73.96934041220001	Category:4bf58dd8d48988d1d2941735
+Name:"No.1 Chinese Food Restaurant"		checkinsCount:10		lat: 40.64811097730999	lng:-73.96934041220001	Category:4bf58dd8d48988d142941735
+Name:"Pimento"		checkinsCount:3		lat: 40.648559	lng:-73.967543	Category:4bf58dd8d48988d146941735
+Name:"Variedad dos Productos Mexicanos"		checkinsCount:2		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d146941735
+Name:"Palmeras Restaurant"		checkinsCount:0		lat: 40.64722980893475	lng:-73.96944946368679	Category:4d4b7105d754a06374d81259
+
+Category4:
+Name:"Temptations"		checkinsCount:317		lat: 40.65053241016667	lng:-73.95868750641371	Category:4bf58dd8d48988d11f941735
+Name:"Patrinos' Pleasure Palace"		checkinsCount:65		lat: 40.648559	lng:-73.967543	Category:4bf58dd8d48988d1d4941735
+Name:"Kieranmull Arms"		checkinsCount:33		lat: 40.65180251861102	lng:-73.96307271778109	Category:4bf58dd8d48988d1d4941735
+Name:"Cloud 9! Soho!"		checkinsCount:7		lat: 40.648762726450116	lng:-73.96537147003376	Category:4bf58dd8d48988d1d4941735
+Name:"Rack City"		checkinsCount:6		lat: 40.650794	lng:-73.961676	Category:4bf58dd8d48988d1d4941735
+Name:"Hargrove's Horrible Hidey Hole"		checkinsCount:6		lat: 40.648762726450116	lng:-73.96537147003376	Category:4bf58dd8d48988d116941735
+Name:"Slackness Manor"		checkinsCount:5		lat: 40.650794	lng:-73.961676	Category:4bf58dd8d48988d11a941735
+Name:"Chris HQ"		checkinsCount:4		lat: 40.64802058509504	lng:-73.95928445204117	Category:4bf58dd8d48988d11e941735
+Name:"Kitty Dungeon"		checkinsCount:3		lat: 40.64810140115276	lng:-73.9608514255275	Category:4bf58dd8d48988d1d4941735
+Name:"Ay Jay Jay!"		checkinsCount:1		lat: 40.65036832613502	lng:-73.96627546621937	Category:4bf58dd8d48988d1d8941735
+
+Category5:
+Name:"Prospect Park Parade Ground"		checkinsCount:3259		lat: 40.65085265211483	lng:-73.96828651428223	Category:4bf58dd8d48988d163941735
+Name:"Prospect Park Tennis Center"		checkinsCount:1596		lat: 40.65085265211483	lng:-73.96828651428223	Category:4e39a956bd410d7aed40cbc3
+Name:"Parade Grounds Field 8"		checkinsCount:632		lat: 40.65035710559132	lng:-73.96823267517796	Category:4cce455aebf7b749d5e191f5
+Name:"Caton Avenue Park"		checkinsCount:249		lat: 40.65035710559132	lng:-73.96823267517796	Category:4bf58dd8d48988d163941735
+Name:"Skyhawks Home Field"		checkinsCount:67		lat: 40.65035710559132	lng:-73.96823267517796	Category:4bf58dd8d48988d163941735
+Name:"Parade Grounds Field 7"		checkinsCount:57		lat: 40.648559	lng:-73.967543	Category:4bf58dd8d48988d1e8941735
+Name:"Bowling Green"		checkinsCount:41		lat: 40.65085265211483	lng:-73.96828651428223	Category:4bf58dd8d48988d1e7941735
+Name:"Prospect Park- Pétanque Courts"		checkinsCount:36		lat: 40.648559	lng:-73.967543	Category:4f4528bc4b90abdf24c9de85
+Name:"Parade Grounds Field 1"		checkinsCount:8		lat: 40.65035710559132	lng:-73.96823267517796	Category:4bf58dd8d48988d1e8941735
+Name:"The Banana Stand"		checkinsCount:1		lat: 40.648559	lng:-73.967543	Category:4bf58dd8d48988d15b941735
+
+Category6:
+Name:"Temple Beth Emeth v'Ohr Progressive Shaari Zedek"		checkinsCount:660		lat: 40.648275	lng:-73.965598	Category:4bf58dd8d48988d139941735
+Name:"PAWSitive Veterinary of New York"		checkinsCount:201		lat: 40.6472384398491	lng:-73.96890878677368	Category:4d954af4a243a5684765b473
+Name:"Shirley Chisolm Daycare"		checkinsCount:55		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d13b941735
+Name:"Caton Park Nursing Home"		checkinsCount:53		lat: 40.649606001538295	lng:-73.96744061060403	Category:4bf58dd8d48988d196941735
+Name:"PS 249 The Caton School"		checkinsCount:50		lat: 40.649606001538295	lng:-73.96744061060403	Category:4cae28ecbf23941eb1190695
+Name:"Plowshares Media"		checkinsCount:37		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d124941735
+Name:"Children's Corner"		checkinsCount:36		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d13b941735
+Name:"P.S. 249"		checkinsCount:21		lat: 40.649606001538295	lng:-73.96744061060403	Category:4bf58dd8d48988d173941735
+Name:"P.S.249"		checkinsCount:9		lat: 40.649606001538295	lng:-73.96744061060403	Category:4cae28ecbf23941eb1190695
+Name:"Dr. Justin Willer's Office"		checkinsCount:2		lat: 40.64811097730999	lng:-73.96934041220001	Category:4bf58dd8d48988d177941735
+
+Category7:
+Name:"BB's"		checkinsCount:217		lat: 40.648559	lng:-73.967543	Category:4d954b06a243a5684965b473
+Name:"The Abbey"		checkinsCount:181		lat: 40.648559	lng:-73.967543	Category:4bf58dd8d48988d103941735
+Name:"Stratford Palace"		checkinsCount:91		lat: 40.64722980893475	lng:-73.96944946368679	Category:4d954b06a243a5684965b473
+Name:"25 Stratford Road"		checkinsCount:71		lat: 40.64811097730999	lng:-73.96934041220001	Category:4d954b06a243a5684965b473
+Name:"Juicy Cave"		checkinsCount:30		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d103941735
+Name:"Plandom Dwelling"		checkinsCount:8		lat: 40.64722980893475	lng:-73.96944946368679	Category:4d954b06a243a5684965b473
+Name:"33 Westminster rd."		checkinsCount:3		lat: 40.648559	lng:-73.967543	Category:4d954b06a243a5684965b473
+Name:"Lil Bit O Heaven"		checkinsCount:2		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d103941735
+Name:"Ditmus Park"		checkinsCount:1		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d103941735
+Name:"casa de jaq"		checkinsCount:1		lat: 40.648559	lng:-73.967543	Category:4d954b06a243a5684965b473
+
+Category8:
+Name:"Gym"		checkinsCount:303		lat: 40.64810140115276	lng:-73.9608514255275	Category:4bf58dd8d48988d176941735
+Name:"Namaste Yoga of Kensington"		checkinsCount:99		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d102941735
+Name:"Sasco Hardware & Building Supply"		checkinsCount:74		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d112951735
+Name:"Frank's Barbershop"		checkinsCount:43		lat: 40.648762726450116	lng:-73.96537147003376	Category:4bf58dd8d48988d110951735
+Name:"Church Avenue Grill"		checkinsCount:25		lat: 40.64785838127136	lng:-73.963492	Category:4bf58dd8d48988d117951735
+Name:"Mundo Supermarket"		checkinsCount:18		lat: 40.65036206222911	lng:-73.96493812432726	Category:4bf58dd8d48988d118951735
+Name:"Paul LaBrecque Spa at Chelsea Piers"		checkinsCount:3		lat: 40.64923399678032	lng:-73.96424936093491	Category:4bf58dd8d48988d1ed941735
+Name:"Prospect Gymnastics"		checkinsCount:1		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d175941735
+Name:"Mr Lee Cleaners"		checkinsCount:1		lat: 40.65036206222911	lng:-73.96493812432726	Category:4bf58dd8d48988d1fc941735
+Name:"PinatasNYC"		checkinsCount:0		lat: 40.64923399678032	lng:-73.96424936093491	Category:4bf58dd8d48988d127951735
+
+Category9:
+Name:"MTA Subway - Church Ave (B\/Q)"		checkinsCount:16612		lat: 40.65052298546056	lng:-73.96298110485071	Category:4bf58dd8d48988d1fd931735
+Name:"MTA Bus - B41 - Flatbush Av & Beverly Rd"		checkinsCount:72		lat: 40.64728078861206	lng:-73.95802742015687	Category:4bf58dd8d48988d12b951735
+Name:"MTA Bus - B41 - Flatbush Av & Albemarle Rd"		checkinsCount:56		lat: 40.64728078861206	lng:-73.95802742015687	Category:4bf58dd8d48988d12b951735
+Name:"Church Avenue"		checkinsCount:36		lat: 40.648559	lng:-73.967543	Category:4bf58dd8d48988d1f9931735
+Name:"Cassa Prospect South"		checkinsCount:16		lat: 40.648694	lng:-73.959392	Category:4bf58dd8d48988d1f8931735
+Name:"B16 Bus Stop"		checkinsCount:6		lat: 40.64722980893475	lng:-73.96944946368679	Category:4bf58dd8d48988d12b951735
+Name:"MTA BUS B16"		checkinsCount:3		lat: 40.65036206222911	lng:-73.96493812432726	Category:4bf58dd8d48988d1fe931735
+Name:"38D's 89"		checkinsCount:2		lat: 40.64851620181035	lng:-73.95825127574912	Category:4bf58dd8d48988d130951735
+Name:"MTA Bus - B35 - Church Av & Rugby Rd"		checkinsCount:1		lat: 40.648762726450116	lng:-73.96537147003376	Category:4bf58dd8d48988d12b951735
+Name:"NYC Taxi 9V27"		checkinsCount:1		lat: 40.65085265211483	lng:-73.96828651428223	Category:4bf58dd8d48988d130951735
+

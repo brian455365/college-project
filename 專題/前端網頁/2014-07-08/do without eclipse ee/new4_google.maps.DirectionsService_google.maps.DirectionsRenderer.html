@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<!--
+https://developers.google.com/maps/documentation/javascript/directions
+https://developers.google.com/maps/documentation/javascript/examples/directions-simple
+-->
+<html>
+  <head>
+    <meta charset="utf-8">  						<!-- charset : Specifies the character encoding for the HTML document --> 
+    <title>Geocoding service</title>
+    <style>
+	  <!--                                          set all browsers' default margin and default padding to 0px;
+	  html, body {                                  
+	    margin: 0px;                               
+        padding: 0px;
+      }	  
+	  -->
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+      }
+      #panel {
+        position: absolute;
+		z-index: 5;                                  <!-- z-index only works on positioned elements (position:absolute, position:relative, or position:fixed). -->   
+													 <!-- An element with greater stack order number is always in front of an element with a lower stack order number. -->
+        top: 5px;
+        left: 50%;
+        margin-left: -180px;
+        background-color: #fff;
+		padding: 5px;
+        border: 1px solid #999;                       <!-- solid : border is 實體線 -->
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script>
+var geocoder;
+var map;
+var directionsDisplay;
+var directionsService = new google.maps.DirectionsService();
+function initialize() {
+  directionsDisplay = new google.maps.DirectionsRenderer();
+  geocoder = new google.maps.Geocoder();
+  var latlng = new google.maps.LatLng(-34.397, 150.644);
+  var mapOptions = {
+    zoom: 8,
+    center: latlng
+  }
+  map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+  directionsDisplay.setMap(map);
+}
+
+var address1,address2;
+
+function codeAddress() {
+  var address = document.getElementById('address').value;
+  geocoder.geocode( { 'address': address}, function(results, status) {        /* Geocoder.geocode(request, callbackFunction) */
+    if (status == google.maps.GeocoderStatus.OK) {
+      map.setCenter(results[0].geometry.location);
+      var marker = new google.maps.Marker({
+          map: map,
+          position: results[0].geometry.location
+      });
+	  alert(results[0].geometry.location);
+	  address1 = results[0].geometry.location;
+    } 
+	else {
+      alert('Geocode was not successful for the following reason: ' + status);
+    }
+  });
+}
+
+function codeAddress2() {
+  var address = document.getElementById('address2').value;
+  geocoder.geocode( { 'address': address}, function(results, status) {        /* Geocoder.geocode(request, callbackFunction) */
+    if (status == google.maps.GeocoderStatus.OK) {
+      map.setCenter(results[0].geometry.location);
+      var marker = new google.maps.Marker({
+          map: map,
+          position: results[0].geometry.location
+      });
+	  alert(results[0].geometry.location);
+	  address2 = results[0].geometry.location;
+    } 
+	else {
+      alert('Geocode was not successful for the following reason: ' + status);
+    }
+  });
+}
+
+function calcRoute() {
+  var start = address1;
+  var end = address2;
+  var request = {
+      origin:start,
+      destination:end,
+      travelMode: google.maps.TravelMode.DRIVING
+  };
+  directionsService.route(request, function(response, status) {
+    if (status == google.maps.DirectionsStatus.OK) {
+      directionsDisplay.setDirections(response);
+    }
+  });
+}
+
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+  </head>
+  <body>
+    <div id="panel">
+      <input id="address" type="text" value="Sydney, NSW">
+      <input type="button" value="start" onclick="codeAddress()">
+	  
+	  <input id="address2" type="text" value="Sydney, NSW">
+      <input type="button" value="end" onclick="codeAddress2()">
+	  
+	  <input type="button" value="search" onclick="calcRoute()">
+    </div>
+	
+    <div id="map-canvas"></div>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+Category:0	Popularity :755
+Category:1	Popularity :90
+Category:2	Popularity :7
+Category:3	Popularity :6591
+Category:4	Popularity :379
+Category:5	Popularity :1179
+Category:6	Popularity :1225
+Category:7	Popularity :506
+Category:8	Popularity :2674
+Category:9	Popularity :2465
